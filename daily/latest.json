@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-29",
+  "title": "A Birthday Gift for Mom",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "示範卷（週末練習，不計酬）；正式版每平日 20:00 自動更新。",
+  "passage": "Next Monday my mom will turn forty, so my sister and I decided to buy her a special gift. We only have five hundred dollars, so we need to find something nice within our budget.\n\nFirst, we went to a department store that sells scarves, bags, and shoes. My sister, who loves shopping, picked out a pink scarf. \"If we buy this scarf, Mom will look great when she wears it to work,\" she said. I checked the price tag and saw that it was on sale — twenty percent off!\n\nThen we walked past a shop that sells kitchen tools. There was a colorful mug that Mom might like, but it wasn't very useful because she already has too many mugs at home. We decided to skip it.\n\nFinally, we found a small bookstore. The clerk who works there recommended a novel that Mom has wanted to read for months. \"If she doesn't like the story, you can exchange it within seven days,\" the clerk explained kindly.\n\nOn the big day, Mom smiled and said, \"These are exactly what I needed! If you keep choosing gifts like this, I'll never need to buy anything for myself again!\"",
+  "vocab": [
+    {"w":"gift","pos":"n.","d":"禮物"},{"w":"budget","pos":"n.","d":"預算"},
+    {"w":"department store","pos":"n.","d":"百貨公司"},{"w":"scarf","pos":"n.","d":"圍巾"},
+    {"w":"price tag","pos":"n.","d":"價格標籤"},{"w":"on sale","pos":"phr.","d":"特價中"},
+    {"w":"colorful","pos":"adj.","d":"色彩鮮豔的"},{"w":"useful","pos":"adj.","d":"有用的"},
+    {"w":"clerk","pos":"n.","d":"店員"},{"w":"recommend","pos":"v.","d":"推薦"},
+    {"w":"exchange","pos":"v.","d":"換貨"},{"w":"wrap","pos":"v.","d":"包裝"},
+    {"w":"surprised","pos":"adj.","d":"驚訝的"},{"w":"disappointed","pos":"adj.","d":"失望的"},
+    {"w":"appreciate","pos":"v.","d":"感激"}
+  ],
+  "grammar": [
+    "第一條件句 First Conditional：If + 現在式, 主詞 + will/can + 原形動詞。",
+    "關係代名詞 who（修飾人）/ that（修飾事物）。"
+  ],
+  "questions": [
+    {"q":"Why did the two siblings need to be careful about what gift to buy?","opts":["Mom doesn't like surprises.","They had a limited budget.","The store was closing soon.","Mom already has everything."],"a":1,"ex":"文中：We only have five hundred dollars... within our budget（預算有限）。"},
+    {"q":"What did the sister say about the scarf?","opts":["It was too expensive.","Mom would look great wearing it.","It didn't match Mom's style.","It was out of stock."],"a":1,"ex":"姊姊說 Mom will look great when she wears it。"},
+    {"q":"Why didn't they buy the colorful mug?","opts":["It was too expensive.","Mom doesn't like mugs.","Mom already has too many mugs.","The store didn't have any left."],"a":2,"ex":"she already has too many mugs at home。"},
+    {"q":"What did the bookstore clerk promise?","opts":["A full refund with no receipt.","That the book could be exchanged within seven days.","Free gift wrapping.","A special discount for students."],"a":1,"ex":"you can exchange it within seven days。"},
+    {"q":"How did Mom feel when she opened the gifts?","opts":["Confused.","Disappointed.","Angry.","Happy and satisfied."],"a":3,"ex":"Mom 微笑說禮物正是她需要的，屬開心滿足。"},
+    {"q":"If we buy this scarf, Mom ______ great when she wears it.","opts":["look","looks","will look","looking"],"a":2,"ex":"第一條件句：If 子句現在式，主句 will + 原形 → will look。"},
+    {"q":"The clerk ______ works at the bookstore recommended a novel to us.","opts":["which","who","whose","whom"],"a":1,"ex":"先行詞 the clerk 是人 → who。"},
+    {"q":"We found a shop ______ sells kitchen tools.","opts":["who","whose","that","whom"],"a":2,"ex":"先行詞 a shop 是事物 → that（或 which）。"},
+    {"q":"In this passage, \"on sale\" most likely means:","opts":["已經賣光","正在特價","停止販售","只限會員購買"],"a":1,"ex":"on sale = 特價中、打折。"},
+    {"q":"If she doesn't like the story, you ______ exchange it within seven days.","opts":["can","will can","could to","canning"],"a":0,"ex":"第一條件句主句可用 can + 原形；其餘文法錯誤。"}
+  ]
+}
