@@ -22,7 +22,10 @@
   .stat{flex:1;min-width:120px;text-align:center}
   .stat .n{font-size:22px;font-weight:800;color:var(--gold)}
   .stat .l{font-size:11.5px;color:var(--muted)}
-  .redeem-btn{background:var(--gold);color:#3a2c00;border:none;border-radius:10px;padding:9px 14px;font-weight:800;cursor:pointer;font-size:13px}
+  .redeem-row{display:flex;gap:6px;align-items:center}
+  .redeem-in{width:92px;padding:8px 10px;border-radius:9px;border:1px solid var(--line);background:rgba(0,0,0,.3);color:var(--text);font-size:14px;font-weight:700}
+  .redeem-in:disabled{opacity:.5}
+  .redeem-btn{background:var(--gold);color:#3a2c00;border:none;border-radius:10px;padding:9px 14px;font-weight:800;cursor:pointer;font-size:13px;white-space:nowrap}
   .redeem-btn:disabled{opacity:.5;cursor:not-allowed}
   .hint{color:var(--muted);font-size:12px;flex-basis:100%;text-align:center;margin-top:2px}
   .badge{display:inline-block;font-size:12px;font-weight:700;padding:3px 10px;border-radius:99px;
@@ -100,18 +103,21 @@
     <div class="stat"><div class="n" id="bBal">$0</div><div class="l">目前餘額（含利息）</div></div>
     <div class="stat"><div class="n" id="bMon">$0</div><div class="l">本月已入帳 / 約2000</div></div>
     <div class="stat"><div class="n" id="bRed">$0</div><div class="l">已兌現總額</div></div>
-    <button class="redeem-btn" id="redeemBtn">💰 領取本月零用金</button>
+    <div class="redeem-row">
+      <input type="number" id="redeemAmt" class="redeem-in" min="0" step="1" placeholder="金額" inputmode="decimal">
+      <button class="redeem-btn" id="redeemBtn">💰 領取</button>
+    </div>
     <div class="hint" id="boardHint"></div>
   </div>
 
   <div class="card" id="quizCard"><div class="err" id="loading">載入今日測驗中…</div></div>
-  <footer>零用金存於此瀏覽器 · 每平日 20:00 由排程自動更新題目 · 未領餘額以 10%/年（月複利）滾存</footer>
+  <footer>零用金存於此瀏覽器 · 每平日 20:00 由排程自動更新題目 · 保留餘額以 18%/年（月複利）滾存</footer>
 </div>
 <div class="toast" id="toast"></div>
 
 <script>
 const LKEY="g8_allowance_v1", DONE_PREFIX="g8_done_";
-const MONTH_RATE=0.10/12, PASS=13, TOTAL=15, REWARD=100;
+const MONTH_RATE=0.18/12, PASS=13, TOTAL=15, REWARD=100;
 const $=id=>document.getElementById(id);
 function todayStr(){const d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");}
 function monthKey(s){return s.slice(0,7);}
@@ -139,13 +145,22 @@ function applyInterest(l){const t=todayStr();const m=monthsBetween(l.lastInteres
 function renderBoard(){let l=applyInterest(loadL());saveL(l);const tm=monthKey(todayStr());
   const monEarned=l.earned.filter(d=>monthKey(d)===tm).length*REWARD;
   $("bBal").textContent="$"+l.balance.toFixed(2);$("bMon").textContent="$"+monEarned;$("bRed").textContent="$"+l.redeemed.toFixed(2);
-  const done=l.redeemMonths.includes(tm),rb=$("redeemBtn");
-  rb.disabled=done||l.balance<=0;rb.textContent=done?"本月已領取":"💰 領取本月零用金";
-  $("boardHint").textContent=done?"本月已兌現，下月可再領；未領餘額持續以10%/年月複利滾存。":"每月可領一次；不領則以 10%/年（月複利）滾存。";}
+  const done=l.redeemMonths.includes(tm),rb=$("redeemBtn"),ri=$("redeemAmt");
+  rb.disabled=done||l.balance<=0; ri.disabled=done||l.balance<=0;
+  if(document.activeElement!==ri){ ri.value = (!done&&l.balance>0)? l.balance.toFixed(2):""; }
+  rb.textContent=done?"本月已領取":"💰 領取";
+  $("boardHint").textContent=done?"本月已兌現，下月可再領；保留餘額以18%/年（月複利）滾存。":"每月可領一次、可自訂金額（不必全領）；保留餘額以 18%/年（月複利）滾存。";}
 $("redeemBtn").onclick=()=>{let l=applyInterest(loadL());const tm=monthKey(todayStr());
-  if(l.redeemMonths.includes(tm)){toast("本月已領取過");return;}if(l.balance<=0){toast("目前沒有可領的餘額");return;}
-  const amt=l.balance;l.redeemed=Math.round((l.redeemed+amt)*100)/100;l.balance=0;l.lastInterest=todayStr();l.redeemMonths.push(tm);
-  saveL(l);renderBoard();toast("已領取 $"+amt.toFixed(2)+" 零用金！");};
+  if(l.redeemMonths.includes(tm)){toast("本月已領取過");return;}
+  if(l.balance<=0){toast("目前沒有可領的餘額");return;}
+  let amt=parseFloat($("redeemAmt").value);
+  if(isNaN(amt)||amt<=0){toast("請輸入要領取的金額");return;}
+  amt=Math.round(amt*100)/100;
+  if(amt>l.balance){toast("金額超過餘額（$"+l.balance.toFixed(2)+"）");return;}
+  l.redeemed=Math.round((l.redeemed+amt)*100)/100;
+  l.balance=Math.round((l.balance-amt)*100)/100;
+  l.redeemMonths.push(tm); saveL(l); renderBoard();
+  toast("已領取 $"+amt.toFixed(2)+"，保留 $"+l.balance.toFixed(2)+" 續以18%滾存");};
 function earn(date){let l=applyInterest(loadL());if(l.earned.includes(date)){renderBoard();return false;}
   l.earned.push(date);l.balance=Math.round((l.balance+REWARD)*100)/100;saveL(l);renderBoard();return true;}
 
