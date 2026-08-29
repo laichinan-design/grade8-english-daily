@@ -5,29 +5,47 @@
   "note": "測試卷（過去式＋未來式）；正式版每平日 20:00 自動更新。",
   "passage": "Last summer, my family took a trip to Kenting in the south of Taiwan. We stayed at a small hotel near the beach. Every morning, we swam in the clear blue sea and built sandcastles. My dad rented a scooter, and we rode along the coast to watch the sunset. One evening, we ate fresh seafood at a night market, and I tried grilled squid for the first time.\n\nWe also visited an ocean park, where we saw dolphins and colorful fish. My little brother was scared of the big sharks, but I thought they were amazing. On the last day, it rained heavily, so we stayed inside and played card games. Even the rain could not ruin our happy trip.\n\nThis summer, we are going to travel again, but this time we will fly to Japan. My mom has already booked the hotel, and we are going to visit Tokyo and Kyoto. I will try real Japanese ramen, and my brother is going to see a famous castle. I am going to keep a travel diary so that I will never forget it. I believe this summer will be even better than the last one!",
   "vocab": [
-    {"w":"trip","pos":"n.","d":"旅行"},{"w":"stay","pos":"v.","d":"停留、住"},
-    {"w":"clear","pos":"adj.","d":"清澈的"},{"w":"rent","pos":"v.","d":"租借"},
-    {"w":"coast","pos":"n.","d":"海岸"},{"w":"sunset","pos":"n.","d":"日落"},
-    {"w":"seafood","pos":"n.","d":"海鮮"},{"w":"grilled","pos":"adj.","d":"烤的"},
-    {"w":"dolphin","pos":"n.","d":"海豚"},{"w":"shark","pos":"n.","d":"鯊魚"},
-    {"w":"ruin","pos":"v.","d":"破壞、毀掉"},{"w":"book","pos":"v.","d":"預訂"},
-    {"w":"diary","pos":"n.","d":"日記"},{"w":"castle","pos":"n.","d":"城堡"},
-    {"w":"amazing","pos":"adj.","d":"驚人的、了不起的"}
+    {"w":"trip","pos":"n.","d":"旅行","example":"We took a trip to the beach last weekend."},
+    {"w":"stay","pos":"v.","d":"停留、住","example":"We will stay at a hotel near the station."},
+    {"w":"clear","pos":"adj.","d":"清澈的","example":"The water was so clear that we could see the fish."},
+    {"w":"rent","pos":"v.","d":"租借","example":"My dad rented a scooter for the whole day."},
+    {"w":"coast","pos":"n.","d":"海岸","example":"We drove along the coast to watch the sunset."},
+    {"w":"sunset","pos":"n.","d":"日落","example":"The sunset over the ocean was beautiful."},
+    {"w":"seafood","pos":"n.","d":"海鮮","example":"I love fresh seafood, especially shrimp."},
+    {"w":"grilled","pos":"adj.","d":"烤的","example":"She ordered grilled chicken for dinner."},
+    {"w":"dolphin","pos":"n.","d":"海豚","example":"We saw a dolphin jump out of the water."},
+    {"w":"shark","pos":"n.","d":"鯊魚","example":"The shark has very sharp teeth."},
+    {"w":"ruin","pos":"v.","d":"破壞、毀掉","example":"The heavy rain almost ruined our picnic."},
+    {"w":"book","pos":"v.","d":"預訂","example":"My mom booked the tickets online."},
+    {"w":"diary","pos":"n.","d":"日記","example":"I write in my diary every night."},
+    {"w":"castle","pos":"n.","d":"城堡","example":"They visited an old castle in Japan."},
+    {"w":"amazing","pos":"adj.","d":"了不起的、驚人的","example":"The fireworks show was amazing."}
   ],
   "grammar": [
     "一般過去式 Simple Past：描述過去發生的事（took, stayed, swam, rode, ate, saw, rained…）。",
-    "未來式 Future：be going to（計畫）與 will（意願/預測），如 are going to travel、we will fly、I will try。"
+    "未來式 Future：be going to（計畫）與 will（意願/預測），如 are going to travel、we will fly。"
   ],
-  "questions": [
-    {"q":"Where did the family go last summer?","opts":["Kenting in the south of Taiwan","Tokyo, Japan","Kyoto","A city in the north"],"a":0,"ex":"文首：took a trip to Kenting in the south of Taiwan。"},
-    {"q":"What did the writer try for the first time?","opts":["Grilled squid","Sushi","Ramen","Ice cream"],"a":0,"ex":"I tried grilled squid for the first time。"},
-    {"q":"Why did they stay inside on the last day?","opts":["They were tired","It rained heavily","The park was closed","They lost their money"],"a":1,"ex":"On the last day, it rained heavily, so we stayed inside。"},
-    {"q":"Where are they going THIS summer?","opts":["Kenting again","Japan (Tokyo and Kyoto)","Korea","Hong Kong"],"a":1,"ex":"we will fly to Japan... visit Tokyo and Kyoto。"},
-    {"q":"What does the writer plan to keep during the trip?","opts":["A seashell","A travel diary","A photo album","A map"],"a":1,"ex":"I am going to keep a travel diary。"},
-    {"q":"Last summer, we ______ a trip to Kenting. (take)","opts":["take","took","taken","will take"],"a":1,"ex":"過去式：take → took。"},
-    {"q":"This summer, we ______ fly to Japan.","opts":["flew","will fly","flying","to fly"],"a":1,"ex":"未來的意願/預測用 will + 原形 fly。"},
-    {"q":"My mom ______ already booked the hotel.","opts":["have","has","had to","is"],"a":1,"ex":"現在完成式，主詞 My mom（第三人稱單數）→ has + p.p. booked。"},
-    {"q":"In this passage, \"seafood\" means:","opts":["海鮮","素食","甜點","街頭小吃"],"a":0,"ex":"seafood = 海鮮。"},
-    {"q":"\"amazing\" most likely means:","opts":["無聊的","了不起的、驚人的","害怕的","便宜的"],"a":1,"ex":"amazing = 驚人的、了不起的。"}
-  ]
+  "sections": {
+    "reading": [
+      {"q":"Where did the family go last summer?","opts":["Kenting in the south of Taiwan","Tokyo, Japan","Kyoto","A city in the north"],"a":0,"ex":"took a trip to Kenting in the south of Taiwan。"},
+      {"q":"What did the writer try for the first time?","opts":["Grilled squid","Sushi","Ramen","Ice cream"],"a":0,"ex":"I tried grilled squid for the first time。"},
+      {"q":"Why did they stay inside on the last day?","opts":["They were tired","It rained heavily","The park was closed","They lost their money"],"a":1,"ex":"On the last day, it rained heavily。"},
+      {"q":"Where are they going THIS summer?","opts":["Kenting again","Japan (Tokyo and Kyoto)","Korea","Hong Kong"],"a":1,"ex":"we will fly to Japan... Tokyo and Kyoto。"},
+      {"q":"What will the writer keep during the trip?","opts":["A seashell","A travel diary","A photo album","A map"],"a":1,"ex":"I am going to keep a travel diary。"}
+    ],
+    "grammar": [
+      {"q":"Last summer, we ______ a trip to Kenting. (take)","opts":["take","took","taken","will take"],"a":1,"ex":"過去式：take → took。"},
+      {"q":"My dad ______ a scooter yesterday. (rent)","opts":["rents","rented","will rent","renting"],"a":1,"ex":"yesterday → 過去式 rented。"},
+      {"q":"This summer, we ______ fly to Japan.","opts":["flew","will fly","flying","to fly"],"a":1,"ex":"未來意願/預測用 will + 原形 fly。"},
+      {"q":"My brother ______ see a famous castle. (be going to，計畫)","opts":["is going to","was going to","goes to","went to"],"a":0,"ex":"既定計畫用 be going to；he → is going to + 原形。"},
+      {"q":"Which sentence is in the PAST tense?","opts":["We will visit Kyoto.","We ate seafood at the night market.","We are going to travel.","I will keep a diary."],"a":1,"ex":"ate 是 eat 的過去式，其餘為未來式。"}
+    ],
+    "vocab": [
+      {"q":"In this passage, \"seafood\" means:","opts":["海鮮","素食","甜點","街頭小吃"],"a":0,"ex":"seafood = 海鮮。"},
+      {"q":"\"amazing\" most likely means:","opts":["無聊的","了不起的、驚人的","害怕的","便宜的"],"a":1,"ex":"amazing = 了不起的。"},
+      {"q":"The opposite of \"clear\" (water) is closest to:","opts":["cloudy / dirty","cold","deep","warm"],"a":0,"ex":"clear(清澈) ↔ cloudy/dirty(混濁)。"},
+      {"q":"\"My mom booked the hotel.\" Here \"booked\" means:","opts":["讀了書","預訂","歸還","燒掉"],"a":1,"ex":"book(v) = 預訂。"},
+      {"q":"\"ruin\" is closest in meaning to:","opts":["destroy / spoil","build","clean","enjoy"],"a":0,"ex":"ruin = 破壞、毀掉。"}
+    ]
+  }
 }

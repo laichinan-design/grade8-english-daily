@@ -6,7 +6,7 @@
 <title>國中英文每日任務 · 點擊作答</title>
 <style>
   :root{--bg:#0f1720;--panel:#182430;--panel2:#1f2e3c;--line:rgba(255,255,255,.12);
-    --text:#eef4f8;--muted:#9db1c2;--accent:#3ba0ff;--green:#2ecc71;--red:#ff5b6b;--gold:#ffcf4d;}
+    --text:#eef4f8;--muted:#9db1c2;--accent:#3ba0ff;--green:#2ecc71;--red:#ff5b6b;--gold:#ffcf4d;--purple:#b98cff;}
   *{box-sizing:border-box;margin:0;padding:0}
   body{font-family:"Segoe UI","Noto Sans TC","Microsoft JhengHei",system-ui,sans-serif;
     background:linear-gradient(160deg,#0f1720,#10202c 60%,#0c1a24);color:var(--text);
@@ -17,14 +17,12 @@
   .logo small{display:block;font-size:12px;color:var(--muted);font-weight:600;margin-top:2px;letter-spacing:2px}
   .card{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:18px;margin-top:16px;
     box-shadow:0 12px 40px rgba(0,0,0,.35)}
-  /* 零用金看板 */
   .board{display:flex;gap:10px;flex-wrap:wrap;align-items:center;background:linear-gradient(90deg,#183042,#1c2a3a);
     border:1px solid rgba(59,160,255,.35)}
   .stat{flex:1;min-width:120px;text-align:center}
   .stat .n{font-size:22px;font-weight:800;color:var(--gold)}
   .stat .l{font-size:11.5px;color:var(--muted)}
-  .redeem-btn{background:var(--gold);color:#3a2c00;border:none;border-radius:10px;padding:9px 14px;
-    font-weight:800;cursor:pointer;font-size:13px}
+  .redeem-btn{background:var(--gold);color:#3a2c00;border:none;border-radius:10px;padding:9px 14px;font-weight:800;cursor:pointer;font-size:13px}
   .redeem-btn:disabled{opacity:.5;cursor:not-allowed}
   .hint{color:var(--muted);font-size:12px;flex-basis:100%;text-align:center;margin-top:2px}
   .badge{display:inline-block;font-size:12px;font-weight:700;padding:3px 10px;border-radius:99px;
@@ -36,59 +34,68 @@
   details{margin-top:12px;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:rgba(0,0,0,.15)}
   details summary{cursor:pointer;padding:10px 14px;font-weight:700;color:var(--gold);list-style:none}
   details summary::-webkit-details-marker{display:none}
-  .dbody{padding:0 14px 12px}
-  .voc{display:grid;grid-template-columns:1fr 1fr;gap:4px 16px;font-size:14px}
-  .voc div{border-bottom:1px dashed var(--line);padding:4px 0}
-  .voc b{color:#7fd3ff}
+  .dbody{padding:6px 14px 12px}
+  /* 單字卡（含例句與播音） */
+  .vcard{border-bottom:1px dashed var(--line);padding:9px 0}
+  .vcard:last-child{border-bottom:none}
+  .vhead{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .vhead b{color:#7fd3ff;font-size:15.5px}
+  .vhead .pos{color:var(--muted);font-size:12px}
+  .vhead .d{font-size:14px}
+  .vex{display:flex;align-items:flex-start;gap:8px;margin-top:4px;color:var(--muted);font-size:13.5px;font-style:italic}
+  .spk{flex:none;width:26px;height:26px;border-radius:50%;border:1px solid var(--line);background:rgba(185,140,255,.16);
+    color:var(--purple);cursor:pointer;font-size:13px;display:grid;place-items:center;padding:0}
+  .spk:hover{border-color:var(--purple);background:rgba(185,140,255,.28)}
+  .spk:active{transform:scale(.9)}
   .gr{font-size:14px;margin:4px 0;padding-left:6px}
-  /* 題目 */
-  .q{margin-top:16px;padding-top:14px;border-top:1px dashed var(--line)}
-  .q-h{font-weight:700;font-size:16px;margin-bottom:10px}
+  /* 分區 */
+  .sec{margin-top:18px}
+  .sec-h{font-size:16px;font-weight:800;padding:8px 12px;border-radius:10px;display:flex;align-items:center;gap:8px}
+  .sec-h.reading{background:rgba(59,160,255,.16);color:#bfe0ff}
+  .sec-h.grammar{background:rgba(46,204,113,.16);color:#a9edc7}
+  .sec-h.vocab{background:rgba(185,140,255,.16);color:#dcc7ff}
+  .sec-h .cnt{margin-left:auto;font-size:12px;color:var(--muted);font-weight:600}
+  .q{margin-top:12px;padding-top:10px;border-top:1px dashed var(--line)}
+  .q:first-of-type{border-top:none}
+  .q-h{font-weight:700;font-size:15.5px;margin-bottom:9px}
   .q-h .num{display:inline-grid;place-items:center;width:24px;height:24px;border-radius:50%;
     background:var(--accent);color:#04203a;font-size:13px;font-weight:800;margin-right:8px}
   .opt{display:flex;gap:10px;align-items:flex-start;border:1px solid var(--line);border-radius:11px;
-    padding:11px 13px;margin:8px 0;cursor:pointer;background:var(--panel2);transition:.12s}
+    padding:10px 12px;margin:7px 0;cursor:pointer;background:var(--panel2);transition:.12s}
   .opt:hover{border-color:var(--accent)}
-  .opt .k{width:24px;height:24px;flex:none;border-radius:7px;background:rgba(255,255,255,.1);
-    display:grid;place-items:center;font-weight:800;font-size:13px}
+  .opt .k{width:24px;height:24px;flex:none;border-radius:7px;background:rgba(255,255,255,.1);display:grid;place-items:center;font-weight:800;font-size:13px}
   .opt.sel{border-color:var(--accent);background:rgba(59,160,255,.14)}
   .opt.correct{border-color:var(--green);background:rgba(46,204,113,.16)}
   .opt.correct .k{background:var(--green);color:#053}
   .opt.wrong{border-color:var(--red);background:rgba(255,91,107,.16)}
   .opt.wrong .k{background:var(--red)}
   .opt.locked{cursor:default}
-  .ex{display:none;font-size:13.5px;color:var(--muted);margin-top:6px;padding:8px 10px;
-    background:rgba(0,0,0,.22);border-radius:8px}
+  .ex{display:none;font-size:13.5px;color:var(--muted);margin-top:6px;padding:8px 10px;background:rgba(0,0,0,.22);border-radius:8px}
   .ex.show{display:block}
-  .btn{display:block;width:100%;margin-top:18px;border:none;border-radius:12px;padding:14px;
-    font-size:16px;font-weight:800;cursor:pointer;color:#04203a;
-    background:linear-gradient(90deg,var(--accent),#63c0ff)}
+  .btn{display:block;width:100%;margin-top:18px;border:none;border-radius:12px;padding:14px;font-size:16px;font-weight:800;cursor:pointer;color:#04203a;background:linear-gradient(90deg,var(--accent),#63c0ff)}
   .btn:disabled{opacity:.5;cursor:not-allowed}
   .btn.ghost{background:transparent;border:1px solid var(--line);color:var(--text)}
+  .subcount{text-align:center;color:var(--muted);font-size:13px;margin-top:8px}
   .result{text-align:center;margin-top:16px;padding:16px;border-radius:14px;display:none}
   .result.show{display:block}
   .result.pass{background:rgba(46,204,113,.14);border:1px solid rgba(46,204,113,.5)}
   .result.fail{background:rgba(255,91,107,.14);border:1px solid rgba(255,91,107,.5)}
   .result .big{font-size:40px}
   .result .score{font-size:26px;font-weight:800;color:var(--gold)}
-  .row{display:flex;gap:10px;margin-top:12px}
-  .row .btn{margin-top:0}
-  .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%) translateY(120%);
-    background:var(--panel2);border:1px solid var(--accent);border-radius:12px;padding:10px 18px;
-    font-weight:700;transition:.3s;z-index:9}
+  .breakdown{font-size:13px;color:var(--muted);margin-top:6px}
+  .row{display:flex;gap:10px;margin-top:12px}.row .btn{margin-top:0}
+  .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%) translateY(120%);background:var(--panel2);
+    border:1px solid var(--accent);border-radius:12px;padding:10px 18px;font-weight:700;transition:.3s;z-index:9}
   .toast.show{transform:translateX(-50%) translateY(0)}
   .err{color:var(--red);text-align:center;padding:20px}
   footer{text-align:center;color:var(--muted);font-size:11.5px;margin-top:24px;opacity:.7}
-  @media(max-width:520px){.voc{grid-template-columns:1fr}}
+  @media(max-width:520px){.vhead .d{flex-basis:100%}}
 </style>
 </head>
 <body>
 <div class="wrap">
-  <header>
-    <div class="logo">📘 國中英文每日任務<small>DAILY ENGLISH · CLICK TO ANSWER</small></div>
-  </header>
+  <header><div class="logo">📘 國中英文每日任務<small>DAILY ENGLISH · CLICK TO ANSWER</small></div></header>
 
-  <!-- 零用金看板 -->
   <div class="card board" id="board">
     <div class="stat"><div class="n" id="bBal">$0</div><div class="l">目前餘額（含利息）</div></div>
     <div class="stat"><div class="n" id="bMon">$0</div><div class="l">本月已入帳 / 約2000</div></div>
@@ -97,22 +104,26 @@
     <div class="hint" id="boardHint"></div>
   </div>
 
-  <!-- 測驗 -->
-  <div class="card" id="quizCard">
-    <div class="err" id="loading">載入今日測驗中…</div>
-  </div>
-
+  <div class="card" id="quizCard"><div class="err" id="loading">載入今日測驗中…</div></div>
   <footer>零用金存於此瀏覽器 · 每平日 20:00 由排程自動更新題目 · 未領餘額以 10%/年（月複利）滾存</footer>
 </div>
 <div class="toast" id="toast"></div>
 
 <script>
-const LKEY="g8_allowance_v1", DONE_PREFIX="g8_done_"; // g8_done_<date>=1 表示該日已入帳
-const MONTH_RATE=0.10/12, PASS=8, REWARD=100;
+const LKEY="g8_allowance_v1", DONE_PREFIX="g8_done_";
+const MONTH_RATE=0.10/12, PASS=13, TOTAL=15, REWARD=100;
 const $=id=>document.getElementById(id);
 function todayStr(){const d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");}
 function monthKey(s){return s.slice(0,7);}
 function toast(m){const t=$("toast");t.textContent=m;t.classList.add("show");setTimeout(()=>t.classList.remove("show"),1900);}
+function escapeHtml(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
+
+/* ---------- 語音播放（Web Speech API） ---------- */
+let VOICE=null;
+function pickVoice(){const vs=speechSynthesis.getVoices();VOICE=vs.find(v=>/en[-_]US/i.test(v.lang))||vs.find(v=>/^en/i.test(v.lang))||null;}
+if('speechSynthesis' in window){pickVoice();speechSynthesis.onvoiceschanged=pickVoice;}
+function speak(text){try{if(!('speechSynthesis' in window)){toast("此瀏覽器不支援語音");return;}
+  speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang="en-US";u.rate=.92;if(VOICE)u.voice=VOICE;speechSynthesis.speak(u);}catch(e){}}
 
 /* ---------- 零用金帳本（localStorage） ---------- */
 function loadL(){try{const l=JSON.parse(localStorage.getItem(LKEY));if(l&&typeof l.balance==="number")return l;}catch(e){}
@@ -122,114 +133,100 @@ function monthsBetween(a,b){const [ay,am,ad]=a.split("-").map(Number),[by,bm,bd]
   let m=(by-ay)*12+(bm-am);if(bd<ad)m-=1;return Math.max(0,m);}
 function applyInterest(l){const t=todayStr();const m=monthsBetween(l.lastInterest,t);
   if(m>=1&&l.balance>0){l.balance=Math.round(l.balance*Math.pow(1+MONTH_RATE,m)*100)/100;
-    // 上次計息日往後推 m 個月
     let [y,mo]=l.lastInterest.split("-").map(Number);mo+=m;y+=Math.floor((mo-1)/12);mo=((mo-1)%12)+1;
     l.lastInterest=y+"-"+String(mo).padStart(2,"0")+"-"+l.lastInterest.slice(8);}
   return l;}
-function renderBoard(){let l=applyInterest(loadL());saveL(l);
-  const tm=monthKey(todayStr());
+function renderBoard(){let l=applyInterest(loadL());saveL(l);const tm=monthKey(todayStr());
   const monEarned=l.earned.filter(d=>monthKey(d)===tm).length*REWARD;
-  $("bBal").textContent="$"+l.balance.toFixed(2);
-  $("bMon").textContent="$"+monEarned;
-  $("bRed").textContent="$"+l.redeemed.toFixed(2);
-  const redeemedThisMonth=l.redeemMonths.includes(tm);
-  const rb=$("redeemBtn");
-  rb.disabled=redeemedThisMonth||l.balance<=0;
-  rb.textContent=redeemedThisMonth?"本月已領取":"💰 領取本月零用金";
-  $("boardHint").textContent=redeemedThisMonth?"本月已兌現，下月可再領；未領餘額持續以10%/年月複利滾存。"
-    :"每月可領一次；不領則以 10%/年（月複利）滾存。";
-}
+  $("bBal").textContent="$"+l.balance.toFixed(2);$("bMon").textContent="$"+monEarned;$("bRed").textContent="$"+l.redeemed.toFixed(2);
+  const done=l.redeemMonths.includes(tm),rb=$("redeemBtn");
+  rb.disabled=done||l.balance<=0;rb.textContent=done?"本月已領取":"💰 領取本月零用金";
+  $("boardHint").textContent=done?"本月已兌現，下月可再領；未領餘額持續以10%/年月複利滾存。":"每月可領一次；不領則以 10%/年（月複利）滾存。";}
 $("redeemBtn").onclick=()=>{let l=applyInterest(loadL());const tm=monthKey(todayStr());
-  if(l.redeemMonths.includes(tm)){toast("本月已領取過");return;}
-  if(l.balance<=0){toast("目前沒有可領的餘額");return;}
-  const amt=l.balance;l.redeemed=Math.round((l.redeemed+amt)*100)/100;l.balance=0;
-  l.lastInterest=todayStr();l.redeemMonths.push(tm);saveL(l);renderBoard();
-  toast("已領取 $"+amt.toFixed(2)+" 零用金！");};
-
-function earn(date){let l=applyInterest(loadL());
-  if(l.earned.includes(date)){renderBoard();return false;} // 當日已入帳
+  if(l.redeemMonths.includes(tm)){toast("本月已領取過");return;}if(l.balance<=0){toast("目前沒有可領的餘額");return;}
+  const amt=l.balance;l.redeemed=Math.round((l.redeemed+amt)*100)/100;l.balance=0;l.lastInterest=todayStr();l.redeemMonths.push(tm);
+  saveL(l);renderBoard();toast("已領取 $"+amt.toFixed(2)+" 零用金！");};
+function earn(date){let l=applyInterest(loadL());if(l.earned.includes(date)){renderBoard();return false;}
   l.earned.push(date);l.balance=Math.round((l.balance+REWARD)*100)/100;saveL(l);renderBoard();return true;}
 
 /* ---------- 測驗 ---------- */
-let QUIZ=null, picks=[], graded=false;
+let QUIZ=null, FLAT=[], picks=[], graded=false;
 const KEYS=["A","B","C","D","E"];
+const SECMETA={reading:{label:"📖 閱讀理解",cls:"reading"},grammar:{label:"📐 文法測驗",cls:"grammar"},vocab:{label:"🔑 單字測驗",cls:"vocab"}};
 
 async function loadQuiz(){
-  try{
-    const r=await fetch("daily/latest.json?t="+Date.now());
-    if(!r.ok) throw new Error("HTTP "+r.status);
-    QUIZ=await r.json();
-    renderQuiz();
-  }catch(e){
-    $("quizCard").innerHTML='<div class="err">😢 載入今日測驗失敗（'+e.message+'）。<br>排程尚未產生今日題目，或稍後再試。</div>';
-  }
+  try{const r=await fetch("daily/latest.json?t="+Date.now());if(!r.ok)throw new Error("HTTP "+r.status);
+    QUIZ=await r.json();renderQuiz();
+  }catch(e){$("quizCard").innerHTML='<div class="err">😢 載入今日測驗失敗（'+e.message+'）。排程尚未產生今日題目，或稍後再試。</div>';}
 }
-
+function buildFlat(){
+  FLAT=[];
+  const s=QUIZ.sections;
+  if(s){["reading","grammar","vocab"].forEach(sec=>{(s[sec]||[]).forEach(q=>FLAT.push(Object.assign({_sec:sec},q)));});}
+  else if(QUIZ.questions){QUIZ.questions.forEach(q=>FLAT.push(Object.assign({_sec:"reading"},q)));} // 舊格式相容
+}
 function renderQuiz(){
-  graded=false; picks=new Array(QUIZ.questions.length).fill(-1);
-  const alreadyDone=localStorage.getItem(DONE_PREFIX+QUIZ.date)==="1";
-  let html="";
-  html+='<span class="badge">📅 '+QUIZ.date+'</span> <span class="badge">'+ (QUIZ.level||"") +'</span>';
-  html+='<h2>'+QUIZ.title+'</h2>';
-  if(QUIZ.note) html+='<div class="sub">'+QUIZ.note+'</div>';
-  if(alreadyDone) html+='<div class="sub" style="color:var(--gold)">✅ 今天已完成並入帳，可再練習但不重複計酬。</div>';
-  html+='<div class="passage">'+escapeHtml(QUIZ.passage)+'</div>';
-  // 單字
-  if(QUIZ.vocab&&QUIZ.vocab.length){html+='<details><summary>🔑 重點單字 ('+QUIZ.vocab.length+')</summary><div class="dbody"><div class="voc">'+
-    QUIZ.vocab.map(v=>'<div><b>'+v.w+'</b> <span style="color:var(--muted)">'+(v.pos||"")+'</span> '+v.d+'</div>').join("")+'</div></div></details>';}
-  // 文法
-  if(QUIZ.grammar&&QUIZ.grammar.length){html+='<details><summary>📐 文法重點</summary><div class="dbody">'+
-    QUIZ.grammar.map(g=>'<div class="gr">• '+g+'</div>').join("")+'</div></details>';}
-  // 題目
-  QUIZ.questions.forEach((q,i)=>{
-    html+='<div class="q" data-qi="'+i+'"><div class="q-h"><span class="num">'+(i+1)+'</span>'+escapeHtml(q.q)+'</div>';
-    q.opts.forEach((o,k)=>{html+='<div class="opt" data-qi="'+i+'" data-k="'+k+'"><span class="k">'+KEYS[k]+'</span><span>'+escapeHtml(o)+'</span></div>';});
-    html+='<div class="ex" id="ex'+i+'"></div></div>';
+  graded=false; buildFlat(); picks=new Array(FLAT.length).fill(-1);
+  const done=localStorage.getItem(DONE_PREFIX+QUIZ.date)==="1";
+  let h="";
+  h+='<span class="badge">📅 '+QUIZ.date+'</span> <span class="badge">'+(QUIZ.level||"")+'</span>';
+  h+='<h2>'+escapeHtml(QUIZ.title)+'</h2>';
+  if(QUIZ.note)h+='<div class="sub">'+escapeHtml(QUIZ.note)+'</div>';
+  if(done)h+='<div class="sub" style="color:var(--gold)">✅ 今天已完成並入帳，可再練習但不重複計酬。</div>';
+  h+='<div class="passage">'+escapeHtml(QUIZ.passage)+'</div>';
+  // 單字表（含例句與播音）
+  if(QUIZ.vocab&&QUIZ.vocab.length){
+    h+='<details open><summary>🔑 重點單字 ('+QUIZ.vocab.length+')　🔊 可點播音</summary><div class="dbody">';
+    QUIZ.vocab.forEach(v=>{
+      h+='<div class="vcard"><div class="vhead">'+
+         '<button class="spk" data-say="'+escapeHtml(v.w)+'" title="唸單字">🔊</button>'+
+         '<b>'+escapeHtml(v.w)+'</b> <span class="pos">'+escapeHtml(v.pos||"")+'</span> <span class="d">'+escapeHtml(v.d||"")+'</span></div>';
+      if(v.example)h+='<div class="vex"><button class="spk" data-say="'+escapeHtml(v.example)+'" title="唸例句">🔊</button><span>'+escapeHtml(v.example)+'</span></div>';
+      h+='</div>';
+    });
+    h+='</div></details>';
+  }
+  if(QUIZ.grammar&&QUIZ.grammar.length){h+='<details><summary>📐 文法重點</summary><div class="dbody">'+QUIZ.grammar.map(g=>'<div class="gr">• '+escapeHtml(g)+'</div>').join("")+'</div></details>';}
+  // 三個分區
+  let gi=0, lastSec=null;
+  FLAT.forEach((q,i)=>{
+    if(q._sec!==lastSec){lastSec=q._sec;const m=SECMETA[q._sec];
+      const cnt=FLAT.filter(x=>x._sec===q._sec).length;
+      h+='<div class="sec"><div class="sec-h '+m.cls+'">'+m.label+'<span class="cnt">'+cnt+' 題</span></div></div>';}
+    h+='<div class="q" data-qi="'+i+'"><div class="q-h"><span class="num">'+(i+1)+'</span>'+escapeHtml(q.q)+'</div>';
+    q.opts.forEach((o,k)=>{h+='<div class="opt" data-qi="'+i+'" data-k="'+k+'"><span class="k">'+KEYS[k]+'</span><span>'+escapeHtml(o)+'</span></div>';});
+    h+='<div class="ex" id="ex'+i+'"></div></div>';
   });
-  html+='<button class="btn" id="submitBtn" disabled>送出答案並批改</button>';
-  html+='<div class="result" id="result"></div>';
-  $("quizCard").innerHTML=html;
+  h+='<div class="subcount" id="subcount"></div><button class="btn" id="submitBtn" disabled>送出答案並批改</button><div class="result" id="result"></div>';
+  $("quizCard").innerHTML=h;
   $("quizCard").querySelectorAll(".opt").forEach(el=>el.onclick=()=>selectOpt(el));
-  $("submitBtn").onclick=grade;
+  $("quizCard").querySelectorAll(".spk").forEach(el=>el.onclick=e=>{e.stopPropagation();speak(el.dataset.say);});
+  $("submitBtn").onclick=grade;updateCount();
 }
-function escapeHtml(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
-function selectOpt(el){
-  if(graded)return;
-  const qi=+el.dataset.qi,k=+el.dataset.k;
-  picks[qi]=k;
-  $("quizCard").querySelectorAll('.opt[data-qi="'+qi+'"]').forEach(o=>o.classList.toggle("sel",+o.dataset.k===k));
-  $("submitBtn").disabled=picks.includes(-1);
-}
+function updateCount(){const done=picks.filter(p=>p>=0).length;$("subcount").textContent="已作答 "+done+" / "+FLAT.length+" 題";$("submitBtn").disabled=done<FLAT.length;}
+function selectOpt(el){if(graded)return;const qi=+el.dataset.qi,k=+el.dataset.k;picks[qi]=k;
+  $("quizCard").querySelectorAll('.opt[data-qi="'+qi+'"]').forEach(o=>o.classList.toggle("sel",+o.dataset.k===k));updateCount();}
 function grade(){
-  if(picks.includes(-1)||graded)return;
-  graded=true;
-  let correct=0;
-  QUIZ.questions.forEach((q,i)=>{
+  if(picks.includes(-1)||graded)return;graded=true;
+  let correct=0,secScore={reading:0,grammar:0,vocab:0},secTot={reading:0,grammar:0,vocab:0};
+  FLAT.forEach((q,i)=>{secTot[q._sec]++;
     const opts=$("quizCard").querySelectorAll('.opt[data-qi="'+i+'"]');
-    opts.forEach(o=>{o.classList.add("locked");const k=+o.dataset.k;
-      if(k===q.a)o.classList.add("correct");
-      if(k===picks[i]&&k!==q.a)o.classList.add("wrong");});
-    if(picks[i]===q.a)correct++;
-    const ex=$("ex"+i);ex.innerHTML=(picks[i]===q.a?"✅ ":"❌ 正解 "+KEYS[q.a]+"：")+escapeHtml(q.ex||"");ex.classList.add("show");
-  });
-  const pass=correct>=PASS;
-  const firstTime=localStorage.getItem(DONE_PREFIX+QUIZ.date)!=="1";
-  let earned=false;
+    opts.forEach(o=>{o.classList.add("locked");const k=+o.dataset.k;if(k===q.a)o.classList.add("correct");if(k===picks[i]&&k!==q.a)o.classList.add("wrong");});
+    if(picks[i]===q.a){correct++;secScore[q._sec]++;}
+    const ex=$("ex"+i);ex.innerHTML=(picks[i]===q.a?"✅ ":"❌ 正解 "+KEYS[q.a]+"：")+escapeHtml(q.ex||"");ex.classList.add("show");});
+  const pass=correct>=PASS,firstTime=localStorage.getItem(DONE_PREFIX+QUIZ.date)!=="1";let earned=false;
   if(pass&&firstTime){localStorage.setItem(DONE_PREFIX+QUIZ.date,"1");earned=earn(QUIZ.date);}
   const res=$("result");res.className="result show "+(pass?"pass":"fail");
-  res.innerHTML='<div class="big">'+(pass?"🏆":"💪")+'</div><div class="score">'+correct+' / 10</div>'+
-    '<div style="margin-top:6px">'+(pass?
-      (earned?"太棒了！答對 "+correct+" 題，達標入帳 <b style=\"color:var(--gold)\">+$100</b> 零用金！":
-        "答對 "+correct+" 題，已達標！（今日稍早已入帳，不重複計酬）"):
-      "答對 "+correct+" 題，未達 8 題。可「再試一次」或明天再挑戰。")+'</div>'+
-    '<div class="row">'+(pass?"":'<button class="btn ghost" onclick="renderQuiz()">🔄 再試一次</button>')+
-    '</div>';
-  $("submitBtn").style.display="none";
+  res.innerHTML='<div class="big">'+(pass?"🏆":"💪")+'</div><div class="score">'+correct+' / '+TOTAL+'</div>'+
+    '<div class="breakdown">閱讀 '+secScore.reading+'/'+secTot.reading+'　文法 '+secScore.grammar+'/'+secTot.grammar+'　單字 '+secScore.vocab+'/'+secTot.vocab+'</div>'+
+    '<div style="margin-top:8px">'+(pass?
+      (earned?"太棒了！達標（≥13）入帳 <b style=\"color:var(--gold)\">+$100</b> 零用金！":"已達標（≥13）！（今日稍早已入帳，不重複計酬）"):
+      "答對 "+correct+" 題，未達 13 題。可「再試一次」或明天再挑戰。")+'</div>'+
+    '<div class="row">'+(pass?"":'<button class="btn ghost" onclick="renderQuiz()">🔄 再試一次</button>')+'</div>';
+  $("submitBtn").style.display="none";$("subcount").style.display="none";
   window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"});
 }
-
-renderBoard();
-loadQuiz();
+renderBoard();loadQuiz();
 </script>
 </body>
 </html>
