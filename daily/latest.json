@@ -1,44 +1,33 @@
 {
   "date": "2026-08-29",
-  "title": "A Night at the Night Market",
+  "title": "A Summer to Remember",
   "level": "國中二~三年級 (Grade 8-9)",
-  "note": "手動觸發之練習卷（週六）；正式排程只在平日 20:00 觸發，此份不列入零用金入帳計算。",
-  "passage": "Last Saturday, my cousin Amy came to visit us from Taichung, so my brother and I decided to take her to the night market near our house. She had never been to a night market in our city before, and she was very excited.\n\nWhen we arrived, the street was already more crowded than we expected. Bright lights, sizzling oil, and the smell of grilled squid filled the air. \"Everything smells delicious!\" Amy said. We walked past stalls selling bubble tea, fried chicken, and sticky rice. My brother, who loves spicy food, bought a bowl of spicy noodles and ate it in two minutes.\n\nAmy wanted to try the claw machine, but she had never played one before. After she lost three times, my brother gave her some tips, and she finally won a small toy. \"If you turn the joystick slowly, you will have a better chance,\" he explained.\n\nWe also visited a stall where an old man sold handmade souvenirs. Amy bought a bracelet for her mother because it was cheaper than the one at the mall. By nine o'clock, we had walked around the whole market and tried at least six different snacks.\n\nOn the way home, Amy said this was the most exciting night she had had in months. We agreed to go back again next month, but next time we will arrive earlier so we can avoid the biggest crowds.",
+  "note": "測試卷（過去式＋未來式）；正式版每平日 20:00 自動更新。",
+  "passage": "Last summer, my family took a trip to Kenting in the south of Taiwan. We stayed at a small hotel near the beach. Every morning, we swam in the clear blue sea and built sandcastles. My dad rented a scooter, and we rode along the coast to watch the sunset. One evening, we ate fresh seafood at a night market, and I tried grilled squid for the first time.\n\nWe also visited an ocean park, where we saw dolphins and colorful fish. My little brother was scared of the big sharks, but I thought they were amazing. On the last day, it rained heavily, so we stayed inside and played card games. Even the rain could not ruin our happy trip.\n\nThis summer, we are going to travel again, but this time we will fly to Japan. My mom has already booked the hotel, and we are going to visit Tokyo and Kyoto. I will try real Japanese ramen, and my brother is going to see a famous castle. I am going to keep a travel diary so that I will never forget it. I believe this summer will be even better than the last one!",
   "vocab": [
-    {"w": "night market", "pos": "n.", "d": "夜市"},
-    {"w": "crowded", "pos": "adj.", "d": "擁擠的"},
-    {"w": "sizzling", "pos": "adj.", "d": "滋滋作響的"},
-    {"w": "grilled", "pos": "adj.", "d": "燒烤的"},
-    {"w": "stall", "pos": "n.", "d": "攤位"},
-    {"w": "sticky rice", "pos": "n.", "d": "糯米飯"},
-    {"w": "spicy", "pos": "adj.", "d": "辛辣的"},
-    {"w": "claw machine", "pos": "n.", "d": "夾娃娃機"},
-    {"w": "joystick", "pos": "n.", "d": "搖桿"},
-    {"w": "chance", "pos": "n.", "d": "機會"},
-    {"w": "handmade", "pos": "adj.", "d": "手工製作的"},
-    {"w": "souvenir", "pos": "n.", "d": "紀念品"},
-    {"w": "bracelet", "pos": "n.", "d": "手鍊"},
-    {"w": "cheaper", "pos": "adj.（比較級）", "d": "比較便宜的"},
-    {"w": "snack", "pos": "n.", "d": "點心／小吃"},
-    {"w": "exciting", "pos": "adj.", "d": "令人興奮的"},
-    {"w": "avoid", "pos": "v.", "d": "避免"},
-    {"w": "crowd", "pos": "n.", "d": "人群"}
+    {"w":"trip","pos":"n.","d":"旅行"},{"w":"stay","pos":"v.","d":"停留、住"},
+    {"w":"clear","pos":"adj.","d":"清澈的"},{"w":"rent","pos":"v.","d":"租借"},
+    {"w":"coast","pos":"n.","d":"海岸"},{"w":"sunset","pos":"n.","d":"日落"},
+    {"w":"seafood","pos":"n.","d":"海鮮"},{"w":"grilled","pos":"adj.","d":"烤的"},
+    {"w":"dolphin","pos":"n.","d":"海豚"},{"w":"shark","pos":"n.","d":"鯊魚"},
+    {"w":"ruin","pos":"v.","d":"破壞、毀掉"},{"w":"book","pos":"v.","d":"預訂"},
+    {"w":"diary","pos":"n.","d":"日記"},{"w":"castle","pos":"n.","d":"城堡"},
+    {"w":"amazing","pos":"adj.","d":"驚人的、了不起的"}
   ],
   "grammar": [
-    "過去完成式 (Past Perfect)：had + p.p.，表示「在過去某個時間點之前」已發生或未發生的動作。例：She had never been to a night market before. / this was the most exciting night she had had",
-    "比較級與最高級 (Comparative & Superlative)：形容詞+er / more+形容詞（比較級），the+形容詞+est / the most+形容詞（最高級）。例：more crowded than、cheaper than、the most exciting",
-    "第一類條件句 (First Conditional)：If + 現在簡單式, ... will + 原形動詞，表示「若…則會…」的未來可能結果。例：If you turn the joystick slowly, you will have a better chance."
+    "一般過去式 Simple Past：描述過去發生的事（took, stayed, swam, rode, ate, saw, rained…）。",
+    "未來式 Future：be going to（計畫）與 will（意願/預測），如 are going to travel、we will fly、I will try。"
   ],
   "questions": [
-    {"q": "Where was Amy from?", "opts": ["Taipei", "Taichung", "Tainan", "Kaohsiung"], "a": 1, "ex": "Amy 來自 Taichung（台中），文中第一句提到。"},
-    {"q": "What did Amy do at the claw machine before winning?", "opts": ["She won on her first try", "She lost three times", "She broke the machine", "She didn't play"], "a": 1, "ex": "文中提到「After she lost three times」，她輸了三次才贏。"},
-    {"q": "Why did Amy buy the bracelet?", "opts": ["It was the most beautiful one", "It was cheaper than the one at the mall", "Her mother asked for it", "It was a gift from the old man"], "a": 1, "ex": "文中提到手鍊「cheaper than the one at the mall」，因為比較便宜。"},
-    {"q": "How many snacks did they try by nine o'clock?", "opts": ["three", "four", "at least six", "ten"], "a": 2, "ex": "文中提到「tried at least six different snacks」。"},
-    {"q": "What did they plan to do differently next time?", "opts": ["Bring more money", "Go with more friends", "Arrive earlier to avoid crowds", "Try the claw machine again"], "a": 2, "ex": "文中最後提到「next time we will arrive earlier so we can avoid the biggest crowds」。"},
-    {"q": "She ___ never ___ a night market before she visited ours.", "opts": ["has / visited", "had / visited", "have / visit", "was / visiting"], "a": 1, "ex": "過去完成式：had + p.p.，表示在造訪夜市之前從未去過。"},
-    {"q": "The street was ___ crowded than we expected.", "opts": ["more", "most", "much", "as"], "a": 0, "ex": "比較級：more + 形容詞（crowded 較長，用 more）+ than。"},
-    {"q": "If you turn the joystick slowly, you ___ a better chance.", "opts": ["will have", "would have", "had", "have had"], "a": 0, "ex": "第一類條件句：If + 現在簡單式, ... will + 原形動詞。"},
-    {"q": "Which word means \"攤位\" (a small stand selling goods)?", "opts": ["crowd", "stall", "bracelet", "souvenir"], "a": 1, "ex": "stall 意指「攤位」，其餘為 crowd(人群)/bracelet(手鍊)/souvenir(紀念品)。"},
-    {"q": "This was the ___ exciting night she had had in months.", "opts": ["more", "most", "much", "very"], "a": 1, "ex": "最高級：the most + 形容詞，表示「最令人興奮的」。"}
+    {"q":"Where did the family go last summer?","opts":["Kenting in the south of Taiwan","Tokyo, Japan","Kyoto","A city in the north"],"a":0,"ex":"文首：took a trip to Kenting in the south of Taiwan。"},
+    {"q":"What did the writer try for the first time?","opts":["Grilled squid","Sushi","Ramen","Ice cream"],"a":0,"ex":"I tried grilled squid for the first time。"},
+    {"q":"Why did they stay inside on the last day?","opts":["They were tired","It rained heavily","The park was closed","They lost their money"],"a":1,"ex":"On the last day, it rained heavily, so we stayed inside。"},
+    {"q":"Where are they going THIS summer?","opts":["Kenting again","Japan (Tokyo and Kyoto)","Korea","Hong Kong"],"a":1,"ex":"we will fly to Japan... visit Tokyo and Kyoto。"},
+    {"q":"What does the writer plan to keep during the trip?","opts":["A seashell","A travel diary","A photo album","A map"],"a":1,"ex":"I am going to keep a travel diary。"},
+    {"q":"Last summer, we ______ a trip to Kenting. (take)","opts":["take","took","taken","will take"],"a":1,"ex":"過去式：take → took。"},
+    {"q":"This summer, we ______ fly to Japan.","opts":["flew","will fly","flying","to fly"],"a":1,"ex":"未來的意願/預測用 will + 原形 fly。"},
+    {"q":"My mom ______ already booked the hotel.","opts":["have","has","had to","is"],"a":1,"ex":"現在完成式，主詞 My mom（第三人稱單數）→ has + p.p. booked。"},
+    {"q":"In this passage, \"seafood\" means:","opts":["海鮮","素食","甜點","街頭小吃"],"a":0,"ex":"seafood = 海鮮。"},
+    {"q":"\"amazing\" most likely means:","opts":["無聊的","了不起的、驚人的","害怕的","便宜的"],"a":1,"ex":"amazing = 驚人的、了不起的。"}
   ]
 }
