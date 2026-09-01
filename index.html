@@ -87,6 +87,11 @@
   .result .score{font-size:26px;font-weight:800;color:var(--gold)}
   .breakdown{font-size:13px;color:var(--muted);margin-top:6px}
   .row{display:flex;gap:10px;margin-top:12px}.row .btn{margin-top:0}
+  .makeup-item{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:10px 12px;margin:6px 0;
+    border:1px solid var(--line);border-radius:10px;background:var(--panel2);cursor:pointer;font-size:14px}
+  .makeup-item:hover{border-color:var(--accent)}
+  .makeup-item .go{flex:none;color:var(--accent);font-weight:700;font-size:13px}
+  .back-btn{display:inline-block;width:auto;padding:6px 12px;margin-top:6px;font-size:13px}
   .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%) translateY(120%);background:var(--panel2);
     border:1px solid var(--accent);border-radius:12px;padding:10px 18px;font-weight:700;transition:.3s;z-index:9}
   .toast.show{transform:translateX(-50%) translateY(0)}
@@ -110,8 +115,10 @@
     <div class="hint" id="boardHint"></div>
   </div>
 
+  <div class="card" id="makeupCard" style="display:none"></div>
+
   <div class="card" id="quizCard"><div class="err" id="loading">載入今日測驗中…</div></div>
-  <footer>零用金存於此瀏覽器 · 每平日 20:00 由排程自動更新題目 · 保留餘額以 18%/年（月複利）滾存</footer>
+  <footer>零用金存於此瀏覽器 · 每平日 20:00 由排程自動更新題目 · 保留餘額以 18%/年（月複利）滾存<br>週一~週五未完成的任務可於當週內補做，逾週日 23:55 未完成即取消</footer>
 </div>
 <div class="toast" id="toast"></div>
 
@@ -120,7 +127,11 @@ const LKEY="g8_allowance_v1", DONE_PREFIX="g8_done_";
 const MONTH_RATE=0.18/12, PASS=13, TOTAL=15, REWARD=100;
 const $=id=>document.getElementById(id);
 function todayStr(){const d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");}
+function dateStr(d){return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");}
 function monthKey(s){return s.slice(0,7);}
+/* ---------- 週一~週五補考規則：當週內可補做，週日23:55後取消 ---------- */
+function getMonday(d){const day=d.getDay();const diff=(day===0?-6:1-day);return new Date(d.getFullYear(),d.getMonth(),d.getDate()+diff);}
+function isMakeupOpen(now){if(now.getDay()!==0)return true;return now.getHours()<23||(now.getHours()===23&&now.getMinutes()<55);}
 function toast(m){const t=$("toast");t.textContent=m;t.classList.add("show");setTimeout(()=>t.classList.remove("show"),1900);}
 function escapeHtml(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
 
@@ -174,6 +185,32 @@ async function loadQuiz(){
     QUIZ=await r.json();renderQuiz();
   }catch(e){$("quizCard").innerHTML='<div class="err">😢 載入今日測驗失敗（'+e.message+'）。排程尚未產生今日題目，或稍後再試。</div>';}
 }
+async function loadQuizForDate(ds){
+  try{const r=await fetch("daily/"+ds+".json?t="+Date.now());if(!r.ok)throw new Error("HTTP "+r.status);
+    QUIZ=await r.json();renderQuiz();$("quizCard").scrollIntoView({behavior:"smooth"});
+  }catch(e){toast("補考題目載入失敗");}
+}
+/* 本週（週一~週五）尚未完成、且未過週日23:55截止的補考項目 */
+async function renderMakeup(){
+  const mc=$("makeupCard");if(!mc)return;
+  const now=new Date();
+  if(!isMakeupOpen(now)){mc.style.display="none";return;}
+  const monday=getMonday(now);const td=todayStr();const candidates=[];
+  for(let i=0;i<5;i++){const d=new Date(monday.getFullYear(),monday.getMonth(),monday.getDate()+i);const ds=dateStr(d);
+    if(ds>=td)continue; // 只補「今天以前」的平日，今天的就是主測驗
+    if(localStorage.getItem(DONE_PREFIX+ds)==="1")continue; // 已完成過的不用補
+    candidates.push(ds);}
+  if(candidates.length===0){mc.style.display="none";return;}
+  const results=await Promise.all(candidates.map(async ds=>{
+    try{const r=await fetch("daily/"+ds+".json?t="+Date.now());if(!r.ok)return null;const j=await r.json();return{ds,title:j.title};}
+    catch(e){return null;}}));
+  const items=results.filter(Boolean);
+  if(items.length===0){mc.style.display="none";return;}
+  mc.style.display="";
+  mc.innerHTML='<div class="badge">📋 本週可補考（週日 23:55 前完成，逾期取消）</div>'+
+    items.map(it=>'<div class="makeup-item" data-date="'+it.ds+'"><span>🗓 '+it.ds+'　'+escapeHtml(it.title)+'</span><span class="go">補做 →</span></div>').join("");
+  mc.querySelectorAll(".makeup-item").forEach(el=>el.onclick=()=>loadQuizForDate(el.dataset.date));
+}
 function buildFlat(){
   FLAT=[];
   const s=QUIZ.sections;
@@ -187,7 +224,8 @@ function renderQuiz(){
   h+='<span class="badge">📅 '+QUIZ.date+'</span> <span class="badge">'+(QUIZ.level||"")+'</span>';
   h+='<h2>'+escapeHtml(QUIZ.title)+'</h2>';
   if(QUIZ.note)h+='<div class="sub">'+escapeHtml(QUIZ.note)+'</div>';
-  if(done)h+='<div class="sub" style="color:var(--gold)">✅ 今天已完成並入帳，可再練習但不重複計酬。</div>';
+  if(QUIZ.date!==todayStr())h+='<div class="sub" style="color:var(--purple)">🗓 這是補考題目（'+QUIZ.date+'），週日 23:55 前完成仍可入帳。 <button class="btn ghost back-btn" onclick="loadQuiz()">🔙 回到今日測驗</button></div>';
+  if(done)h+='<div class="sub" style="color:var(--gold)">✅ 已完成並入帳，可再練習但不重複計酬。</div>';
   h+='<div class="passage">'+escapeHtml(QUIZ.passage)+'</div>';
   // 單字表（含例句與播音）
   if(QUIZ.vocab&&QUIZ.vocab.length){
@@ -230,7 +268,7 @@ function grade(){
     if(picks[i]===q.a){correct++;secScore[q._sec]++;}
     const ex=$("ex"+i);ex.innerHTML=(picks[i]===q.a?"✅ ":"❌ 正解 "+KEYS[q.a]+"：")+escapeHtml(q.ex||"");ex.classList.add("show");});
   const pass=correct>=PASS,firstTime=localStorage.getItem(DONE_PREFIX+QUIZ.date)!=="1";let earned=false;
-  if(pass&&firstTime){localStorage.setItem(DONE_PREFIX+QUIZ.date,"1");earned=earn(QUIZ.date);}
+  if(pass&&firstTime){localStorage.setItem(DONE_PREFIX+QUIZ.date,"1");earned=earn(QUIZ.date);renderMakeup();}
   const res=$("result");res.className="result show "+(pass?"pass":"fail");
   res.innerHTML='<div class="big">'+(pass?"🏆":"💪")+'</div><div class="score">'+correct+' / '+TOTAL+'</div>'+
     '<div class="breakdown">閱讀 '+secScore.reading+'/'+secTot.reading+'　文法 '+secScore.grammar+'/'+secTot.grammar+'　單字 '+secScore.vocab+'/'+secTot.vocab+'</div>'+
@@ -241,7 +279,7 @@ function grade(){
   $("submitBtn").style.display="none";$("subcount").style.display="none";
   window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"});
 }
-renderBoard();loadQuiz();
+renderBoard();loadQuiz();renderMakeup();
 </script>
 </body>
 </html>
