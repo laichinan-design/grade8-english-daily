@@ -106,7 +106,7 @@
 
   <div class="card board" id="board">
     <div class="stat"><div class="n" id="bBal">$0</div><div class="l">目前餘額（含利息）</div></div>
-    <div class="stat"><div class="n" id="bMon">$0</div><div class="l">本月已入帳 / 約2000</div></div>
+    <div class="stat"><div class="n" id="bMon">$0</div><div class="l">本月已入帳 / 約6000</div></div>
     <div class="stat"><div class="n" id="bRed">$0</div><div class="l">已兌現總額</div></div>
     <div class="redeem-row">
       <input type="number" id="redeemAmt" class="redeem-in" min="0" step="1" placeholder="金額" inputmode="decimal">
@@ -124,7 +124,7 @@
 
 <script>
 const LKEY="g8_allowance_v1", DONE_PREFIX="g8_done_";
-const MONTH_RATE=0.18/12, PASS=13, TOTAL=15, REWARD=100;
+const MONTH_RATE=0.18/12, PASS=13, TOTAL=15, REWARD=300;
 const $=id=>document.getElementById(id);
 function todayStr(){const d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");}
 function dateStr(d){return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");}
@@ -273,7 +273,7 @@ function grade(){
   res.innerHTML='<div class="big">'+(pass?"🏆":"💪")+'</div><div class="score">'+correct+' / '+TOTAL+'</div>'+
     '<div class="breakdown">閱讀 '+secScore.reading+'/'+secTot.reading+'　文法 '+secScore.grammar+'/'+secTot.grammar+'　單字 '+secScore.vocab+'/'+secTot.vocab+'</div>'+
     '<div style="margin-top:8px">'+(pass?
-      (earned?"太棒了！達標（≥13）入帳 <b style=\"color:var(--gold)\">+$100</b> 零用金！":"已達標（≥13）！（今日稍早已入帳，不重複計酬）"):
+      (earned?"太棒了！達標（≥13）入帳 <b style=\"color:var(--gold)\">+$300</b> 零用金！":"已達標（≥13）！（今日稍早已入帳，不重複計酬）"):
       "答對 "+correct+" 題，未達 13 題。可「再試一次」或明天再挑戰。")+'</div>'+
     '<div class="row">'+(pass?"":'<button class="btn ghost" onclick="renderQuiz()">🔄 再試一次</button>')+'</div>';
   $("submitBtn").style.display="none";$("subcount").style.display="none";
