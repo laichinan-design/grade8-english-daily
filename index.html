@@ -92,6 +92,17 @@
   .makeup-item:hover{border-color:var(--accent)}
   .makeup-item .go{flex:none;color:var(--accent);font-weight:700;font-size:13px}
   .back-btn{display:inline-block;width:auto;padding:6px 12px;margin-top:6px;font-size:13px}
+  .ptable{width:100%;border-collapse:collapse;font-size:13px;margin-top:8px;white-space:nowrap}
+  .ptable th,.ptable td{padding:6px 8px;border-bottom:1px dashed var(--line);text-align:left}
+  .ptable th{color:var(--muted);font-weight:600;font-size:12px}
+  .pscroll{overflow-x:auto}
+  .week{display:flex;gap:6px;margin-top:8px;flex-wrap:wrap}
+  .wd{flex:1;min-width:56px;text-align:center;border:1px solid var(--line);border-radius:10px;padding:6px 4px;font-size:12px;background:var(--panel2)}
+  .wd b{display:block;font-size:15px;margin-top:2px}
+  .wd.ok{border-color:rgba(46,204,113,.6)}.wd.no{border-color:rgba(255,91,107,.6)}
+  .pstats{display:flex;gap:10px;flex-wrap:wrap;margin-top:8px}
+  .pbtns{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+  .pbtns .btn{margin-top:0;flex:1;min-width:130px;padding:10px;font-size:14px}
   .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%) translateY(120%);background:var(--panel2);
     border:1px solid var(--accent);border-radius:12px;padding:10px 18px;font-weight:700;transition:.3s;z-index:9}
   .toast.show{transform:translateX(-50%) translateY(0)}
@@ -116,6 +127,8 @@
   </div>
 
   <div class="card" id="makeupCard" style="display:none"></div>
+
+  <div class="card" id="progCard"></div>
 
   <div class="card" id="quizCard"><div class="err" id="loading">載入今日測驗中…</div></div>
   <footer>零用金存於此瀏覽器 · 每平日 20:00 由排程自動更新題目 · 保留餘額以 18%/年（月複利）滾存<br>週一~週五未完成的任務可於當週內補做，逾週日 23:55 未完成即取消</footer>
@@ -160,6 +173,7 @@ function renderBoard(){let l=applyInterest(loadL());saveL(l);const tm=monthKey(t
   rb.disabled=done||l.balance<=0; ri.disabled=done||l.balance<=0;
   if(document.activeElement!==ri){ ri.value = (!done&&l.balance>0)? l.balance.toFixed(2):""; }
   rb.textContent=done?"本月已領取":"💰 領取";
+  if(typeof renderProgress==="function"&&$("progCard")&&$("progCard").innerHTML)renderProgress();
   $("boardHint").textContent=done?"本月已兌現，下月可再領；保留餘額以18%/年（月複利）滾存。":"每月可領一次、可自訂金額（不必全領）；保留餘額以 18%/年（月複利）滾存。";}
 $("redeemBtn").onclick=()=>{let l=applyInterest(loadL());const tm=monthKey(todayStr());
   if(l.redeemMonths.includes(tm)){toast("本月已領取過");return;}
@@ -174,6 +188,72 @@ $("redeemBtn").onclick=()=>{let l=applyInterest(loadL());const tm=monthKey(today
   toast("已領取 $"+amt.toFixed(2)+"，保留 $"+l.balance.toFixed(2)+" 續以18%滾存");};
 function earn(date){let l=applyInterest(loadL());if(l.earned.includes(date)){renderBoard();return false;}
   l.earned.push(date);l.balance=Math.round((l.balance+REWARD)*100)/100;saveL(l);renderBoard();return true;}
+
+/* ---------- 作答紀錄與進度（分享給家長／備份還原） ---------- */
+const HKEY="g8_history_v1";
+function loadH(){try{const h=JSON.parse(localStorage.getItem(HKEY));if(Array.isArray(h))return h;}catch(e){}return [];}
+function logAttempt(o){const h=loadH();h.push(o);try{localStorage.setItem(HKEY,JSON.stringify(h.slice(-150)));}catch(e){}}
+function snapshot(){return {v:1,t:Date.now(),l:applyInterest(loadL()),h:loadH()};}
+function enc(o){return btoa(unescape(encodeURIComponent(JSON.stringify(o)))).replace(/\+/g,"-").replace(/\//g,"_").replace(/=+$/,"");}
+function dec(c){c=c.trim();const i=c.indexOf("#view=");if(i>=0)c=c.slice(i+6);
+  c=c.replace(/-/g,"+").replace(/_/g,"/");while(c.length%4)c+="=";
+  const o=JSON.parse(decodeURIComponent(escape(atob(c))));
+  if(!o||!o.l||typeof o.l.balance!=="number"||!Array.isArray(o.l.earned))throw new Error("bad");
+  if(!Array.isArray(o.h))o.h=[];return o;}
+function fmtTime(ts){const d=new Date(ts);return dateStr(d)+" "+String(d.getHours()).padStart(2,"0")+":"+String(d.getMinutes()).padStart(2,"0");}
+function progressHtml(sn,readonly){
+  const l=sn.l,h=sn.h,asOf=new Date(sn.t),tm=monthKey(dateStr(asOf)),asOfDay=dateStr(asOf);
+  const monDays=l.earned.filter(d=>monthKey(d)===tm).length;
+  let s='<div class="pstats">'+
+    '<div class="stat"><div class="n">'+l.earned.length+' 天</div><div class="l">累計達標</div></div>'+
+    '<div class="stat"><div class="n">'+monDays+' 天</div><div class="l">本月達標</div></div>'+
+    '<div class="stat"><div class="n">$'+l.balance.toFixed(2)+'</div><div class="l">目前餘額（含利息）</div></div>'+
+    '<div class="stat"><div class="n">$'+l.redeemed.toFixed(2)+'</div><div class="l">已兌現總額</div></div></div>';
+  // 本週一~五
+  const mon=getMonday(asOf),WN=["一","二","三","四","五"];
+  s+='<div class="sub" style="margin-top:12px">本週任務</div><div class="week">';
+  for(let i=0;i<5;i++){const ds=dateStr(new Date(mon.getFullYear(),mon.getMonth(),mon.getDate()+i));
+    const tries=h.filter(x=>x.d===ds),best=tries.reduce((m,x)=>Math.max(m,x.s),-1);
+    let cls="",txt="—";
+    if(l.earned.includes(ds)){cls="ok";txt="✅"+(best>=0?" "+best:"");}
+    else if(best>=0){cls="no";txt="❌ "+best;}
+    else if(ds<=asOfDay){txt="未做";}
+    s+='<div class="wd '+cls+'">週'+WN[i]+' '+ds.slice(5)+'<b>'+txt+'</b></div>';}
+  s+='</div>';
+  // 最近作答
+  const rec=h.slice().sort((a,b)=>b.at-a.at).slice(0,20);
+  s+='<div class="sub" style="margin-top:12px">最近作答紀錄'+(rec.length?"":"（尚無；自本功能上線後開始記錄分數）")+'</div>';
+  if(rec.length){s+='<div class="pscroll"><table class="ptable"><tr><th>題目日期</th><th>作答時間</th><th>分數</th><th>閱讀/文法/單字</th><th>結果</th></tr>'+
+    rec.map(x=>'<tr><td>'+escapeHtml(x.d)+'</td><td>'+fmtTime(x.at)+'</td><td><b>'+x.s+'</b> / '+TOTAL+'</td><td>'+x.r+' / '+x.g+' / '+x.v+'</td><td>'+
+      (x.p?(x.e?'✅ 達標入帳':'✅ 達標（練習）'):'❌ 未達標')+'</td></tr>').join("")+'</table></div>';}
+  const legacy=l.earned.filter(d=>!h.some(x=>x.d===d&&x.p)).length;
+  if(legacy)s+='<div class="hint" style="text-align:left">另有 '+legacy+' 天為功能上線前的達標紀錄（無分數明細）。</div>';
+  s+='<div class="hint" style="text-align:left">資料時間：'+fmtTime(sn.t)+'</div>';
+  if(!readonly)s+='<div class="pbtns"><button class="btn" id="shareBtn">📤 分享進度給家長</button>'+
+    '<button class="btn ghost" id="backupBtn">💾 複製備份碼</button><button class="btn ghost" id="restoreBtn">♻️ 還原備份</button></div>';
+  return s;}
+async function copyText(t,okMsg){try{await navigator.clipboard.writeText(t);toast(okMsg);}catch(e){prompt("請長按全選後複製：",t);}}
+function renderProgress(){const pc=$("progCard");if(!pc)return;const sn=snapshot();
+  const open=pc.querySelector("details")?pc.querySelector("details").open:false;
+  pc.innerHTML='<details'+(open?" open":"")+' style="margin-top:0"><summary>📊 學習進度與紀錄（可分享給家長）</summary><div class="dbody">'+progressHtml(sn,false)+'</div></details>';
+  $("shareBtn").onclick=async()=>{const sn=snapshot(),l=sn.l;
+    const url=location.origin+location.pathname+"#view="+enc(sn);
+    const text="📘 英文每日任務進度（"+fmtTime(sn.t)+"）\n累計達標 "+l.earned.length+" 天｜餘額 $"+l.balance.toFixed(2)+"｜已兌現 $"+l.redeemed.toFixed(2)+"\n點連結看明細：\n"+url;
+    if(navigator.share){try{await navigator.share({text});return;}catch(e){if(e&&e.name==="AbortError")return;}}
+    copyText(text,"進度已複製，貼到 LINE 傳給家長");};
+  $("backupBtn").onclick=()=>copyText(enc(snapshot()),"備份碼已複製，請貼到安全的地方保存");
+  $("restoreBtn").onclick=()=>{const c=prompt("貼上備份碼（或分享連結）：");if(!c)return;let o;
+    try{o=dec(c);}catch(e){toast("備份碼無法辨識");return;}
+    if(!confirm("將以備份（"+fmtTime(o.t)+"，餘額 $"+o.l.balance.toFixed(2)+"）覆蓋此裝置目前的紀錄，確定？"))return;
+    saveL(o.l);localStorage.setItem(HKEY,JSON.stringify(o.h));
+    o.l.earned.forEach(d=>localStorage.setItem(DONE_PREFIX+d,"1"));
+    renderBoard();renderProgress();renderMakeup();toast("已還原備份");};}
+function renderParentView(code){let sn;
+  ["board","makeupCard","quizCard"].forEach(id=>{$(id).style.display="none";});
+  try{sn=dec(code);}catch(e){$("progCard").innerHTML='<div class="err">連結內容無法讀取，請孩子重新分享一次。</div>';return;}
+  $("progCard").innerHTML='<span class="badge">👨‍👩‍👧 家長檢視（唯讀）</span><h2>孩子的學習進度</h2>'+progressHtml(sn,true)+
+    '<div class="hint" style="text-align:left">這是孩子分享當下的紀錄；要看最新進度請孩子再分享一次。</div>'+
+    '<div class="pbtns"><button class="btn ghost" onclick="location.href=location.pathname">前往做題頁</button></div>';}
 
 /* ---------- 測驗 ---------- */
 let QUIZ=null, FLAT=[], picks=[], graded=false;
@@ -269,6 +349,7 @@ function grade(){
     const ex=$("ex"+i);ex.innerHTML=(picks[i]===q.a?"✅ ":"❌ 正解 "+KEYS[q.a]+"：")+escapeHtml(q.ex||"");ex.classList.add("show");});
   const pass=correct>=PASS,firstTime=localStorage.getItem(DONE_PREFIX+QUIZ.date)!=="1";let earned=false;
   if(pass&&firstTime){localStorage.setItem(DONE_PREFIX+QUIZ.date,"1");earned=earn(QUIZ.date);renderMakeup();}
+  logAttempt({d:QUIZ.date,at:Date.now(),s:correct,r:secScore.reading,g:secScore.grammar,v:secScore.vocab,p:pass?1:0,e:earned?1:0});renderProgress();
   const res=$("result");res.className="result show "+(pass?"pass":"fail");
   res.innerHTML='<div class="big">'+(pass?"🏆":"💪")+'</div><div class="score">'+correct+' / '+TOTAL+'</div>'+
     '<div class="breakdown">閱讀 '+secScore.reading+'/'+secTot.reading+'　文法 '+secScore.grammar+'/'+secTot.grammar+'　單字 '+secScore.vocab+'/'+secTot.vocab+'</div>'+
@@ -279,7 +360,8 @@ function grade(){
   $("submitBtn").style.display="none";$("subcount").style.display="none";
   window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"});
 }
-renderBoard();loadQuiz();renderMakeup();
+if(location.hash.indexOf("#view=")===0){renderParentView(location.hash.slice(6));}
+else{renderBoard();renderProgress();loadQuiz();renderMakeup();}
 </script>
 </body>
 </html>
