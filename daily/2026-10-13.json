@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-13",
+  "title": "Sending a Package to Grandma",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "Amy's grandmother's birthday is tomorrow, so Amy and her brother Tom go to the post office to send her a package.\nThe clerk weighs the box and says, \"Standard mail is cheaper, but it takes five days to arrive.\" Tom looks worried. \"That's too slow! Grandma's birthday is tomorrow.\"\nThe clerk smiles. \"Express mail is faster. It only takes one day, but it's more expensive than standard mail.\"\nAmy thinks for a moment. \"We had better send it by express mail. We don't want to be late.\"\n\"Good idea,\" says Tom. \"Is the gift fragile?\"\n\"Yes, it's a glass photo frame,\" Amy says. \"Please pack it carefully.\"\nThe clerk checks the address on the package and nods. \"Don't worry. We will deliver it in time for her birthday.\"\nAmy and Tom pay for the express mail and leave the post office happily. They know Grandma will be surprised and happy when she opens her gift tomorrow.",
+  "vocab": [
+    {"w": "package", "pos": "n.", "d": "包裹", "example": "I need to send this package to my friend."},
+    {"w": "post office", "pos": "n.", "d": "郵局", "example": "The post office opens at nine in the morning."},
+    {"w": "clerk", "pos": "n.", "d": "店員；辦事員", "example": "The clerk weighed the package carefully."},
+    {"w": "weigh", "pos": "v.", "d": "稱重", "example": "Can you weigh this box for me?"},
+    {"w": "standard mail", "pos": "n.", "d": "普通郵件", "example": "Standard mail usually takes five days to arrive."},
+    {"w": "express mail", "pos": "n.", "d": "限時／快捷郵件", "example": "Express mail arrives faster than standard mail."},
+    {"w": "cheaper", "pos": "adj. (比較級)", "d": "比較便宜的", "example": "Standard mail is cheaper than express mail."},
+    {"w": "faster", "pos": "adj. (比較級)", "d": "比較快的", "example": "Express mail is faster than standard mail."},
+    {"w": "deliver", "pos": "v.", "d": "送達；投遞", "example": "The mail carrier will deliver it tomorrow."},
+    {"w": "address", "pos": "n.", "d": "地址", "example": "Please write the full address on the box."},
+    {"w": "fragile", "pos": "adj.", "d": "易碎的", "example": "The vase inside is fragile, so pack it well."},
+    {"w": "in time", "pos": "phrase", "d": "及時", "example": "We must send it in time for her birthday."},
+    {"w": "had better", "pos": "modal phrase", "d": "最好（表建議）", "example": "You had better choose express mail."}
+  ],
+  "grammar": [
+    "比較級形容詞 (comparative adjectives)：兩者比較時，形容詞加 -er 或用 more + 形容詞，後接 than，例如 cheaper than、more expensive than。",
+    "had better + 原形動詞：用來給建議或忠告，語氣比 should 更強烈，否定為 had better not。",
+    "It takes + 時間 + to + 原形動詞：表示「做某事需要花多少時間」的句型。"
+  ],
+  "sections": {
+    "reading": [
+      {"q": "Why do Amy and Tom go to the post office?", "opts": ["To buy stamps for school", "To send a birthday package to their grandmother", "To mail a letter to their teacher", "To return a package"], "a": 1, "ex": "文章開頭提到 Amy 的奶奶生日快到了，所以 Amy 和 Tom 去郵局寄包裹給奶奶，答案為 B。"},
+      {"q": "What does the clerk say about standard mail?", "opts": ["It is faster but more expensive", "It is cheaper but takes five days", "It cannot be used for fragile items", "It only works for addresses in Tainan"], "a": 1, "ex": "店員說 \"Standard mail is cheaper, but it takes five days to arrive.\"，普通郵件比較便宜但要五天，答案為 B。"},
+      {"q": "Why does Tom think standard mail is not a good choice?", "opts": ["It is too expensive", "The box is too heavy", "Grandma's birthday is tomorrow, so it's too slow", "The post office is closed tomorrow"], "a": 2, "ex": "Tom 說 \"That's too slow! Grandma's birthday is tomorrow.\"，因為奶奶明天生日，普通郵件太慢了，答案為 C。"},
+      {"q": "What is inside the package?", "opts": ["A cookbook", "A scarf", "A glass photo frame", "A bunch of flowers"], "a": 2, "ex": "Amy 說 \"it's a glass photo frame\"，禮物是玻璃相框，答案為 C。"},
+      {"q": "How does the clerk promise to help Amy and Tom?", "opts": ["By giving them a discount", "By delivering the package in time for the birthday", "By calling Grandma", "By repacking the gift for free"], "a": 1, "ex": "店員說 \"We will deliver it in time for her birthday.\"，承諾會及時送達，答案為 B。"}
+    ],
+    "grammar": [
+      {"q": "Express mail is ___ than standard mail.", "opts": ["expensive", "more expensive", "most expensive", "as expensive"], "a": 1, "ex": "兩者比較用比較級，多音節形容詞用 more + 形容詞 + than，故選 more expensive，答案為 B。"},
+      {"q": "It ___ five days for standard mail to arrive.", "opts": ["take", "takes", "taking", "took"], "a": 1, "ex": "主詞 It 為第三人稱單數，現在時態用 takes，句型為 It takes + 時間 + to V，答案為 B。"},
+      {"q": "You ___ send it by express mail if you want it to arrive quickly.", "opts": ["had better", "had better to", "had better not", "better had"], "a": 0, "ex": "had better 後面直接加原形動詞，不加 to，故選 had better，答案為 A。"},
+      {"q": "Of the two mailing choices, express mail is ___.", "opts": ["fast", "faster", "fastest", "more fast"], "a": 1, "ex": "只比較兩者時用比較級 faster，而非最高級 fastest，答案為 B。"},
+      {"q": "We had better ___ careful with fragile items.", "opts": ["be", "to be", "being", "been"], "a": 0, "ex": "had better 後接原形動詞 be，不可加 to 或變化型，答案為 A。"}
+    ],
+    "vocab": [
+      {"q": "\"weigh\" 的意思最接近：", "opts": ["稱重", "包裝", "寄送", "購買"], "a": 0, "ex": "weigh 作動詞意為「稱重」，例如店員用磅秤稱包裹重量，答案為 A。"},
+      {"q": "This vase is ___, so please be careful.", "opts": ["fragile", "fast", "cheap", "express"], "a": 0, "ex": "fragile 意為「易碎的」，花瓶易碎需要小心，答案為 A。"},
+      {"q": "\"in time\" 的意思是：", "opts": ["太晚了", "及時", "準時出發", "立刻取消"], "a": 1, "ex": "in time 意為「及時，趕得上」，例如及時送達給奶奶，答案為 B。"},
+      {"q": "The person who works at the post office counter is called a ___.", "opts": ["clerk", "vendor", "waiter", "stranger"], "a": 0, "ex": "clerk 指「店員、辦事員」，在郵局櫃檯工作的人稱為 clerk，答案為 A。"},
+      {"q": "\"deliver\" 的意思最接近：", "opts": ["稱重", "投遞／送達", "付款", "選擇"], "a": 1, "ex": "deliver 作動詞意為「投遞、送達」，例如郵差將包裹送達目的地，答案為 B。"}
+    ]
+  }
+}
