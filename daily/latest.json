@@ -1,50 +1,271 @@
 {
-  "date": "2026-10-13",
-  "title": "Sending a Package to Grandma",
+  "date": "2026-10-14",
+  "title": "A New Haircut Before the Talent Show",
   "level": "國中二~三年級 (Grade 8-9)",
   "note": "",
-  "passage": "Amy's grandmother's birthday is tomorrow, so Amy and her brother Tom go to the post office to send her a package.\nThe clerk weighs the box and says, \"Standard mail is cheaper, but it takes five days to arrive.\" Tom looks worried. \"That's too slow! Grandma's birthday is tomorrow.\"\nThe clerk smiles. \"Express mail is faster. It only takes one day, but it's more expensive than standard mail.\"\nAmy thinks for a moment. \"We had better send it by express mail. We don't want to be late.\"\n\"Good idea,\" says Tom. \"Is the gift fragile?\"\n\"Yes, it's a glass photo frame,\" Amy says. \"Please pack it carefully.\"\nThe clerk checks the address on the package and nods. \"Don't worry. We will deliver it in time for her birthday.\"\nAmy and Tom pay for the express mail and leave the post office happily. They know Grandma will be surprised and happy when she opens her gift tomorrow.",
+  "passage": "Lily is going to perform in the school talent show next week, so she decides to get a new haircut. She has never visited this hair salon before, but her friend Mia told her that the stylist here is very skilled.\nThe stylist, Mr. Chen, asks Lily what style she wants. \"I used to have long hair, but now I want something shorter and easier to take care of,\" Lily says.\nMr. Chen smiles and picks up his scissors. \"Don't worry. I have cut hair for more than ten years. I will make sure your hair looks great for the show.\"\nAfter thirty minutes, Mr. Chen finishes. Lily looks at her reflection in the mirror and is so surprised that she can hardly believe it is her own face. The new style is short, neat, and modern.\n\"Wow, I love it!\" Lily says happily. \"It's so different from my old hairstyle that none of my classmates will recognize me!\"\nMia, who has just arrived to pick her up, laughs and says, \"You look amazing! You should wear this style to the talent show for sure.\"\nLily pays for the haircut, thanks Mr. Chen, and leaves the salon feeling confident. She can't wait to perform on stage and show everyone her new look at the talent show.",
   "vocab": [
-    {"w": "package", "pos": "n.", "d": "包裹", "example": "I need to send this package to my friend."},
-    {"w": "post office", "pos": "n.", "d": "郵局", "example": "The post office opens at nine in the morning."},
-    {"w": "clerk", "pos": "n.", "d": "店員；辦事員", "example": "The clerk weighed the package carefully."},
-    {"w": "weigh", "pos": "v.", "d": "稱重", "example": "Can you weigh this box for me?"},
-    {"w": "standard mail", "pos": "n.", "d": "普通郵件", "example": "Standard mail usually takes five days to arrive."},
-    {"w": "express mail", "pos": "n.", "d": "限時／快捷郵件", "example": "Express mail arrives faster than standard mail."},
-    {"w": "cheaper", "pos": "adj. (比較級)", "d": "比較便宜的", "example": "Standard mail is cheaper than express mail."},
-    {"w": "faster", "pos": "adj. (比較級)", "d": "比較快的", "example": "Express mail is faster than standard mail."},
-    {"w": "deliver", "pos": "v.", "d": "送達；投遞", "example": "The mail carrier will deliver it tomorrow."},
-    {"w": "address", "pos": "n.", "d": "地址", "example": "Please write the full address on the box."},
-    {"w": "fragile", "pos": "adj.", "d": "易碎的", "example": "The vase inside is fragile, so pack it well."},
-    {"w": "in time", "pos": "phrase", "d": "及時", "example": "We must send it in time for her birthday."},
-    {"w": "had better", "pos": "modal phrase", "d": "最好（表建議）", "example": "You had better choose express mail."}
+    {
+      "w": "haircut",
+      "pos": "n.",
+      "d": "剪髮",
+      "example": "Lily got a new haircut before the talent show."
+    },
+    {
+      "w": "salon",
+      "pos": "n.",
+      "d": "美容院；沙龍",
+      "example": "This hair salon is famous in our neighborhood."
+    },
+    {
+      "w": "stylist",
+      "pos": "n.",
+      "d": "髮型設計師",
+      "example": "The stylist asked Lily what style she wanted."
+    },
+    {
+      "w": "skilled",
+      "pos": "adj.",
+      "d": "熟練的；有技術的",
+      "example": "Mr. Chen is a skilled stylist with ten years of experience."
+    },
+    {
+      "w": "scissors",
+      "pos": "n.",
+      "d": "剪刀",
+      "example": "The stylist picked up his scissors and started cutting."
+    },
+    {
+      "w": "take care of",
+      "pos": "phrase",
+      "d": "照顧；打理",
+      "example": "Short hair is easier to take care of."
+    },
+    {
+      "w": "neat",
+      "pos": "adj.",
+      "d": "整潔的",
+      "example": "Her new hairstyle looks neat and modern."
+    },
+    {
+      "w": "reflection",
+      "pos": "n.",
+      "d": "(鏡中)影像；倒影",
+      "example": "She looked at her reflection in the mirror."
+    },
+    {
+      "w": "recognize",
+      "pos": "v.",
+      "d": "認出",
+      "example": "None of my classmates will recognize me with this new look."
+    },
+    {
+      "w": "confident",
+      "pos": "adj.",
+      "d": "有自信的",
+      "example": "She left the salon feeling confident."
+    },
+    {
+      "w": "amazing",
+      "pos": "adj.",
+      "d": "令人驚艷的；了不起的",
+      "example": "You look amazing with your new haircut!"
+    },
+    {
+      "w": "perform",
+      "pos": "v.",
+      "d": "表演",
+      "example": "Lily will perform in the school talent show."
+    },
+    {
+      "w": "talent show",
+      "pos": "n.",
+      "d": "才藝表演",
+      "example": "The talent show is next week."
+    },
+    {
+      "w": "pick up",
+      "pos": "phrase",
+      "d": "接(某人)",
+      "example": "Mia came to pick Lily up after the haircut."
+    }
   ],
   "grammar": [
-    "比較級形容詞 (comparative adjectives)：兩者比較時，形容詞加 -er 或用 more + 形容詞，後接 than，例如 cheaper than、more expensive than。",
-    "had better + 原形動詞：用來給建議或忠告，語氣比 should 更強烈，否定為 had better not。",
-    "It takes + 時間 + to + 原形動詞：表示「做某事需要花多少時間」的句型。"
+    "現在完成時 (have/has + 過去分詞)：表示從過去持續到現在的經驗或動作，常與 never、for、since 連用，如 She has never visited this salon before. / He has cut hair for more than ten years.",
+    "used to + 原形動詞：表示過去的習慣或狀態，現在已不再如此，如 She used to have long hair, but now it's short.",
+    "so + 形容詞/副詞 + that...：表示「如此...以致於...」的結果，如 She is so surprised that she can hardly believe it. / It's so different that none of her classmates will recognize her."
   ],
   "sections": {
     "reading": [
-      {"q": "Why do Amy and Tom go to the post office?", "opts": ["To buy stamps for school", "To send a birthday package to their grandmother", "To mail a letter to their teacher", "To return a package"], "a": 1, "ex": "文章開頭提到 Amy 的奶奶生日快到了，所以 Amy 和 Tom 去郵局寄包裹給奶奶，答案為 B。"},
-      {"q": "What does the clerk say about standard mail?", "opts": ["It is faster but more expensive", "It is cheaper but takes five days", "It cannot be used for fragile items", "It only works for addresses in Tainan"], "a": 1, "ex": "店員說 \"Standard mail is cheaper, but it takes five days to arrive.\"，普通郵件比較便宜但要五天，答案為 B。"},
-      {"q": "Why does Tom think standard mail is not a good choice?", "opts": ["It is too expensive", "The box is too heavy", "Grandma's birthday is tomorrow, so it's too slow", "The post office is closed tomorrow"], "a": 2, "ex": "Tom 說 \"That's too slow! Grandma's birthday is tomorrow.\"，因為奶奶明天生日，普通郵件太慢了，答案為 C。"},
-      {"q": "What is inside the package?", "opts": ["A cookbook", "A scarf", "A glass photo frame", "A bunch of flowers"], "a": 2, "ex": "Amy 說 \"it's a glass photo frame\"，禮物是玻璃相框，答案為 C。"},
-      {"q": "How does the clerk promise to help Amy and Tom?", "opts": ["By giving them a discount", "By delivering the package in time for the birthday", "By calling Grandma", "By repacking the gift for free"], "a": 1, "ex": "店員說 \"We will deliver it in time for her birthday.\"，承諾會及時送達，答案為 B。"}
+      {
+        "q": "Why does Lily decide to get a new haircut?",
+        "opts": [
+          "Because her hair was too long and hot",
+          "Because she will perform in the school talent show",
+          "Because Mia told her to change her look",
+          "Because her old hairstyle was out of style"
+        ],
+        "a": 1,
+        "ex": "文章開頭提到 Lily 下週要在才藝表演中表演，所以決定剪新髮型，答案為 B。"
+      },
+      {
+        "q": "Who told Lily that the stylist at this salon is skilled?",
+        "opts": [
+          "Her mother",
+          "Mr. Chen himself",
+          "Mia",
+          "Lily's teacher"
+        ],
+        "a": 2,
+        "ex": "文章提到「her friend Mia told her that the stylist here is very skilled」，答案為 C。"
+      },
+      {
+        "q": "What did Lily's hair use to be like, according to the passage?",
+        "opts": [
+          "Short and curly",
+          "Long",
+          "Already short and modern",
+          "Dyed a bright color"
+        ],
+        "a": 1,
+        "ex": "Lily 說「I used to have long hair」，表示她以前頭髮是長的，答案為 B。"
+      },
+      {
+        "q": "How long has Mr. Chen been cutting hair?",
+        "opts": [
+          "About one year",
+          "About five years",
+          "More than ten years",
+          "Only thirty minutes"
+        ],
+        "a": 2,
+        "ex": "Mr. Chen 說「I have cut hair for more than ten years.」，答案為 C。"
+      },
+      {
+        "q": "How does Lily feel when she leaves the salon?",
+        "opts": [
+          "Confident",
+          "Worried",
+          "Disappointed",
+          "Confused"
+        ],
+        "a": 0,
+        "ex": "文章最後提到 Lily「leaves the salon feeling confident」，答案為 A。"
+      }
     ],
     "grammar": [
-      {"q": "Express mail is ___ than standard mail.", "opts": ["expensive", "more expensive", "most expensive", "as expensive"], "a": 1, "ex": "兩者比較用比較級，多音節形容詞用 more + 形容詞 + than，故選 more expensive，答案為 B。"},
-      {"q": "It ___ five days for standard mail to arrive.", "opts": ["take", "takes", "taking", "took"], "a": 1, "ex": "主詞 It 為第三人稱單數，現在時態用 takes，句型為 It takes + 時間 + to V，答案為 B。"},
-      {"q": "You ___ send it by express mail if you want it to arrive quickly.", "opts": ["had better", "had better to", "had better not", "better had"], "a": 0, "ex": "had better 後面直接加原形動詞，不加 to，故選 had better，答案為 A。"},
-      {"q": "Of the two mailing choices, express mail is ___.", "opts": ["fast", "faster", "fastest", "more fast"], "a": 1, "ex": "只比較兩者時用比較級 faster，而非最高級 fastest，答案為 B。"},
-      {"q": "We had better ___ careful with fragile items.", "opts": ["be", "to be", "being", "been"], "a": 0, "ex": "had better 後接原形動詞 be，不可加 to 或變化型，答案為 A。"}
+      {
+        "q": "Mr. Chen ______ hair for more than ten years.",
+        "opts": [
+          "cut",
+          "cuts",
+          "has cut",
+          "is cutting"
+        ],
+        "a": 2,
+        "ex": "表示從過去到現在持續的經驗，用現在完成時 has cut，答案為 C。"
+      },
+      {
+        "q": "Lily ______ have long hair, but now she likes it short.",
+        "opts": [
+          "use to",
+          "used to",
+          "is used to",
+          "uses to"
+        ],
+        "a": 1,
+        "ex": "used to + 原形動詞表示過去的習慣或狀態，現在已不再如此，答案為 B。"
+      },
+      {
+        "q": "Her new hairstyle is ______ different that none of her classmates will recognize her.",
+        "opts": [
+          "too",
+          "very",
+          "so",
+          "such"
+        ],
+        "a": 2,
+        "ex": "so + 形容詞 + that 表示「如此...以致於...」，故選 so，答案為 C。"
+      },
+      {
+        "q": "Which sentence correctly uses the present perfect with \"never\"?",
+        "opts": [
+          "She never has visited this salon.",
+          "She has never visited this salon before.",
+          "She have never visited this salon.",
+          "She never visit this salon before."
+        ],
+        "a": 1,
+        "ex": "現在完成時為 has/have + 過去分詞，never 放在 has/have 和過去分詞之間，第三人稱單數用 has，答案為 B。"
+      },
+      {
+        "q": "This new hairstyle is ______ to take care of than my old one.",
+        "opts": [
+          "easy",
+          "easier",
+          "easiest",
+          "more easy"
+        ],
+        "a": 1,
+        "ex": "兩者比較用比較級，easy 結尾 y 改 ier，故選 easier，答案為 B。"
+      }
     ],
     "vocab": [
-      {"q": "\"weigh\" 的意思最接近：", "opts": ["稱重", "包裝", "寄送", "購買"], "a": 0, "ex": "weigh 作動詞意為「稱重」，例如店員用磅秤稱包裹重量，答案為 A。"},
-      {"q": "This vase is ___, so please be careful.", "opts": ["fragile", "fast", "cheap", "express"], "a": 0, "ex": "fragile 意為「易碎的」，花瓶易碎需要小心，答案為 A。"},
-      {"q": "\"in time\" 的意思是：", "opts": ["太晚了", "及時", "準時出發", "立刻取消"], "a": 1, "ex": "in time 意為「及時，趕得上」，例如及時送達給奶奶，答案為 B。"},
-      {"q": "The person who works at the post office counter is called a ___.", "opts": ["clerk", "vendor", "waiter", "stranger"], "a": 0, "ex": "clerk 指「店員、辦事員」，在郵局櫃檯工作的人稱為 clerk，答案為 A。"},
-      {"q": "\"deliver\" 的意思最接近：", "opts": ["稱重", "投遞／送達", "付款", "選擇"], "a": 1, "ex": "deliver 作動詞意為「投遞、送達」，例如郵差將包裹送達目的地，答案為 B。"}
+      {
+        "q": "The ______ asked Lily what hairstyle she wanted before cutting her hair.",
+        "opts": [
+          "scissors",
+          "stylist",
+          "reflection",
+          "salon"
+        ],
+        "a": 1,
+        "ex": "stylist 指「髮型設計師」，是負責詢問並剪髮的人，答案為 B。"
+      },
+      {
+        "q": "\"neat\" 的意思最接近：",
+        "opts": [
+          "凌亂的",
+          "整潔的",
+          "昂貴的",
+          "困難的"
+        ],
+        "a": 1,
+        "ex": "neat 意為「整潔的」，用來形容乾淨俐落的髮型，答案為 B。"
+      },
+      {
+        "q": "Mr. Chen is very ______ ; he has cut hair for over ten years.",
+        "opts": [
+          "skilled",
+          "confused",
+          "nervous",
+          "careless"
+        ],
+        "a": 0,
+        "ex": "skilled 意為「熟練的、有技術的」，形容經驗豐富的師傅，答案為 A。"
+      },
+      {
+        "q": "\"recognize\" 的意思是：",
+        "opts": [
+          "推薦",
+          "認出",
+          "忽略",
+          "讚美"
+        ],
+        "a": 1,
+        "ex": "recognize 意為「認出」，例如朋友認不出改變造型後的自己，答案為 B。"
+      },
+      {
+        "q": "Mia came to the salon to ______ Lily after her haircut.",
+        "opts": [
+          "pick up",
+          "take care of",
+          "look after",
+          "show off"
+        ],
+        "a": 0,
+        "ex": "pick up 意為「接某人」，Mia 來接 Lily 回家，答案為 A。"
+      }
     ]
   }
 }
