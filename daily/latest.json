@@ -1,270 +1,264 @@
 {
-  "date": "2026-10-14",
-  "title": "A New Haircut Before the Talent Show",
+  "date": "2026-10-15",
+  "title": "A Lost Wallet at the Night Market",
   "level": "國中二~三年級 (Grade 8-9)",
   "note": "",
-  "passage": "Lily is going to perform in the school talent show next week, so she decides to get a new haircut. She has never visited this hair salon before, but her friend Mia told her that the stylist here is very skilled.\nThe stylist, Mr. Chen, asks Lily what style she wants. \"I used to have long hair, but now I want something shorter and easier to take care of,\" Lily says.\nMr. Chen smiles and picks up his scissors. \"Don't worry. I have cut hair for more than ten years. I will make sure your hair looks great for the show.\"\nAfter thirty minutes, Mr. Chen finishes. Lily looks at her reflection in the mirror and is so surprised that she can hardly believe it is her own face. The new style is short, neat, and modern.\n\"Wow, I love it!\" Lily says happily. \"It's so different from my old hairstyle that none of my classmates will recognize me!\"\nMia, who has just arrived to pick her up, laughs and says, \"You look amazing! You should wear this style to the talent show for sure.\"\nLily pays for the haircut, thanks Mr. Chen, and leaves the salon feeling confident. She can't wait to perform on stage and show everyone her new look at the talent show.",
+  "passage": "Tom and his sister Amy go to the night market every Thursday evening. The night market, which is near their house, sells many kinds of delicious food and cheap clothes.\nTonight, Amy wants to buy a bubble tea, but when she opens her bag, she can't find her wallet. \"Oh no! My wallet is missing!\" she says, feeling very nervous.\nTom tells her, \"Don't panic. If we ask the stall owners, they will help us look for it.\" They walk back to the stalls they visited and ask each owner carefully.\nAt the last stall, the owner who sells fried chicken smiles and says, \"A wallet was found by a kind customer a few minutes ago. It is kept at the information booth now.\" Amy feels relieved and runs to the booth.\nThe wallet, which contains her ID card and some cash, is returned to her safely. \"Thank you so much!\" Amy says happily.\nTom laughs and says, \"If you keep your wallet in your pocket next time, you won't lose it again!\" They walk through the crowded night market together, enjoying the bright lights and delicious smells.",
   "vocab": [
     {
-      "w": "haircut",
+      "w": "night market",
       "pos": "n.",
-      "d": "剪髮",
-      "example": "Lily got a new haircut before the talent show."
+      "d": "夜市",
+      "example": "We love walking around the night market on weekends."
     },
     {
-      "w": "salon",
+      "w": "stall",
       "pos": "n.",
-      "d": "美容院；沙龍",
-      "example": "This hair salon is famous in our neighborhood."
+      "d": "攤位",
+      "example": "Each stall in the night market sells different food."
     },
     {
-      "w": "stylist",
+      "w": "owner",
       "pos": "n.",
-      "d": "髮型設計師",
-      "example": "The stylist asked Lily what style she wanted."
+      "d": "老闆；主人",
+      "example": "The stall owner was very friendly to the customers."
     },
     {
-      "w": "skilled",
+      "w": "nervous",
       "pos": "adj.",
-      "d": "熟練的；有技術的",
-      "example": "Mr. Chen is a skilled stylist with ten years of experience."
+      "d": "緊張的",
+      "example": "Amy felt nervous when she couldn't find her wallet."
     },
     {
-      "w": "scissors",
-      "pos": "n.",
-      "d": "剪刀",
-      "example": "The stylist picked up his scissors and started cutting."
-    },
-    {
-      "w": "take care of",
-      "pos": "phrase",
-      "d": "照顧；打理",
-      "example": "Short hair is easier to take care of."
-    },
-    {
-      "w": "neat",
-      "pos": "adj.",
-      "d": "整潔的",
-      "example": "Her new hairstyle looks neat and modern."
-    },
-    {
-      "w": "reflection",
-      "pos": "n.",
-      "d": "(鏡中)影像；倒影",
-      "example": "She looked at her reflection in the mirror."
-    },
-    {
-      "w": "recognize",
+      "w": "panic",
       "pos": "v.",
-      "d": "認出",
-      "example": "None of my classmates will recognize me with this new look."
+      "d": "恐慌；驚慌",
+      "example": "Don't panic, we can find a way to solve the problem."
     },
     {
-      "w": "confident",
+      "w": "missing",
       "pos": "adj.",
-      "d": "有自信的",
-      "example": "She left the salon feeling confident."
+      "d": "不見的；遺失的",
+      "example": "Her wallet was missing from her bag."
     },
     {
-      "w": "amazing",
+      "w": "relieved",
       "pos": "adj.",
-      "d": "令人驚艷的；了不起的",
-      "example": "You look amazing with your new haircut!"
+      "d": "感到寬心的",
+      "example": "Amy felt relieved when she found her wallet."
     },
     {
-      "w": "perform",
+      "w": "return",
       "pos": "v.",
-      "d": "表演",
-      "example": "Lily will perform in the school talent show."
+      "d": "歸還",
+      "example": "The kind customer returned the wallet to the booth."
     },
     {
-      "w": "talent show",
+      "w": "safely",
+      "pos": "adv.",
+      "d": "安全地",
+      "example": "The lost wallet was returned to Amy safely."
+    },
+    {
+      "w": "crowded",
+      "pos": "adj.",
+      "d": "擁擠的",
+      "example": "The night market is always crowded on Thursday evenings."
+    },
+    {
+      "w": "customer",
       "pos": "n.",
-      "d": "才藝表演",
-      "example": "The talent show is next week."
+      "d": "顧客",
+      "example": "A kind customer found the wallet and gave it to the staff."
     },
     {
-      "w": "pick up",
-      "pos": "phrase",
-      "d": "接(某人)",
-      "example": "Mia came to pick Lily up after the haircut."
+      "w": "information booth",
+      "pos": "n.",
+      "d": "服務台；詢問處",
+      "example": "You can ask for help at the information booth."
+    },
+    {
+      "w": "kind",
+      "pos": "adj.",
+      "d": "親切的；善良的",
+      "example": "It was very kind of the customer to return the wallet."
     }
   ],
   "grammar": [
-    "現在完成時 (have/has + 過去分詞)：表示從過去持續到現在的經驗或動作，常與 never、for、since 連用，如 She has never visited this salon before. / He has cut hair for more than ten years.",
-    "used to + 原形動詞：表示過去的習慣或狀態，現在已不再如此，如 She used to have long hair, but now it's short.",
-    "so + 形容詞/副詞 + that...：表示「如此...以致於...」的結果，如 She is so surprised that she can hardly believe it. / It's so different that none of her classmates will recognize her."
+    "關係代詞 who / which 引導形容詞子句：who 修飾人，which 修飾事物，用來補充說明前面的名詞，如 The night market, which is near their house, sells many kinds of food. / The owner who sells fried chicken smiles and says...",
+    "被動語態 (be + 過去分詞)：強調動作的承受者而非執行者時使用，如 A wallet was found by a kind customer. / The wallet is kept at the information booth now.",
+    "第一條件句 (if + 現在簡單式, 主詞 + will + 原形動詞)：表示現實中可能發生的情況與其結果，如 If we ask the stall owners, they will help us look for it. / If you keep your wallet in your pocket, you won't lose it again."
   ],
   "sections": {
     "reading": [
       {
-        "q": "Why does Lily decide to get a new haircut?",
+        "q": "Why can't Amy buy a bubble tea at first?",
         "opts": [
-          "Because her hair was too long and hot",
-          "Because she will perform in the school talent show",
-          "Because Mia told her to change her look",
-          "Because her old hairstyle was out of style"
+          "She doesn't have enough money",
+          "She can't find her wallet",
+          "The stall is closed",
+          "She doesn't like bubble tea"
         ],
         "a": 1,
-        "ex": "文章開頭提到 Lily 下週要在才藝表演中表演，所以決定剪新髮型，答案為 B。"
+        "ex": "Amy 打開包包時發現錢包不見了，所以沒辦法買珍珠奶茶，答案為 B。"
       },
       {
-        "q": "Who told Lily that the stylist at this salon is skilled?",
+        "q": "What does Tom suggest they do to find the wallet?",
         "opts": [
-          "Her mother",
-          "Mr. Chen himself",
-          "Mia",
-          "Lily's teacher"
+          "Go home and look for it",
+          "Call the police",
+          "Ask the stall owners",
+          "Buy a new wallet"
         ],
         "a": 2,
-        "ex": "文章提到「her friend Mia told her that the stylist here is very skilled」，答案為 C。"
+        "ex": "Tom 說「If we ask the stall owners, they will help us look for it.」，建議去問攤位老闆，答案為 C。"
       },
       {
-        "q": "What did Lily's hair use to be like, according to the passage?",
+        "q": "Who found Amy's wallet?",
         "opts": [
-          "Short and curly",
-          "Long",
-          "Already short and modern",
-          "Dyed a bright color"
+          "Tom",
+          "The information booth staff",
+          "A kind customer",
+          "The fried chicken stall owner's daughter"
+        ],
+        "a": 2,
+        "ex": "文章提到「A wallet was found by a kind customer a few minutes ago.」，是一位好心的顧客找到的，答案為 C。"
+      },
+      {
+        "q": "Where is the wallet kept after it was found?",
+        "opts": [
+          "At the fried chicken stall",
+          "At the information booth",
+          "In Tom's pocket",
+          "At Amy's house"
         ],
         "a": 1,
-        "ex": "Lily 說「I used to have long hair」，表示她以前頭髮是長的，答案為 B。"
+        "ex": "文章提到錢包「is kept at the information booth now」，答案為 B。"
       },
       {
-        "q": "How long has Mr. Chen been cutting hair?",
+        "q": "What does Tom advise Amy to do next time?",
         "opts": [
-          "About one year",
-          "About five years",
-          "More than ten years",
-          "Only thirty minutes"
+          "Not bring a wallet",
+          "Keep her wallet in her pocket",
+          "Leave her bag at home",
+          "Ask a stranger to hold her wallet"
         ],
-        "a": 2,
-        "ex": "Mr. Chen 說「I have cut hair for more than ten years.」，答案為 C。"
-      },
-      {
-        "q": "How does Lily feel when she leaves the salon?",
-        "opts": [
-          "Confident",
-          "Worried",
-          "Disappointed",
-          "Confused"
-        ],
-        "a": 0,
-        "ex": "文章最後提到 Lily「leaves the salon feeling confident」，答案為 A。"
+        "a": 1,
+        "ex": "Tom 最後說「If you keep your wallet in your pocket next time, you won't lose it again!」，答案為 B。"
       }
     ],
     "grammar": [
       {
-        "q": "Mr. Chen ______ hair for more than ten years.",
+        "q": "The night market, ______ is near their house, sells many kinds of food.",
         "opts": [
-          "cut",
-          "cuts",
-          "has cut",
-          "is cutting"
+          "who",
+          "which",
+          "where",
+          "what"
+        ],
+        "a": 1,
+        "ex": "which 引導形容詞子句修飾事物（night market），並補充說明其位置，答案為 B。"
+      },
+      {
+        "q": "The owner ______ sells fried chicken smiles and says...",
+        "opts": [
+          "which",
+          "where",
+          "who",
+          "whose"
         ],
         "a": 2,
-        "ex": "表示從過去到現在持續的經驗，用現在完成時 has cut，答案為 C。"
+        "ex": "who 引導形容詞子句修飾人（the owner），答案為 C。"
       },
       {
-        "q": "Lily ______ have long hair, but now she likes it short.",
+        "q": "A wallet ______ by a kind customer a few minutes ago.",
         "opts": [
-          "use to",
-          "used to",
-          "is used to",
-          "uses to"
-        ],
-        "a": 1,
-        "ex": "used to + 原形動詞表示過去的習慣或狀態，現在已不再如此，答案為 B。"
-      },
-      {
-        "q": "Her new hairstyle is ______ different that none of her classmates will recognize her.",
-        "opts": [
-          "too",
-          "very",
-          "so",
-          "such"
+          "finds",
+          "found",
+          "was found",
+          "is finding"
         ],
         "a": 2,
-        "ex": "so + 形容詞 + that 表示「如此...以致於...」，故選 so，答案為 C。"
+        "ex": "被動語態 be + 過去分詞，強調錢包被找到這個動作的承受者，答案為 C。"
       },
       {
-        "q": "Which sentence correctly uses the present perfect with \"never\"?",
+        "q": "If we ask the stall owners, they ______ us look for it.",
         "opts": [
-          "She never has visited this salon.",
-          "She has never visited this salon before.",
-          "She have never visited this salon.",
-          "She never visit this salon before."
+          "help",
+          "helped",
+          "will help",
+          "helping"
         ],
-        "a": 1,
-        "ex": "現在完成時為 has/have + 過去分詞，never 放在 has/have 和過去分詞之間，第三人稱單數用 has，答案為 B。"
+        "a": 2,
+        "ex": "第一條件句：if + 現在簡單式，主要子句用 will + 原形動詞，答案為 C。"
       },
       {
-        "q": "This new hairstyle is ______ to take care of than my old one.",
+        "q": "If you keep your wallet in your pocket, you ______ it again.",
         "opts": [
-          "easy",
-          "easier",
-          "easiest",
-          "more easy"
+          "won't lose",
+          "don't lose",
+          "didn't lose",
+          "not lose"
         ],
-        "a": 1,
-        "ex": "兩者比較用比較級，easy 結尾 y 改 ier，故選 easier，答案為 B。"
+        "a": 0,
+        "ex": "第一條件句的否定形式，won't + 原形動詞表示「將不會」，答案為 A。"
       }
     ],
     "vocab": [
       {
-        "q": "The ______ asked Lily what hairstyle she wanted before cutting her hair.",
+        "q": "Amy felt very ______ when she couldn't find her wallet.",
         "opts": [
-          "scissors",
-          "stylist",
-          "reflection",
-          "salon"
-        ],
-        "a": 1,
-        "ex": "stylist 指「髮型設計師」，是負責詢問並剪髮的人，答案為 B。"
-      },
-      {
-        "q": "\"neat\" 的意思最接近：",
-        "opts": [
-          "凌亂的",
-          "整潔的",
-          "昂貴的",
-          "困難的"
-        ],
-        "a": 1,
-        "ex": "neat 意為「整潔的」，用來形容乾淨俐落的髮型，答案為 B。"
-      },
-      {
-        "q": "Mr. Chen is very ______ ; he has cut hair for over ten years.",
-        "opts": [
-          "skilled",
-          "confused",
+          "relieved",
           "nervous",
-          "careless"
-        ],
-        "a": 0,
-        "ex": "skilled 意為「熟練的、有技術的」，形容經驗豐富的師傅，答案為 A。"
-      },
-      {
-        "q": "\"recognize\" 的意思是：",
-        "opts": [
-          "推薦",
-          "認出",
-          "忽略",
-          "讚美"
+          "crowded",
+          "kind"
         ],
         "a": 1,
-        "ex": "recognize 意為「認出」，例如朋友認不出改變造型後的自己，答案為 B。"
+        "ex": "nervous 意為「緊張的」，符合找不到錢包時的心情，答案為 B。"
       },
       {
-        "q": "Mia came to the salon to ______ Lily after her haircut.",
+        "q": "\"panic\" 的意思最接近：",
         "opts": [
-          "pick up",
-          "take care of",
-          "look after",
-          "show off"
+          "恐慌",
+          "高興",
+          "道謝",
+          "原諒"
         ],
         "a": 0,
-        "ex": "pick up 意為「接某人」，Mia 來接 Lily 回家，答案為 A。"
+        "ex": "panic 意為「恐慌、驚慌」，答案為 A。"
+      },
+      {
+        "q": "The night market is always ______ on Thursday evenings.",
+        "opts": [
+          "missing",
+          "crowded",
+          "relieved",
+          "safely"
+        ],
+        "a": 1,
+        "ex": "crowded 意為「擁擠的」，用來形容夜市人多的樣子，答案為 B。"
+      },
+      {
+        "q": "\"return\" 的意思是：",
+        "opts": [
+          "購買",
+          "歸還",
+          "遺失",
+          "尋找"
+        ],
+        "a": 1,
+        "ex": "return 意為「歸還」，答案為 B。"
+      },
+      {
+        "q": "You can ask for help at the ______ if you lose something at the night market.",
+        "opts": [
+          "stall",
+          "information booth",
+          "pocket",
+          "bubble tea shop"
+        ],
+        "a": 1,
+        "ex": "information booth 意為「服務台」，可在此尋求協助，答案為 B。"
       }
     ]
   }

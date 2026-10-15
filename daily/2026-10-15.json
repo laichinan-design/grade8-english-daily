@@ -1,0 +1,265 @@
+{
+  "date": "2026-10-15",
+  "title": "A Lost Wallet at the Night Market",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "Tom and his sister Amy go to the night market every Thursday evening. The night market, which is near their house, sells many kinds of delicious food and cheap clothes.\nTonight, Amy wants to buy a bubble tea, but when she opens her bag, she can't find her wallet. \"Oh no! My wallet is missing!\" she says, feeling very nervous.\nTom tells her, \"Don't panic. If we ask the stall owners, they will help us look for it.\" They walk back to the stalls they visited and ask each owner carefully.\nAt the last stall, the owner who sells fried chicken smiles and says, \"A wallet was found by a kind customer a few minutes ago. It is kept at the information booth now.\" Amy feels relieved and runs to the booth.\nThe wallet, which contains her ID card and some cash, is returned to her safely. \"Thank you so much!\" Amy says happily.\nTom laughs and says, \"If you keep your wallet in your pocket next time, you won't lose it again!\" They walk through the crowded night market together, enjoying the bright lights and delicious smells.",
+  "vocab": [
+    {
+      "w": "night market",
+      "pos": "n.",
+      "d": "夜市",
+      "example": "We love walking around the night market on weekends."
+    },
+    {
+      "w": "stall",
+      "pos": "n.",
+      "d": "攤位",
+      "example": "Each stall in the night market sells different food."
+    },
+    {
+      "w": "owner",
+      "pos": "n.",
+      "d": "老闆；主人",
+      "example": "The stall owner was very friendly to the customers."
+    },
+    {
+      "w": "nervous",
+      "pos": "adj.",
+      "d": "緊張的",
+      "example": "Amy felt nervous when she couldn't find her wallet."
+    },
+    {
+      "w": "panic",
+      "pos": "v.",
+      "d": "恐慌；驚慌",
+      "example": "Don't panic, we can find a way to solve the problem."
+    },
+    {
+      "w": "missing",
+      "pos": "adj.",
+      "d": "不見的；遺失的",
+      "example": "Her wallet was missing from her bag."
+    },
+    {
+      "w": "relieved",
+      "pos": "adj.",
+      "d": "感到寬心的",
+      "example": "Amy felt relieved when she found her wallet."
+    },
+    {
+      "w": "return",
+      "pos": "v.",
+      "d": "歸還",
+      "example": "The kind customer returned the wallet to the booth."
+    },
+    {
+      "w": "safely",
+      "pos": "adv.",
+      "d": "安全地",
+      "example": "The lost wallet was returned to Amy safely."
+    },
+    {
+      "w": "crowded",
+      "pos": "adj.",
+      "d": "擁擠的",
+      "example": "The night market is always crowded on Thursday evenings."
+    },
+    {
+      "w": "customer",
+      "pos": "n.",
+      "d": "顧客",
+      "example": "A kind customer found the wallet and gave it to the staff."
+    },
+    {
+      "w": "information booth",
+      "pos": "n.",
+      "d": "服務台；詢問處",
+      "example": "You can ask for help at the information booth."
+    },
+    {
+      "w": "kind",
+      "pos": "adj.",
+      "d": "親切的；善良的",
+      "example": "It was very kind of the customer to return the wallet."
+    }
+  ],
+  "grammar": [
+    "關係代詞 who / which 引導形容詞子句：who 修飾人，which 修飾事物，用來補充說明前面的名詞，如 The night market, which is near their house, sells many kinds of food. / The owner who sells fried chicken smiles and says...",
+    "被動語態 (be + 過去分詞)：強調動作的承受者而非執行者時使用，如 A wallet was found by a kind customer. / The wallet is kept at the information booth now.",
+    "第一條件句 (if + 現在簡單式, 主詞 + will + 原形動詞)：表示現實中可能發生的情況與其結果，如 If we ask the stall owners, they will help us look for it. / If you keep your wallet in your pocket, you won't lose it again."
+  ],
+  "sections": {
+    "reading": [
+      {
+        "q": "Why can't Amy buy a bubble tea at first?",
+        "opts": [
+          "She doesn't have enough money",
+          "She can't find her wallet",
+          "The stall is closed",
+          "She doesn't like bubble tea"
+        ],
+        "a": 1,
+        "ex": "Amy 打開包包時發現錢包不見了，所以沒辦法買珍珠奶茶，答案為 B。"
+      },
+      {
+        "q": "What does Tom suggest they do to find the wallet?",
+        "opts": [
+          "Go home and look for it",
+          "Call the police",
+          "Ask the stall owners",
+          "Buy a new wallet"
+        ],
+        "a": 2,
+        "ex": "Tom 說「If we ask the stall owners, they will help us look for it.」，建議去問攤位老闆，答案為 C。"
+      },
+      {
+        "q": "Who found Amy's wallet?",
+        "opts": [
+          "Tom",
+          "The information booth staff",
+          "A kind customer",
+          "The fried chicken stall owner's daughter"
+        ],
+        "a": 2,
+        "ex": "文章提到「A wallet was found by a kind customer a few minutes ago.」，是一位好心的顧客找到的，答案為 C。"
+      },
+      {
+        "q": "Where is the wallet kept after it was found?",
+        "opts": [
+          "At the fried chicken stall",
+          "At the information booth",
+          "In Tom's pocket",
+          "At Amy's house"
+        ],
+        "a": 1,
+        "ex": "文章提到錢包「is kept at the information booth now」，答案為 B。"
+      },
+      {
+        "q": "What does Tom advise Amy to do next time?",
+        "opts": [
+          "Not bring a wallet",
+          "Keep her wallet in her pocket",
+          "Leave her bag at home",
+          "Ask a stranger to hold her wallet"
+        ],
+        "a": 1,
+        "ex": "Tom 最後說「If you keep your wallet in your pocket next time, you won't lose it again!」，答案為 B。"
+      }
+    ],
+    "grammar": [
+      {
+        "q": "The night market, ______ is near their house, sells many kinds of food.",
+        "opts": [
+          "who",
+          "which",
+          "where",
+          "what"
+        ],
+        "a": 1,
+        "ex": "which 引導形容詞子句修飾事物（night market），並補充說明其位置，答案為 B。"
+      },
+      {
+        "q": "The owner ______ sells fried chicken smiles and says...",
+        "opts": [
+          "which",
+          "where",
+          "who",
+          "whose"
+        ],
+        "a": 2,
+        "ex": "who 引導形容詞子句修飾人（the owner），答案為 C。"
+      },
+      {
+        "q": "A wallet ______ by a kind customer a few minutes ago.",
+        "opts": [
+          "finds",
+          "found",
+          "was found",
+          "is finding"
+        ],
+        "a": 2,
+        "ex": "被動語態 be + 過去分詞，強調錢包被找到這個動作的承受者，答案為 C。"
+      },
+      {
+        "q": "If we ask the stall owners, they ______ us look for it.",
+        "opts": [
+          "help",
+          "helped",
+          "will help",
+          "helping"
+        ],
+        "a": 2,
+        "ex": "第一條件句：if + 現在簡單式，主要子句用 will + 原形動詞，答案為 C。"
+      },
+      {
+        "q": "If you keep your wallet in your pocket, you ______ it again.",
+        "opts": [
+          "won't lose",
+          "don't lose",
+          "didn't lose",
+          "not lose"
+        ],
+        "a": 0,
+        "ex": "第一條件句的否定形式，won't + 原形動詞表示「將不會」，答案為 A。"
+      }
+    ],
+    "vocab": [
+      {
+        "q": "Amy felt very ______ when she couldn't find her wallet.",
+        "opts": [
+          "relieved",
+          "nervous",
+          "crowded",
+          "kind"
+        ],
+        "a": 1,
+        "ex": "nervous 意為「緊張的」，符合找不到錢包時的心情，答案為 B。"
+      },
+      {
+        "q": "\"panic\" 的意思最接近：",
+        "opts": [
+          "恐慌",
+          "高興",
+          "道謝",
+          "原諒"
+        ],
+        "a": 0,
+        "ex": "panic 意為「恐慌、驚慌」，答案為 A。"
+      },
+      {
+        "q": "The night market is always ______ on Thursday evenings.",
+        "opts": [
+          "missing",
+          "crowded",
+          "relieved",
+          "safely"
+        ],
+        "a": 1,
+        "ex": "crowded 意為「擁擠的」，用來形容夜市人多的樣子，答案為 B。"
+      },
+      {
+        "q": "\"return\" 的意思是：",
+        "opts": [
+          "購買",
+          "歸還",
+          "遺失",
+          "尋找"
+        ],
+        "a": 1,
+        "ex": "return 意為「歸還」，答案為 B。"
+      },
+      {
+        "q": "You can ask for help at the ______ if you lose something at the night market.",
+        "opts": [
+          "stall",
+          "information booth",
+          "pocket",
+          "bubble tea shop"
+        ],
+        "a": 1,
+        "ex": "information booth 意為「服務台」，可在此尋求協助，答案為 B。"
+      }
+    ]
+  }
+}
