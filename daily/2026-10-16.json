@@ -1,0 +1,270 @@
+{
+  "date": "2026-10-16",
+  "title": "A Surprise Birthday Party for Mom",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "Next Saturday is Mom's fortieth birthday, so Dad and I are going to throw a surprise party for her. We must keep it a secret, or the surprise will be ruined! Dad is going to invite Aunt Lily and our neighbors, and I am going to order a chocolate cake from the bakery near our apartment.\nOn Friday night, Dad told me, \"We should decorate the living room early in the morning while Mom is still asleep.\" I agreed because Mom usually wakes up late on Saturdays.\nThat morning, we blew up balloons and hung a colorful banner on the wall. My little brother was so excited that he could hardly stay quiet. \"Shh! Don't make any noise,\" I whispered to him. \"If Mom hears us, she will know something is going on.\"\nWhen Mom finally walked into the living room, everyone shouted, \"Happy birthday!\" at the same time. She looked surprised and happy. Tears filled her eyes, and she said, \"This is the best birthday I have ever had.\"\nWe sang songs, played games, and ate the delicious cake together. Mom thanked everyone for coming and for keeping the secret so well. Before we said goodbye, she told us, \"You must promise to do something fun like this again next year.\" We all laughed and promised we would.\nThat night, I realized that giving someone a happy surprise can make both sides feel joyful. I can't wait to plan another party for her next year.",
+  "vocab": [
+    {
+      "w": "surprise",
+      "pos": "n./adj.",
+      "d": "驚喜；意外的",
+      "example": "The surprise party made Mom very happy."
+    },
+    {
+      "w": "secret",
+      "pos": "n.",
+      "d": "秘密",
+      "example": "Keeping a secret is sometimes hard."
+    },
+    {
+      "w": "invite",
+      "pos": "v.",
+      "d": "邀請",
+      "example": "We are going to invite all our neighbors."
+    },
+    {
+      "w": "decorate",
+      "pos": "v.",
+      "d": "裝飾",
+      "example": "They decorated the living room with balloons."
+    },
+    {
+      "w": "banner",
+      "pos": "n.",
+      "d": "橫幅",
+      "example": "We hung a colorful banner on the wall."
+    },
+    {
+      "w": "excited",
+      "pos": "adj.",
+      "d": "興奮的",
+      "example": "My brother was too excited to stay quiet."
+    },
+    {
+      "w": "whisper",
+      "pos": "v.",
+      "d": "低聲說",
+      "example": "I whispered to him to be quiet."
+    },
+    {
+      "w": "noise",
+      "pos": "n.",
+      "d": "噪音；聲音",
+      "example": "Don't make any noise, or Mom will wake up."
+    },
+    {
+      "w": "shout",
+      "pos": "v.",
+      "d": "大喊",
+      "example": "Everyone shouted, 'Happy birthday!' together."
+    },
+    {
+      "w": "tear",
+      "pos": "n.",
+      "d": "眼淚",
+      "example": "Tears filled her eyes when she saw us."
+    },
+    {
+      "w": "promise",
+      "pos": "v.",
+      "d": "承諾",
+      "example": "She promised to come to the party."
+    },
+    {
+      "w": "joyful",
+      "pos": "adj.",
+      "d": "快樂的",
+      "example": "Giving a surprise can make both sides joyful."
+    },
+    {
+      "w": "bakery",
+      "pos": "n.",
+      "d": "麵包店",
+      "example": "I ordered a cake from the bakery."
+    },
+    {
+      "w": "neighbor",
+      "pos": "n.",
+      "d": "鄰居",
+      "example": "Our neighbors came to the party too."
+    }
+  ],
+  "grammar": [
+    "be going to / will 表示未來的計畫或預測：be going to 常用於事先計畫好的未來動作，will 常用於臨時決定或推測結果，如 We are going to throw a surprise party. / If Mom hears us, she will know something is going on.",
+    "must / should 表達義務與建議：must 語氣強烈，表示「一定要」；should 語氣較溫和，表示「應該」，如 We must keep it a secret. / We should decorate the living room early."
+  ],
+  "sections": {
+    "reading": [
+      {
+        "q": "Whose birthday is the party for?",
+        "opts": [
+          "Dad",
+          "Mom",
+          "Aunt Lily",
+          "The little brother"
+        ],
+        "a": 1,
+        "ex": "文章開頭提到 \"Next Saturday is Mom's fortieth birthday\"，所以派對是為媽媽辦的。"
+      },
+      {
+        "q": "Who ordered the cake?",
+        "opts": [
+          "Dad",
+          "The little brother",
+          "\"I\" (the narrator)",
+          "Aunt Lily"
+        ],
+        "a": 2,
+        "ex": "文中提到 \"I am going to order a chocolate cake from the bakery\"，是敘述者訂的蛋糕。"
+      },
+      {
+        "q": "What did Dad suggest doing on Saturday morning?",
+        "opts": [
+          "Sleep late",
+          "Decorate the living room early",
+          "Go to the bakery",
+          "Call Aunt Lily"
+        ],
+        "a": 1,
+        "ex": "Dad 說 \"We should decorate the living room early in the morning while Mom is still asleep.\""
+      },
+      {
+        "q": "Why did the narrator whisper to the little brother?",
+        "opts": [
+          "Because he was crying",
+          "Because he was too loud and excited",
+          "Because Mom was calling",
+          "Because the cake arrived"
+        ],
+        "a": 1,
+        "ex": "弟弟太興奮，快要吵起來，所以敘述者低聲提醒他不要發出聲音。"
+      },
+      {
+        "q": "What did Mom ask everyone to promise?",
+        "opts": [
+          "To clean the house",
+          "To buy a bigger cake",
+          "To do something fun again next year",
+          "To invite more neighbors"
+        ],
+        "a": 2,
+        "ex": "Mom 說 \"You must promise to do something fun like this again next year.\""
+      }
+    ],
+    "grammar": [
+      {
+        "q": "We ___ a surprise party for Mom next Saturday.",
+        "opts": [
+          "are going to throw",
+          "throws",
+          "was throwing",
+          "have thrown"
+        ],
+        "a": 0,
+        "ex": "表示未來的計畫用 be going to + 動詞原形，主詞 We 搭配 are going to throw。"
+      },
+      {
+        "q": "If Mom hears us, she ___ know something is going on.",
+        "opts": [
+          "will",
+          "is",
+          "was",
+          "has"
+        ],
+        "a": 0,
+        "ex": "if 條件句中，主要子句常用 will 表示未來的結果。"
+      },
+      {
+        "q": "We ___ keep it a secret, or the surprise will be ruined.",
+        "opts": [
+          "can",
+          "must",
+          "may",
+          "could"
+        ],
+        "a": 1,
+        "ex": "must 表達強烈的義務「必須」，符合「一定要保密」的語意。"
+      },
+      {
+        "q": "Dad told me, \"We ___ decorate the living room early in the morning.\"",
+        "opts": [
+          "should",
+          "can",
+          "were",
+          "did"
+        ],
+        "a": 0,
+        "ex": "should 用來提出建議，語氣比 must 溫和，符合 Dad 提出的建議。"
+      },
+      {
+        "q": "My little brother ___ so excited that he could hardly stay quiet.",
+        "opts": [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        "a": 1,
+        "ex": "過去時態描述過去發生的事，主詞 brother（單數）搭配 was。"
+      }
+    ],
+    "vocab": [
+      {
+        "q": "\"Keeping a ___ is sometimes hard.\" (something you must not tell others)",
+        "opts": [
+          "secret",
+          "banner",
+          "bakery",
+          "noise"
+        ],
+        "a": 0,
+        "ex": "secret 意思是「秘密」，符合句意「保密有時很難」。"
+      },
+      {
+        "q": "The opposite of \"quiet\" in the passage is ___.",
+        "opts": [
+          "whisper",
+          "noise",
+          "tear",
+          "promise"
+        ],
+        "a": 1,
+        "ex": "noise 指「噪音、聲音」，與 quiet（安靜）相對。"
+      },
+      {
+        "q": "\"We ___ to come to the party.\" means she gave her word.",
+        "opts": [
+          "decorated",
+          "shouted",
+          "promised",
+          "whispered"
+        ],
+        "a": 2,
+        "ex": "promise 意思是「承諾」，表示給出保證。"
+      },
+      {
+        "q": "Which word means \"a shop that sells bread and cakes\"?",
+        "opts": [
+          "neighbor",
+          "bakery",
+          "banner",
+          "secret"
+        ],
+        "a": 1,
+        "ex": "bakery 意思是「麵包店」，專賣麵包和蛋糕的商店。"
+      },
+      {
+        "q": "\"Everyone ___ 'Happy birthday!' at the same time.\" (said loudly)",
+        "opts": [
+          "whispered",
+          "shouted",
+          "promised",
+          "decorated"
+        ],
+        "a": 1,
+        "ex": "shout 意思是「大喊」，符合大家一起大聲說生日快樂的情境。"
+      }
+    ]
+  }
+}
