@@ -1,0 +1,276 @@
+{
+  "date": "2026-10-19",
+  "title": "A Class Trip to the Science Museum",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "Today our class went to the City Science Museum for a field trip. I have never visited such a large museum before, so I felt both excited and a little nervous.\n\nAs soon as we arrived, our guide led us to the robot exhibit. The robots could dance and even answer simple questions. My classmate Tom said, \"This robot is more interesting than the one we saw on TV!\" Everyone laughed and agreed.\n\nNext, we explored the dinosaur hall. I had never seen such a huge dinosaur model before. Our teacher explained, \"Scientists have discovered many dinosaur bones around the world.\" I was curious about how old the bones were, so I asked the guide many questions.\n\nAfter lunch, we watched an experiment about electricity. The scientist showed us how to make a small light bulb shine using a simple circuit. \"This is the most amazing experiment I have ever seen,\" Mia whispered to me.\n\nBecause there was a large crowd near the final exhibit, we had to wait in line for almost twenty minutes. Still, nobody complained because everyone wanted to try the hands-on activities.\n\nBefore we left, our teacher said, \"I hope all of you will remember what you have learned today.\" I believe this field trip is the best school trip I have ever had, and I can't wait to tell my parents about the robots and the dinosaurs.",
+  "vocab": [
+    {
+      "w": "museum",
+      "pos": "n.",
+      "d": "博物館",
+      "example": "Our class went to the City Science Museum."
+    },
+    {
+      "w": "exhibit",
+      "pos": "n.",
+      "d": "展覽品",
+      "example": "Our guide led us to the robot exhibit."
+    },
+    {
+      "w": "guide",
+      "pos": "n.",
+      "d": "導覽員",
+      "example": "The guide answered many of our questions."
+    },
+    {
+      "w": "robot",
+      "pos": "n.",
+      "d": "機器人",
+      "example": "The robots could dance and answer questions."
+    },
+    {
+      "w": "nervous",
+      "pos": "adj.",
+      "d": "緊張的",
+      "example": "I felt a little nervous before the trip."
+    },
+    {
+      "w": "explore",
+      "pos": "v.",
+      "d": "探索",
+      "example": "We explored the dinosaur hall after that."
+    },
+    {
+      "w": "dinosaur",
+      "pos": "n.",
+      "d": "恐龍",
+      "example": "I had never seen such a huge dinosaur model."
+    },
+    {
+      "w": "huge",
+      "pos": "adj.",
+      "d": "巨大的",
+      "example": "The dinosaur model was huge."
+    },
+    {
+      "w": "scientist",
+      "pos": "n.",
+      "d": "科學家",
+      "example": "Scientists have discovered many dinosaur bones."
+    },
+    {
+      "w": "discover",
+      "pos": "v.",
+      "d": "發現",
+      "example": "Scientists have discovered dinosaur bones around the world."
+    },
+    {
+      "w": "curious",
+      "pos": "adj.",
+      "d": "好奇的",
+      "example": "I was curious about how old the bones were."
+    },
+    {
+      "w": "experiment",
+      "pos": "n.",
+      "d": "實驗",
+      "example": "We watched an experiment about electricity."
+    },
+    {
+      "w": "electricity",
+      "pos": "n.",
+      "d": "電",
+      "example": "The experiment was about electricity."
+    },
+    {
+      "w": "amazing",
+      "pos": "adj.",
+      "d": "驚人的",
+      "example": "This is the most amazing experiment I have ever seen."
+    },
+    {
+      "w": "crowd",
+      "pos": "n.",
+      "d": "人群",
+      "example": "There was a large crowd near the final exhibit."
+    }
+  ],
+  "grammar": [
+    "現在完成時 (have/has + 過去分詞) 表示經驗或影響：描述「從過去到現在的經驗或已完成的動作」，如 I have never visited such a large museum before. / Scientists have discovered many dinosaur bones.",
+    "比較級與最高級 (comparative / superlative)：比較級用 more + 形容詞 + than 比較兩者，最高級用 the most + 形容詞 表示「最…」，如 This robot is more interesting than the one we saw on TV. / This is the most amazing experiment I have ever seen."
+  ],
+  "sections": {
+    "reading": [
+      {
+        "q": "Where did the class go for the field trip?",
+        "opts": [
+          "A zoo",
+          "A science museum",
+          "An art gallery",
+          "A library"
+        ],
+        "a": 1,
+        "ex": "文章一開始提到 \"Today our class went to the City Science Museum for a field trip.\""
+      },
+      {
+        "q": "What did the robots do at the exhibit?",
+        "opts": [
+          "They cooked food",
+          "They danced and answered questions",
+          "They painted pictures",
+          "They sang songs"
+        ],
+        "a": 1,
+        "ex": "文中提到 \"The robots could dance and even answer simple questions.\""
+      },
+      {
+        "q": "What did the scientist show the class?",
+        "opts": [
+          "How to build a robot",
+          "How to draw a dinosaur",
+          "How to make a light bulb shine using a circuit",
+          "How to find dinosaur bones"
+        ],
+        "a": 2,
+        "ex": "文中寫道 \"The scientist showed us how to make a small light bulb shine using a simple circuit.\""
+      },
+      {
+        "q": "Why did the class have to wait in line?",
+        "opts": [
+          "The museum was closing",
+          "There was a large crowd near the final exhibit",
+          "The guide was late",
+          "It started to rain"
+        ],
+        "a": 1,
+        "ex": "文中提到 \"Because there was a large crowd near the final exhibit, we had to wait in line.\""
+      },
+      {
+        "q": "How did the narrator feel about the field trip?",
+        "opts": [
+          "Bored and tired",
+          "Confused and worried",
+          "It was the best school trip ever",
+          "Too noisy to enjoy"
+        ],
+        "a": 2,
+        "ex": "文末敘述者說 \"I believe this field trip is the best school trip I have ever had.\""
+      }
+    ],
+    "grammar": [
+      {
+        "q": "I ___ never visited such a large museum before.",
+        "opts": [
+          "have",
+          "has",
+          "had",
+          "am"
+        ],
+        "a": 0,
+        "ex": "主詞 I 搭配現在完成時用 have，have never visited 表示「從未」有過的經驗。"
+      },
+      {
+        "q": "Scientists ___ discovered many dinosaur bones around the world.",
+        "opts": [
+          "has",
+          "have",
+          "is",
+          "was"
+        ],
+        "a": 1,
+        "ex": "Scientists 是複數主詞，現在完成時須用 have + 過去分詞。"
+      },
+      {
+        "q": "This robot is ___ interesting than the one we saw on TV.",
+        "opts": [
+          "more",
+          "most",
+          "much",
+          "very"
+        ],
+        "a": 0,
+        "ex": "比較兩者用比較級 more + 形容詞 + than。"
+      },
+      {
+        "q": "This is ___ amazing experiment I have ever seen.",
+        "opts": [
+          "more",
+          "most",
+          "the most",
+          "very"
+        ],
+        "a": 2,
+        "ex": "最高級須加 the，the most + 形容詞表示「最…的」。"
+      },
+      {
+        "q": "I believe this field trip is ___ school trip I have ever had.",
+        "opts": [
+          "a good",
+          "the best",
+          "better",
+          "best"
+        ],
+        "a": 1,
+        "ex": "最高級形容詞前要加 the，the best 表示「最好的」。"
+      }
+    ],
+    "vocab": [
+      {
+        "q": "A place where you can see historical or scientific objects on display is called a ___.",
+        "opts": [
+          "museum",
+          "crowd",
+          "circuit",
+          "guide"
+        ],
+        "a": 0,
+        "ex": "museum 意思是「博物館」，是展示科學或歷史物品的地方。"
+      },
+      {
+        "q": "The word \"huge\" in the passage means ___.",
+        "opts": [
+          "tiny",
+          "very big",
+          "old",
+          "dangerous"
+        ],
+        "a": 1,
+        "ex": "huge 意思是「巨大的」，等於 very big。"
+      },
+      {
+        "q": "\"I was ___ about how old the bones were\" means I wanted to know more.",
+        "opts": [
+          "nervous",
+          "curious",
+          "amazing",
+          "crowd"
+        ],
+        "a": 1,
+        "ex": "curious 意思是「好奇的」，表示想知道更多資訊。"
+      },
+      {
+        "q": "A person who leads visitors and explains things during a trip is a ___.",
+        "opts": [
+          "scientist",
+          "guide",
+          "dinosaur",
+          "exhibit"
+        ],
+        "a": 1,
+        "ex": "guide 意思是「導覽員」，負責帶領並說明參觀內容。"
+      },
+      {
+        "q": "The opposite of \"calm\" in the context of feeling worried before something new is ___.",
+        "opts": [
+          "nervous",
+          "curious",
+          "amazing",
+          "huge"
+        ],
+        "a": 0,
+        "ex": "nervous 意思是「緊張的」，與 calm（冷靜）相反。"
+      }
+    ]
+  }
+}
