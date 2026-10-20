@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-20",
+  "title": "A Rainy Saturday at the Bookstore",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "Last Saturday, it was raining heavily in the morning, so Mia decided to visit the new bookstore near her apartment instead of going to the park.\n\nWhile she was walking down the street, she saw her classmate Tony standing under the bookstore's blue sign. \"What are you doing here?\" Mia asked with a smile. Tony said he came to buy a dictionary to prepare for the English contest next month.\n\nInside the bookstore, the shelves were full of novels, comic books, and magazines. A friendly clerk greeted them and recommended a popular mystery novel. \"This story is exciting enough to keep you reading all night,\" she said. Mia was curious about the ending, so she picked up a copy right away.\n\nTony looked carefully through several dictionaries before choosing the thickest one. \"I need this dictionary to look up difficult words quickly,\" he explained. While Tony was paying for his dictionary, Mia noticed a small coffee corner in the back of the store, and they decided to sit there and chat about their weekend plans.\n\nBy the time they left the bookstore, the rain had already stopped, and the sky was turning bright again. \"This was actually a better afternoon than I expected,\" Tony said happily. Mia agreed and promised to lend him the mystery novel once she finished it. They walked home together, feeling glad that the rainy morning had turned into such an enjoyable day.",
+  "vocab": [
+    {"w": "bookstore", "pos": "n.", "d": "書店", "example": "Mia decided to visit the new bookstore near her apartment."},
+    {"w": "apartment", "pos": "n.", "d": "公寓", "example": "My family lives in a small apartment downtown."},
+    {"w": "dictionary", "pos": "n.", "d": "字典", "example": "Tony came to buy a dictionary for the English contest."},
+    {"w": "contest", "pos": "n.", "d": "比賽", "example": "She will join the speech contest next month."},
+    {"w": "shelf", "pos": "n.", "d": "書架", "example": "The shelves were full of novels and magazines."},
+    {"w": "novel", "pos": "n.", "d": "小說", "example": "The clerk recommended a popular mystery novel."},
+    {"w": "clerk", "pos": "n.", "d": "店員", "example": "A friendly clerk greeted them at the door."},
+    {"w": "recommend", "pos": "v.", "d": "推薦", "example": "Can you recommend a good book for me?"},
+    {"w": "mystery", "pos": "n.", "d": "懸疑故事；謎", "example": "I enjoy reading mystery stories before bed."},
+    {"w": "curious", "pos": "adj.", "d": "好奇的", "example": "Mia was curious about the ending of the story."},
+    {"w": "thick", "pos": "adj.", "d": "厚的", "example": "Tony chose the thickest dictionary on the shelf."},
+    {"w": "explain", "pos": "v.", "d": "解釋", "example": "He explained why he needed a thick dictionary."},
+    {"w": "enjoyable", "pos": "adj.", "d": "令人愉快的", "example": "It turned into such an enjoyable day."},
+    {"w": "promise", "pos": "v.", "d": "承諾", "example": "Mia promised to lend him the mystery novel."}
+  ],
+  "grammar": [
+    "while + 過去進行式 搭配過去簡單式：表示「當...的時候，另一件事發生了」，如 While she was walking down the street, she saw her classmate. / While Tony was paying for his dictionary, Mia noticed a coffee corner.",
+    "形容詞/副詞 + enough + to V：表示「足夠...以至於能夠...」，如 This story is exciting enough to keep you reading all night.",
+    "by the time + 子句，主要子句用過去完成時 (had + 過去分詞)：表示「在某個過去時間點之前已經發生的事」，如 By the time they left the bookstore, the rain had already stopped."
+  ],
+  "sections": {
+    "reading": [
+      {"q": "Why did Mia decide to go to the bookstore instead of the park?", "opts": ["Her mother asked her to", "It was raining heavily", "The bookstore was having a sale", "She needed to return a book"], "a": 1, "ex": "文中提到 \"it was raining heavily in the morning, so Mia decided to visit the new bookstore... instead of going to the park.\""},
+      {"q": "What did Tony want to buy at the bookstore?", "opts": ["A comic book", "A magazine", "A dictionary", "A novel"], "a": 2, "ex": "文中寫道 \"Tony said he came to buy a dictionary to prepare for the English contest.\""},
+      {"q": "What did the clerk recommend to Mia?", "opts": ["A cookbook", "A mystery novel", "A dictionary", "A magazine"], "a": 1, "ex": "文中提到 clerk 推薦了一本 popular mystery novel。"},
+      {"q": "Why did Tony choose the thickest dictionary?", "opts": ["It was cheaper", "He could look up difficult words quickly", "The cover looked nice", "The clerk recommended it"], "a": 1, "ex": "Tony 解釋說 \"I need this dictionary to look up difficult words quickly.\""},
+      {"q": "What did Mia promise to do?", "opts": ["Lend Tony the mystery novel", "Buy Tony a dictionary", "Go with Tony to the contest", "Help Tony write an essay"], "a": 0, "ex": "文末提到 Mia promised to lend him the mystery novel once she finished it。"}
+    ],
+    "grammar": [
+      {"q": "While Tony ___ for his dictionary, Mia noticed a coffee corner.", "opts": ["pay", "paid", "was paying", "has paid"], "a": 2, "ex": "while + 過去進行式表示「正在進行某動作時」，另一件事發生，故用 was paying。"},
+      {"q": "This story is exciting ___ keep you reading all night.", "opts": ["enough to", "too to", "so that", "such to"], "a": 0, "ex": "「形容詞 + enough + to V」表示「足夠...以至於能夠」。"},
+      {"q": "By the time they left the bookstore, the rain ___ already.", "opts": ["stops", "stopped", "had stopped", "stopping"], "a": 2, "ex": "by the time + 過去式子句，主要子句用過去完成時 (had + 過去分詞) 表示在那之前已完成的動作。"},
+      {"q": "She ___ a book quietly when her friend called her name.", "opts": ["reads", "is reading", "was reading", "read"], "a": 2, "ex": "過去進行式表示過去某時間點正在進行的動作，常與表示突然發生的事件連用。"},
+      {"q": "The box was heavy ___ for him to carry alone.", "opts": ["too", "so", "enough", "very"], "a": 0, "ex": "「too + 形容詞 + to V」表示「太...而不能」。"}
+    ],
+    "vocab": [
+      {"q": "Which word means \"a person who works in a store and helps customers\"?", "opts": ["clerk", "dictionary", "contest", "apartment"], "a": 0, "ex": "clerk 意思是「店員」，在店裡協助顧客的人。"},
+      {"q": "The word \"mystery\" in the passage best describes a story that is ___.", "opts": ["funny", "exciting and full of secrets", "sad", "romantic"], "a": 1, "ex": "mystery 意思是「懸疑、充滿謎團的」，常指令人好奇想解開謎底的故事。"},
+      {"q": "\"I was very ___ about the strange noise, so I went to check it.\"", "opts": ["thick", "curious", "enjoyable", "explain"], "a": 1, "ex": "curious 意思是「好奇的」，符合句意「因為好奇而去查看」。"},
+      {"q": "The word \"promise\" is closest in meaning to ___.", "opts": ["to guess", "to agree to do something for sure", "to complain", "to doubt"], "a": 1, "ex": "promise 意思是「承諾」，表示保證一定會做某件事。"},
+      {"q": "Which word means \"厚的\"?", "opts": ["thin", "thick", "heavy", "light"], "a": 1, "ex": "thick 意思是「厚的」，與 thin（薄的）相反。"}
+    ]
+  }
+}
