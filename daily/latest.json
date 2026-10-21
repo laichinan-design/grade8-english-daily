@@ -1,51 +1,51 @@
 {
-  "date": "2026-10-20",
-  "title": "A Rainy Saturday at the Bookstore",
+  "date": "2026-10-21",
+  "title": "Learning to Ride a Bicycle in the Park",
   "level": "國中二~三年級 (Grade 8-9)",
   "note": "",
-  "passage": "Last Saturday, it was raining heavily in the morning, so Mia decided to visit the new bookstore near her apartment instead of going to the park.\n\nWhile she was walking down the street, she saw her classmate Tony standing under the bookstore's blue sign. \"What are you doing here?\" Mia asked with a smile. Tony said he came to buy a dictionary to prepare for the English contest next month.\n\nInside the bookstore, the shelves were full of novels, comic books, and magazines. A friendly clerk greeted them and recommended a popular mystery novel. \"This story is exciting enough to keep you reading all night,\" she said. Mia was curious about the ending, so she picked up a copy right away.\n\nTony looked carefully through several dictionaries before choosing the thickest one. \"I need this dictionary to look up difficult words quickly,\" he explained. While Tony was paying for his dictionary, Mia noticed a small coffee corner in the back of the store, and they decided to sit there and chat about their weekend plans.\n\nBy the time they left the bookstore, the rain had already stopped, and the sky was turning bright again. \"This was actually a better afternoon than I expected,\" Tony said happily. Mia agreed and promised to lend him the mystery novel once she finished it. They walked home together, feeling glad that the rainy morning had turned into such an enjoyable day.",
+  "passage": "Last Saturday morning, Lily's dad took her to the park to practice riding her new bicycle. Lily felt nervous because she wasn't used to riding without training wheels. \"Don't worry,\" her dad said. \"You just need to balance and keep your eyes forward.\"\nAt first, Lily was afraid of falling off, so she rode very slowly. She wore a helmet to stay safe. Her dad ran beside her and held the seat gently. Suddenly, he let go, but Lily didn't notice—she was already riding by herself!\n\"Dad, look at me!\" Lily shouted happily. She felt more confident than before. It took her about thirty minutes to learn how to ride without help. Her dad smiled and said, \"I'm so proud of you! You improved quickly.\"\nAfter that, Lily practiced every weekend. She became braver and more careful on busy paths. Her little brother, Tim, watched and said, \"I want to learn too! Can you teach me, Lily?\"\n\"Of course,\" Lily said. \"It's easier than you think. You just need to practice and never give up.\" Tim smiled and put on his helmet.\nNow Lily rides her bicycle to school every day. Riding a bike is more exciting than walking, and it makes her feel free. Her dad always encourages her to try new things, and Lily is thankful for his patience and support.",
   "vocab": [
-    {"w": "bookstore", "pos": "n.", "d": "書店", "example": "Mia decided to visit the new bookstore near her apartment."},
-    {"w": "apartment", "pos": "n.", "d": "公寓", "example": "My family lives in a small apartment downtown."},
-    {"w": "dictionary", "pos": "n.", "d": "字典", "example": "Tony came to buy a dictionary for the English contest."},
-    {"w": "contest", "pos": "n.", "d": "比賽", "example": "She will join the speech contest next month."},
-    {"w": "shelf", "pos": "n.", "d": "書架", "example": "The shelves were full of novels and magazines."},
-    {"w": "novel", "pos": "n.", "d": "小說", "example": "The clerk recommended a popular mystery novel."},
-    {"w": "clerk", "pos": "n.", "d": "店員", "example": "A friendly clerk greeted them at the door."},
-    {"w": "recommend", "pos": "v.", "d": "推薦", "example": "Can you recommend a good book for me?"},
-    {"w": "mystery", "pos": "n.", "d": "懸疑故事；謎", "example": "I enjoy reading mystery stories before bed."},
-    {"w": "curious", "pos": "adj.", "d": "好奇的", "example": "Mia was curious about the ending of the story."},
-    {"w": "thick", "pos": "adj.", "d": "厚的", "example": "Tony chose the thickest dictionary on the shelf."},
-    {"w": "explain", "pos": "v.", "d": "解釋", "example": "He explained why he needed a thick dictionary."},
-    {"w": "enjoyable", "pos": "adj.", "d": "令人愉快的", "example": "It turned into such an enjoyable day."},
-    {"w": "promise", "pos": "v.", "d": "承諾", "example": "Mia promised to lend him the mystery novel."}
+    {"w": "bicycle", "pos": "n.", "d": "自行車", "example": "Lily got a new bicycle for her birthday."},
+    {"w": "balance", "pos": "v.", "d": "平衡", "example": "It's hard to balance on one foot."},
+    {"w": "nervous", "pos": "adj.", "d": "緊張的", "example": "She felt nervous before the big test."},
+    {"w": "fall off", "pos": "phrase", "d": "跌落、摔下", "example": "Be careful, or you might fall off your bike."},
+    {"w": "helmet", "pos": "n.", "d": "安全帽", "example": "Always wear a helmet when you ride a bike."},
+    {"w": "practice", "pos": "v.", "d": "練習", "example": "You need to practice every day to improve."},
+    {"w": "confident", "pos": "adj.", "d": "有信心的", "example": "He felt confident after passing the exam."},
+    {"w": "suddenly", "pos": "adv.", "d": "突然地", "example": "Suddenly, it started to rain hard."},
+    {"w": "proud", "pos": "adj.", "d": "自豪的、驕傲的", "example": "My parents are proud of my grades."},
+    {"w": "improve", "pos": "v.", "d": "進步、改善", "example": "Her English has improved a lot this year."},
+    {"w": "careful", "pos": "adj.", "d": "小心的", "example": "Be careful when you cross the busy street."},
+    {"w": "encourage", "pos": "v.", "d": "鼓勵", "example": "My teacher always encourages me to try new things."},
+    {"w": "patience", "pos": "n.", "d": "耐心", "example": "Learning a new skill takes a lot of patience."},
+    {"w": "give up", "pos": "phrase", "d": "放棄", "example": "Never give up, even when it's hard."}
   ],
   "grammar": [
-    "while + 過去進行式 搭配過去簡單式：表示「當...的時候，另一件事發生了」，如 While she was walking down the street, she saw her classmate. / While Tony was paying for his dictionary, Mia noticed a coffee corner.",
-    "形容詞/副詞 + enough + to V：表示「足夠...以至於能夠...」，如 This story is exciting enough to keep you reading all night.",
-    "by the time + 子句，主要子句用過去完成時 (had + 過去分詞)：表示「在某個過去時間點之前已經發生的事」，如 By the time they left the bookstore, the rain had already stopped."
+    "be used to + 動詞-ing/名詞：表示「習慣於...」，否定則用 wasn't/isn't used to，如 Lily wasn't used to riding without training wheels. / I'm used to getting up early.",
+    "比較級形容詞：單音節加 -er（braver），多音節用 more + 形容詞（more confident, more careful, more exciting），如 Riding a bike is more exciting than walking.",
+    "It takes (某人) + 時間 + to V：表示「花多少時間做某事」，如 It took her about thirty minutes to learn how to ride. / It takes me an hour to do my homework."
   ],
   "sections": {
     "reading": [
-      {"q": "Why did Mia decide to go to the bookstore instead of the park?", "opts": ["Her mother asked her to", "It was raining heavily", "The bookstore was having a sale", "She needed to return a book"], "a": 1, "ex": "文中提到 \"it was raining heavily in the morning, so Mia decided to visit the new bookstore... instead of going to the park.\""},
-      {"q": "What did Tony want to buy at the bookstore?", "opts": ["A comic book", "A magazine", "A dictionary", "A novel"], "a": 2, "ex": "文中寫道 \"Tony said he came to buy a dictionary to prepare for the English contest.\""},
-      {"q": "What did the clerk recommend to Mia?", "opts": ["A cookbook", "A mystery novel", "A dictionary", "A magazine"], "a": 1, "ex": "文中提到 clerk 推薦了一本 popular mystery novel。"},
-      {"q": "Why did Tony choose the thickest dictionary?", "opts": ["It was cheaper", "He could look up difficult words quickly", "The cover looked nice", "The clerk recommended it"], "a": 1, "ex": "Tony 解釋說 \"I need this dictionary to look up difficult words quickly.\""},
-      {"q": "What did Mia promise to do?", "opts": ["Lend Tony the mystery novel", "Buy Tony a dictionary", "Go with Tony to the contest", "Help Tony write an essay"], "a": 0, "ex": "文末提到 Mia promised to lend him the mystery novel once she finished it。"}
+      {"q": "Why did Lily feel nervous at first?", "opts": ["She didn't have a bicycle.", "She wasn't used to riding without training wheels.", "Her dad was angry with her.", "It was raining outside."], "a": 1, "ex": "文中提到 Lily felt nervous because she wasn't used to riding without training wheels，表示她還不習慣沒有輔助輪騎車。"},
+      {"q": "What did Lily wear to stay safe while riding?", "opts": ["Gloves", "A helmet", "Boots", "A jacket"], "a": 1, "ex": "文中寫 She wore a helmet to stay safe，答案為安全帽。"},
+      {"q": "About how long did it take Lily to learn to ride without help?", "opts": ["Ten minutes", "One hour", "About thirty minutes", "A whole day"], "a": 2, "ex": "文中 It took her about thirty minutes to learn how to ride without help，約三十分鐘。"},
+      {"q": "Who also wants to learn to ride a bicycle?", "opts": ["Lily's dad", "Lily's teacher", "Tim, Lily's little brother", "Lily's classmate"], "a": 2, "ex": "文中 Tim 說 \"I want to learn too! Can you teach me, Lily?\"，可知是弟弟 Tim。"},
+      {"q": "How does Lily get to school now?", "opts": ["By bus", "By car", "She walks", "She rides her bicycle"], "a": 3, "ex": "最後一段提到 Now Lily rides her bicycle to school every day，她現在每天騎自行車上學。"}
     ],
     "grammar": [
-      {"q": "While Tony ___ for his dictionary, Mia noticed a coffee corner.", "opts": ["pay", "paid", "was paying", "has paid"], "a": 2, "ex": "while + 過去進行式表示「正在進行某動作時」，另一件事發生，故用 was paying。"},
-      {"q": "This story is exciting ___ keep you reading all night.", "opts": ["enough to", "too to", "so that", "such to"], "a": 0, "ex": "「形容詞 + enough + to V」表示「足夠...以至於能夠」。"},
-      {"q": "By the time they left the bookstore, the rain ___ already.", "opts": ["stops", "stopped", "had stopped", "stopping"], "a": 2, "ex": "by the time + 過去式子句，主要子句用過去完成時 (had + 過去分詞) 表示在那之前已完成的動作。"},
-      {"q": "She ___ a book quietly when her friend called her name.", "opts": ["reads", "is reading", "was reading", "read"], "a": 2, "ex": "過去進行式表示過去某時間點正在進行的動作，常與表示突然發生的事件連用。"},
-      {"q": "The box was heavy ___ for him to carry alone.", "opts": ["too", "so", "enough", "very"], "a": 0, "ex": "「too + 形容詞 + to V」表示「太...而不能」。"}
+      {"q": "At first, Lily ___ riding without training wheels.", "opts": ["was used to", "wasn't used to", "used to", "didn't used to"], "a": 1, "ex": "「be used to + V-ing」表示習慣於...，否定用 wasn't used to，故選 B。"},
+      {"q": "After practicing, Lily felt ___ than before.", "opts": ["confident", "more confident", "most confident", "confidenter"], "a": 1, "ex": "confident 為多音節形容詞，比較級須用 more + 形容詞，故選 more confident。"},
+      {"q": "It ___ her about thirty minutes to learn how to ride.", "opts": ["take", "took", "taking", "to take"], "a": 1, "ex": "「It takes + 人 + 時間 + to V」描述過去發生的事，動詞用過去式 took。"},
+      {"q": "Riding a bike is ___ than walking.", "opts": ["exciting", "excited", "more exciting", "most exciting"], "a": 2, "ex": "exciting 為多音節形容詞，比較級用 more exciting，表示「比...更令人興奮」。"},
+      {"q": "Lily became braver and ___ on busy paths.", "opts": ["more careful", "careful", "carefuller", "most careful"], "a": 0, "ex": "careful 為多音節形容詞，比較級須加 more，故選 more careful，與 braver 並列。"}
     ],
     "vocab": [
-      {"q": "Which word means \"a person who works in a store and helps customers\"?", "opts": ["clerk", "dictionary", "contest", "apartment"], "a": 0, "ex": "clerk 意思是「店員」，在店裡協助顧客的人。"},
-      {"q": "The word \"mystery\" in the passage best describes a story that is ___.", "opts": ["funny", "exciting and full of secrets", "sad", "romantic"], "a": 1, "ex": "mystery 意思是「懸疑、充滿謎團的」，常指令人好奇想解開謎底的故事。"},
-      {"q": "\"I was very ___ about the strange noise, so I went to check it.\"", "opts": ["thick", "curious", "enjoyable", "explain"], "a": 1, "ex": "curious 意思是「好奇的」，符合句意「因為好奇而去查看」。"},
-      {"q": "The word \"promise\" is closest in meaning to ___.", "opts": ["to guess", "to agree to do something for sure", "to complain", "to doubt"], "a": 1, "ex": "promise 意思是「承諾」，表示保證一定會做某件事。"},
-      {"q": "Which word means \"厚的\"?", "opts": ["thin", "thick", "heavy", "light"], "a": 1, "ex": "thick 意思是「厚的」，與 thin（薄的）相反。"}
+      {"q": "If you want to stay safe when riding a bike, you should wear a ___.", "opts": ["helmet", "jacket", "scarf", "backpack"], "a": 0, "ex": "helmet 意思是「安全帽」，騎車時應戴上以保護頭部。"},
+      {"q": "Lily felt ___ before she learned to ride, but calm after.", "opts": ["confident", "nervous", "proud", "patient"], "a": 1, "ex": "nervous 意思是「緊張的」，符合她一開始害怕的心情。"},
+      {"q": "The opposite of \"give up\" is ___.", "opts": ["keep trying", "fall down", "feel nervous", "ride slowly"], "a": 0, "ex": "give up 意思是「放棄」，其反義為「keep trying 繼續嘗試」。"},
+      {"q": "Lily's dad always ___ her to try new things.", "opts": ["encourages", "ignores", "forgets", "blames"], "a": 0, "ex": "encourage 意思是「鼓勵」，符合爸爸支持她嘗試新事物的行為。"},
+      {"q": "Her English has ___ a lot, meaning it has become better.", "opts": ["disappeared", "improved", "stopped", "worried"], "a": 1, "ex": "improve 意思是「進步、改善」，符合「變得更好」的意思。"}
     ]
   }
 }
