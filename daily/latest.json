@@ -1,51 +1,265 @@
 {
-  "date": "2026-10-21",
-  "title": "Learning to Ride a Bicycle in the Park",
+  "date": "2026-10-22",
+  "title": "A School Bake Sale for Charity",
   "level": "國中二~三年級 (Grade 8-9)",
   "note": "",
-  "passage": "Last Saturday morning, Lily's dad took her to the park to practice riding her new bicycle. Lily felt nervous because she wasn't used to riding without training wheels. \"Don't worry,\" her dad said. \"You just need to balance and keep your eyes forward.\"\nAt first, Lily was afraid of falling off, so she rode very slowly. She wore a helmet to stay safe. Her dad ran beside her and held the seat gently. Suddenly, he let go, but Lily didn't notice—she was already riding by herself!\n\"Dad, look at me!\" Lily shouted happily. She felt more confident than before. It took her about thirty minutes to learn how to ride without help. Her dad smiled and said, \"I'm so proud of you! You improved quickly.\"\nAfter that, Lily practiced every weekend. She became braver and more careful on busy paths. Her little brother, Tim, watched and said, \"I want to learn too! Can you teach me, Lily?\"\n\"Of course,\" Lily said. \"It's easier than you think. You just need to practice and never give up.\" Tim smiled and put on his helmet.\nNow Lily rides her bicycle to school every day. Riding a bike is more exciting than walking, and it makes her feel free. Her dad always encourages her to try new things, and Lily is thankful for his patience and support.",
+  "passage": "Lily's class decided to hold a bake sale to raise money for a children's hospital. On Saturday morning, the students set up a table in front of the school gate. Baking cookies and cupcakes took a lot of time, but everyone worked together happily.\n\"Would you like to try our chocolate cupcakes?\" Lily asked a customer with a bright smile. The woman nodded and bought three.\nAs soon as the bell rang at nine o'clock, more customers arrived. Some wanted sweet treats; others preferred something healthy, like fruit tarts. Ben, the class leader, let his classmates take turns selling and counting money.\nBy noon, the table was almost empty. \"We should save some for the teachers,\" Mrs. Chen reminded them with a laugh.\nVolunteering for a good cause made everyone feel proud. Lily's teacher didn't make the students donate every cent, but most of them chose to give all the money to the hospital. Collecting donations like this, they realized, could change someone's life.\nIn the end, the bake sale raised more than five thousand dollars. \"I'm amazed at how generous you all are,\" the principal said during the closing ceremony. Lily smiled, thinking about the sick children who would soon receive new toys and books because of their small kindness.",
   "vocab": [
-    {"w": "bicycle", "pos": "n.", "d": "自行車", "example": "Lily got a new bicycle for her birthday."},
-    {"w": "balance", "pos": "v.", "d": "平衡", "example": "It's hard to balance on one foot."},
-    {"w": "nervous", "pos": "adj.", "d": "緊張的", "example": "She felt nervous before the big test."},
-    {"w": "fall off", "pos": "phrase", "d": "跌落、摔下", "example": "Be careful, or you might fall off your bike."},
-    {"w": "helmet", "pos": "n.", "d": "安全帽", "example": "Always wear a helmet when you ride a bike."},
-    {"w": "practice", "pos": "v.", "d": "練習", "example": "You need to practice every day to improve."},
-    {"w": "confident", "pos": "adj.", "d": "有信心的", "example": "He felt confident after passing the exam."},
-    {"w": "suddenly", "pos": "adv.", "d": "突然地", "example": "Suddenly, it started to rain hard."},
-    {"w": "proud", "pos": "adj.", "d": "自豪的、驕傲的", "example": "My parents are proud of my grades."},
-    {"w": "improve", "pos": "v.", "d": "進步、改善", "example": "Her English has improved a lot this year."},
-    {"w": "careful", "pos": "adj.", "d": "小心的", "example": "Be careful when you cross the busy street."},
-    {"w": "encourage", "pos": "v.", "d": "鼓勵", "example": "My teacher always encourages me to try new things."},
-    {"w": "patience", "pos": "n.", "d": "耐心", "example": "Learning a new skill takes a lot of patience."},
-    {"w": "give up", "pos": "phrase", "d": "放棄", "example": "Never give up, even when it's hard."}
+    {
+      "w": "bake sale",
+      "pos": "n.",
+      "d": "義賣烘焙活動",
+      "example": "Our class held a bake sale to raise money for charity."
+    },
+    {
+      "w": "raise",
+      "pos": "v.",
+      "d": "籌募（金錢）",
+      "example": "We want to raise money for the children's hospital."
+    },
+    {
+      "w": "charity",
+      "pos": "n.",
+      "d": "慈善機構；公益",
+      "example": "This bake sale is for charity."
+    },
+    {
+      "w": "customer",
+      "pos": "n.",
+      "d": "顧客",
+      "example": "A customer bought three cupcakes."
+    },
+    {
+      "w": "volunteer",
+      "pos": "v./n.",
+      "d": "自願做；志工",
+      "example": "Many students volunteered to help at the bake sale."
+    },
+    {
+      "w": "donate",
+      "pos": "v.",
+      "d": "捐贈",
+      "example": "They decided to donate all the money to the hospital."
+    },
+    {
+      "w": "donation",
+      "pos": "n.",
+      "d": "捐款",
+      "example": "The principal thanked them for their generous donation."
+    },
+    {
+      "w": "generous",
+      "pos": "adj.",
+      "d": "慷慨的",
+      "example": "The principal said the students were very generous."
+    },
+    {
+      "w": "amazed",
+      "pos": "adj.",
+      "d": "感到驚訝/驚嘆的",
+      "example": "I'm amazed at how much money you raised."
+    },
+    {
+      "w": "proud",
+      "pos": "adj.",
+      "d": "感到自豪的",
+      "example": "Lily felt proud of her classmates."
+    },
+    {
+      "w": "collect",
+      "pos": "v.",
+      "d": "收集；募集",
+      "example": "They collected more than five thousand dollars."
+    },
+    {
+      "w": "treat",
+      "pos": "n.",
+      "d": "點心；好吃的東西",
+      "example": "Some customers wanted a sweet treat."
+    },
+    {
+      "w": "kindness",
+      "pos": "n.",
+      "d": "善意；善舉",
+      "example": "Their small kindness could change someone's life."
+    }
   ],
   "grammar": [
-    "be used to + 動詞-ing/名詞：表示「習慣於...」，否定則用 wasn't/isn't used to，如 Lily wasn't used to riding without training wheels. / I'm used to getting up early.",
-    "比較級形容詞：單音節加 -er（braver），多音節用 more + 形容詞（more confident, more careful, more exciting），如 Riding a bike is more exciting than walking.",
-    "It takes (某人) + 時間 + to V：表示「花多少時間做某事」，如 It took her about thirty minutes to learn how to ride. / It takes me an hour to do my homework."
+    "動名詞 (V-ing) 作主詞或受詞：動詞加 -ing 可當名詞使用，放在句首作主詞時，動詞需用單數形式，如 Baking cookies and cupcakes took a lot of time. / Volunteering for a good cause made everyone feel proud.",
+    "as soon as + 子句：表示「一...就...」，連接兩個幾乎同時發生的動作，如 As soon as the bell rang at nine o'clock, more customers arrived.",
+    "使役動詞 let / make + 受詞 + 原形動詞：let 表示「允許/讓某人做某事」，make 表示「強迫某人做某事」，否定用 didn't make，如 Ben let his classmates take turns selling and counting money. / Lily's teacher didn't make the students donate every cent."
   ],
   "sections": {
     "reading": [
-      {"q": "Why did Lily feel nervous at first?", "opts": ["She didn't have a bicycle.", "She wasn't used to riding without training wheels.", "Her dad was angry with her.", "It was raining outside."], "a": 1, "ex": "文中提到 Lily felt nervous because she wasn't used to riding without training wheels，表示她還不習慣沒有輔助輪騎車。"},
-      {"q": "What did Lily wear to stay safe while riding?", "opts": ["Gloves", "A helmet", "Boots", "A jacket"], "a": 1, "ex": "文中寫 She wore a helmet to stay safe，答案為安全帽。"},
-      {"q": "About how long did it take Lily to learn to ride without help?", "opts": ["Ten minutes", "One hour", "About thirty minutes", "A whole day"], "a": 2, "ex": "文中 It took her about thirty minutes to learn how to ride without help，約三十分鐘。"},
-      {"q": "Who also wants to learn to ride a bicycle?", "opts": ["Lily's dad", "Lily's teacher", "Tim, Lily's little brother", "Lily's classmate"], "a": 2, "ex": "文中 Tim 說 \"I want to learn too! Can you teach me, Lily?\"，可知是弟弟 Tim。"},
-      {"q": "How does Lily get to school now?", "opts": ["By bus", "By car", "She walks", "She rides her bicycle"], "a": 3, "ex": "最後一段提到 Now Lily rides her bicycle to school every day，她現在每天騎自行車上學。"}
+      {
+        "q": "What was the purpose of the bake sale?",
+        "opts": [
+          "To celebrate the school's anniversary",
+          "To raise money for a children's hospital",
+          "To sell old textbooks",
+          "To collect toys for teachers"
+        ],
+        "a": 1,
+        "ex": "文中提到他們舉辦義賣是「to raise money for a children's hospital」，所以答案是 B。"
+      },
+      {
+        "q": "When did more customers start arriving?",
+        "opts": [
+          "Right after breakfast",
+          "As soon as the bell rang at nine o'clock",
+          "Before the bake sale started",
+          "At noon"
+        ],
+        "a": 1,
+        "ex": "文中寫道「As soon as the bell rang at nine o'clock, more customers arrived.」，所以答案是 B。"
+      },
+      {
+        "q": "What did Ben let his classmates do?",
+        "opts": [
+          "Go home early",
+          "Take turns selling and counting money",
+          "Eat all the cupcakes",
+          "Skip the bake sale"
+        ],
+        "a": 1,
+        "ex": "文中提到「Ben...let his classmates take turns selling and counting money.」，所以答案是 B。"
+      },
+      {
+        "q": "How much money did the bake sale raise in total?",
+        "opts": [
+          "Less than one thousand dollars",
+          "About three thousand dollars",
+          "More than five thousand dollars",
+          "Exactly five thousand dollars"
+        ],
+        "a": 2,
+        "ex": "文中提到「the bake sale raised more than five thousand dollars.」，所以答案是 C。"
+      },
+      {
+        "q": "How did the principal feel about the students?",
+        "opts": [
+          "Angry because they made a mess",
+          "Amazed at how generous they were",
+          "Worried about the money",
+          "Disappointed with the sales"
+        ],
+        "a": 1,
+        "ex": "校長說「I'm amazed at how generous you all are」，所以答案是 B。"
+      }
     ],
     "grammar": [
-      {"q": "At first, Lily ___ riding without training wheels.", "opts": ["was used to", "wasn't used to", "used to", "didn't used to"], "a": 1, "ex": "「be used to + V-ing」表示習慣於...，否定用 wasn't used to，故選 B。"},
-      {"q": "After practicing, Lily felt ___ than before.", "opts": ["confident", "more confident", "most confident", "confidenter"], "a": 1, "ex": "confident 為多音節形容詞，比較級須用 more + 形容詞，故選 more confident。"},
-      {"q": "It ___ her about thirty minutes to learn how to ride.", "opts": ["take", "took", "taking", "to take"], "a": 1, "ex": "「It takes + 人 + 時間 + to V」描述過去發生的事，動詞用過去式 took。"},
-      {"q": "Riding a bike is ___ than walking.", "opts": ["exciting", "excited", "more exciting", "most exciting"], "a": 2, "ex": "exciting 為多音節形容詞，比較級用 more exciting，表示「比...更令人興奮」。"},
-      {"q": "Lily became braver and ___ on busy paths.", "opts": ["more careful", "careful", "carefuller", "most careful"], "a": 0, "ex": "careful 為多音節形容詞，比較級須加 more，故選 more careful，與 braver 並列。"}
+      {
+        "q": "___ cookies and cupcakes took a lot of time, but everyone worked together happily.",
+        "opts": [
+          "Bake",
+          "Baked",
+          "Baking",
+          "To baking"
+        ],
+        "a": 2,
+        "ex": "動名詞 Baking 可作句子主詞，表示「烘焙這件事」，故選 C。"
+      },
+      {
+        "q": "___ the bell rang at nine o'clock, more customers arrived.",
+        "opts": [
+          "As soon as",
+          "Although",
+          "Because of",
+          "In order to"
+        ],
+        "a": 0,
+        "ex": "as soon as 表示「一...就...」，符合句意，故選 A。"
+      },
+      {
+        "q": "Ben ___ his classmates take turns selling and counting money.",
+        "opts": [
+          "made",
+          "let",
+          "hope",
+          "wanted"
+        ],
+        "a": 1,
+        "ex": "let + 受詞 + 原形動詞，表示「允許/讓某人做某事」，故選 B。"
+      },
+      {
+        "q": "Lily's teacher didn't ___ the students donate every cent.",
+        "opts": [
+          "make",
+          "let him",
+          "making",
+          "to make"
+        ],
+        "a": 0,
+        "ex": "didn't make + 受詞 + 原形動詞，表示「沒有強迫某人做某事」，故選 A。"
+      },
+      {
+        "q": "___ for a good cause made everyone feel proud.",
+        "opts": [
+          "Volunteer",
+          "Volunteers",
+          "Volunteering",
+          "To volunteered"
+        ],
+        "a": 2,
+        "ex": "動名詞片語 Volunteering 作主詞，後面動詞用單數 made，故選 C。"
+      }
     ],
     "vocab": [
-      {"q": "If you want to stay safe when riding a bike, you should wear a ___.", "opts": ["helmet", "jacket", "scarf", "backpack"], "a": 0, "ex": "helmet 意思是「安全帽」，騎車時應戴上以保護頭部。"},
-      {"q": "Lily felt ___ before she learned to ride, but calm after.", "opts": ["confident", "nervous", "proud", "patient"], "a": 1, "ex": "nervous 意思是「緊張的」，符合她一開始害怕的心情。"},
-      {"q": "The opposite of \"give up\" is ___.", "opts": ["keep trying", "fall down", "feel nervous", "ride slowly"], "a": 0, "ex": "give up 意思是「放棄」，其反義為「keep trying 繼續嘗試」。"},
-      {"q": "Lily's dad always ___ her to try new things.", "opts": ["encourages", "ignores", "forgets", "blames"], "a": 0, "ex": "encourage 意思是「鼓勵」，符合爸爸支持她嘗試新事物的行為。"},
-      {"q": "Her English has ___ a lot, meaning it has become better.", "opts": ["disappeared", "improved", "stopped", "worried"], "a": 1, "ex": "improve 意思是「進步、改善」，符合「變得更好」的意思。"}
+      {
+        "q": "The woman was a ___ who bought three chocolate cupcakes.",
+        "opts": [
+          "customer",
+          "volunteer",
+          "principal",
+          "donation"
+        ],
+        "a": 0,
+        "ex": "customer 意思是「顧客」，符合句意，故選 A。"
+      },
+      {
+        "q": "The bake sale was held to help a charity, which means money was given to ___.",
+        "opts": [
+          "a shopping mall",
+          "a good cause or organization that helps people",
+          "a sports team",
+          "a movie theater"
+        ],
+        "a": 1,
+        "ex": "charity 指「慈善機構或公益」，故選 B。"
+      },
+      {
+        "q": "Mrs. Chen praised the students for being so ___ because they donated most of the money.",
+        "opts": [
+          "generous",
+          "angry",
+          "lazy",
+          "nervous"
+        ],
+        "a": 0,
+        "ex": "generous 意思是「慷慨的」，符合句意，故選 A。"
+      },
+      {
+        "q": "The principal was ___ at how much money the students raised.",
+        "opts": [
+          "bored",
+          "amazed",
+          "confused",
+          "tired"
+        ],
+        "a": 1,
+        "ex": "amazed 意思是「感到驚訝/驚嘆的」，故選 B。"
+      },
+      {
+        "q": "Their small act of ___ could change someone's life, like helping sick children.",
+        "opts": [
+          "kindness",
+          "business",
+          "trouble",
+          "mistake"
+        ],
+        "a": 0,
+        "ex": "kindness 意思是「善意/善舉」，故選 A。"
+      }
     ]
   }
 }
