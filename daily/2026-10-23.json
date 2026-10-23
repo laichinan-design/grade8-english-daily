@@ -1,0 +1,271 @@
+{
+  "date": "2026-10-23",
+  "title": "A Day at the Animal Shelter",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "Last Saturday, Amy and her brother Tom visited an animal shelter near their neighborhood. The shelter takes care of dogs and cats that have lost their homes. A kind volunteer named Mr. Lin showed them around.\n\"Many of these animals have never had a real home,\" Mr. Lin explained. \"They need people who are patient and gentle.\"\nAmy noticed a small brown dog that was too shy to come close. \"Why is he hiding in the corner?\" she asked.\n\"He was scared when he first arrived,\" Mr. Lin said. \"He's getting braver every day, though.\"\nTom gently placed a soft blanket near the dog's bed. The dog slowly walked over and sniffed it.\n\"I think he likes you,\" Amy whispered.\nAfter cleaning the cages and filling the food bowls, the children felt tired but happy. \"This is more tiring than I expected,\" Tom said, wiping his forehead.\n\"It's worth it,\" Amy replied. \"We're helping animals that can't help themselves.\"\nBefore leaving, they promised to come back next month. Mr. Lin smiled and said their visit had already made a big difference. As they walked home, Amy decided she wanted to adopt a shelter dog someday soon.",
+  "vocab": [
+    {
+      "w": "shelter",
+      "pos": "n.",
+      "d": "收容所；庇護所",
+      "example": "The animal shelter takes care of dogs and cats that have lost their homes."
+    },
+    {
+      "w": "volunteer",
+      "pos": "n.",
+      "d": "志工",
+      "example": "A kind volunteer named Mr. Lin showed them around the shelter."
+    },
+    {
+      "w": "patient",
+      "pos": "adj.",
+      "d": "有耐心的",
+      "example": "The animals need people who are patient and gentle."
+    },
+    {
+      "w": "gentle",
+      "pos": "adj.",
+      "d": "溫柔的",
+      "example": "Tom gently placed a soft blanket near the dog's bed."
+    },
+    {
+      "w": "shy",
+      "pos": "adj.",
+      "d": "害羞的",
+      "example": "The small brown dog was too shy to come close."
+    },
+    {
+      "w": "scared",
+      "pos": "adj.",
+      "d": "害怕的",
+      "example": "He was scared when he first arrived at the shelter."
+    },
+    {
+      "w": "brave",
+      "pos": "adj.",
+      "d": "勇敢的",
+      "example": "He's getting braver every day."
+    },
+    {
+      "w": "sniff",
+      "pos": "v.",
+      "d": "嗅；聞",
+      "example": "The dog slowly walked over and sniffed the blanket."
+    },
+    {
+      "w": "whisper",
+      "pos": "v.",
+      "d": "低聲說",
+      "example": "\"I think he likes you,\" Amy whispered."
+    },
+    {
+      "w": "tiring",
+      "pos": "adj.",
+      "d": "令人疲累的",
+      "example": "This is more tiring than I expected."
+    },
+    {
+      "w": "worth",
+      "pos": "adj.",
+      "d": "值得的",
+      "example": "It's worth it to help animals that can't help themselves."
+    },
+    {
+      "w": "adopt",
+      "pos": "v.",
+      "d": "領養",
+      "example": "Amy decided she wanted to adopt a shelter dog someday."
+    },
+    {
+      "w": "promise",
+      "pos": "v.",
+      "d": "承諾",
+      "example": "They promised to come back next month."
+    },
+    {
+      "w": "difference",
+      "pos": "n.",
+      "d": "差異；影響",
+      "example": "Their visit had already made a big difference."
+    }
+  ],
+  "grammar": [
+    "現在完成時 (have/has + 過去分詞)：表示從過去持續到現在的經驗或已完成的事，如 Many of these animals have never had a real home. / Their visit had already made a big difference.",
+    "too + 形容詞 + to V：表示「太...以致於不能」，如 The small brown dog was too shy to come close.",
+    "關係代名詞 who / that 引導形容詞子句：who 修飾人，that 可修飾人、動物或事物，如 They need people who are patient and gentle. / She noticed a dog that was too shy to come close."
+  ],
+  "sections": {
+    "reading": [
+      {
+        "q": "Who is Mr. Lin in the passage?",
+        "opts": [
+          "Amy's father",
+          "A volunteer at the shelter",
+          "A veterinarian",
+          "Tom's teacher"
+        ],
+        "a": 1,
+        "ex": "文中提到「A kind volunteer named Mr. Lin showed them around.」，Mr. Lin 是收容所的志工。"
+      },
+      {
+        "q": "Why was the small brown dog hiding in the corner?",
+        "opts": [
+          "He didn't like Amy and Tom",
+          "He was too shy and scared to come close",
+          "He was sleeping",
+          "He didn't like the blanket"
+        ],
+        "a": 1,
+        "ex": "文中提到狗太害羞不敢靠近（too shy to come close），且剛到時很害怕（scared when he first arrived）。"
+      },
+      {
+        "q": "What did Tom do to help the dog feel comfortable?",
+        "opts": [
+          "He fed the dog",
+          "He played music for the dog",
+          "He placed a soft blanket near the dog's bed",
+          "He took the dog for a walk"
+        ],
+        "a": 2,
+        "ex": "文中提到「Tom gently placed a soft blanket near the dog's bed.」"
+      },
+      {
+        "q": "How did Amy and Tom feel after cleaning the cages and filling the food bowls?",
+        "opts": [
+          "Excited and surprised",
+          "Tired but happy",
+          "Bored and sleepy",
+          "Angry and disappointed"
+        ],
+        "a": 1,
+        "ex": "文中提到「the children felt tired but happy」。"
+      },
+      {
+        "q": "What does Amy decide to do at the end of the story?",
+        "opts": [
+          "Never visit the shelter again",
+          "Adopt a shelter dog someday",
+          "Become a veterinarian",
+          "Buy a new dog from a pet store"
+        ],
+        "a": 1,
+        "ex": "文末提到「Amy decided she wanted to adopt a shelter dog someday soon.」"
+      }
+    ],
+    "grammar": [
+      {
+        "q": "Choose the correct sentence using the present perfect tense.",
+        "opts": [
+          "Many animals never have a real home.",
+          "Many animals have never had a real home.",
+          "Many animals had never have a real home.",
+          "Many animals never had having a real home."
+        ],
+        "a": 1,
+        "ex": "現在完成時為 have/has + 過去分詞，否定句型為 have never had。"
+      },
+      {
+        "q": "The dog was ______ shy ______ come close to the visitors.",
+        "opts": [
+          "so / that",
+          "too / to",
+          "such / that",
+          "very / to"
+        ],
+        "a": 1,
+        "ex": "too + 形容詞 + to V 表示「太...以致於不能」，故選 too / to。"
+      },
+      {
+        "q": "Choose the sentence with a correct relative clause.",
+        "opts": [
+          "They need people are patient and gentle.",
+          "They need people who are patient and gentle.",
+          "They need people whose are patient and gentle.",
+          "They need people which are patient and gentle."
+        ],
+        "a": 1,
+        "ex": "修飾「人」要用關係代名詞 who，且不可省略，故選 B。"
+      },
+      {
+        "q": "She noticed a dog ______ was too shy to come close.",
+        "opts": [
+          "who",
+          "whom",
+          "that",
+          "whose"
+        ],
+        "a": 2,
+        "ex": "修飾動物（dog）可用關係代名詞 that，who 用於修飾人，whom/whose 文法不符，故選 that。"
+      },
+      {
+        "q": "Choose the correct comparative sentence.",
+        "opts": [
+          "This work is tiring than I expected.",
+          "This work is more tiring than I expected.",
+          "This work is most tiring than I expected.",
+          "This work is as tiring than I expected."
+        ],
+        "a": 1,
+        "ex": "多音節形容詞的比較級用 more + 形容詞 + than，故選 B。"
+      }
+    ],
+    "vocab": [
+      {
+        "q": "What does \"shelter\" mean in this passage?",
+        "opts": [
+          "公園",
+          "收容所",
+          "餐廳",
+          "車站"
+        ],
+        "a": 1,
+        "ex": "shelter 在此文中意為「收容所」，指照顧失去家的動物的地方。"
+      },
+      {
+        "q": "The puppy was too ______ to come near the strangers at first.",
+        "opts": [
+          "brave",
+          "shy",
+          "generous",
+          "patient"
+        ],
+        "a": 1,
+        "ex": "情境描述小狗剛開始不敢靠近陌生人，應選 shy（害羞的）。"
+      },
+      {
+        "q": "Amy decided she wanted to ______ a shelter dog someday.",
+        "opts": [
+          "adopt",
+          "donate",
+          "sniff",
+          "whisper"
+        ],
+        "a": 0,
+        "ex": "adopt 意為「領養」，符合「想要領養收容所的狗」的語意。"
+      },
+      {
+        "q": "What is the meaning of \"volunteer\" as used in the passage?",
+        "opts": [
+          "顧客",
+          "醫生",
+          "志工",
+          "校長"
+        ],
+        "a": 2,
+        "ex": "volunteer 在此文中意為「志工」，指自願幫忙照顧動物的人。"
+      },
+      {
+        "q": "Choose the best meaning for \"gently\" in \"Tom gently placed a blanket near the dog's bed.\"",
+        "opts": [
+          "粗魯地",
+          "溫柔地",
+          "快速地",
+          "大聲地"
+        ],
+        "a": 1,
+        "ex": "gently 意為「溫柔地」，描述 Tom 放毯子的動作很輕柔。"
+      }
+    ]
+  }
+}

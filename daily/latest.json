@@ -1,264 +1,270 @@
 {
-  "date": "2026-10-22",
-  "title": "A School Bake Sale for Charity",
+  "date": "2026-10-23",
+  "title": "A Day at the Animal Shelter",
   "level": "國中二~三年級 (Grade 8-9)",
   "note": "",
-  "passage": "Lily's class decided to hold a bake sale to raise money for a children's hospital. On Saturday morning, the students set up a table in front of the school gate. Baking cookies and cupcakes took a lot of time, but everyone worked together happily.\n\"Would you like to try our chocolate cupcakes?\" Lily asked a customer with a bright smile. The woman nodded and bought three.\nAs soon as the bell rang at nine o'clock, more customers arrived. Some wanted sweet treats; others preferred something healthy, like fruit tarts. Ben, the class leader, let his classmates take turns selling and counting money.\nBy noon, the table was almost empty. \"We should save some for the teachers,\" Mrs. Chen reminded them with a laugh.\nVolunteering for a good cause made everyone feel proud. Lily's teacher didn't make the students donate every cent, but most of them chose to give all the money to the hospital. Collecting donations like this, they realized, could change someone's life.\nIn the end, the bake sale raised more than five thousand dollars. \"I'm amazed at how generous you all are,\" the principal said during the closing ceremony. Lily smiled, thinking about the sick children who would soon receive new toys and books because of their small kindness.",
+  "passage": "Last Saturday, Amy and her brother Tom visited an animal shelter near their neighborhood. The shelter takes care of dogs and cats that have lost their homes. A kind volunteer named Mr. Lin showed them around.\n\"Many of these animals have never had a real home,\" Mr. Lin explained. \"They need people who are patient and gentle.\"\nAmy noticed a small brown dog that was too shy to come close. \"Why is he hiding in the corner?\" she asked.\n\"He was scared when he first arrived,\" Mr. Lin said. \"He's getting braver every day, though.\"\nTom gently placed a soft blanket near the dog's bed. The dog slowly walked over and sniffed it.\n\"I think he likes you,\" Amy whispered.\nAfter cleaning the cages and filling the food bowls, the children felt tired but happy. \"This is more tiring than I expected,\" Tom said, wiping his forehead.\n\"It's worth it,\" Amy replied. \"We're helping animals that can't help themselves.\"\nBefore leaving, they promised to come back next month. Mr. Lin smiled and said their visit had already made a big difference. As they walked home, Amy decided she wanted to adopt a shelter dog someday soon.",
   "vocab": [
     {
-      "w": "bake sale",
+      "w": "shelter",
       "pos": "n.",
-      "d": "義賣烘焙活動",
-      "example": "Our class held a bake sale to raise money for charity."
-    },
-    {
-      "w": "raise",
-      "pos": "v.",
-      "d": "籌募（金錢）",
-      "example": "We want to raise money for the children's hospital."
-    },
-    {
-      "w": "charity",
-      "pos": "n.",
-      "d": "慈善機構；公益",
-      "example": "This bake sale is for charity."
-    },
-    {
-      "w": "customer",
-      "pos": "n.",
-      "d": "顧客",
-      "example": "A customer bought three cupcakes."
+      "d": "收容所；庇護所",
+      "example": "The animal shelter takes care of dogs and cats that have lost their homes."
     },
     {
       "w": "volunteer",
-      "pos": "v./n.",
-      "d": "自願做；志工",
-      "example": "Many students volunteered to help at the bake sale."
+      "pos": "n.",
+      "d": "志工",
+      "example": "A kind volunteer named Mr. Lin showed them around the shelter."
     },
     {
-      "w": "donate",
+      "w": "patient",
+      "pos": "adj.",
+      "d": "有耐心的",
+      "example": "The animals need people who are patient and gentle."
+    },
+    {
+      "w": "gentle",
+      "pos": "adj.",
+      "d": "溫柔的",
+      "example": "Tom gently placed a soft blanket near the dog's bed."
+    },
+    {
+      "w": "shy",
+      "pos": "adj.",
+      "d": "害羞的",
+      "example": "The small brown dog was too shy to come close."
+    },
+    {
+      "w": "scared",
+      "pos": "adj.",
+      "d": "害怕的",
+      "example": "He was scared when he first arrived at the shelter."
+    },
+    {
+      "w": "brave",
+      "pos": "adj.",
+      "d": "勇敢的",
+      "example": "He's getting braver every day."
+    },
+    {
+      "w": "sniff",
       "pos": "v.",
-      "d": "捐贈",
-      "example": "They decided to donate all the money to the hospital."
+      "d": "嗅；聞",
+      "example": "The dog slowly walked over and sniffed the blanket."
     },
     {
-      "w": "donation",
-      "pos": "n.",
-      "d": "捐款",
-      "example": "The principal thanked them for their generous donation."
-    },
-    {
-      "w": "generous",
-      "pos": "adj.",
-      "d": "慷慨的",
-      "example": "The principal said the students were very generous."
-    },
-    {
-      "w": "amazed",
-      "pos": "adj.",
-      "d": "感到驚訝/驚嘆的",
-      "example": "I'm amazed at how much money you raised."
-    },
-    {
-      "w": "proud",
-      "pos": "adj.",
-      "d": "感到自豪的",
-      "example": "Lily felt proud of her classmates."
-    },
-    {
-      "w": "collect",
+      "w": "whisper",
       "pos": "v.",
-      "d": "收集；募集",
-      "example": "They collected more than five thousand dollars."
+      "d": "低聲說",
+      "example": "\"I think he likes you,\" Amy whispered."
     },
     {
-      "w": "treat",
-      "pos": "n.",
-      "d": "點心；好吃的東西",
-      "example": "Some customers wanted a sweet treat."
+      "w": "tiring",
+      "pos": "adj.",
+      "d": "令人疲累的",
+      "example": "This is more tiring than I expected."
     },
     {
-      "w": "kindness",
+      "w": "worth",
+      "pos": "adj.",
+      "d": "值得的",
+      "example": "It's worth it to help animals that can't help themselves."
+    },
+    {
+      "w": "adopt",
+      "pos": "v.",
+      "d": "領養",
+      "example": "Amy decided she wanted to adopt a shelter dog someday."
+    },
+    {
+      "w": "promise",
+      "pos": "v.",
+      "d": "承諾",
+      "example": "They promised to come back next month."
+    },
+    {
+      "w": "difference",
       "pos": "n.",
-      "d": "善意；善舉",
-      "example": "Their small kindness could change someone's life."
+      "d": "差異；影響",
+      "example": "Their visit had already made a big difference."
     }
   ],
   "grammar": [
-    "動名詞 (V-ing) 作主詞或受詞：動詞加 -ing 可當名詞使用，放在句首作主詞時，動詞需用單數形式，如 Baking cookies and cupcakes took a lot of time. / Volunteering for a good cause made everyone feel proud.",
-    "as soon as + 子句：表示「一...就...」，連接兩個幾乎同時發生的動作，如 As soon as the bell rang at nine o'clock, more customers arrived.",
-    "使役動詞 let / make + 受詞 + 原形動詞：let 表示「允許/讓某人做某事」，make 表示「強迫某人做某事」，否定用 didn't make，如 Ben let his classmates take turns selling and counting money. / Lily's teacher didn't make the students donate every cent."
+    "現在完成時 (have/has + 過去分詞)：表示從過去持續到現在的經驗或已完成的事，如 Many of these animals have never had a real home. / Their visit had already made a big difference.",
+    "too + 形容詞 + to V：表示「太...以致於不能」，如 The small brown dog was too shy to come close.",
+    "關係代名詞 who / that 引導形容詞子句：who 修飾人，that 可修飾人、動物或事物，如 They need people who are patient and gentle. / She noticed a dog that was too shy to come close."
   ],
   "sections": {
     "reading": [
       {
-        "q": "What was the purpose of the bake sale?",
+        "q": "Who is Mr. Lin in the passage?",
         "opts": [
-          "To celebrate the school's anniversary",
-          "To raise money for a children's hospital",
-          "To sell old textbooks",
-          "To collect toys for teachers"
+          "Amy's father",
+          "A volunteer at the shelter",
+          "A veterinarian",
+          "Tom's teacher"
         ],
         "a": 1,
-        "ex": "文中提到他們舉辦義賣是「to raise money for a children's hospital」，所以答案是 B。"
+        "ex": "文中提到「A kind volunteer named Mr. Lin showed them around.」，Mr. Lin 是收容所的志工。"
       },
       {
-        "q": "When did more customers start arriving?",
+        "q": "Why was the small brown dog hiding in the corner?",
         "opts": [
-          "Right after breakfast",
-          "As soon as the bell rang at nine o'clock",
-          "Before the bake sale started",
-          "At noon"
+          "He didn't like Amy and Tom",
+          "He was too shy and scared to come close",
+          "He was sleeping",
+          "He didn't like the blanket"
         ],
         "a": 1,
-        "ex": "文中寫道「As soon as the bell rang at nine o'clock, more customers arrived.」，所以答案是 B。"
+        "ex": "文中提到狗太害羞不敢靠近（too shy to come close），且剛到時很害怕（scared when he first arrived）。"
       },
       {
-        "q": "What did Ben let his classmates do?",
+        "q": "What did Tom do to help the dog feel comfortable?",
         "opts": [
-          "Go home early",
-          "Take turns selling and counting money",
-          "Eat all the cupcakes",
-          "Skip the bake sale"
-        ],
-        "a": 1,
-        "ex": "文中提到「Ben...let his classmates take turns selling and counting money.」，所以答案是 B。"
-      },
-      {
-        "q": "How much money did the bake sale raise in total?",
-        "opts": [
-          "Less than one thousand dollars",
-          "About three thousand dollars",
-          "More than five thousand dollars",
-          "Exactly five thousand dollars"
+          "He fed the dog",
+          "He played music for the dog",
+          "He placed a soft blanket near the dog's bed",
+          "He took the dog for a walk"
         ],
         "a": 2,
-        "ex": "文中提到「the bake sale raised more than five thousand dollars.」，所以答案是 C。"
+        "ex": "文中提到「Tom gently placed a soft blanket near the dog's bed.」"
       },
       {
-        "q": "How did the principal feel about the students?",
+        "q": "How did Amy and Tom feel after cleaning the cages and filling the food bowls?",
         "opts": [
-          "Angry because they made a mess",
-          "Amazed at how generous they were",
-          "Worried about the money",
-          "Disappointed with the sales"
+          "Excited and surprised",
+          "Tired but happy",
+          "Bored and sleepy",
+          "Angry and disappointed"
         ],
         "a": 1,
-        "ex": "校長說「I'm amazed at how generous you all are」，所以答案是 B。"
+        "ex": "文中提到「the children felt tired but happy」。"
+      },
+      {
+        "q": "What does Amy decide to do at the end of the story?",
+        "opts": [
+          "Never visit the shelter again",
+          "Adopt a shelter dog someday",
+          "Become a veterinarian",
+          "Buy a new dog from a pet store"
+        ],
+        "a": 1,
+        "ex": "文末提到「Amy decided she wanted to adopt a shelter dog someday soon.」"
       }
     ],
     "grammar": [
       {
-        "q": "___ cookies and cupcakes took a lot of time, but everyone worked together happily.",
+        "q": "Choose the correct sentence using the present perfect tense.",
         "opts": [
-          "Bake",
-          "Baked",
-          "Baking",
-          "To baking"
-        ],
-        "a": 2,
-        "ex": "動名詞 Baking 可作句子主詞，表示「烘焙這件事」，故選 C。"
-      },
-      {
-        "q": "___ the bell rang at nine o'clock, more customers arrived.",
-        "opts": [
-          "As soon as",
-          "Although",
-          "Because of",
-          "In order to"
-        ],
-        "a": 0,
-        "ex": "as soon as 表示「一...就...」，符合句意，故選 A。"
-      },
-      {
-        "q": "Ben ___ his classmates take turns selling and counting money.",
-        "opts": [
-          "made",
-          "let",
-          "hope",
-          "wanted"
+          "Many animals never have a real home.",
+          "Many animals have never had a real home.",
+          "Many animals had never have a real home.",
+          "Many animals never had having a real home."
         ],
         "a": 1,
-        "ex": "let + 受詞 + 原形動詞，表示「允許/讓某人做某事」，故選 B。"
+        "ex": "現在完成時為 have/has + 過去分詞，否定句型為 have never had。"
       },
       {
-        "q": "Lily's teacher didn't ___ the students donate every cent.",
+        "q": "The dog was ______ shy ______ come close to the visitors.",
         "opts": [
-          "make",
-          "let him",
-          "making",
-          "to make"
+          "so / that",
+          "too / to",
+          "such / that",
+          "very / to"
         ],
-        "a": 0,
-        "ex": "didn't make + 受詞 + 原形動詞，表示「沒有強迫某人做某事」，故選 A。"
+        "a": 1,
+        "ex": "too + 形容詞 + to V 表示「太...以致於不能」，故選 too / to。"
       },
       {
-        "q": "___ for a good cause made everyone feel proud.",
+        "q": "Choose the sentence with a correct relative clause.",
         "opts": [
-          "Volunteer",
-          "Volunteers",
-          "Volunteering",
-          "To volunteered"
+          "They need people are patient and gentle.",
+          "They need people who are patient and gentle.",
+          "They need people whose are patient and gentle.",
+          "They need people which are patient and gentle."
+        ],
+        "a": 1,
+        "ex": "修飾「人」要用關係代名詞 who，且不可省略，故選 B。"
+      },
+      {
+        "q": "She noticed a dog ______ was too shy to come close.",
+        "opts": [
+          "who",
+          "whom",
+          "that",
+          "whose"
         ],
         "a": 2,
-        "ex": "動名詞片語 Volunteering 作主詞，後面動詞用單數 made，故選 C。"
+        "ex": "修飾動物（dog）可用關係代名詞 that，who 用於修飾人，whom/whose 文法不符，故選 that。"
+      },
+      {
+        "q": "Choose the correct comparative sentence.",
+        "opts": [
+          "This work is tiring than I expected.",
+          "This work is more tiring than I expected.",
+          "This work is most tiring than I expected.",
+          "This work is as tiring than I expected."
+        ],
+        "a": 1,
+        "ex": "多音節形容詞的比較級用 more + 形容詞 + than，故選 B。"
       }
     ],
     "vocab": [
       {
-        "q": "The woman was a ___ who bought three chocolate cupcakes.",
+        "q": "What does \"shelter\" mean in this passage?",
         "opts": [
-          "customer",
-          "volunteer",
-          "principal",
-          "donation"
-        ],
-        "a": 0,
-        "ex": "customer 意思是「顧客」，符合句意，故選 A。"
-      },
-      {
-        "q": "The bake sale was held to help a charity, which means money was given to ___.",
-        "opts": [
-          "a shopping mall",
-          "a good cause or organization that helps people",
-          "a sports team",
-          "a movie theater"
+          "公園",
+          "收容所",
+          "餐廳",
+          "車站"
         ],
         "a": 1,
-        "ex": "charity 指「慈善機構或公益」，故選 B。"
+        "ex": "shelter 在此文中意為「收容所」，指照顧失去家的動物的地方。"
       },
       {
-        "q": "Mrs. Chen praised the students for being so ___ because they donated most of the money.",
+        "q": "The puppy was too ______ to come near the strangers at first.",
         "opts": [
+          "brave",
+          "shy",
           "generous",
-          "angry",
-          "lazy",
-          "nervous"
-        ],
-        "a": 0,
-        "ex": "generous 意思是「慷慨的」，符合句意，故選 A。"
-      },
-      {
-        "q": "The principal was ___ at how much money the students raised.",
-        "opts": [
-          "bored",
-          "amazed",
-          "confused",
-          "tired"
+          "patient"
         ],
         "a": 1,
-        "ex": "amazed 意思是「感到驚訝/驚嘆的」，故選 B。"
+        "ex": "情境描述小狗剛開始不敢靠近陌生人，應選 shy（害羞的）。"
       },
       {
-        "q": "Their small act of ___ could change someone's life, like helping sick children.",
+        "q": "Amy decided she wanted to ______ a shelter dog someday.",
         "opts": [
-          "kindness",
-          "business",
-          "trouble",
-          "mistake"
+          "adopt",
+          "donate",
+          "sniff",
+          "whisper"
         ],
         "a": 0,
-        "ex": "kindness 意思是「善意/善舉」，故選 A。"
+        "ex": "adopt 意為「領養」，符合「想要領養收容所的狗」的語意。"
+      },
+      {
+        "q": "What is the meaning of \"volunteer\" as used in the passage?",
+        "opts": [
+          "顧客",
+          "醫生",
+          "志工",
+          "校長"
+        ],
+        "a": 2,
+        "ex": "volunteer 在此文中意為「志工」，指自願幫忙照顧動物的人。"
+      },
+      {
+        "q": "Choose the best meaning for \"gently\" in \"Tom gently placed a blanket near the dog's bed.\"",
+        "opts": [
+          "粗魯地",
+          "溫柔地",
+          "快速地",
+          "大聲地"
+        ],
+        "a": 1,
+        "ex": "gently 意為「溫柔地」，描述 Tom 放毯子的動作很輕柔。"
       }
     ]
   }
