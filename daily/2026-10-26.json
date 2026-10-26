@@ -1,0 +1,265 @@
+{
+  "date": "2026-10-26",
+  "title": "Cooking with Grandma on a Rainy Afternoon",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "It was raining heavily on Saturday afternoon, so Mia decided to visit her grandmother and learn how to cook noodles.\n\"Today I'll teach you my special recipe,\" Grandma said with a smile. \"First, wash the vegetables carefully.\"\nMia nodded and washed the carrots and green onions in the sink. \"What should I do next?\" she asked.\n\"Next, chop the vegetables into small pieces,\" Grandma explained. \"Be careful with the knife.\"\nMia chopped slowly, trying to follow every step. After that, Grandma boiled water in a big pot and added the noodles.\n\"How long should we boil them?\" Mia asked.\n\"About five minutes. While we wait, let's stir-fry the vegetables,\" Grandma said.\nThey poured oil into the pan and stirred the vegetables quickly. The kitchen soon filled with a delicious smell.\n\"Don't forget to turn off the stove when the noodles are ready,\" Grandma reminded her.\nFinally, they mixed the noodles with the vegetables and a special sauce. Mia tasted a bite and her eyes lit up with surprise.\n\"This is the best noodles I've ever had!\" she said happily.\n\"You did a great job,\" Grandma said. \"Next time, you can cook for the whole family.\"\nMia smiled, feeling proud. She realized that cooking with patience and care could turn a simple rainy afternoon into something special.",
+  "vocab": [
+    {
+      "w": "recipe",
+      "pos": "n.",
+      "d": "食譜",
+      "example": "\"Today I'll teach you my special recipe,\" Grandma said with a smile."
+    },
+    {
+      "w": "chop",
+      "pos": "v.",
+      "d": "切；剁",
+      "example": "\"Next, chop the vegetables into small pieces,\" Grandma explained."
+    },
+    {
+      "w": "careful",
+      "pos": "adj.",
+      "d": "小心的",
+      "example": "\"Be careful with the knife,\" Grandma reminded her."
+    },
+    {
+      "w": "boil",
+      "pos": "v.",
+      "d": "煮沸",
+      "example": "Grandma boiled water in a big pot and added the noodles."
+    },
+    {
+      "w": "stir-fry",
+      "pos": "v.",
+      "d": "快炒",
+      "example": "\"Let's stir-fry the vegetables,\" Grandma said."
+    },
+    {
+      "w": "pour",
+      "pos": "v.",
+      "d": "倒；灌",
+      "example": "They poured oil into the pan and stirred the vegetables quickly."
+    },
+    {
+      "w": "delicious",
+      "pos": "adj.",
+      "d": "美味的",
+      "example": "The kitchen soon filled with a delicious smell."
+    },
+    {
+      "w": "remind",
+      "pos": "v.",
+      "d": "提醒",
+      "example": "\"Don't forget to turn off the stove,\" Grandma reminded her."
+    },
+    {
+      "w": "mix",
+      "pos": "v.",
+      "d": "混合",
+      "example": "Finally, they mixed the noodles with the vegetables and a special sauce."
+    },
+    {
+      "w": "surprise",
+      "pos": "n.",
+      "d": "驚訝；驚喜",
+      "example": "Mia tasted a bite and her eyes lit up with surprise."
+    },
+    {
+      "w": "proud",
+      "pos": "adj.",
+      "d": "驕傲的；自豪的",
+      "example": "Mia smiled, feeling proud after Grandma praised her."
+    },
+    {
+      "w": "patience",
+      "pos": "n.",
+      "d": "耐心",
+      "example": "Cooking with patience and care could turn a simple afternoon into something special."
+    },
+    {
+      "w": "follow",
+      "pos": "v.",
+      "d": "遵循；跟隨",
+      "example": "Mia chopped slowly, trying to follow every step."
+    }
+  ],
+  "grammar": [
+    "祈使句 (Imperative sentences)：以動詞原形開頭，用於下指令或給步驟，不加主詞；否定用 Don't + 原形動詞，如 Wash the vegetables carefully. / Don't forget to turn off the stove.",
+    "步驟連接詞 (Sequence connectors)：First、Next、After that、Finally 用於描述步驟順序，幫助讀者理解先後關係，如 First, wash the vegetables. ... After that, Grandma boiled water...Finally, they mixed the noodles.",
+    "助動詞 should 表建議/詢問做法：疑問句語序為 Wh- + should + 主詞 + 原形動詞,如 What should I do next? / How long should we boil them?"
+  ],
+  "sections": {
+    "reading": [
+      {
+        "q": "Why did Mia visit her grandmother on Saturday afternoon?",
+        "opts": [
+          "To watch TV because it was raining",
+          "To learn how to cook noodles",
+          "To clean the kitchen",
+          "To buy vegetables"
+        ],
+        "a": 1,
+        "ex": "文中提到下大雨時 Mia 決定去奶奶家學做麵（learn how to cook noodles）。"
+      },
+      {
+        "q": "What did Mia do first, before chopping the vegetables?",
+        "opts": [
+          "She boiled water",
+          "She washed the vegetables",
+          "She poured oil",
+          "She mixed the sauce"
+        ],
+        "a": 1,
+        "ex": "奶奶先說「wash the vegetables carefully」，Mia 先洗菜，之後才切菜。"
+      },
+      {
+        "q": "What did Grandma remind Mia to do?",
+        "opts": [
+          "Add more salt",
+          "Turn off the stove when the noodles are ready",
+          "Wash the pot",
+          "Call her mother"
+        ],
+        "a": 1,
+        "ex": "文中提到「Don't forget to turn off the stove when the noodles are ready,」Grandma reminded her.」"
+      },
+      {
+        "q": "How did Mia feel after tasting the noodles?",
+        "opts": [
+          "Disappointed",
+          "Bored",
+          "Surprised and happy",
+          "Angry"
+        ],
+        "a": 2,
+        "ex": "文中提到她的眼睛因驚喜發亮（lit up with surprise），並開心地說這是她吃過最好吃的麵。"
+      },
+      {
+        "q": "What did Mia realize at the end of the story?",
+        "opts": [
+          "Cooking is too difficult for her",
+          "Patience and care can make something special",
+          "She should buy noodles from a store next time",
+          "Grandma's kitchen is too small"
+        ],
+        "a": 1,
+        "ex": "文末提到「cooking with patience and care could turn a simple rainy afternoon into something special.」"
+      }
+    ],
+    "grammar": [
+      {
+        "q": "Choose the correct imperative sentence for giving instructions.",
+        "opts": [
+          "You wash the vegetables carefully.",
+          "Wash the vegetables carefully.",
+          "Washing the vegetables carefully.",
+          "Washed the vegetables carefully."
+        ],
+        "a": 1,
+        "ex": "祈使句以動詞原形開頭，不加主詞，故選 B。"
+      },
+      {
+        "q": "Choose the correct negative imperative sentence.",
+        "opts": [
+          "Not forget to turn off the stove.",
+          "Don't forget to turn off the stove.",
+          "Doesn't forget to turn off the stove.",
+          "No forget to turn off the stove."
+        ],
+        "a": 1,
+        "ex": "否定祈使句用 Don't + 原形動詞，故選 B。"
+      },
+      {
+        "q": "They washed and chopped the vegetables. ______, Grandma boiled water and added the noodles.",
+        "opts": [
+          "First",
+          "After that",
+          "Finally",
+          "Before"
+        ],
+        "a": 1,
+        "ex": "After that 表示「在那之後」，承接前一步驟（洗切蔬菜）之後才煮水下麵，故選 B。"
+      },
+      {
+        "q": "Choose the correct question using \"should\" to ask for advice.",
+        "opts": [
+          "What I should do next?",
+          "What should I do next?",
+          "What do I should next?",
+          "What should do I next?"
+        ],
+        "a": 1,
+        "ex": "should 為助動詞，疑問句語序為 Wh- + should + 主詞 + 原形動詞，故選 B。"
+      },
+      {
+        "q": "Choose the sentence that correctly uses \"should\" to ask about duration.",
+        "opts": [
+          "How long we should boil them?",
+          "How long should we boil them?",
+          "How long should boil we them?",
+          "How long we boiled should them?"
+        ],
+        "a": 1,
+        "ex": "疑問句語序為 How long + should + 主詞 + 原形動詞，故選 B。"
+      }
+    ],
+    "vocab": [
+      {
+        "q": "What does \"recipe\" mean in this passage?",
+        "opts": [
+          "食譜",
+          "餐廳",
+          "廚房",
+          "餐具"
+        ],
+        "a": 0,
+        "ex": "recipe 意為「食譜」，此處指奶奶教 Mia 的特製食譜。"
+      },
+      {
+        "q": "\"Be careful with the knife\" — what does \"careful\" mean?",
+        "opts": [
+          "快速的",
+          "小心的",
+          "懶惰的",
+          "驕傲的"
+        ],
+        "a": 1,
+        "ex": "careful 意為「小心的」，提醒使用刀具要小心。"
+      },
+      {
+        "q": "Grandma said, \"Let's ______ the vegetables,\" meaning to fry them quickly while stirring.",
+        "opts": [
+          "boil",
+          "stir-fry",
+          "pour",
+          "mix"
+        ],
+        "a": 1,
+        "ex": "stir-fry 意為「快炒」，符合快速翻炒蔬菜的情境。"
+      },
+      {
+        "q": "What is the meaning of \"remind\" in \"Grandma reminded her to turn off the stove\"?",
+        "opts": [
+          "禁止",
+          "提醒",
+          "忘記",
+          "懲罰"
+        ],
+        "a": 1,
+        "ex": "remind 意為「提醒」，奶奶提醒 Mia 要記得關火。"
+      },
+      {
+        "q": "Mia felt ______ when Grandma praised her cooking.",
+        "opts": [
+          "proud",
+          "careful",
+          "delicious",
+          "patience"
+        ],
+        "a": 0,
+        "ex": "proud 意為「驕傲的；自豪的」，符合被稱讚後感到自豪的情境；delicious 用於形容食物，patience 為名詞不可直接當補語，故不選。"
+      }
+    ]
+  }
+}
