@@ -1,265 +1,50 @@
 {
-  "date": "2026-10-26",
-  "title": "Cooking with Grandma on a Rainy Afternoon",
+  "date": "2026-10-27",
+  "title": "A Video Call with Grandpa in Canada",
   "level": "國中二~三年級 (Grade 8-9)",
   "note": "",
-  "passage": "It was raining heavily on Saturday afternoon, so Mia decided to visit her grandmother and learn how to cook noodles.\n\"Today I'll teach you my special recipe,\" Grandma said with a smile. \"First, wash the vegetables carefully.\"\nMia nodded and washed the carrots and green onions in the sink. \"What should I do next?\" she asked.\n\"Next, chop the vegetables into small pieces,\" Grandma explained. \"Be careful with the knife.\"\nMia chopped slowly, trying to follow every step. After that, Grandma boiled water in a big pot and added the noodles.\n\"How long should we boil them?\" Mia asked.\n\"About five minutes. While we wait, let's stir-fry the vegetables,\" Grandma said.\nThey poured oil into the pan and stirred the vegetables quickly. The kitchen soon filled with a delicious smell.\n\"Don't forget to turn off the stove when the noodles are ready,\" Grandma reminded her.\nFinally, they mixed the noodles with the vegetables and a special sauce. Mia tasted a bite and her eyes lit up with surprise.\n\"This is the best noodles I've ever had!\" she said happily.\n\"You did a great job,\" Grandma said. \"Next time, you can cook for the whole family.\"\nMia smiled, feeling proud. She realized that cooking with patience and care could turn a simple rainy afternoon into something special.",
+  "passage": "Last Sunday evening, Tina was sitting in the living room, waiting for her weekly video call with Grandpa, who moved to Canada last year.\n\"Hi, Tina! Can you hear me clearly?\" Grandpa asked, waving at the screen.\n\"Yes, Grandpa! You look great today,\" Tina said happily.\n\"It's much colder here than in Taiwan,\" Grandpa said, pointing out the window. \"The snow is falling outside right now.\"\n\"Wow, it's as hot as summer here!\" Tina laughed. \"What are you doing these days?\"\n\"I'm learning to cook Canadian dishes, and I'm also planting flowers in the garden,\" Grandpa said proudly.\n\"That sounds more exciting than staying at home!\" Tina replied. \"When are you going to visit us?\"\n\"I'm going to fly back next winter,\" Grandpa said. \"I miss your mom's cooking so much.\"\n\"We miss you too!\" Tina said. \"Mom is cooking dinner right now. Do you want to say hello to her?\"\n\"Of course! Please pass the phone to her,\" Grandpa said with a smile.\nTina ran to the kitchen, holding the phone carefully. \"Mom, Grandpa wants to talk to you!\"\nHer mother wiped her hands quickly and took the phone. The whole family felt warm and connected, even though they were far apart.",
   "vocab": [
-    {
-      "w": "recipe",
-      "pos": "n.",
-      "d": "食譜",
-      "example": "\"Today I'll teach you my special recipe,\" Grandma said with a smile."
-    },
-    {
-      "w": "chop",
-      "pos": "v.",
-      "d": "切；剁",
-      "example": "\"Next, chop the vegetables into small pieces,\" Grandma explained."
-    },
-    {
-      "w": "careful",
-      "pos": "adj.",
-      "d": "小心的",
-      "example": "\"Be careful with the knife,\" Grandma reminded her."
-    },
-    {
-      "w": "boil",
-      "pos": "v.",
-      "d": "煮沸",
-      "example": "Grandma boiled water in a big pot and added the noodles."
-    },
-    {
-      "w": "stir-fry",
-      "pos": "v.",
-      "d": "快炒",
-      "example": "\"Let's stir-fry the vegetables,\" Grandma said."
-    },
-    {
-      "w": "pour",
-      "pos": "v.",
-      "d": "倒；灌",
-      "example": "They poured oil into the pan and stirred the vegetables quickly."
-    },
-    {
-      "w": "delicious",
-      "pos": "adj.",
-      "d": "美味的",
-      "example": "The kitchen soon filled with a delicious smell."
-    },
-    {
-      "w": "remind",
-      "pos": "v.",
-      "d": "提醒",
-      "example": "\"Don't forget to turn off the stove,\" Grandma reminded her."
-    },
-    {
-      "w": "mix",
-      "pos": "v.",
-      "d": "混合",
-      "example": "Finally, they mixed the noodles with the vegetables and a special sauce."
-    },
-    {
-      "w": "surprise",
-      "pos": "n.",
-      "d": "驚訝；驚喜",
-      "example": "Mia tasted a bite and her eyes lit up with surprise."
-    },
-    {
-      "w": "proud",
-      "pos": "adj.",
-      "d": "驕傲的；自豪的",
-      "example": "Mia smiled, feeling proud after Grandma praised her."
-    },
-    {
-      "w": "patience",
-      "pos": "n.",
-      "d": "耐心",
-      "example": "Cooking with patience and care could turn a simple afternoon into something special."
-    },
-    {
-      "w": "follow",
-      "pos": "v.",
-      "d": "遵循；跟隨",
-      "example": "Mia chopped slowly, trying to follow every step."
-    }
+    {"w": "weekly", "pos": "adj.", "d": "每週的", "example": "Tina was waiting for her weekly video call with Grandpa."},
+    {"w": "clearly", "pos": "adv.", "d": "清楚地", "example": "\"Can you hear me clearly?\" Grandpa asked."},
+    {"w": "colder", "pos": "adj. (比較級)", "d": "更冷的", "example": "\"It's much colder here than in Taiwan,\" Grandpa said."},
+    {"w": "point", "pos": "v.", "d": "指；指出", "example": "Grandpa said, pointing out the window."},
+    {"w": "fall", "pos": "v.", "d": "落下", "example": "The snow is falling outside right now."},
+    {"w": "proudly", "pos": "adv.", "d": "自豪地", "example": "\"I'm also planting flowers in the garden,\" Grandpa said proudly."},
+    {"w": "exciting", "pos": "adj.", "d": "令人興奮的", "example": "\"That sounds more exciting than staying at home!\" Tina replied."},
+    {"w": "visit", "pos": "v.", "d": "拜訪", "example": "\"When are you going to visit us?\" Tina asked."},
+    {"w": "miss", "pos": "v.", "d": "想念", "example": "\"I miss your mom's cooking so much,\" Grandpa said."},
+    {"w": "carefully", "pos": "adv.", "d": "小心地", "example": "Tina ran to the kitchen, holding the phone carefully."},
+    {"w": "wipe", "pos": "v.", "d": "擦拭", "example": "Her mother wiped her hands quickly and took the phone."},
+    {"w": "connected", "pos": "adj.", "d": "連結的；有聯繫的", "example": "The whole family felt warm and connected, even though they were far apart."},
+    {"w": "wave", "pos": "v.", "d": "揮手", "example": "Grandpa asked, waving at the screen."}
   ],
   "grammar": [
-    "祈使句 (Imperative sentences)：以動詞原形開頭，用於下指令或給步驟，不加主詞；否定用 Don't + 原形動詞，如 Wash the vegetables carefully. / Don't forget to turn off the stove.",
-    "步驟連接詞 (Sequence connectors)：First、Next、After that、Finally 用於描述步驟順序，幫助讀者理解先後關係，如 First, wash the vegetables. ... After that, Grandma boiled water...Finally, they mixed the noodles.",
-    "助動詞 should 表建議/詢問做法：疑問句語序為 Wh- + should + 主詞 + 原形動詞,如 What should I do next? / How long should we boil them?"
+    "現在進行時 (Present continuous)：be + V-ing，表示當下正在進行的動作，如 The snow is falling outside right now. / Mom is cooking dinner right now.",
+    "比較級 (Comparatives)：形容詞加 -er + than 或 more + 形容詞 + than 表示「比...更」；as + 形容詞 + as 表示「和...一樣」，如 It's much colder here than in Taiwan. / That sounds more exciting than staying at home! / It's as hot as summer here!",
+    "be going to 表未來計畫：be + going to + 原形動詞，用於談論已決定的未來計畫，如 I'm going to fly back next winter. / When are you going to visit us?"
   ],
   "sections": {
     "reading": [
-      {
-        "q": "Why did Mia visit her grandmother on Saturday afternoon?",
-        "opts": [
-          "To watch TV because it was raining",
-          "To learn how to cook noodles",
-          "To clean the kitchen",
-          "To buy vegetables"
-        ],
-        "a": 1,
-        "ex": "文中提到下大雨時 Mia 決定去奶奶家學做麵（learn how to cook noodles）。"
-      },
-      {
-        "q": "What did Mia do first, before chopping the vegetables?",
-        "opts": [
-          "She boiled water",
-          "She washed the vegetables",
-          "She poured oil",
-          "She mixed the sauce"
-        ],
-        "a": 1,
-        "ex": "奶奶先說「wash the vegetables carefully」，Mia 先洗菜，之後才切菜。"
-      },
-      {
-        "q": "What did Grandma remind Mia to do?",
-        "opts": [
-          "Add more salt",
-          "Turn off the stove when the noodles are ready",
-          "Wash the pot",
-          "Call her mother"
-        ],
-        "a": 1,
-        "ex": "文中提到「Don't forget to turn off the stove when the noodles are ready,」Grandma reminded her.」"
-      },
-      {
-        "q": "How did Mia feel after tasting the noodles?",
-        "opts": [
-          "Disappointed",
-          "Bored",
-          "Surprised and happy",
-          "Angry"
-        ],
-        "a": 2,
-        "ex": "文中提到她的眼睛因驚喜發亮（lit up with surprise），並開心地說這是她吃過最好吃的麵。"
-      },
-      {
-        "q": "What did Mia realize at the end of the story?",
-        "opts": [
-          "Cooking is too difficult for her",
-          "Patience and care can make something special",
-          "She should buy noodles from a store next time",
-          "Grandma's kitchen is too small"
-        ],
-        "a": 1,
-        "ex": "文末提到「cooking with patience and care could turn a simple rainy afternoon into something special.」"
-      }
+      {"q": "Why was Tina waiting in the living room on Sunday evening?", "opts": ["To watch a movie with her mom", "To have her weekly video call with Grandpa", "To do her homework", "To cook dinner"], "a": 1, "ex": "文中提到 Tina 在客廳等待她每週與爺爺的視訊電話（weekly video call）。"},
+      {"q": "What is the weather like in Canada according to Grandpa?", "opts": ["It is much colder and snowing", "It is as hot as summer", "It is raining heavily", "It is sunny and warm"], "a": 0, "ex": "Grandpa 說「It's much colder here than in Taiwan... The snow is falling outside right now.」"},
+      {"q": "What is Grandpa doing in Canada these days?", "opts": ["Working at a restaurant", "Learning to cook Canadian dishes and planting flowers", "Studying English", "Visiting friends"], "a": 1, "ex": "Grandpa 提到他正在學做加拿大菜，也在花園種花。"},
+      {"q": "When does Grandpa plan to visit Taiwan?", "opts": ["Next summer", "Next week", "Next winter", "He is not planning to visit"], "a": 2, "ex": "Grandpa 說「I'm going to fly back next winter.」"},
+      {"q": "What did Tina do after Grandpa asked to talk to her mom?", "opts": ["She hung up the phone", "She ran to the kitchen holding the phone carefully", "She asked Grandpa to call again later", "She ignored Grandpa's request"], "a": 1, "ex": "文中提到 Tina 小心地拿著電話跑到廚房找媽媽。"}
     ],
     "grammar": [
-      {
-        "q": "Choose the correct imperative sentence for giving instructions.",
-        "opts": [
-          "You wash the vegetables carefully.",
-          "Wash the vegetables carefully.",
-          "Washing the vegetables carefully.",
-          "Washed the vegetables carefully."
-        ],
-        "a": 1,
-        "ex": "祈使句以動詞原形開頭，不加主詞，故選 B。"
-      },
-      {
-        "q": "Choose the correct negative imperative sentence.",
-        "opts": [
-          "Not forget to turn off the stove.",
-          "Don't forget to turn off the stove.",
-          "Doesn't forget to turn off the stove.",
-          "No forget to turn off the stove."
-        ],
-        "a": 1,
-        "ex": "否定祈使句用 Don't + 原形動詞，故選 B。"
-      },
-      {
-        "q": "They washed and chopped the vegetables. ______, Grandma boiled water and added the noodles.",
-        "opts": [
-          "First",
-          "After that",
-          "Finally",
-          "Before"
-        ],
-        "a": 1,
-        "ex": "After that 表示「在那之後」，承接前一步驟（洗切蔬菜）之後才煮水下麵，故選 B。"
-      },
-      {
-        "q": "Choose the correct question using \"should\" to ask for advice.",
-        "opts": [
-          "What I should do next?",
-          "What should I do next?",
-          "What do I should next?",
-          "What should do I next?"
-        ],
-        "a": 1,
-        "ex": "should 為助動詞，疑問句語序為 Wh- + should + 主詞 + 原形動詞，故選 B。"
-      },
-      {
-        "q": "Choose the sentence that correctly uses \"should\" to ask about duration.",
-        "opts": [
-          "How long we should boil them?",
-          "How long should we boil them?",
-          "How long should boil we them?",
-          "How long we boiled should them?"
-        ],
-        "a": 1,
-        "ex": "疑問句語序為 How long + should + 主詞 + 原形動詞，故選 B。"
-      }
+      {"q": "Choose the sentence that correctly uses present continuous for an action happening right now.", "opts": ["The snow falls outside right now.", "The snow is falling outside right now.", "The snow fell outside right now.", "The snow falling outside right now."], "a": 1, "ex": "現在進行時為 be + V-ing，描述當下正在發生的動作，故選 B。"},
+      {"q": "Choose the correct comparative sentence meaning Canada is colder than Taiwan.", "opts": ["It's much colder here than in Taiwan.", "It's much cold here than in Taiwan.", "It's much more colder here than in Taiwan.", "It's much coldest here than in Taiwan."], "a": 0, "ex": "比較級用「形容詞-er + than」，cold 的比較級是 colder，故選 A。"},
+      {"q": "Choose the sentence that correctly uses \"as...as\" to show equal comparison.", "opts": ["It's as hot than summer here.", "It's as hot as summer here.", "It's as hotter as summer here.", "It's so hot as summer here."], "a": 1, "ex": "「as + 形容詞原級 + as」表示「和...一樣」，故選 B。"},
+      {"q": "Choose the correct sentence using \"be going to\" to talk about a future plan.", "opts": ["Grandpa going to fly back next winter.", "Grandpa is going to fly back next winter.", "Grandpa is go to fly back next winter.", "Grandpa was going fly back next winter."], "a": 1, "ex": "be going to 結構為 be + going to + 原形動詞，故選 B。"},
+      {"q": "Choose the correct question using \"be going to\" to ask about a future plan.", "opts": ["When you are going to visit us?", "When are you going to visit us?", "When do you going to visit us?", "When going are you to visit us?"], "a": 1, "ex": "疑問句語序為 Wh- + be + 主詞 + going to + 原形動詞，故選 B。"}
     ],
     "vocab": [
-      {
-        "q": "What does \"recipe\" mean in this passage?",
-        "opts": [
-          "食譜",
-          "餐廳",
-          "廚房",
-          "餐具"
-        ],
-        "a": 0,
-        "ex": "recipe 意為「食譜」，此處指奶奶教 Mia 的特製食譜。"
-      },
-      {
-        "q": "\"Be careful with the knife\" — what does \"careful\" mean?",
-        "opts": [
-          "快速的",
-          "小心的",
-          "懶惰的",
-          "驕傲的"
-        ],
-        "a": 1,
-        "ex": "careful 意為「小心的」，提醒使用刀具要小心。"
-      },
-      {
-        "q": "Grandma said, \"Let's ______ the vegetables,\" meaning to fry them quickly while stirring.",
-        "opts": [
-          "boil",
-          "stir-fry",
-          "pour",
-          "mix"
-        ],
-        "a": 1,
-        "ex": "stir-fry 意為「快炒」，符合快速翻炒蔬菜的情境。"
-      },
-      {
-        "q": "What is the meaning of \"remind\" in \"Grandma reminded her to turn off the stove\"?",
-        "opts": [
-          "禁止",
-          "提醒",
-          "忘記",
-          "懲罰"
-        ],
-        "a": 1,
-        "ex": "remind 意為「提醒」，奶奶提醒 Mia 要記得關火。"
-      },
-      {
-        "q": "Mia felt ______ when Grandma praised her cooking.",
-        "opts": [
-          "proud",
-          "careful",
-          "delicious",
-          "patience"
-        ],
-        "a": 0,
-        "ex": "proud 意為「驕傲的；自豪的」，符合被稱讚後感到自豪的情境；delicious 用於形容食物，patience 為名詞不可直接當補語，故不選。"
-      }
+      {"q": "What does \"weekly\" mean?", "opts": ["每天的", "每週的", "每月的", "每年的"], "a": 1, "ex": "weekly 意為「每週的」，指每週固定進行的事。"},
+      {"q": "\"Grandpa said proudly\" — what does \"proudly\" mean?", "opts": ["傷心地", "生氣地", "自豪地", "害怕地"], "a": 2, "ex": "proudly 意為「自豪地」，符合爺爺分享種花成果時的語氣。"},
+      {"q": "What is the meaning of \"miss\" in \"I miss your mom's cooking so much\"?", "opts": ["錯過", "想念", "誤解", "忽略"], "a": 1, "ex": "此處 miss 意為「想念」，表示爺爺很想念媽媽做的菜。"},
+      {"q": "Tina ran to the kitchen, holding the phone ______, meaning in a very cautious way.", "opts": ["quickly", "carefully", "loudly", "proudly"], "a": 1, "ex": "carefully 意為「小心地」，符合謹慎拿著手機的情境。"},
+      {"q": "What does \"connected\" mean in \"The whole family felt warm and connected\"?", "opts": ["分離的", "連結的", "冷淡的", "困惑的"], "a": 1, "ex": "connected 意為「連結的；有聯繫的」，指全家人即使分隔兩地仍感到彼此相連。"}
     ]
   }
 }
