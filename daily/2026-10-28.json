@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-28",
+  "title": "A Surprise Birthday Party for Mom",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "On Friday afternoon, David and his sister Amy were planning a surprise party for their mother's birthday.\n\"Mom's birthday is this Saturday. We should plan something special,\" David said.\n\"I agree. I have never baked a cake before, but I want to try this time,\" Amy said excitedly.\n\"If we start now, we will have enough time to decorate the living room too,\" David replied.\n\"Good idea! We should also invite Grandma and Uncle Mark,\" Amy added. \"They will be so happy to join us.\"\n\"Don't forget the balloons. If Dad buys them after work, we can hang them before Mom gets home,\" David said.\n\"I'll call Dad right now,\" Amy said, picking up her phone.\nThat evening, David wrapped a small gift while Amy carefully frosted the cake.\n\"It looks delicious! You should feel proud of yourself,\" David said, smiling.\n\"Thanks! I have learned a lot from watching cooking videos,\" Amy laughed.\nOn Saturday evening, everyone hid behind the sofa. When Mom opened the door, they shouted, \"Surprise! Happy Birthday!\"\nMom's eyes filled with tears of joy. \"This is the best birthday I have ever had,\" she said, hugging both of her children tightly.",
+  "vocab": [
+    {"w": "special", "pos": "adj.", "d": "特別的", "example": "\"We should plan something special,\" David said."},
+    {"w": "excitedly", "pos": "adv.", "d": "興奮地", "example": "\"I have never baked a cake before, but I want to try this time,\" Amy said excitedly."},
+    {"w": "decorate", "pos": "v.", "d": "裝飾", "example": "\"If we start now, we will have enough time to decorate the living room too,\" David replied."},
+    {"w": "invite", "pos": "v.", "d": "邀請", "example": "\"We should also invite Grandma and Uncle Mark,\" Amy added."},
+    {"w": "forget", "pos": "v.", "d": "忘記", "example": "\"Don't forget the balloons,\" David said."},
+    {"w": "hang", "pos": "v.", "d": "懸掛", "example": "\"If Dad buys them after work, we can hang them before Mom gets home,\" David said."},
+    {"w": "wrap", "pos": "v.", "d": "包裝", "example": "David wrapped a small gift while Amy carefully frosted the cake."},
+    {"w": "frost", "pos": "v.", "d": "（在蛋糕上）塗糖霜裝飾", "example": "David wrapped a small gift while Amy carefully frosted the cake."},
+    {"w": "proud", "pos": "adj.", "d": "自豪的；驕傲的", "example": "\"You should feel proud of yourself,\" David said, smiling."},
+    {"w": "delicious", "pos": "adj.", "d": "美味的", "example": "\"It looks delicious! You should feel proud of yourself,\" David said."},
+    {"w": "hug", "pos": "v.", "d": "擁抱", "example": "\"This is the best birthday I have ever had,\" she said, hugging both of her children tightly."},
+    {"w": "tears", "pos": "n.", "d": "眼淚", "example": "Mom's eyes filled with tears of joy."},
+    {"w": "shout", "pos": "v.", "d": "大喊", "example": "When Mom opened the door, they shouted, \"Surprise! Happy Birthday!\""}
+  ],
+  "grammar": [
+    "現在完成時 (Present Perfect)：have/has + 過去分詞，表示過去到現在的經驗或已完成的動作，如 I have never baked a cake before. / This is the best birthday I have ever had.",
+    "第一條件句 (First Conditional)：If + 現在簡單時, ... will/can + 原形動詞，表示未來可能發生的情況，如 If we start now, we will have enough time to decorate the living room. / If Dad buys them after work, we can hang them before Mom gets home.",
+    "助動詞 should 表建議：should + 原形動詞，表示「應該」，如 We should plan something special. / You should feel proud of yourself."
+  ],
+  "sections": {
+    "reading": [
+      {"q": "What were David and Amy planning on Friday afternoon?", "opts": ["A trip to the zoo", "A surprise party for their mother's birthday", "A school project", "A visit to their grandmother"], "a": 1, "ex": "文中提到 David 和 Amy 在策劃媽媽生日的驚喜派對（a surprise party for their mother's birthday）。"},
+      {"q": "What did Amy say she had never done before?", "opts": ["Ridden a bike", "Baked a cake", "Cooked dinner", "Watched a movie"], "a": 1, "ex": "Amy 說「I have never baked a cake before, but I want to try this time.」"},
+      {"q": "Who did Amy say they should invite to the party?", "opts": ["Their teacher and classmates", "Grandma and Uncle Mark", "Their neighbors", "Dad's coworkers"], "a": 1, "ex": "Amy 說「We should also invite Grandma and Uncle Mark.」"},
+      {"q": "What did David do while Amy frosted the cake?", "opts": ["He went shopping", "He wrapped a small gift", "He cleaned the living room", "He called Grandma"], "a": 1, "ex": "文中提到 David 包裝一份小禮物，而 Amy 則仔細地為蛋糕上糖霜。"},
+      {"q": "How did Mom react when she saw the surprise?", "opts": ["She was confused and left", "She felt angry", "Her eyes filled with tears of joy and she hugged her children", "She didn't notice anything"], "a": 2, "ex": "文中提到媽媽眼眶含淚，並緊緊擁抱兩個孩子，說這是她過得最棒的生日。"}
+    ],
+    "grammar": [
+      {"q": "Choose the sentence that correctly uses the present perfect tense.", "opts": ["I have never baked a cake before.", "I have never bake a cake before.", "I have never baking a cake before.", "I never baked have a cake before."], "a": 0, "ex": "現在完成時為 have + 過去分詞，baked 是 bake 的過去分詞，故選 A。"},
+      {"q": "Choose the correct first conditional sentence.", "opts": ["If we start now, we will have enough time.", "If we starting now, we will have enough time.", "If we will start now, we have enough time.", "If we started now, we will have enough time."], "a": 0, "ex": "第一條件句為「If + 現在簡單時, ... will + 原形動詞」，故選 A。"},
+      {"q": "Choose the sentence that correctly uses \"should\" for advice.", "opts": ["We should to plan something special.", "We should plan something special.", "We should planning something special.", "We should plans something special."], "a": 1, "ex": "should 之後直接加原形動詞，不加 to 或其他變化，故選 B。"},
+      {"q": "Choose the correct present perfect question form.", "opts": ["Have you ever baked a cake?", "Did you ever have baked a cake?", "You have ever baked a cake?", "Have you ever bake a cake?"], "a": 0, "ex": "現在完成時疑問句為「Have/Has + 主詞 + 過去分詞」，故選 A。"},
+      {"q": "Choose the correct first conditional sentence with \"can\".", "opts": ["If Dad buy them, we can hang them.", "If Dad buys them, we can hang them.", "If Dad will buy them, we can hang them.", "If Dad bought them, we can hang them."], "a": 1, "ex": "若句主詞為第三人稱單數，現在簡單時動詞要加 -s，故選 B。"}
+    ],
+    "vocab": [
+      {"q": "What does \"decorate\" mean?", "opts": ["裝飾", "破壞", "清潔", "搬動"], "a": 0, "ex": "decorate 意為「裝飾」，指布置派對場地。"},
+      {"q": "What does \"invite\" mean in \"We should also invite Grandma\"?", "opts": ["拒絕", "邀請", "忘記", "尋找"], "a": 1, "ex": "invite 意為「邀請」，表示請某人前來參加。"},
+      {"q": "\"Amy carefully frosted the cake\" — what does \"frosted\" mean here?", "opts": ["冷凍", "以糖霜裝飾", "切開", "丟棄"], "a": 1, "ex": "此處 frost 作動詞，意為「在蛋糕上塗糖霜裝飾」。"},
+      {"q": "What is the meaning of \"proud\" in \"You should feel proud of yourself\"?", "opts": ["驕傲的；自豪的", "緊張的", "害怕的", "疲倦的"], "a": 0, "ex": "proud 意為「驕傲的；自豪的」，表示對自己的表現感到滿意。"},
+      {"q": "What does \"delicious\" mean?", "opts": ["無聊的", "美味的", "昂貴的", "簡單的"], "a": 1, "ex": "delicious 意為「美味的」，用來形容食物好吃。"}
+    ]
+  }
+}
