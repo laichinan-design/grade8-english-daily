@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-29",
+  "title": "A New Exchange Student at School",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "On Monday morning, a new student named Yuki joined Class 8A. She came from Japan and looked a little nervous.\n\"Hi, I'm Yuki. I used to study in Tokyo, but my family moved to Taiwan last month,\" she said shyly.\n\"Welcome to our class! Taiwan's weather is probably hotter than Tokyo's, right?\" Tom asked with a smile.\n\"Yes, it is much hotter here. I used to wear a heavy coat in winter, but I don't need one now,\" Yuki laughed.\nDuring lunch, Tom introduced Yuki to his friends. \"This is the most delicious noodle shop near our school,\" he said, pointing at the cafeteria.\n\"It smells amazing! I used to eat sushi almost every day, but I want to try new food here,\" Yuki said happily.\nIn P.E. class, Yuki ran faster than most of the boys. \"Wow, you're the fastest runner in our class!\" Tom said in surprise.\n\"I used to be on the track team in Japan,\" Yuki explained. \"Running makes me feel relaxed.\"\nAfter school, Tom and his friends invited Yuki to join their basketball club. \"It's more fun than studying alone,\" one classmate said.\nYuki smiled and nodded. \"I think this will be the best year of my life. Thank you for being so kind to me.\"",
+  "vocab": [
+    {"w": "nervous", "pos": "adj.", "d": "緊張的", "example": "She came from Japan and looked a little nervous."},
+    {"w": "shyly", "pos": "adv.", "d": "害羞地", "example": "\"Hi, I'm Yuki,\" she said shyly."},
+    {"w": "welcome", "pos": "v./n.", "d": "歡迎", "example": "\"Welcome to our class!\" Tom asked with a smile."},
+    {"w": "probably", "pos": "adv.", "d": "可能；大概", "example": "Taiwan's weather is probably hotter than Tokyo's, right?"},
+    {"w": "introduce", "pos": "v.", "d": "介紹", "example": "Tom introduced Yuki to his friends."},
+    {"w": "amazing", "pos": "adj.", "d": "令人驚奇的", "example": "\"It smells amazing!\" Yuki said happily."},
+    {"w": "happily", "pos": "adv.", "d": "開心地", "example": "Yuki said happily."},
+    {"w": "surprise", "pos": "n.", "d": "驚訝", "example": "\"Wow, you're the fastest runner in our class!\" Tom said in surprise."},
+    {"w": "explain", "pos": "v.", "d": "解釋", "example": "\"I used to be on the track team in Japan,\" Yuki explained."},
+    {"w": "relaxed", "pos": "adj.", "d": "放鬆的", "example": "Running makes me feel relaxed."},
+    {"w": "invite", "pos": "v.", "d": "邀請", "example": "Tom and his friends invited Yuki to join their basketball club."},
+    {"w": "kind", "pos": "adj.", "d": "親切的；善良的", "example": "Thank you for being so kind to me."}
+  ],
+  "grammar": [
+    "used to + 原形動詞：表示過去的習慣或狀態，現在已不再如此，如 I used to study in Tokyo. / I used to wear a heavy coat in winter, but I don't need one now.",
+    "比較級 (Comparative)：形容詞 + -er + than，比較兩者，如 Taiwan's weather is hotter than Tokyo's. / It's more fun than studying alone.",
+    "最高級 (Superlative)：the + 形容詞 + -est / the most + 形容詞，表示三者以上最高程度，如 This is the most delicious noodle shop near our school. / You're the fastest runner in our class!"
+  ],
+  "sections": {
+    "reading": [
+      {"q": "Where did Yuki come from?", "opts": ["Korea", "Japan", "China", "America"], "a": 1, "ex": "文中提到 Yuki 來自日本（She came from Japan）。"},
+      {"q": "Why did Yuki say Taiwan's weather is different from Tokyo's?", "opts": ["It is colder in Taiwan", "It is much hotter in Taiwan", "It rains more in Taiwan", "It is the same as Tokyo"], "a": 1, "ex": "Yuki 說「it is much hotter here」，表示台灣比東京熱很多。"},
+      {"q": "What did Tom show Yuki during lunch?", "opts": ["The library", "The most delicious noodle shop near school", "The gym", "The art room"], "a": 1, "ex": "Tom 向 Yuki 介紹學校附近「最好吃的麵店」(the most delicious noodle shop)。"},
+      {"q": "What was Yuki's special skill that surprised Tom?", "opts": ["She could sing well", "She ran faster than most of the boys", "She could paint", "She spoke perfect Chinese"], "a": 1, "ex": "Yuki 在體育課中跑得比大部分男生快，讓 Tom 感到驚訝。"},
+      {"q": "What did Yuki and her classmates do after school?", "opts": ["They went home immediately", "They joined the basketball club together", "They did homework", "They went shopping"], "a": 1, "ex": "放學後 Tom 和朋友邀請 Yuki 一起加入籃球社。"}
+    ],
+    "grammar": [
+      {"q": "Choose the correct sentence using \"used to\".", "opts": ["I used to study in Tokyo.", "I use to studied in Tokyo.", "I used to studying in Tokyo.", "I am used to study in Tokyo."], "a": 0, "ex": "\"used to + 原形動詞\" 表示過去的習慣，現在已不再如此，故選 A。"},
+      {"q": "Choose the correct comparative sentence.", "opts": ["Taiwan's weather is hot than Tokyo's.", "Taiwan's weather is more hot than Tokyo's.", "Taiwan's weather is hotter than Tokyo's.", "Taiwan's weather is the hottest than Tokyo's."], "a": 2, "ex": "單音節形容詞比較級加 -er，hot → hotter，故選 C。"},
+      {"q": "Choose the correct superlative sentence.", "opts": ["This is the delicious noodle shop.", "This is the more delicious noodle shop.", "This is the most delicious noodle shop.", "This is deliciousest noodle shop."], "a": 2, "ex": "多音節形容詞最高級為 the most + 形容詞，故選 C。"},
+      {"q": "Choose the correct sentence with \"used to\" showing a changed habit.", "opts": ["I used to wear a heavy coat, but I don't need one now.", "I use to wear a heavy coat, but I don't needed one now.", "I used to wearing a heavy coat, but I didn't need one now.", "I am used to wear a heavy coat now."], "a": 0, "ex": "\"used to + 原形動詞\" 描述過去習慣，與現在對比時現在用一般現在簡單時，故選 A。"},
+      {"q": "Choose the correct superlative sentence about \"fast\".", "opts": ["You're the fast runner in our class!", "You're the faster runner in our class!", "You're the fastest runner in our class!", "You're the most fast runner in our class!"], "a": 2, "ex": "fast 為單音節形容詞，最高級加 -est，故選 C。"}
+    ],
+    "vocab": [
+      {"q": "What does \"nervous\" mean?", "opts": ["緊張的", "興奮的", "疲倦的", "自豪的"], "a": 0, "ex": "nervous 意為「緊張的」。"},
+      {"q": "What does \"introduce\" mean in \"Tom introduced Yuki to his friends\"?", "opts": ["忽略", "介紹", "邀請", "歡迎"], "a": 1, "ex": "introduce 意為「介紹」。"},
+      {"q": "What is the meaning of \"amazing\" in \"It smells amazing!\"?", "opts": ["可怕的", "令人驚奇的", "普通的", "噁心的"], "a": 1, "ex": "amazing 意為「令人驚奇的；了不起的」。"},
+      {"q": "What does \"relaxed\" mean in \"Running makes me feel relaxed\"?", "opts": ["緊張的", "放鬆的", "興奮的", "害怕的"], "a": 1, "ex": "relaxed 意為「放鬆的」。"},
+      {"q": "What does \"kind\" mean in \"Thank you for being so kind to me\"?", "opts": ["嚴格的", "親切的；善良的", "安靜的", "聰明的"], "a": 1, "ex": "kind 意為「親切的；善良的」。"}
+    ]
+  }
+}

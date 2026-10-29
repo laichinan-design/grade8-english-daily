@@ -1,50 +1,49 @@
 {
-  "date": "2026-10-28",
-  "title": "A Surprise Birthday Party for Mom",
+  "date": "2026-10-29",
+  "title": "A New Exchange Student at School",
   "level": "國中二~三年級 (Grade 8-9)",
   "note": "",
-  "passage": "On Friday afternoon, David and his sister Amy were planning a surprise party for their mother's birthday.\n\"Mom's birthday is this Saturday. We should plan something special,\" David said.\n\"I agree. I have never baked a cake before, but I want to try this time,\" Amy said excitedly.\n\"If we start now, we will have enough time to decorate the living room too,\" David replied.\n\"Good idea! We should also invite Grandma and Uncle Mark,\" Amy added. \"They will be so happy to join us.\"\n\"Don't forget the balloons. If Dad buys them after work, we can hang them before Mom gets home,\" David said.\n\"I'll call Dad right now,\" Amy said, picking up her phone.\nThat evening, David wrapped a small gift while Amy carefully frosted the cake.\n\"It looks delicious! You should feel proud of yourself,\" David said, smiling.\n\"Thanks! I have learned a lot from watching cooking videos,\" Amy laughed.\nOn Saturday evening, everyone hid behind the sofa. When Mom opened the door, they shouted, \"Surprise! Happy Birthday!\"\nMom's eyes filled with tears of joy. \"This is the best birthday I have ever had,\" she said, hugging both of her children tightly.",
+  "passage": "On Monday morning, a new student named Yuki joined Class 8A. She came from Japan and looked a little nervous.\n\"Hi, I'm Yuki. I used to study in Tokyo, but my family moved to Taiwan last month,\" she said shyly.\n\"Welcome to our class! Taiwan's weather is probably hotter than Tokyo's, right?\" Tom asked with a smile.\n\"Yes, it is much hotter here. I used to wear a heavy coat in winter, but I don't need one now,\" Yuki laughed.\nDuring lunch, Tom introduced Yuki to his friends. \"This is the most delicious noodle shop near our school,\" he said, pointing at the cafeteria.\n\"It smells amazing! I used to eat sushi almost every day, but I want to try new food here,\" Yuki said happily.\nIn P.E. class, Yuki ran faster than most of the boys. \"Wow, you're the fastest runner in our class!\" Tom said in surprise.\n\"I used to be on the track team in Japan,\" Yuki explained. \"Running makes me feel relaxed.\"\nAfter school, Tom and his friends invited Yuki to join their basketball club. \"It's more fun than studying alone,\" one classmate said.\nYuki smiled and nodded. \"I think this will be the best year of my life. Thank you for being so kind to me.\"",
   "vocab": [
-    {"w": "special", "pos": "adj.", "d": "特別的", "example": "\"We should plan something special,\" David said."},
-    {"w": "excitedly", "pos": "adv.", "d": "興奮地", "example": "\"I have never baked a cake before, but I want to try this time,\" Amy said excitedly."},
-    {"w": "decorate", "pos": "v.", "d": "裝飾", "example": "\"If we start now, we will have enough time to decorate the living room too,\" David replied."},
-    {"w": "invite", "pos": "v.", "d": "邀請", "example": "\"We should also invite Grandma and Uncle Mark,\" Amy added."},
-    {"w": "forget", "pos": "v.", "d": "忘記", "example": "\"Don't forget the balloons,\" David said."},
-    {"w": "hang", "pos": "v.", "d": "懸掛", "example": "\"If Dad buys them after work, we can hang them before Mom gets home,\" David said."},
-    {"w": "wrap", "pos": "v.", "d": "包裝", "example": "David wrapped a small gift while Amy carefully frosted the cake."},
-    {"w": "frost", "pos": "v.", "d": "（在蛋糕上）塗糖霜裝飾", "example": "David wrapped a small gift while Amy carefully frosted the cake."},
-    {"w": "proud", "pos": "adj.", "d": "自豪的；驕傲的", "example": "\"You should feel proud of yourself,\" David said, smiling."},
-    {"w": "delicious", "pos": "adj.", "d": "美味的", "example": "\"It looks delicious! You should feel proud of yourself,\" David said."},
-    {"w": "hug", "pos": "v.", "d": "擁抱", "example": "\"This is the best birthday I have ever had,\" she said, hugging both of her children tightly."},
-    {"w": "tears", "pos": "n.", "d": "眼淚", "example": "Mom's eyes filled with tears of joy."},
-    {"w": "shout", "pos": "v.", "d": "大喊", "example": "When Mom opened the door, they shouted, \"Surprise! Happy Birthday!\""}
+    {"w": "nervous", "pos": "adj.", "d": "緊張的", "example": "She came from Japan and looked a little nervous."},
+    {"w": "shyly", "pos": "adv.", "d": "害羞地", "example": "\"Hi, I'm Yuki,\" she said shyly."},
+    {"w": "welcome", "pos": "v./n.", "d": "歡迎", "example": "\"Welcome to our class!\" Tom asked with a smile."},
+    {"w": "probably", "pos": "adv.", "d": "可能；大概", "example": "Taiwan's weather is probably hotter than Tokyo's, right?"},
+    {"w": "introduce", "pos": "v.", "d": "介紹", "example": "Tom introduced Yuki to his friends."},
+    {"w": "amazing", "pos": "adj.", "d": "令人驚奇的", "example": "\"It smells amazing!\" Yuki said happily."},
+    {"w": "happily", "pos": "adv.", "d": "開心地", "example": "Yuki said happily."},
+    {"w": "surprise", "pos": "n.", "d": "驚訝", "example": "\"Wow, you're the fastest runner in our class!\" Tom said in surprise."},
+    {"w": "explain", "pos": "v.", "d": "解釋", "example": "\"I used to be on the track team in Japan,\" Yuki explained."},
+    {"w": "relaxed", "pos": "adj.", "d": "放鬆的", "example": "Running makes me feel relaxed."},
+    {"w": "invite", "pos": "v.", "d": "邀請", "example": "Tom and his friends invited Yuki to join their basketball club."},
+    {"w": "kind", "pos": "adj.", "d": "親切的；善良的", "example": "Thank you for being so kind to me."}
   ],
   "grammar": [
-    "現在完成時 (Present Perfect)：have/has + 過去分詞，表示過去到現在的經驗或已完成的動作，如 I have never baked a cake before. / This is the best birthday I have ever had.",
-    "第一條件句 (First Conditional)：If + 現在簡單時, ... will/can + 原形動詞，表示未來可能發生的情況，如 If we start now, we will have enough time to decorate the living room. / If Dad buys them after work, we can hang them before Mom gets home.",
-    "助動詞 should 表建議：should + 原形動詞，表示「應該」，如 We should plan something special. / You should feel proud of yourself."
+    "used to + 原形動詞：表示過去的習慣或狀態，現在已不再如此，如 I used to study in Tokyo. / I used to wear a heavy coat in winter, but I don't need one now.",
+    "比較級 (Comparative)：形容詞 + -er + than，比較兩者，如 Taiwan's weather is hotter than Tokyo's. / It's more fun than studying alone.",
+    "最高級 (Superlative)：the + 形容詞 + -est / the most + 形容詞，表示三者以上最高程度，如 This is the most delicious noodle shop near our school. / You're the fastest runner in our class!"
   ],
   "sections": {
     "reading": [
-      {"q": "What were David and Amy planning on Friday afternoon?", "opts": ["A trip to the zoo", "A surprise party for their mother's birthday", "A school project", "A visit to their grandmother"], "a": 1, "ex": "文中提到 David 和 Amy 在策劃媽媽生日的驚喜派對（a surprise party for their mother's birthday）。"},
-      {"q": "What did Amy say she had never done before?", "opts": ["Ridden a bike", "Baked a cake", "Cooked dinner", "Watched a movie"], "a": 1, "ex": "Amy 說「I have never baked a cake before, but I want to try this time.」"},
-      {"q": "Who did Amy say they should invite to the party?", "opts": ["Their teacher and classmates", "Grandma and Uncle Mark", "Their neighbors", "Dad's coworkers"], "a": 1, "ex": "Amy 說「We should also invite Grandma and Uncle Mark.」"},
-      {"q": "What did David do while Amy frosted the cake?", "opts": ["He went shopping", "He wrapped a small gift", "He cleaned the living room", "He called Grandma"], "a": 1, "ex": "文中提到 David 包裝一份小禮物，而 Amy 則仔細地為蛋糕上糖霜。"},
-      {"q": "How did Mom react when she saw the surprise?", "opts": ["She was confused and left", "She felt angry", "Her eyes filled with tears of joy and she hugged her children", "She didn't notice anything"], "a": 2, "ex": "文中提到媽媽眼眶含淚，並緊緊擁抱兩個孩子，說這是她過得最棒的生日。"}
+      {"q": "Where did Yuki come from?", "opts": ["Korea", "Japan", "China", "America"], "a": 1, "ex": "文中提到 Yuki 來自日本（She came from Japan）。"},
+      {"q": "Why did Yuki say Taiwan's weather is different from Tokyo's?", "opts": ["It is colder in Taiwan", "It is much hotter in Taiwan", "It rains more in Taiwan", "It is the same as Tokyo"], "a": 1, "ex": "Yuki 說「it is much hotter here」，表示台灣比東京熱很多。"},
+      {"q": "What did Tom show Yuki during lunch?", "opts": ["The library", "The most delicious noodle shop near school", "The gym", "The art room"], "a": 1, "ex": "Tom 向 Yuki 介紹學校附近「最好吃的麵店」(the most delicious noodle shop)。"},
+      {"q": "What was Yuki's special skill that surprised Tom?", "opts": ["She could sing well", "She ran faster than most of the boys", "She could paint", "She spoke perfect Chinese"], "a": 1, "ex": "Yuki 在體育課中跑得比大部分男生快，讓 Tom 感到驚訝。"},
+      {"q": "What did Yuki and her classmates do after school?", "opts": ["They went home immediately", "They joined the basketball club together", "They did homework", "They went shopping"], "a": 1, "ex": "放學後 Tom 和朋友邀請 Yuki 一起加入籃球社。"}
     ],
     "grammar": [
-      {"q": "Choose the sentence that correctly uses the present perfect tense.", "opts": ["I have never baked a cake before.", "I have never bake a cake before.", "I have never baking a cake before.", "I never baked have a cake before."], "a": 0, "ex": "現在完成時為 have + 過去分詞，baked 是 bake 的過去分詞，故選 A。"},
-      {"q": "Choose the correct first conditional sentence.", "opts": ["If we start now, we will have enough time.", "If we starting now, we will have enough time.", "If we will start now, we have enough time.", "If we started now, we will have enough time."], "a": 0, "ex": "第一條件句為「If + 現在簡單時, ... will + 原形動詞」，故選 A。"},
-      {"q": "Choose the sentence that correctly uses \"should\" for advice.", "opts": ["We should to plan something special.", "We should plan something special.", "We should planning something special.", "We should plans something special."], "a": 1, "ex": "should 之後直接加原形動詞，不加 to 或其他變化，故選 B。"},
-      {"q": "Choose the correct present perfect question form.", "opts": ["Have you ever baked a cake?", "Did you ever have baked a cake?", "You have ever baked a cake?", "Have you ever bake a cake?"], "a": 0, "ex": "現在完成時疑問句為「Have/Has + 主詞 + 過去分詞」，故選 A。"},
-      {"q": "Choose the correct first conditional sentence with \"can\".", "opts": ["If Dad buy them, we can hang them.", "If Dad buys them, we can hang them.", "If Dad will buy them, we can hang them.", "If Dad bought them, we can hang them."], "a": 1, "ex": "若句主詞為第三人稱單數，現在簡單時動詞要加 -s，故選 B。"}
+      {"q": "Choose the correct sentence using \"used to\".", "opts": ["I used to study in Tokyo.", "I use to studied in Tokyo.", "I used to studying in Tokyo.", "I am used to study in Tokyo."], "a": 0, "ex": "\"used to + 原形動詞\" 表示過去的習慣，現在已不再如此，故選 A。"},
+      {"q": "Choose the correct comparative sentence.", "opts": ["Taiwan's weather is hot than Tokyo's.", "Taiwan's weather is more hot than Tokyo's.", "Taiwan's weather is hotter than Tokyo's.", "Taiwan's weather is the hottest than Tokyo's."], "a": 2, "ex": "單音節形容詞比較級加 -er，hot → hotter，故選 C。"},
+      {"q": "Choose the correct superlative sentence.", "opts": ["This is the delicious noodle shop.", "This is the more delicious noodle shop.", "This is the most delicious noodle shop.", "This is deliciousest noodle shop."], "a": 2, "ex": "多音節形容詞最高級為 the most + 形容詞，故選 C。"},
+      {"q": "Choose the correct sentence with \"used to\" showing a changed habit.", "opts": ["I used to wear a heavy coat, but I don't need one now.", "I use to wear a heavy coat, but I don't needed one now.", "I used to wearing a heavy coat, but I didn't need one now.", "I am used to wear a heavy coat now."], "a": 0, "ex": "\"used to + 原形動詞\" 描述過去習慣，與現在對比時現在用一般現在簡單時，故選 A。"},
+      {"q": "Choose the correct superlative sentence about \"fast\".", "opts": ["You're the fast runner in our class!", "You're the faster runner in our class!", "You're the fastest runner in our class!", "You're the most fast runner in our class!"], "a": 2, "ex": "fast 為單音節形容詞，最高級加 -est，故選 C。"}
     ],
     "vocab": [
-      {"q": "What does \"decorate\" mean?", "opts": ["裝飾", "破壞", "清潔", "搬動"], "a": 0, "ex": "decorate 意為「裝飾」，指布置派對場地。"},
-      {"q": "What does \"invite\" mean in \"We should also invite Grandma\"?", "opts": ["拒絕", "邀請", "忘記", "尋找"], "a": 1, "ex": "invite 意為「邀請」，表示請某人前來參加。"},
-      {"q": "\"Amy carefully frosted the cake\" — what does \"frosted\" mean here?", "opts": ["冷凍", "以糖霜裝飾", "切開", "丟棄"], "a": 1, "ex": "此處 frost 作動詞，意為「在蛋糕上塗糖霜裝飾」。"},
-      {"q": "What is the meaning of \"proud\" in \"You should feel proud of yourself\"?", "opts": ["驕傲的；自豪的", "緊張的", "害怕的", "疲倦的"], "a": 0, "ex": "proud 意為「驕傲的；自豪的」，表示對自己的表現感到滿意。"},
-      {"q": "What does \"delicious\" mean?", "opts": ["無聊的", "美味的", "昂貴的", "簡單的"], "a": 1, "ex": "delicious 意為「美味的」，用來形容食物好吃。"}
+      {"q": "What does \"nervous\" mean?", "opts": ["緊張的", "興奮的", "疲倦的", "自豪的"], "a": 0, "ex": "nervous 意為「緊張的」。"},
+      {"q": "What does \"introduce\" mean in \"Tom introduced Yuki to his friends\"?", "opts": ["忽略", "介紹", "邀請", "歡迎"], "a": 1, "ex": "introduce 意為「介紹」。"},
+      {"q": "What is the meaning of \"amazing\" in \"It smells amazing!\"?", "opts": ["可怕的", "令人驚奇的", "普通的", "噁心的"], "a": 1, "ex": "amazing 意為「令人驚奇的；了不起的」。"},
+      {"q": "What does \"relaxed\" mean in \"Running makes me feel relaxed\"?", "opts": ["緊張的", "放鬆的", "興奮的", "害怕的"], "a": 1, "ex": "relaxed 意為「放鬆的」。"},
+      {"q": "What does \"kind\" mean in \"Thank you for being so kind to me\"?", "opts": ["嚴格的", "親切的；善良的", "安靜的", "聰明的"], "a": 1, "ex": "kind 意為「親切的；善良的」。"}
     ]
   }
 }
