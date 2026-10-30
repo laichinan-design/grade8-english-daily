@@ -1,49 +1,49 @@
 {
-  "date": "2026-10-29",
-  "title": "A New Exchange Student at School",
+  "date": "2026-10-30",
+  "title": "A Group Project for the Science Fair",
   "level": "國中二~三年級 (Grade 8-9)",
   "note": "",
-  "passage": "On Monday morning, a new student named Yuki joined Class 8A. She came from Japan and looked a little nervous.\n\"Hi, I'm Yuki. I used to study in Tokyo, but my family moved to Taiwan last month,\" she said shyly.\n\"Welcome to our class! Taiwan's weather is probably hotter than Tokyo's, right?\" Tom asked with a smile.\n\"Yes, it is much hotter here. I used to wear a heavy coat in winter, but I don't need one now,\" Yuki laughed.\nDuring lunch, Tom introduced Yuki to his friends. \"This is the most delicious noodle shop near our school,\" he said, pointing at the cafeteria.\n\"It smells amazing! I used to eat sushi almost every day, but I want to try new food here,\" Yuki said happily.\nIn P.E. class, Yuki ran faster than most of the boys. \"Wow, you're the fastest runner in our class!\" Tom said in surprise.\n\"I used to be on the track team in Japan,\" Yuki explained. \"Running makes me feel relaxed.\"\nAfter school, Tom and his friends invited Yuki to join their basketball club. \"It's more fun than studying alone,\" one classmate said.\nYuki smiled and nodded. \"I think this will be the best year of my life. Thank you for being so kind to me.\"",
+  "passage": "On Thursday afternoon, Mia and her two classmates, Leo and Amy, stayed after school to work on their science project. They wanted to build a model that shows how volcanoes erupt.\n\"This project is so exciting that I can't wait to show it to the class,\" Mia said, mixing baking soda in a plastic cup.\n\"I agree, but I'm too tired to finish painting the mountain today,\" Leo said, putting down his paintbrush.\n\"Don't worry. Amy is the student who is best at art in our class. She can help us tomorrow,\" Mia suggested.\nAmy smiled. \"I'd love to help. The teacher who gave us this project said creative ideas get extra points.\"\nSuddenly, their experiment bubbled over the table. \"Oops! It's too messy to clean up alone,\" Leo laughed, grabbing some paper towels.\n\"Let's work together. Many hands make light work,\" Mia said cheerfully, and they all began cleaning.\nAfter an hour, the model looked amazing. \"This volcano is so realistic that it might scare some kids,\" Amy joked.\n\"I'm so proud of our teamwork,\" Mia said. \"A good partner is someone who shares both the fun and the hard work.\"\nThe next day, their volcano model won first prize at the science fair. The judge, who had seen hundreds of projects, said theirs was the most creative one of the year.",
   "vocab": [
-    {"w": "nervous", "pos": "adj.", "d": "緊張的", "example": "She came from Japan and looked a little nervous."},
-    {"w": "shyly", "pos": "adv.", "d": "害羞地", "example": "\"Hi, I'm Yuki,\" she said shyly."},
-    {"w": "welcome", "pos": "v./n.", "d": "歡迎", "example": "\"Welcome to our class!\" Tom asked with a smile."},
-    {"w": "probably", "pos": "adv.", "d": "可能；大概", "example": "Taiwan's weather is probably hotter than Tokyo's, right?"},
-    {"w": "introduce", "pos": "v.", "d": "介紹", "example": "Tom introduced Yuki to his friends."},
-    {"w": "amazing", "pos": "adj.", "d": "令人驚奇的", "example": "\"It smells amazing!\" Yuki said happily."},
-    {"w": "happily", "pos": "adv.", "d": "開心地", "example": "Yuki said happily."},
-    {"w": "surprise", "pos": "n.", "d": "驚訝", "example": "\"Wow, you're the fastest runner in our class!\" Tom said in surprise."},
-    {"w": "explain", "pos": "v.", "d": "解釋", "example": "\"I used to be on the track team in Japan,\" Yuki explained."},
-    {"w": "relaxed", "pos": "adj.", "d": "放鬆的", "example": "Running makes me feel relaxed."},
-    {"w": "invite", "pos": "v.", "d": "邀請", "example": "Tom and his friends invited Yuki to join their basketball club."},
-    {"w": "kind", "pos": "adj.", "d": "親切的；善良的", "example": "Thank you for being so kind to me."}
+    {"w": "erupt", "pos": "v.", "d": "爆發", "example": "They wanted to build a model that shows how volcanoes erupt."},
+    {"w": "exciting", "pos": "adj.", "d": "令人興奮的", "example": "\"This project is so exciting that I can't wait to show it to the class,\" Mia said."},
+    {"w": "mix", "pos": "v.", "d": "混合", "example": "Mia said, mixing baking soda in a plastic cup."},
+    {"w": "tired", "pos": "adj.", "d": "疲倦的", "example": "\"I'm too tired to finish painting the mountain today,\" Leo said."},
+    {"w": "suggest", "pos": "v.", "d": "建議", "example": "\"She can help us tomorrow,\" Mia suggested."},
+    {"w": "creative", "pos": "adj.", "d": "有創意的", "example": "\"The teacher who gave us this project said creative ideas get extra points.\""},
+    {"w": "messy", "pos": "adj.", "d": "凌亂的", "example": "\"It's too messy to clean up alone,\" Leo laughed."},
+    {"w": "teamwork", "pos": "n.", "d": "團隊合作", "example": "\"I'm so proud of our teamwork,\" Mia said."},
+    {"w": "partner", "pos": "n.", "d": "夥伴", "example": "\"A good partner is someone who shares both the fun and the hard work.\""},
+    {"w": "realistic", "pos": "adj.", "d": "逼真的", "example": "\"This volcano is so realistic that it might scare some kids,\" Amy joked."},
+    {"w": "judge", "pos": "n.", "d": "評審", "example": "The judge, who had seen hundreds of projects, said theirs was the most creative one."},
+    {"w": "proud", "pos": "adj.", "d": "自豪的", "example": "\"I'm so proud of our teamwork,\" Mia said."}
   ],
   "grammar": [
-    "used to + 原形動詞：表示過去的習慣或狀態，現在已不再如此，如 I used to study in Tokyo. / I used to wear a heavy coat in winter, but I don't need one now.",
-    "比較級 (Comparative)：形容詞 + -er + than，比較兩者，如 Taiwan's weather is hotter than Tokyo's. / It's more fun than studying alone.",
-    "最高級 (Superlative)：the + 形容詞 + -est / the most + 形容詞，表示三者以上最高程度，如 This is the most delicious noodle shop near our school. / You're the fastest runner in our class!"
+    "so + 形容詞 + that 子句：表示程度高到產生某種結果，如 This project is so exciting that I can't wait to show it to the class. / This volcano is so realistic that it might scare some kids.",
+    "too + 形容詞 + to + 原形動詞：太...以致於不能做某事，如 I'm too tired to finish painting the mountain today. / It's too messy to clean up alone.",
+    "關係代名詞 who（修飾人）：引導形容詞子句，代替前面提到的人，如 Amy is the student who is best at art in our class. / The judge, who had seen hundreds of projects, said theirs was the most creative one."
   ],
   "sections": {
     "reading": [
-      {"q": "Where did Yuki come from?", "opts": ["Korea", "Japan", "China", "America"], "a": 1, "ex": "文中提到 Yuki 來自日本（She came from Japan）。"},
-      {"q": "Why did Yuki say Taiwan's weather is different from Tokyo's?", "opts": ["It is colder in Taiwan", "It is much hotter in Taiwan", "It rains more in Taiwan", "It is the same as Tokyo"], "a": 1, "ex": "Yuki 說「it is much hotter here」，表示台灣比東京熱很多。"},
-      {"q": "What did Tom show Yuki during lunch?", "opts": ["The library", "The most delicious noodle shop near school", "The gym", "The art room"], "a": 1, "ex": "Tom 向 Yuki 介紹學校附近「最好吃的麵店」(the most delicious noodle shop)。"},
-      {"q": "What was Yuki's special skill that surprised Tom?", "opts": ["She could sing well", "She ran faster than most of the boys", "She could paint", "She spoke perfect Chinese"], "a": 1, "ex": "Yuki 在體育課中跑得比大部分男生快，讓 Tom 感到驚訝。"},
-      {"q": "What did Yuki and her classmates do after school?", "opts": ["They went home immediately", "They joined the basketball club together", "They did homework", "They went shopping"], "a": 1, "ex": "放學後 Tom 和朋友邀請 Yuki 一起加入籃球社。"}
+      {"q": "What were Mia, Leo, and Amy working on?", "opts": ["A poster about space", "A model that shows how volcanoes erupt", "A robot", "A poem"], "a": 1, "ex": "文中提到他們要做一個展示火山爆發的模型（a model that shows how volcanoes erupt）。"},
+      {"q": "Why couldn't Leo finish painting the mountain?", "opts": ["He had no paint", "He was too tired", "He went home", "He didn't like the color"], "a": 1, "ex": "Leo 說「I'm too tired to finish painting the mountain today」，表示他太累了。"},
+      {"q": "Who did Mia say could help with the art?", "opts": ["The teacher", "Amy", "The judge", "Leo's brother"], "a": 1, "ex": "Mia 說 Amy 是班上最擅長藝術的學生，可以幫忙。"},
+      {"q": "What happened to the experiment on the table?", "opts": ["It caught fire", "It bubbled over the table", "It broke", "It disappeared"], "a": 1, "ex": "他們的實驗在桌上冒出並溢出（bubbled over the table）。"},
+      {"q": "What did the judge say about their volcano model?", "opts": ["It was too small", "It was the most creative one of the year", "It was broken", "It needed more color"], "a": 1, "ex": "評審說他們的作品是當年最有創意的一件（the most creative one of the year）。"}
     ],
     "grammar": [
-      {"q": "Choose the correct sentence using \"used to\".", "opts": ["I used to study in Tokyo.", "I use to studied in Tokyo.", "I used to studying in Tokyo.", "I am used to study in Tokyo."], "a": 0, "ex": "\"used to + 原形動詞\" 表示過去的習慣，現在已不再如此，故選 A。"},
-      {"q": "Choose the correct comparative sentence.", "opts": ["Taiwan's weather is hot than Tokyo's.", "Taiwan's weather is more hot than Tokyo's.", "Taiwan's weather is hotter than Tokyo's.", "Taiwan's weather is the hottest than Tokyo's."], "a": 2, "ex": "單音節形容詞比較級加 -er，hot → hotter，故選 C。"},
-      {"q": "Choose the correct superlative sentence.", "opts": ["This is the delicious noodle shop.", "This is the more delicious noodle shop.", "This is the most delicious noodle shop.", "This is deliciousest noodle shop."], "a": 2, "ex": "多音節形容詞最高級為 the most + 形容詞，故選 C。"},
-      {"q": "Choose the correct sentence with \"used to\" showing a changed habit.", "opts": ["I used to wear a heavy coat, but I don't need one now.", "I use to wear a heavy coat, but I don't needed one now.", "I used to wearing a heavy coat, but I didn't need one now.", "I am used to wear a heavy coat now."], "a": 0, "ex": "\"used to + 原形動詞\" 描述過去習慣，與現在對比時現在用一般現在簡單時，故選 A。"},
-      {"q": "Choose the correct superlative sentence about \"fast\".", "opts": ["You're the fast runner in our class!", "You're the faster runner in our class!", "You're the fastest runner in our class!", "You're the most fast runner in our class!"], "a": 2, "ex": "fast 為單音節形容詞，最高級加 -est，故選 C。"}
+      {"q": "Choose the correct sentence with \"so...that\".", "opts": ["This project is so exciting that I can't wait to show it.", "This project is too exciting that I can't wait to show it.", "This project is so exciting to show it.", "This project is exciting so that I can't wait."], "a": 0, "ex": "\"so + 形容詞 + that 子句\" 表示程度高到產生某結果，故選 A。"},
+      {"q": "Choose the correct sentence with \"too...to\".", "opts": ["I'm tired too to finish painting.", "I'm too tired to finish painting.", "I'm so tired to finish painting.", "I'm too tired finish painting."], "a": 1, "ex": "\"too + 形容詞 + to + 原形動詞\" 表示太...以致於不能，故選 B。"},
+      {"q": "Choose the sentence that correctly uses the relative pronoun \"who\".", "opts": ["Amy is the student which is best at art.", "Amy is the student who is best at art.", "Amy is the student whose is best at art.", "Amy is the student what is best at art."], "a": 1, "ex": "關係代名詞 who 用來修飾人，故選 B。"},
+      {"q": "Choose the correct \"too...to\" sentence.", "opts": ["It's too messy to clean up alone.", "It's so messy to clean up alone.", "It's too messy clean up alone.", "It's messy too to clean up alone."], "a": 0, "ex": "\"too + 形容詞 + to + 原形動詞\" 結構正確，故選 A。"},
+      {"q": "Choose the correct sentence using the relative pronoun \"who\" to describe a person.", "opts": ["The judge, that had seen hundreds of projects, said...", "The judge, who had seen hundreds of projects, said...", "The judge, which had seen hundreds of projects, said...", "The judge, whose had seen hundreds of projects, said..."], "a": 1, "ex": "who 修飾人（the judge），故選 B。"}
     ],
     "vocab": [
-      {"q": "What does \"nervous\" mean?", "opts": ["緊張的", "興奮的", "疲倦的", "自豪的"], "a": 0, "ex": "nervous 意為「緊張的」。"},
-      {"q": "What does \"introduce\" mean in \"Tom introduced Yuki to his friends\"?", "opts": ["忽略", "介紹", "邀請", "歡迎"], "a": 1, "ex": "introduce 意為「介紹」。"},
-      {"q": "What is the meaning of \"amazing\" in \"It smells amazing!\"?", "opts": ["可怕的", "令人驚奇的", "普通的", "噁心的"], "a": 1, "ex": "amazing 意為「令人驚奇的；了不起的」。"},
-      {"q": "What does \"relaxed\" mean in \"Running makes me feel relaxed\"?", "opts": ["緊張的", "放鬆的", "興奮的", "害怕的"], "a": 1, "ex": "relaxed 意為「放鬆的」。"},
-      {"q": "What does \"kind\" mean in \"Thank you for being so kind to me\"?", "opts": ["嚴格的", "親切的；善良的", "安靜的", "聰明的"], "a": 1, "ex": "kind 意為「親切的；善良的」。"}
+      {"q": "What does \"erupt\" mean?", "opts": ["爆發", "融化", "下沉", "消失"], "a": 0, "ex": "erupt 意為「爆發」。"},
+      {"q": "What does \"creative\" mean in \"creative ideas get extra points\"?", "opts": ["困難的", "有創意的", "無聊的", "昂貴的"], "a": 1, "ex": "creative 意為「有創意的」。"},
+      {"q": "What does \"messy\" mean in \"It's too messy to clean up alone\"?", "opts": ["乾淨的", "凌亂的", "安靜的", "快速的"], "a": 1, "ex": "messy 意為「凌亂的」。"},
+      {"q": "What does \"teamwork\" mean in \"I'm so proud of our teamwork\"?", "opts": ["團隊合作", "個人成就", "比賽規則", "作業"], "a": 0, "ex": "teamwork 意為「團隊合作」。"},
+      {"q": "What does \"realistic\" mean in \"This volcano is so realistic that...\"?", "opts": ["虛假的", "逼真的", "奇怪的", "簡單的"], "a": 1, "ex": "realistic 意為「逼真的」。"}
     ]
   }
 }

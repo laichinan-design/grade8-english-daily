@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-30",
+  "title": "A Group Project for the Science Fair",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "On Thursday afternoon, Mia and her two classmates, Leo and Amy, stayed after school to work on their science project. They wanted to build a model that shows how volcanoes erupt.\n\"This project is so exciting that I can't wait to show it to the class,\" Mia said, mixing baking soda in a plastic cup.\n\"I agree, but I'm too tired to finish painting the mountain today,\" Leo said, putting down his paintbrush.\n\"Don't worry. Amy is the student who is best at art in our class. She can help us tomorrow,\" Mia suggested.\nAmy smiled. \"I'd love to help. The teacher who gave us this project said creative ideas get extra points.\"\nSuddenly, their experiment bubbled over the table. \"Oops! It's too messy to clean up alone,\" Leo laughed, grabbing some paper towels.\n\"Let's work together. Many hands make light work,\" Mia said cheerfully, and they all began cleaning.\nAfter an hour, the model looked amazing. \"This volcano is so realistic that it might scare some kids,\" Amy joked.\n\"I'm so proud of our teamwork,\" Mia said. \"A good partner is someone who shares both the fun and the hard work.\"\nThe next day, their volcano model won first prize at the science fair. The judge, who had seen hundreds of projects, said theirs was the most creative one of the year.",
+  "vocab": [
+    {"w": "erupt", "pos": "v.", "d": "爆發", "example": "They wanted to build a model that shows how volcanoes erupt."},
+    {"w": "exciting", "pos": "adj.", "d": "令人興奮的", "example": "\"This project is so exciting that I can't wait to show it to the class,\" Mia said."},
+    {"w": "mix", "pos": "v.", "d": "混合", "example": "Mia said, mixing baking soda in a plastic cup."},
+    {"w": "tired", "pos": "adj.", "d": "疲倦的", "example": "\"I'm too tired to finish painting the mountain today,\" Leo said."},
+    {"w": "suggest", "pos": "v.", "d": "建議", "example": "\"She can help us tomorrow,\" Mia suggested."},
+    {"w": "creative", "pos": "adj.", "d": "有創意的", "example": "\"The teacher who gave us this project said creative ideas get extra points.\""},
+    {"w": "messy", "pos": "adj.", "d": "凌亂的", "example": "\"It's too messy to clean up alone,\" Leo laughed."},
+    {"w": "teamwork", "pos": "n.", "d": "團隊合作", "example": "\"I'm so proud of our teamwork,\" Mia said."},
+    {"w": "partner", "pos": "n.", "d": "夥伴", "example": "\"A good partner is someone who shares both the fun and the hard work.\""},
+    {"w": "realistic", "pos": "adj.", "d": "逼真的", "example": "\"This volcano is so realistic that it might scare some kids,\" Amy joked."},
+    {"w": "judge", "pos": "n.", "d": "評審", "example": "The judge, who had seen hundreds of projects, said theirs was the most creative one."},
+    {"w": "proud", "pos": "adj.", "d": "自豪的", "example": "\"I'm so proud of our teamwork,\" Mia said."}
+  ],
+  "grammar": [
+    "so + 形容詞 + that 子句：表示程度高到產生某種結果，如 This project is so exciting that I can't wait to show it to the class. / This volcano is so realistic that it might scare some kids.",
+    "too + 形容詞 + to + 原形動詞：太...以致於不能做某事，如 I'm too tired to finish painting the mountain today. / It's too messy to clean up alone.",
+    "關係代名詞 who（修飾人）：引導形容詞子句，代替前面提到的人，如 Amy is the student who is best at art in our class. / The judge, who had seen hundreds of projects, said theirs was the most creative one."
+  ],
+  "sections": {
+    "reading": [
+      {"q": "What were Mia, Leo, and Amy working on?", "opts": ["A poster about space", "A model that shows how volcanoes erupt", "A robot", "A poem"], "a": 1, "ex": "文中提到他們要做一個展示火山爆發的模型（a model that shows how volcanoes erupt）。"},
+      {"q": "Why couldn't Leo finish painting the mountain?", "opts": ["He had no paint", "He was too tired", "He went home", "He didn't like the color"], "a": 1, "ex": "Leo 說「I'm too tired to finish painting the mountain today」，表示他太累了。"},
+      {"q": "Who did Mia say could help with the art?", "opts": ["The teacher", "Amy", "The judge", "Leo's brother"], "a": 1, "ex": "Mia 說 Amy 是班上最擅長藝術的學生，可以幫忙。"},
+      {"q": "What happened to the experiment on the table?", "opts": ["It caught fire", "It bubbled over the table", "It broke", "It disappeared"], "a": 1, "ex": "他們的實驗在桌上冒出並溢出（bubbled over the table）。"},
+      {"q": "What did the judge say about their volcano model?", "opts": ["It was too small", "It was the most creative one of the year", "It was broken", "It needed more color"], "a": 1, "ex": "評審說他們的作品是當年最有創意的一件（the most creative one of the year）。"}
+    ],
+    "grammar": [
+      {"q": "Choose the correct sentence with \"so...that\".", "opts": ["This project is so exciting that I can't wait to show it.", "This project is too exciting that I can't wait to show it.", "This project is so exciting to show it.", "This project is exciting so that I can't wait."], "a": 0, "ex": "\"so + 形容詞 + that 子句\" 表示程度高到產生某結果，故選 A。"},
+      {"q": "Choose the correct sentence with \"too...to\".", "opts": ["I'm tired too to finish painting.", "I'm too tired to finish painting.", "I'm so tired to finish painting.", "I'm too tired finish painting."], "a": 1, "ex": "\"too + 形容詞 + to + 原形動詞\" 表示太...以致於不能，故選 B。"},
+      {"q": "Choose the sentence that correctly uses the relative pronoun \"who\".", "opts": ["Amy is the student which is best at art.", "Amy is the student who is best at art.", "Amy is the student whose is best at art.", "Amy is the student what is best at art."], "a": 1, "ex": "關係代名詞 who 用來修飾人，故選 B。"},
+      {"q": "Choose the correct \"too...to\" sentence.", "opts": ["It's too messy to clean up alone.", "It's so messy to clean up alone.", "It's too messy clean up alone.", "It's messy too to clean up alone."], "a": 0, "ex": "\"too + 形容詞 + to + 原形動詞\" 結構正確，故選 A。"},
+      {"q": "Choose the correct sentence using the relative pronoun \"who\" to describe a person.", "opts": ["The judge, that had seen hundreds of projects, said...", "The judge, who had seen hundreds of projects, said...", "The judge, which had seen hundreds of projects, said...", "The judge, whose had seen hundreds of projects, said..."], "a": 1, "ex": "who 修飾人（the judge），故選 B。"}
+    ],
+    "vocab": [
+      {"q": "What does \"erupt\" mean?", "opts": ["爆發", "融化", "下沉", "消失"], "a": 0, "ex": "erupt 意為「爆發」。"},
+      {"q": "What does \"creative\" mean in \"creative ideas get extra points\"?", "opts": ["困難的", "有創意的", "無聊的", "昂貴的"], "a": 1, "ex": "creative 意為「有創意的」。"},
+      {"q": "What does \"messy\" mean in \"It's too messy to clean up alone\"?", "opts": ["乾淨的", "凌亂的", "安靜的", "快速的"], "a": 1, "ex": "messy 意為「凌亂的」。"},
+      {"q": "What does \"teamwork\" mean in \"I'm so proud of our teamwork\"?", "opts": ["團隊合作", "個人成就", "比賽規則", "作業"], "a": 0, "ex": "teamwork 意為「團隊合作」。"},
+      {"q": "What does \"realistic\" mean in \"This volcano is so realistic that...\"?", "opts": ["虛假的", "逼真的", "奇怪的", "簡單的"], "a": 1, "ex": "realistic 意為「逼真的」。"}
+    ]
+  }
+}
