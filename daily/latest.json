@@ -1,49 +1,52 @@
 {
-  "date": "2026-10-30",
-  "title": "A Group Project for the Science Fair",
+  "date": "2026-11-02",
+  "title": "A Weekend Trip to the Night Market",
   "level": "國中二~三年級 (Grade 8-9)",
   "note": "",
-  "passage": "On Thursday afternoon, Mia and her two classmates, Leo and Amy, stayed after school to work on their science project. They wanted to build a model that shows how volcanoes erupt.\n\"This project is so exciting that I can't wait to show it to the class,\" Mia said, mixing baking soda in a plastic cup.\n\"I agree, but I'm too tired to finish painting the mountain today,\" Leo said, putting down his paintbrush.\n\"Don't worry. Amy is the student who is best at art in our class. She can help us tomorrow,\" Mia suggested.\nAmy smiled. \"I'd love to help. The teacher who gave us this project said creative ideas get extra points.\"\nSuddenly, their experiment bubbled over the table. \"Oops! It's too messy to clean up alone,\" Leo laughed, grabbing some paper towels.\n\"Let's work together. Many hands make light work,\" Mia said cheerfully, and they all began cleaning.\nAfter an hour, the model looked amazing. \"This volcano is so realistic that it might scare some kids,\" Amy joked.\n\"I'm so proud of our teamwork,\" Mia said. \"A good partner is someone who shares both the fun and the hard work.\"\nThe next day, their volcano model won first prize at the science fair. The judge, who had seen hundreds of projects, said theirs was the most creative one of the year.",
+  "passage": "On Saturday evening, Jason's family decided to visit the night market near their town. \"I will try the stinky tofu this time,\" Jason said excitedly, looking at the busy food stalls.\n\n\"You have to finish your homework before we leave,\" Mom reminded him. \"We don't have much time, so hurry up.\"\n\nJason quickly packed his bag and finished his last math question. \"Finally! I don't have to worry about homework anymore,\" he said with a big smile.\n\nAt the market, bright lights and delicious smells filled the air. Tina, Jason's sister, pointed at a stall selling fresh fruit. \"I will buy some mango juice. It smells amazing!\"\n\n\"We must be careful with our money,\" Dad said. \"We don't have to buy everything we see.\"\n\nThey walked past toy stalls, clothing stores, and a game booth where kids threw rings onto bottles. Jason tried three times but didn't win anything. \"Don't worry,\" the shop owner said kindly. \"You can try again next week.\"\n\nAfter eating noodles, grilled squid, and sweet potato balls, the family sat on a bench to rest. \"I'm looking forward to coming back here,\" Tina said happily. \"I also enjoy trying new street food every time.\"\n\n\"Next weekend, we will visit the market on the other side of town,\" Dad suggested. \"It has an even bigger night market with more game booths.\"\n\nJason nodded with excitement. \"I can't wait! I will save my allowance so I can buy a special gift for Grandma.\"\n\nOn their way home, everyone agreed that the night market trip was the best part of their weekend. They were already looking forward to their next adventure together.",
   "vocab": [
-    {"w": "erupt", "pos": "v.", "d": "爆發", "example": "They wanted to build a model that shows how volcanoes erupt."},
-    {"w": "exciting", "pos": "adj.", "d": "令人興奮的", "example": "\"This project is so exciting that I can't wait to show it to the class,\" Mia said."},
-    {"w": "mix", "pos": "v.", "d": "混合", "example": "Mia said, mixing baking soda in a plastic cup."},
-    {"w": "tired", "pos": "adj.", "d": "疲倦的", "example": "\"I'm too tired to finish painting the mountain today,\" Leo said."},
-    {"w": "suggest", "pos": "v.", "d": "建議", "example": "\"She can help us tomorrow,\" Mia suggested."},
-    {"w": "creative", "pos": "adj.", "d": "有創意的", "example": "\"The teacher who gave us this project said creative ideas get extra points.\""},
-    {"w": "messy", "pos": "adj.", "d": "凌亂的", "example": "\"It's too messy to clean up alone,\" Leo laughed."},
-    {"w": "teamwork", "pos": "n.", "d": "團隊合作", "example": "\"I'm so proud of our teamwork,\" Mia said."},
-    {"w": "partner", "pos": "n.", "d": "夥伴", "example": "\"A good partner is someone who shares both the fun and the hard work.\""},
-    {"w": "realistic", "pos": "adj.", "d": "逼真的", "example": "\"This volcano is so realistic that it might scare some kids,\" Amy joked."},
-    {"w": "judge", "pos": "n.", "d": "評審", "example": "The judge, who had seen hundreds of projects, said theirs was the most creative one."},
-    {"w": "proud", "pos": "adj.", "d": "自豪的", "example": "\"I'm so proud of our teamwork,\" Mia said."}
+    {"w": "excitedly", "pos": "adv.", "d": "興奮地", "example": "\"I will try the stinky tofu this time,\" Jason said excitedly."},
+    {"w": "remind", "pos": "v.", "d": "提醒", "example": "\"You have to finish your homework before we leave,\" Mom reminded him."},
+    {"w": "finally", "pos": "adv.", "d": "終於", "example": "\"Finally! I don't have to worry about homework anymore,\" he said."},
+    {"w": "amazing", "pos": "adj.", "d": "令人驚訝的", "example": "\"I will buy some mango juice. It smells amazing!\""},
+    {"w": "careful", "pos": "adj.", "d": "小心的", "example": "\"We must be careful with our money,\" Dad said."},
+    {"w": "stall", "pos": "n.", "d": "攤位", "example": "Tina pointed at a stall selling fresh fruit."},
+    {"w": "booth", "pos": "n.", "d": "攤位、亭子", "example": "They walked past a game booth where kids threw rings onto bottles."},
+    {"w": "kindly", "pos": "adv.", "d": "親切地", "example": "\"Don't worry,\" the shop owner said kindly."},
+    {"w": "grilled", "pos": "adj.", "d": "烤的", "example": "After eating noodles, grilled squid, and sweet potato balls, the family sat down."},
+    {"w": "rest", "pos": "v.", "d": "休息", "example": "The family sat on a bench to rest."},
+    {"w": "enjoy", "pos": "v.", "d": "享受", "example": "\"I also enjoy trying new street food every time.\""},
+    {"w": "suggest", "pos": "v.", "d": "建議", "example": "\"Next weekend, we will visit the market on the other side of town,\" Dad suggested."},
+    {"w": "allowance", "pos": "n.", "d": "零用錢", "example": "\"I will save my allowance so I can buy a special gift for Grandma.\""},
+    {"w": "nod", "pos": "v.", "d": "點頭", "example": "Jason nodded with excitement."},
+    {"w": "adventure", "pos": "n.", "d": "冒險", "example": "They were already looking forward to their next adventure together."}
   ],
   "grammar": [
-    "so + 形容詞 + that 子句：表示程度高到產生某種結果，如 This project is so exciting that I can't wait to show it to the class. / This volcano is so realistic that it might scare some kids.",
-    "too + 形容詞 + to + 原形動詞：太...以致於不能做某事，如 I'm too tired to finish painting the mountain today. / It's too messy to clean up alone.",
-    "關係代名詞 who（修飾人）：引導形容詞子句，代替前面提到的人，如 Amy is the student who is best at art in our class. / The judge, who had seen hundreds of projects, said theirs was the most creative one."
+    "will 表示未來的預測、決定或承諾：I will try the stinky tofu this time. / Next weekend, we will visit the market on the other side of town.",
+    "have to / don't have to 表示必須 / 不必：You have to finish your homework before we leave. / We don't have to buy everything we see.",
+    "look forward to + V-ing 表示期待某事，to 後面須接動詞的 -ing 形式：I'm looking forward to coming back here. / They were already looking forward to their next adventure together."
   ],
   "sections": {
     "reading": [
-      {"q": "What were Mia, Leo, and Amy working on?", "opts": ["A poster about space", "A model that shows how volcanoes erupt", "A robot", "A poem"], "a": 1, "ex": "文中提到他們要做一個展示火山爆發的模型（a model that shows how volcanoes erupt）。"},
-      {"q": "Why couldn't Leo finish painting the mountain?", "opts": ["He had no paint", "He was too tired", "He went home", "He didn't like the color"], "a": 1, "ex": "Leo 說「I'm too tired to finish painting the mountain today」，表示他太累了。"},
-      {"q": "Who did Mia say could help with the art?", "opts": ["The teacher", "Amy", "The judge", "Leo's brother"], "a": 1, "ex": "Mia 說 Amy 是班上最擅長藝術的學生，可以幫忙。"},
-      {"q": "What happened to the experiment on the table?", "opts": ["It caught fire", "It bubbled over the table", "It broke", "It disappeared"], "a": 1, "ex": "他們的實驗在桌上冒出並溢出（bubbled over the table）。"},
-      {"q": "What did the judge say about their volcano model?", "opts": ["It was too small", "It was the most creative one of the year", "It was broken", "It needed more color"], "a": 1, "ex": "評審說他們的作品是當年最有創意的一件（the most creative one of the year）。"}
+      {"q": "Why did Jason finish his homework quickly?", "opts": ["He wanted to watch TV", "He wanted to go to the night market with his family", "He was bored at home", "His teacher asked him to"], "a": 1, "ex": "Jason 想和家人一起去逛夜市，所以趕快寫完功課。"},
+      {"q": "What did Tina want to buy at the fruit stall?", "opts": ["Stinky tofu", "Mango juice", "Grilled squid", "Sweet potato balls"], "a": 1, "ex": "Tina 說她要買芒果汁（mango juice），因為聞起來很香。"},
+      {"q": "What happened when Jason played the ring-toss game?", "opts": ["He won a big prize", "He tried three times but didn't win anything", "He refused to play", "He broke the booth"], "a": 1, "ex": "Jason 玩套圈圈遊戲，試了三次都沒贏，但老闆鼓勵他下次再來。"},
+      {"q": "What did Dad suggest for next weekend?", "opts": ["Staying home all day", "Visiting a bigger night market on the other side of town", "Going to school early", "Cooking dinner at home"], "a": 1, "ex": "爸爸建議下週末去城鎮另一邊更大的夜市。"},
+      {"q": "What does Jason plan to do with his allowance?", "opts": ["Buy a video game", "Save it for a gift for Grandma", "Give it all to Tina", "Spend it all on snacks"], "a": 1, "ex": "Jason 說他要存零用錢，買禮物送給奶奶。"}
     ],
     "grammar": [
-      {"q": "Choose the correct sentence with \"so...that\".", "opts": ["This project is so exciting that I can't wait to show it.", "This project is too exciting that I can't wait to show it.", "This project is so exciting to show it.", "This project is exciting so that I can't wait."], "a": 0, "ex": "\"so + 形容詞 + that 子句\" 表示程度高到產生某結果，故選 A。"},
-      {"q": "Choose the correct sentence with \"too...to\".", "opts": ["I'm tired too to finish painting.", "I'm too tired to finish painting.", "I'm so tired to finish painting.", "I'm too tired finish painting."], "a": 1, "ex": "\"too + 形容詞 + to + 原形動詞\" 表示太...以致於不能，故選 B。"},
-      {"q": "Choose the sentence that correctly uses the relative pronoun \"who\".", "opts": ["Amy is the student which is best at art.", "Amy is the student who is best at art.", "Amy is the student whose is best at art.", "Amy is the student what is best at art."], "a": 1, "ex": "關係代名詞 who 用來修飾人，故選 B。"},
-      {"q": "Choose the correct \"too...to\" sentence.", "opts": ["It's too messy to clean up alone.", "It's so messy to clean up alone.", "It's too messy clean up alone.", "It's messy too to clean up alone."], "a": 0, "ex": "\"too + 形容詞 + to + 原形動詞\" 結構正確，故選 A。"},
-      {"q": "Choose the correct sentence using the relative pronoun \"who\" to describe a person.", "opts": ["The judge, that had seen hundreds of projects, said...", "The judge, who had seen hundreds of projects, said...", "The judge, which had seen hundreds of projects, said...", "The judge, whose had seen hundreds of projects, said..."], "a": 1, "ex": "who 修飾人（the judge），故選 B。"}
+      {"q": "Choose the correct sentence using \"will\" for a decision made now.", "opts": ["I try the stinky tofu this time.", "I will try the stinky tofu this time.", "I trying the stinky tofu this time.", "I am try the stinky tofu this time."], "a": 1, "ex": "\"will\" 用於表達說話當下做出的決定，故選 B。"},
+      {"q": "Choose the correct sentence with \"have to\".", "opts": ["You have finish your homework before we leave.", "You has to finish your homework before we leave.", "You have to finish your homework before we leave.", "You having to finish your homework before we leave."], "a": 2, "ex": "\"have to + 原形動詞\" 表示必須做某事，主詞為 You 時用 have to，故選 C。"},
+      {"q": "Choose the correct sentence with \"don't have to\".", "opts": ["We don't have to buy everything we see.", "We not have to buy everything we see.", "We don't has to buy everything we see.", "We haven't to buy everything we see."], "a": 0, "ex": "\"don't have to + 原形動詞\" 表示不必做某事，故選 A。"},
+      {"q": "Choose the correct sentence using \"look forward to + V-ing\".", "opts": ["I'm looking forward to come back here.", "I'm looking forward to coming back here.", "I look forward to came back here.", "I'm look forward to coming back here."], "a": 1, "ex": "\"look forward to\" 後面須接動詞 -ing 形式，故選 B。"},
+      {"q": "Choose the sentence that correctly uses \"will\" for a future plan.", "opts": ["Next weekend, we visit the market.", "Next weekend, we will visit the market.", "Next weekend, we visiting the market.", "Next weekend, we are visit the market."], "a": 1, "ex": "\"will\" 用於描述未來的計畫，故選 B。"}
     ],
     "vocab": [
-      {"q": "What does \"erupt\" mean?", "opts": ["爆發", "融化", "下沉", "消失"], "a": 0, "ex": "erupt 意為「爆發」。"},
-      {"q": "What does \"creative\" mean in \"creative ideas get extra points\"?", "opts": ["困難的", "有創意的", "無聊的", "昂貴的"], "a": 1, "ex": "creative 意為「有創意的」。"},
-      {"q": "What does \"messy\" mean in \"It's too messy to clean up alone\"?", "opts": ["乾淨的", "凌亂的", "安靜的", "快速的"], "a": 1, "ex": "messy 意為「凌亂的」。"},
-      {"q": "What does \"teamwork\" mean in \"I'm so proud of our teamwork\"?", "opts": ["團隊合作", "個人成就", "比賽規則", "作業"], "a": 0, "ex": "teamwork 意為「團隊合作」。"},
-      {"q": "What does \"realistic\" mean in \"This volcano is so realistic that...\"?", "opts": ["虛假的", "逼真的", "奇怪的", "簡單的"], "a": 1, "ex": "realistic 意為「逼真的」。"}
+      {"q": "What does \"remind\" mean in \"Mom reminded him\"?", "opts": ["提醒", "忘記", "責罵", "稱讚"], "a": 0, "ex": "remind 意為「提醒」。"},
+      {"q": "What does \"allowance\" mean in \"I will save my allowance\"?", "opts": ["功課", "零用錢", "玩具", "假期"], "a": 1, "ex": "allowance 意為「零用錢」。"},
+      {"q": "What does \"stall\" mean in \"a stall selling fresh fruit\"?", "opts": ["攤位", "教室", "公園", "車站"], "a": 0, "ex": "stall 意為「攤位」。"},
+      {"q": "What does \"adventure\" mean in \"their next adventure together\"?", "opts": ["冒險", "爭吵", "考試", "會議"], "a": 0, "ex": "adventure 意為「冒險」。"},
+      {"q": "What does \"kindly\" mean in \"the shop owner said kindly\"?", "opts": ["生氣地", "親切地", "大聲地", "緊張地"], "a": 1, "ex": "kindly 意為「親切地」。"}
     ]
   }
 }
