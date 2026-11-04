@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-04",
+  "title": "A Weekend Hike in the Mountains",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "Last Saturday, Lily and her father decided to go hiking in the mountains near their town. They woke up early and packed a backpack with water, snacks, and a map. \"Have you ever hiked up Sun Moon Trail before?\" her father asked. \"No, this is my first time,\" Lily said excitedly.\nThe trail was longer and steeper than they expected. After an hour, Lily felt exhausted and wanted to stop. \"Let's take a short rest,\" her father suggested. \"You should drink some water and eat a snack.\" They sat under a big tree and looked at the beautiful view below.\nAs they climbed higher, the air became cooler and the path became narrower. Lily's father used a compass to make sure they were going the right direction. \"This path is more difficult than the one we took last year,\" he said. \"But the view from the top will be worth it.\"\nFinally, after three hours, they reached the summit. The view was amazing — they could see the whole valley and a shining lake in the distance. \"This is the best hike I have ever taken!\" Lily shouted happily. Her father smiled and took a photo to remember the adventure.\nOn their way down, Lily asked, \"Can we come back next month?\" Her father laughed and said, \"Of course! Next time, we can bring your little brother, too.\" They walked home, tired but happy, already planning their next adventure together.",
+  "vocab": [
+    {"w": "hike", "pos": "v.", "d": "健行", "example": "We hike in the mountains every weekend."},
+    {"w": "trail", "pos": "n.", "d": "步道、小徑", "example": "The trail leads to a beautiful waterfall."},
+    {"w": "backpack", "pos": "n.", "d": "背包", "example": "She packed her backpack before the trip."},
+    {"w": "exhausted", "pos": "adj.", "d": "疲憊不堪的", "example": "He felt exhausted after running five kilometers."},
+    {"w": "steep", "pos": "adj.", "d": "陡峭的", "example": "The steep hill was hard to climb."},
+    {"w": "summit", "pos": "n.", "d": "山頂、頂峰", "example": "They finally reached the summit at noon."},
+    {"w": "compass", "pos": "n.", "d": "指南針", "example": "A compass helps you find the right direction."},
+    {"w": "valley", "pos": "n.", "d": "山谷", "example": "The village is located in a green valley."},
+    {"w": "view", "pos": "n.", "d": "景色", "example": "The view from the tower is amazing."},
+    {"w": "narrow", "pos": "adj.", "d": "狹窄的", "example": "The narrow road was difficult for cars to pass."},
+    {"w": "adventure", "pos": "n.", "d": "冒險", "example": "Climbing the mountain was a great adventure."},
+    {"w": "suggest", "pos": "v.", "d": "建議", "example": "My teacher suggested that I read more books."},
+    {"w": "amazing", "pos": "adj.", "d": "驚人的、了不起的", "example": "The fireworks show was amazing."},
+    {"w": "direction", "pos": "n.", "d": "方向", "example": "Can you tell me the direction to the park?"},
+    {"w": "worth", "pos": "adj.", "d": "值得的", "example": "The hike was tiring, but it was worth it."}
+  ],
+  "grammar": [
+    "比較級 (adj + -er / more + adj) + than：規則變化加 -er（longer, steeper），多音節形容詞用 more + 形容詞（more difficult）。例：The trail was longer and steeper than they expected. / This path is more difficult than the one we took last year.",
+    "現在完成時 Have/Has + ever + 過去分詞：表示「曾經做過某事」，常與 ever 連用。例：Have you ever hiked up Sun Moon Trail before? / This is the best hike I have ever taken!",
+    "should 表建議：should 為情態動詞，後面直接加動詞原形，表示「應該」。例：You should drink some water and eat a snack."
+  ],
+  "sections": {
+    "reading": [
+      {"q": "Who did Lily go hiking with?", "opts": ["Her mother", "Her father", "Her brother", "Her friend"], "a": 1, "ex": "文中提到 Lily 和爸爸一起去健行（Lily and her father）。"},
+      {"q": "How did Lily feel after an hour of hiking?", "opts": ["Excited", "Bored", "Exhausted", "Scared"], "a": 2, "ex": "文中寫到健行一小時後「Lily felt exhausted」(感到疲憊不堪)。"},
+      {"q": "What did Lily's father use to make sure they were going the right direction?", "opts": ["A map only", "A phone", "A compass", "A guidebook"], "a": 2, "ex": "文中提到爸爸使用指南針(compass)確認方向。"},
+      {"q": "How long did it take them to reach the summit?", "opts": ["One hour", "Two hours", "Three hours", "Four hours"], "a": 2, "ex": "文中提到「after three hours, they reached the summit」(三小時後抵達山頂)。"},
+      {"q": "What did Lily ask her father on their way down?", "opts": ["If they could eat lunch", "If they could come back next month", "If they could take more photos", "If they could rest again"], "a": 1, "ex": "下山途中 Lily 問爸爸「Can we come back next month?」(我們下個月可以再來嗎)。"}
+    ],
+    "grammar": [
+      {"q": "The trail was ___ than we expected. (long)", "opts": ["long", "longer", "more long", "longest"], "a": 1, "ex": "規則比較級形容詞，直接加 -er，long → longer。"},
+      {"q": "This path is ___ difficult than the one we took last year.", "opts": ["more", "much", "very", "so"], "a": 0, "ex": "多音節形容詞 difficult 的比較級要用 more + 形容詞。"},
+      {"q": "___ you ever hiked up this trail before?", "opts": ["Do", "Did", "Have", "Are"], "a": 2, "ex": "現在完成時的疑問句用 Have/Has + 主詞 + 過去分詞，表示「你曾經...嗎」。"},
+      {"q": "This is the best hike I ___ ever taken.", "opts": ["have", "has", "had", "will have"], "a": 0, "ex": "主詞 I 搭配現在完成時用 have + 過去分詞 (have taken)。"},
+      {"q": "You ___ drink some water before you continue.", "opts": ["should", "should to", "must to", "are should"], "a": 0, "ex": "should 為情態動詞，後面直接加動詞原形，不加 to。"}
+    ],
+    "vocab": [
+      {"q": "If a mountain trail is \"steep,\" it means it is ___.", "opts": ["flat", "very sloped and hard to climb", "covered with grass", "very wide"], "a": 1, "ex": "steep 意為「陡峭的、難以攀爬的」。"},
+      {"q": "\"Exhausted\" means ___.", "opts": ["very happy", "very hungry", "very tired", "very fast"], "a": 2, "ex": "exhausted 意為「非常疲憊的」。"},
+      {"q": "The highest point of a mountain is called the ___.", "opts": ["valley", "trail", "summit", "compass"], "a": 2, "ex": "summit 意為「山頂、頂峰」。"},
+      {"q": "Which word means \"值得的\"?", "opts": ["amazing", "worth", "narrow", "direction"], "a": 1, "ex": "worth 意為「值得的」。"},
+      {"q": "A tool that helps you find directions is called a ___.", "opts": ["backpack", "compass", "trail", "valley"], "a": 1, "ex": "compass 是「指南針」，用來辨別方向。"}
+    ]
+  }
+}

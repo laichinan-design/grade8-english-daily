@@ -1,265 +1,52 @@
 {
-  "date": "2026-11-03",
-  "title": "A New Classmate from Canada",
+  "date": "2026-11-04",
+  "title": "A Weekend Hike in the Mountains",
   "level": "國中二~三年級 (Grade 8-9)",
   "note": "",
-  "passage": "Today was Lily's first day at a new school. She had just moved from Canada, and everything felt different. \"Our classroom here is bigger than my old one,\" she said to her neighbor, Kevin. \"But the weather is much hotter than in Canada!\"\nKevin smiled. \"You should bring a water bottle every day. It gets hotter in summer, so you must drink enough water.\"\nDuring lunch, Lily looked nervous. \"I don't know anyone here,\" she whispered.\n\"Don't worry,\" Kevin said kindly. \"You shouldn't feel shy. Everyone is friendly, and I'm sure you'll make friends quickly.\"\nAt recess, Lily joined a basketball game with some classmates. She wasn't as skillful as the other players, but she tried her best and scored twice. \"That was amazing!\" her classmate Amy shouted. \"You're almost as good as our team captain!\"\nAfter school, Lily and Kevin walked home together. \"Taiwan is noisier than Canada, but I actually like it,\" Lily said. \"The night markets are more exciting than anything near my old house.\"\n\"You should visit the one near my house this weekend,\" Kevin suggested. \"It has the best dumplings in town.\"\nLily smiled brightly. \"I'd love that. Thank you for being so kind today.\"\nBy the end of the day, Lily felt much happier than in the morning. She realized that making new friends wasn't as hard as she had expected. She couldn't wait to see her new classmates again tomorrow.",
+  "passage": "Last Saturday, Lily and her father decided to go hiking in the mountains near their town. They woke up early and packed a backpack with water, snacks, and a map. \"Have you ever hiked up Sun Moon Trail before?\" her father asked. \"No, this is my first time,\" Lily said excitedly.\nThe trail was longer and steeper than they expected. After an hour, Lily felt exhausted and wanted to stop. \"Let's take a short rest,\" her father suggested. \"You should drink some water and eat a snack.\" They sat under a big tree and looked at the beautiful view below.\nAs they climbed higher, the air became cooler and the path became narrower. Lily's father used a compass to make sure they were going the right direction. \"This path is more difficult than the one we took last year,\" he said. \"But the view from the top will be worth it.\"\nFinally, after three hours, they reached the summit. The view was amazing — they could see the whole valley and a shining lake in the distance. \"This is the best hike I have ever taken!\" Lily shouted happily. Her father smiled and took a photo to remember the adventure.\nOn their way down, Lily asked, \"Can we come back next month?\" Her father laughed and said, \"Of course! Next time, we can bring your little brother, too.\" They walked home, tired but happy, already planning their next adventure together.",
   "vocab": [
-    {
-      "w": "neighbor",
-      "pos": "n.",
-      "d": "鄰居",
-      "example": "Our classroom here is bigger than my old one, she said to her neighbor, Kevin."
-    },
-    {
-      "w": "nervous",
-      "pos": "adj.",
-      "d": "緊張的",
-      "example": "During lunch, Lily looked nervous."
-    },
-    {
-      "w": "whisper",
-      "pos": "v.",
-      "d": "低聲說",
-      "example": "I don't know anyone here, she whispered."
-    },
-    {
-      "w": "shy",
-      "pos": "adj.",
-      "d": "害羞的",
-      "example": "You shouldn't feel shy."
-    },
-    {
-      "w": "friendly",
-      "pos": "adj.",
-      "d": "友善的",
-      "example": "Everyone is friendly, and I'm sure you'll make friends quickly."
-    },
-    {
-      "w": "recess",
-      "pos": "n.",
-      "d": "休息時間",
-      "example": "At recess, Lily joined a basketball game with some classmates."
-    },
-    {
-      "w": "skillful",
-      "pos": "adj.",
-      "d": "熟練的",
-      "example": "She wasn't as skillful as the other players."
-    },
-    {
-      "w": "score",
-      "pos": "v.",
-      "d": "得分",
-      "example": "She tried her best and scored twice."
-    },
-    {
-      "w": "captain",
-      "pos": "n.",
-      "d": "隊長",
-      "example": "You're almost as good as our team captain!"
-    },
-    {
-      "w": "noisy",
-      "pos": "adj.",
-      "d": "吵鬧的",
-      "example": "Taiwan is noisier than Canada, but I actually like it."
-    },
-    {
-      "w": "exciting",
-      "pos": "adj.",
-      "d": "令人興奮的",
-      "example": "The night markets are more exciting than anything near my old house."
-    },
-    {
-      "w": "suggest",
-      "pos": "v.",
-      "d": "建議",
-      "example": "You should visit the one near my house this weekend, Kevin suggested."
-    },
-    {
-      "w": "realize",
-      "pos": "v.",
-      "d": "意識到",
-      "example": "She realized that making new friends wasn't as hard as she had expected."
-    }
+    {"w": "hike", "pos": "v.", "d": "健行", "example": "We hike in the mountains every weekend."},
+    {"w": "trail", "pos": "n.", "d": "步道、小徑", "example": "The trail leads to a beautiful waterfall."},
+    {"w": "backpack", "pos": "n.", "d": "背包", "example": "She packed her backpack before the trip."},
+    {"w": "exhausted", "pos": "adj.", "d": "疲憊不堪的", "example": "He felt exhausted after running five kilometers."},
+    {"w": "steep", "pos": "adj.", "d": "陡峭的", "example": "The steep hill was hard to climb."},
+    {"w": "summit", "pos": "n.", "d": "山頂、頂峰", "example": "They finally reached the summit at noon."},
+    {"w": "compass", "pos": "n.", "d": "指南針", "example": "A compass helps you find the right direction."},
+    {"w": "valley", "pos": "n.", "d": "山谷", "example": "The village is located in a green valley."},
+    {"w": "view", "pos": "n.", "d": "景色", "example": "The view from the tower is amazing."},
+    {"w": "narrow", "pos": "adj.", "d": "狹窄的", "example": "The narrow road was difficult for cars to pass."},
+    {"w": "adventure", "pos": "n.", "d": "冒險", "example": "Climbing the mountain was a great adventure."},
+    {"w": "suggest", "pos": "v.", "d": "建議", "example": "My teacher suggested that I read more books."},
+    {"w": "amazing", "pos": "adj.", "d": "驚人的、了不起的", "example": "The fireworks show was amazing."},
+    {"w": "direction", "pos": "n.", "d": "方向", "example": "Can you tell me the direction to the park?"},
+    {"w": "worth", "pos": "adj.", "d": "值得的", "example": "The hike was tiring, but it was worth it."}
   ],
   "grammar": [
-    "比較級 (adj + -er / more + adj) + than：表示兩者程度不同的比較。例：Our classroom here is bigger than my old one. / The night markets are more exciting than anything near my old house.",
-    "as + 形容詞 + as（同等比較）／not as...as（不如）：表示兩者程度相同或不相同。例：You're almost as good as our team captain! / She wasn't as skillful as the other players.",
-    "should / shouldn't 表建議：should 表示「應該」，shouldn't 表示「不應該」，用來給建議或忠告。例：You should bring a water bottle every day. / You shouldn't feel shy."
+    "比較級 (adj + -er / more + adj) + than：規則變化加 -er（longer, steeper），多音節形容詞用 more + 形容詞（more difficult）。例：The trail was longer and steeper than they expected. / This path is more difficult than the one we took last year.",
+    "現在完成時 Have/Has + ever + 過去分詞：表示「曾經做過某事」，常與 ever 連用。例：Have you ever hiked up Sun Moon Trail before? / This is the best hike I have ever taken!",
+    "should 表建議：should 為情態動詞，後面直接加動詞原形，表示「應該」。例：You should drink some water and eat a snack."
   ],
   "sections": {
     "reading": [
-      {
-        "q": "Where did Lily move from?",
-        "opts": [
-          "Canada",
-          "Taiwan",
-          "Japan",
-          "the USA"
-        ],
-        "a": 0,
-        "ex": "Lily 剛從加拿大(Canada)搬來，到新學校就讀。"
-      },
-      {
-        "q": "What did Kevin suggest Lily bring every day?",
-        "opts": [
-          "An umbrella",
-          "A water bottle",
-          "A jacket",
-          "A map"
-        ],
-        "a": 1,
-        "ex": "Kevin 建議 Lily 每天帶水壺，因為天氣炎熱需要多喝水。"
-      },
-      {
-        "q": "What did Lily do at recess?",
-        "opts": [
-          "She read a book",
-          "She joined a basketball game",
-          "She went home early",
-          "She talked to the teacher"
-        ],
-        "a": 1,
-        "ex": "下課休息時間，Lily 和同學一起打籃球。"
-      },
-      {
-        "q": "What did Kevin suggest they do this weekend?",
-        "opts": [
-          "Study together",
-          "Visit the night market near his house",
-          "Go to Canada",
-          "Play basketball again"
-        ],
-        "a": 1,
-        "ex": "Kevin 建議這週末一起去他家附近的夜市，那裡有最好吃的水餃。"
-      },
-      {
-        "q": "How did Lily feel by the end of the day?",
-        "opts": [
-          "More nervous than before",
-          "Much happier than in the morning",
-          "Angry at her classmates",
-          "Ready to go back to Canada"
-        ],
-        "a": 1,
-        "ex": "文章最後提到 Lily 一天結束時比早上開心許多（much happier than in the morning）。"
-      }
+      {"q": "Who did Lily go hiking with?", "opts": ["Her mother", "Her father", "Her brother", "Her friend"], "a": 1, "ex": "文中提到 Lily 和爸爸一起去健行（Lily and her father）。"},
+      {"q": "How did Lily feel after an hour of hiking?", "opts": ["Excited", "Bored", "Exhausted", "Scared"], "a": 2, "ex": "文中寫到健行一小時後「Lily felt exhausted」(感到疲憊不堪)。"},
+      {"q": "What did Lily's father use to make sure they were going the right direction?", "opts": ["A map only", "A phone", "A compass", "A guidebook"], "a": 2, "ex": "文中提到爸爸使用指南針(compass)確認方向。"},
+      {"q": "How long did it take them to reach the summit?", "opts": ["One hour", "Two hours", "Three hours", "Four hours"], "a": 2, "ex": "文中提到「after three hours, they reached the summit」(三小時後抵達山頂)。"},
+      {"q": "What did Lily ask her father on their way down?", "opts": ["If they could eat lunch", "If they could come back next month", "If they could take more photos", "If they could rest again"], "a": 1, "ex": "下山途中 Lily 問爸爸「Can we come back next month?」(我們下個月可以再來嗎)。"}
     ],
     "grammar": [
-      {
-        "q": "Choose the correct comparative sentence.",
-        "opts": [
-          "Our classroom here is big than my old one.",
-          "Our classroom here is bigger than my old one.",
-          "Our classroom here is more big than my old one.",
-          "Our classroom here is as big my old one."
-        ],
-        "a": 1,
-        "ex": "比較級用「形容詞 + -er + than」，big 的比較級為 bigger，故選 B。"
-      },
-      {
-        "q": "Choose the correct sentence using \"more + adjective + than\".",
-        "opts": [
-          "The night markets are exciting than anything near my old house.",
-          "The night markets are more exciting than anything near my old house.",
-          "The night markets are most exciting than anything near my old house.",
-          "The night markets are more excited than anything near my old house."
-        ],
-        "a": 1,
-        "ex": "多音節形容詞的比較級用「more + 形容詞 + than」，exciting 前應加 more，故選 B。"
-      },
-      {
-        "q": "Choose the correct sentence with \"as...as\" for equal comparison.",
-        "opts": [
-          "You're almost as good as our team captain.",
-          "You're almost as good than our team captain.",
-          "You're almost good as our team captain.",
-          "You're almost as well as our team captain."
-        ],
-        "a": 0,
-        "ex": "同等比較用「as + 形容詞 + as」，故選 A。"
-      },
-      {
-        "q": "Choose the correct sentence using \"not as...as\" (not equal).",
-        "opts": [
-          "She wasn't as skillful than the other players.",
-          "She wasn't as skillful as the other players.",
-          "She wasn't so skillful the other players.",
-          "She wasn't skillful as the other players."
-        ],
-        "a": 1,
-        "ex": "否定同等比較用「not as + 形容詞 + as」，故選 B。"
-      },
-      {
-        "q": "Choose the correct sentence giving advice with \"should/shouldn't\".",
-        "opts": [
-          "You should to bring a water bottle every day.",
-          "You shouldn't feel shy.",
-          "You should feels shy.",
-          "You not should feel shy."
-        ],
-        "a": 1,
-        "ex": "should/shouldn't 後面接動詞原形，表建議，故選 B。"
-      }
+      {"q": "The trail was ___ than we expected. (long)", "opts": ["long", "longer", "more long", "longest"], "a": 1, "ex": "規則比較級形容詞，直接加 -er，long → longer。"},
+      {"q": "This path is ___ difficult than the one we took last year.", "opts": ["more", "much", "very", "so"], "a": 0, "ex": "多音節形容詞 difficult 的比較級要用 more + 形容詞。"},
+      {"q": "___ you ever hiked up this trail before?", "opts": ["Do", "Did", "Have", "Are"], "a": 2, "ex": "現在完成時的疑問句用 Have/Has + 主詞 + 過去分詞，表示「你曾經...嗎」。"},
+      {"q": "This is the best hike I ___ ever taken.", "opts": ["have", "has", "had", "will have"], "a": 0, "ex": "主詞 I 搭配現在完成時用 have + 過去分詞 (have taken)。"},
+      {"q": "You ___ drink some water before you continue.", "opts": ["should", "should to", "must to", "are should"], "a": 0, "ex": "should 為情態動詞，後面直接加動詞原形，不加 to。"}
     ],
     "vocab": [
-      {
-        "q": "What does \"nervous\" mean in \"Lily looked nervous\"?",
-        "opts": [
-          "興奮的",
-          "緊張的",
-          "開心的",
-          "生氣的"
-        ],
-        "a": 1,
-        "ex": "nervous 意為「緊張的」。"
-      },
-      {
-        "q": "What does \"whisper\" mean in \"she whispered\"?",
-        "opts": [
-          "大叫",
-          "低聲說",
-          "唱歌",
-          "問問題"
-        ],
-        "a": 1,
-        "ex": "whisper 意為「低聲說」。"
-      },
-      {
-        "q": "What does \"friendly\" mean in \"Everyone is friendly\"?",
-        "opts": [
-          "友善的",
-          "害羞的",
-          "聰明的",
-          "忙碌的"
-        ],
-        "a": 0,
-        "ex": "friendly 意為「友善的」。"
-      },
-      {
-        "q": "What does \"recess\" mean in \"At recess, Lily joined a basketball game\"?",
-        "opts": [
-          "午餐",
-          "休息時間",
-          "考試",
-          "放學後"
-        ],
-        "a": 1,
-        "ex": "recess 意為「休息時間」。"
-      },
-      {
-        "q": "What does \"realize\" mean in \"She realized that making new friends wasn't as hard\"?",
-        "opts": [
-          "意識到",
-          "忘記",
-          "懷疑",
-          "拒絕"
-        ],
-        "a": 0,
-        "ex": "realize 意為「意識到」。"
-      }
+      {"q": "If a mountain trail is \"steep,\" it means it is ___.", "opts": ["flat", "very sloped and hard to climb", "covered with grass", "very wide"], "a": 1, "ex": "steep 意為「陡峭的、難以攀爬的」。"},
+      {"q": "\"Exhausted\" means ___.", "opts": ["very happy", "very hungry", "very tired", "very fast"], "a": 2, "ex": "exhausted 意為「非常疲憊的」。"},
+      {"q": "The highest point of a mountain is called the ___.", "opts": ["valley", "trail", "summit", "compass"], "a": 2, "ex": "summit 意為「山頂、頂峰」。"},
+      {"q": "Which word means \"值得的\"?", "opts": ["amazing", "worth", "narrow", "direction"], "a": 1, "ex": "worth 意為「值得的」。"},
+      {"q": "A tool that helps you find directions is called a ___.", "opts": ["backpack", "compass", "trail", "valley"], "a": 1, "ex": "compass 是「指南針」，用來辨別方向。"}
     ]
   }
 }
