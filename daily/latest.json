@@ -1,52 +1,258 @@
 {
-  "date": "2026-11-04",
-  "title": "A Weekend Hike in the Mountains",
+  "date": "2026-11-05",
+  "title": "A Surprise Birthday Party for Grandma",
   "level": "國中二~三年級 (Grade 8-9)",
   "note": "",
-  "passage": "Last Saturday, Lily and her father decided to go hiking in the mountains near their town. They woke up early and packed a backpack with water, snacks, and a map. \"Have you ever hiked up Sun Moon Trail before?\" her father asked. \"No, this is my first time,\" Lily said excitedly.\nThe trail was longer and steeper than they expected. After an hour, Lily felt exhausted and wanted to stop. \"Let's take a short rest,\" her father suggested. \"You should drink some water and eat a snack.\" They sat under a big tree and looked at the beautiful view below.\nAs they climbed higher, the air became cooler and the path became narrower. Lily's father used a compass to make sure they were going the right direction. \"This path is more difficult than the one we took last year,\" he said. \"But the view from the top will be worth it.\"\nFinally, after three hours, they reached the summit. The view was amazing — they could see the whole valley and a shining lake in the distance. \"This is the best hike I have ever taken!\" Lily shouted happily. Her father smiled and took a photo to remember the adventure.\nOn their way down, Lily asked, \"Can we come back next month?\" Her father laughed and said, \"Of course! Next time, we can bring your little brother, too.\" They walked home, tired but happy, already planning their next adventure together.",
+  "passage": "Next Saturday is Grandma's seventieth birthday, and Tom's family is planning something special. \"We are going to throw a surprise party for Grandma,\" Mom said. \"But we must keep it a secret!\" Tom felt excited. He had never planned a party before.\nOn Friday night, everyone got busy. Tom and his sister decorated the living room with colorful balloons and a big banner that said \"Happy Birthday!\" Dad ordered a chocolate cake, Grandma's favorite flavor. \"We have to finish everything before she comes home,\" Dad reminded them.\nMom called Grandma and said, \"Can you come to our house at six o'clock tomorrow? We will have a quiet dinner together.\" Grandma did not know about the real plan at all.\nOn Saturday, all the relatives arrived early and hid behind the sofa. At exactly six o'clock, Grandma opened the door. Everyone jumped up and shouted, \"Surprise! Happy Birthday!\" Grandma was so surprised that she almost dropped her bag. \"I can't believe you did all this for me,\" she said, smiling with tears in her eyes.\nThey sang songs, ate the delicious cake, and shared old family stories. Grandma said, \"This is the best birthday I have ever had. Thank you all so much.\" Tom felt proud. He realized that planning a party is hard work, but seeing Grandma's happy face made it worth every minute.",
   "vocab": [
-    {"w": "hike", "pos": "v.", "d": "健行", "example": "We hike in the mountains every weekend."},
-    {"w": "trail", "pos": "n.", "d": "步道、小徑", "example": "The trail leads to a beautiful waterfall."},
-    {"w": "backpack", "pos": "n.", "d": "背包", "example": "She packed her backpack before the trip."},
-    {"w": "exhausted", "pos": "adj.", "d": "疲憊不堪的", "example": "He felt exhausted after running five kilometers."},
-    {"w": "steep", "pos": "adj.", "d": "陡峭的", "example": "The steep hill was hard to climb."},
-    {"w": "summit", "pos": "n.", "d": "山頂、頂峰", "example": "They finally reached the summit at noon."},
-    {"w": "compass", "pos": "n.", "d": "指南針", "example": "A compass helps you find the right direction."},
-    {"w": "valley", "pos": "n.", "d": "山谷", "example": "The village is located in a green valley."},
-    {"w": "view", "pos": "n.", "d": "景色", "example": "The view from the tower is amazing."},
-    {"w": "narrow", "pos": "adj.", "d": "狹窄的", "example": "The narrow road was difficult for cars to pass."},
-    {"w": "adventure", "pos": "n.", "d": "冒險", "example": "Climbing the mountain was a great adventure."},
-    {"w": "suggest", "pos": "v.", "d": "建議", "example": "My teacher suggested that I read more books."},
-    {"w": "amazing", "pos": "adj.", "d": "驚人的、了不起的", "example": "The fireworks show was amazing."},
-    {"w": "direction", "pos": "n.", "d": "方向", "example": "Can you tell me the direction to the park?"},
-    {"w": "worth", "pos": "adj.", "d": "值得的", "example": "The hike was tiring, but it was worth it."}
+    {
+      "w": "surprise",
+      "pos": "n./v.",
+      "d": "驚喜；使驚訝",
+      "example": "The party was a big surprise for Grandma."
+    },
+    {
+      "w": "decorate",
+      "pos": "v.",
+      "d": "裝飾",
+      "example": "They decorated the room with colorful balloons."
+    },
+    {
+      "w": "balloon",
+      "pos": "n.",
+      "d": "氣球",
+      "example": "Tom blew up ten balloons for the party."
+    },
+    {
+      "w": "banner",
+      "pos": "n.",
+      "d": "橫幅、標語",
+      "example": "A big banner said \"Happy Birthday!\" on the wall."
+    },
+    {
+      "w": "secret",
+      "pos": "n./adj.",
+      "d": "秘密；秘密的",
+      "example": "Please keep this plan a secret."
+    },
+    {
+      "w": "excited",
+      "pos": "adj.",
+      "d": "興奮的",
+      "example": "Tom felt excited about the surprise party."
+    },
+    {
+      "w": "favorite",
+      "pos": "adj.",
+      "d": "最喜愛的",
+      "example": "Chocolate cake is Grandma's favorite dessert."
+    },
+    {
+      "w": "remind",
+      "pos": "v.",
+      "d": "提醒",
+      "example": "Dad reminded them to finish before six o'clock."
+    },
+    {
+      "w": "relative",
+      "pos": "n.",
+      "d": "親戚",
+      "example": "All of our relatives came to the party."
+    },
+    {
+      "w": "arrive",
+      "pos": "v.",
+      "d": "到達",
+      "example": "The guests arrived early and hid behind the sofa."
+    },
+    {
+      "w": "realize",
+      "pos": "v.",
+      "d": "領悟、意識到",
+      "example": "Tom realized that planning a party is hard work."
+    },
+    {
+      "w": "proud",
+      "pos": "adj.",
+      "d": "感到自豪的",
+      "example": "Tom felt proud after the party was a success."
+    }
   ],
   "grammar": [
-    "比較級 (adj + -er / more + adj) + than：規則變化加 -er（longer, steeper），多音節形容詞用 more + 形容詞（more difficult）。例：The trail was longer and steeper than they expected. / This path is more difficult than the one we took last year.",
-    "現在完成時 Have/Has + ever + 過去分詞：表示「曾經做過某事」，常與 ever 連用。例：Have you ever hiked up Sun Moon Trail before? / This is the best hike I have ever taken!",
-    "should 表建議：should 為情態動詞，後面直接加動詞原形，表示「應該」。例：You should drink some water and eat a snack."
+    "be going to / will 表示未來計畫或預測：be going to 強調事先安排好的計畫（We are going to throw a party.），will 可表示當下決定或承諾（We will have a quiet dinner together.）。",
+    "must 與 have to 表示「必須」：must 常表示說話者主觀認為的必要（We must keep it a secret.），have to 表示客觀上的需要或規定，依主詞變化第三人稱單數用 has to（We have to finish everything. / She has to leave now.）。"
   ],
   "sections": {
     "reading": [
-      {"q": "Who did Lily go hiking with?", "opts": ["Her mother", "Her father", "Her brother", "Her friend"], "a": 1, "ex": "文中提到 Lily 和爸爸一起去健行（Lily and her father）。"},
-      {"q": "How did Lily feel after an hour of hiking?", "opts": ["Excited", "Bored", "Exhausted", "Scared"], "a": 2, "ex": "文中寫到健行一小時後「Lily felt exhausted」(感到疲憊不堪)。"},
-      {"q": "What did Lily's father use to make sure they were going the right direction?", "opts": ["A map only", "A phone", "A compass", "A guidebook"], "a": 2, "ex": "文中提到爸爸使用指南針(compass)確認方向。"},
-      {"q": "How long did it take them to reach the summit?", "opts": ["One hour", "Two hours", "Three hours", "Four hours"], "a": 2, "ex": "文中提到「after three hours, they reached the summit」(三小時後抵達山頂)。"},
-      {"q": "What did Lily ask her father on their way down?", "opts": ["If they could eat lunch", "If they could come back next month", "If they could take more photos", "If they could rest again"], "a": 1, "ex": "下山途中 Lily 問爸爸「Can we come back next month?」(我們下個月可以再來嗎)。"}
+      {
+        "q": "Whose birthday was the family celebrating?",
+        "opts": [
+          "Tom's mother",
+          "Tom's grandmother",
+          "Tom's sister",
+          "Tom's father"
+        ],
+        "a": 1,
+        "ex": "文中提到「Next Saturday is Grandma's seventieth birthday」，是慶祝奶奶的七十歲生日。"
+      },
+      {
+        "q": "What did Mom say they must do about the party?",
+        "opts": [
+          "Tell Grandma early",
+          "Keep it a secret",
+          "Cancel the party",
+          "Invite only adults"
+        ],
+        "a": 1,
+        "ex": "Mom 說「But we must keep it a secret!」，表示必須保密。"
+      },
+      {
+        "q": "What was Grandma's favorite cake flavor?",
+        "opts": [
+          "Vanilla",
+          "Strawberry",
+          "Chocolate",
+          "Lemon"
+        ],
+        "a": 2,
+        "ex": "文中提到 Dad ordered a chocolate cake，那是 Grandma's favorite flavor。"
+      },
+      {
+        "q": "What did Mom tell Grandma on the phone?",
+        "opts": [
+          "To come at six o'clock for a quiet dinner",
+          "To bring a cake",
+          "To stay home all day",
+          "To invite the relatives herself"
+        ],
+        "a": 0,
+        "ex": "Mom 在電話中說「Can you come to our house at six o'clock tomorrow? We will have a quiet dinner together.」"
+      },
+      {
+        "q": "How did Grandma react when she opened the door?",
+        "opts": [
+          "She was angry",
+          "She was confused and left",
+          "She was very surprised",
+          "She did not notice anything"
+        ],
+        "a": 2,
+        "ex": "文中提到 Grandma was so surprised that she almost dropped her bag，顯示她非常驚訝。"
+      }
     ],
     "grammar": [
-      {"q": "The trail was ___ than we expected. (long)", "opts": ["long", "longer", "more long", "longest"], "a": 1, "ex": "規則比較級形容詞，直接加 -er，long → longer。"},
-      {"q": "This path is ___ difficult than the one we took last year.", "opts": ["more", "much", "very", "so"], "a": 0, "ex": "多音節形容詞 difficult 的比較級要用 more + 形容詞。"},
-      {"q": "___ you ever hiked up this trail before?", "opts": ["Do", "Did", "Have", "Are"], "a": 2, "ex": "現在完成時的疑問句用 Have/Has + 主詞 + 過去分詞，表示「你曾經...嗎」。"},
-      {"q": "This is the best hike I ___ ever taken.", "opts": ["have", "has", "had", "will have"], "a": 0, "ex": "主詞 I 搭配現在完成時用 have + 過去分詞 (have taken)。"},
-      {"q": "You ___ drink some water before you continue.", "opts": ["should", "should to", "must to", "are should"], "a": 0, "ex": "should 為情態動詞，後面直接加動詞原形，不加 to。"}
+      {
+        "q": "We ___ throw a surprise party for Grandma next Saturday.",
+        "opts": [
+          "are going to",
+          "must",
+          "have",
+          "did"
+        ],
+        "a": 0,
+        "ex": "be going to 用來表示事先安排好的未來計畫，故選 are going to。"
+      },
+      {
+        "q": "We ___ keep it a secret, or Grandma will find out!",
+        "opts": [
+          "can",
+          "must",
+          "may",
+          "could"
+        ],
+        "a": 1,
+        "ex": "must 表示「必須」，強調說話者認為非常重要的義務。"
+      },
+      {
+        "q": "Dad said, \"We ___ finish everything before she comes home.\"",
+        "opts": [
+          "have to",
+          "is",
+          "will to",
+          "must to"
+        ],
+        "a": 0,
+        "ex": "have to 表示客觀上必須做的事，後面直接加動詞原形，故選 have to（must to / will to 為錯誤用法）。"
+      },
+      {
+        "q": "Mom said, \"We ___ have a quiet dinner together tomorrow.\"",
+        "opts": [
+          "was",
+          "will",
+          "must to",
+          "has"
+        ],
+        "a": 1,
+        "ex": "will 可用來表示當下所做的承諾或未來的預測，故選 will。"
+      },
+      {
+        "q": "Grandma ___ to leave early tomorrow because of a doctor's appointment.",
+        "opts": [
+          "have",
+          "has",
+          "must",
+          "will"
+        ],
+        "a": 1,
+        "ex": "主詞 Grandma 為第三人稱單數，have to 要變成 has to，故選 has。"
+      }
     ],
     "vocab": [
-      {"q": "If a mountain trail is \"steep,\" it means it is ___.", "opts": ["flat", "very sloped and hard to climb", "covered with grass", "very wide"], "a": 1, "ex": "steep 意為「陡峭的、難以攀爬的」。"},
-      {"q": "\"Exhausted\" means ___.", "opts": ["very happy", "very hungry", "very tired", "very fast"], "a": 2, "ex": "exhausted 意為「非常疲憊的」。"},
-      {"q": "The highest point of a mountain is called the ___.", "opts": ["valley", "trail", "summit", "compass"], "a": 2, "ex": "summit 意為「山頂、頂峰」。"},
-      {"q": "Which word means \"值得的\"?", "opts": ["amazing", "worth", "narrow", "direction"], "a": 1, "ex": "worth 意為「值得的」。"},
-      {"q": "A tool that helps you find directions is called a ___.", "opts": ["backpack", "compass", "trail", "valley"], "a": 1, "ex": "compass 是「指南針」，用來辨別方向。"}
+      {
+        "q": "\"Surprise\" most likely means ___.",
+        "opts": [
+          "something expected",
+          "something unexpected and sudden",
+          "something boring",
+          "something sad"
+        ],
+        "a": 1,
+        "ex": "surprise 指「出乎意料、令人驚訝的事」。"
+      },
+      {
+        "q": "If you \"decorate\" a room, you ___.",
+        "opts": [
+          "clean it completely",
+          "make it look nicer with decorations",
+          "lock the door",
+          "turn off the lights"
+        ],
+        "a": 1,
+        "ex": "decorate 意為「裝飾」，使空間看起來更漂亮。"
+      },
+      {
+        "q": "A \"secret\" is something that ___.",
+        "opts": [
+          "everyone already knows",
+          "is not told to other people",
+          "is written in a book",
+          "happens every day"
+        ],
+        "a": 1,
+        "ex": "secret 指「不讓其他人知道的事」，即秘密。"
+      },
+      {
+        "q": "Your \"relatives\" are ___.",
+        "opts": [
+          "your classmates",
+          "your family members",
+          "your neighbors",
+          "your teachers"
+        ],
+        "a": 1,
+        "ex": "relative 意為「親戚」，指有血緣或婚姻關係的家人。"
+      },
+      {
+        "q": "If Tom feels \"proud\" after the party, he feels ___.",
+        "opts": [
+          "embarrassed",
+          "satisfied and pleased with what he did",
+          "tired and sleepy",
+          "worried about something"
+        ],
+        "a": 1,
+        "ex": "proud 意為「感到自豪、滿意」，通常因自己做了值得驕傲的事而產生。"
+      }
     ]
   }
 }
