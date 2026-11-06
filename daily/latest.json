@@ -1,257 +1,124 @@
 {
-  "date": "2026-11-05",
-  "title": "A Surprise Birthday Party for Grandma",
+  "date": "2026-11-06",
+  "title": "A Busy Day at the Animal Shelter",
   "level": "國中二~三年級 (Grade 8-9)",
   "note": "",
-  "passage": "Next Saturday is Grandma's seventieth birthday, and Tom's family is planning something special. \"We are going to throw a surprise party for Grandma,\" Mom said. \"But we must keep it a secret!\" Tom felt excited. He had never planned a party before.\nOn Friday night, everyone got busy. Tom and his sister decorated the living room with colorful balloons and a big banner that said \"Happy Birthday!\" Dad ordered a chocolate cake, Grandma's favorite flavor. \"We have to finish everything before she comes home,\" Dad reminded them.\nMom called Grandma and said, \"Can you come to our house at six o'clock tomorrow? We will have a quiet dinner together.\" Grandma did not know about the real plan at all.\nOn Saturday, all the relatives arrived early and hid behind the sofa. At exactly six o'clock, Grandma opened the door. Everyone jumped up and shouted, \"Surprise! Happy Birthday!\" Grandma was so surprised that she almost dropped her bag. \"I can't believe you did all this for me,\" she said, smiling with tears in her eyes.\nThey sang songs, ate the delicious cake, and shared old family stories. Grandma said, \"This is the best birthday I have ever had. Thank you all so much.\" Tom felt proud. He realized that planning a party is hard work, but seeing Grandma's happy face made it worth every minute.",
+  "passage": "On Saturday morning, Lily and her brother Jason went to the city animal shelter to volunteer. \"This is my first time,\" Lily said nervously. \"I hope I can do a good job.\" A kind worker named Mr. Chen smiled and said, \"Don't worry. Just be patient and gentle with the animals.\"\nTheir first job was to feed the kittens. Jason thought feeding kittens would be easier than cleaning cages, but he was wrong. One small kitten was so shy that it hid under a blanket and would not come out. Lily spoke softly and waited quietly until the kitten finally walked over to eat.\nNext, they helped walk the dogs. A big brown dog named Max pulled hard on his leash and barked loudly at every car. \"Max is louder than all the other dogs here,\" Jason laughed. Mr. Chen explained that Max used to live on the street, so he was more nervous than the other dogs.\nBy the afternoon, Lily and Jason had learned a lot. They discovered that caring for animals takes more patience than they expected. The most difficult animal to handle was Max, but he also became the friendliest by the end of the day. When it was time to go home, Lily felt grateful. \"I have never felt so proud of myself,\" she said. Jason agreed, \"Let's come back next weekend. Maybe we can even help find a family for Max.\"",
   "vocab": [
-    {
-      "w": "surprise",
-      "pos": "n./v.",
-      "d": "驚喜；使驚訝",
-      "example": "The party was a big surprise for Grandma."
-    },
-    {
-      "w": "decorate",
-      "pos": "v.",
-      "d": "裝飾",
-      "example": "They decorated the room with colorful balloons."
-    },
-    {
-      "w": "balloon",
-      "pos": "n.",
-      "d": "氣球",
-      "example": "Tom blew up ten balloons for the party."
-    },
-    {
-      "w": "banner",
-      "pos": "n.",
-      "d": "橫幅、標語",
-      "example": "A big banner said \"Happy Birthday!\" on the wall."
-    },
-    {
-      "w": "secret",
-      "pos": "n./adj.",
-      "d": "秘密；秘密的",
-      "example": "Please keep this plan a secret."
-    },
-    {
-      "w": "excited",
-      "pos": "adj.",
-      "d": "興奮的",
-      "example": "Tom felt excited about the surprise party."
-    },
-    {
-      "w": "favorite",
-      "pos": "adj.",
-      "d": "最喜愛的",
-      "example": "Chocolate cake is Grandma's favorite dessert."
-    },
-    {
-      "w": "remind",
-      "pos": "v.",
-      "d": "提醒",
-      "example": "Dad reminded them to finish before six o'clock."
-    },
-    {
-      "w": "relative",
-      "pos": "n.",
-      "d": "親戚",
-      "example": "All of our relatives came to the party."
-    },
-    {
-      "w": "arrive",
-      "pos": "v.",
-      "d": "到達",
-      "example": "The guests arrived early and hid behind the sofa."
-    },
-    {
-      "w": "realize",
-      "pos": "v.",
-      "d": "領悟、意識到",
-      "example": "Tom realized that planning a party is hard work."
-    },
-    {
-      "w": "proud",
-      "pos": "adj.",
-      "d": "感到自豪的",
-      "example": "Tom felt proud after the party was a success."
-    }
+    { "w": "volunteer", "pos": "v./n.", "d": "當志工；志工", "example": "Lily and Jason went to volunteer at the animal shelter." },
+    { "w": "shelter", "pos": "n.", "d": "收容所", "example": "The animal shelter takes care of lost and hurt animals." },
+    { "w": "nervous", "pos": "adj.", "d": "緊張的", "example": "Lily felt nervous on her first day at the shelter." },
+    { "w": "patient", "pos": "adj.", "d": "有耐心的", "example": "You must be patient and gentle with the animals." },
+    { "w": "gentle", "pos": "adj.", "d": "溫和的", "example": "Mr. Chen told them to be gentle with the kittens." },
+    { "w": "kitten", "pos": "n.", "d": "小貓", "example": "The small kitten hid under a blanket." },
+    { "w": "shy", "pos": "adj.", "d": "害羞的、怕生的", "example": "The kitten was so shy that it would not come out." },
+    { "w": "leash", "pos": "n.", "d": "牽繩", "example": "Max pulled hard on his leash." },
+    { "w": "bark", "pos": "v.", "d": "(狗)吠叫", "example": "Max barked loudly at every car that passed." },
+    { "w": "used to", "pos": "phr.", "d": "過去曾經(習慣)", "example": "Max used to live on the street before he came to the shelter." },
+    { "w": "discover", "pos": "v.", "d": "發現", "example": "They discovered that caring for animals takes a lot of patience." },
+    { "w": "grateful", "pos": "adj.", "d": "感激的", "example": "Lily felt grateful for the chance to help the animals." },
+    { "w": "proud", "pos": "adj.", "d": "自豪的", "example": "I have never felt so proud of myself, Lily said." }
   ],
   "grammar": [
-    "be going to / will 表示未來計畫或預測：be going to 強調事先安排好的計畫（We are going to throw a party.），will 可表示當下決定或承諾（We will have a quiet dinner together.）。",
-    "must 與 have to 表示「必須」：must 常表示說話者主觀認為的必要（We must keep it a secret.），have to 表示客觀上的需要或規定，依主詞變化第三人稱單數用 has to（We have to finish everything. / She has to leave now.）。"
+    "比較級 (comparative, -er than / more ... than)：用來比較兩者，形容詞字尾加 -er 或前面加 more，後接 than，表示「比...更...」。例：Feeding kittens would be easier than cleaning cages. / Caring for animals takes more patience than they expected.",
+    "最高級 (superlative, the -est / the most ...)：用來比較三者以上，形容詞字尾加 -est 或前面加 the most，表示「最...的」。例：The most difficult animal to handle was Max. / He also became the friendliest by the end of the day.",
+    "used to + 動詞原形：表示過去的習慣或狀態，而現在已經不是如此，強調「以前常常」或「過去曾經」。例：Max used to live on the street, so he was more nervous than the other dogs."
   ],
   "sections": {
     "reading": [
       {
-        "q": "Whose birthday was the family celebrating?",
-        "opts": [
-          "Tom's mother",
-          "Tom's grandmother",
-          "Tom's sister",
-          "Tom's father"
-        ],
+        "q": "Why did Lily feel nervous at first?",
+        "opts": ["She did not like animals", "It was her first time volunteering", "She was late for work", "Mr. Chen was angry at her"],
         "a": 1,
-        "ex": "文中提到「Next Saturday is Grandma's seventieth birthday」，是慶祝奶奶的七十歲生日。"
+        "ex": "文中提到「This is my first time,」Lily said nervously，表示這是她第一次當志工，所以感到緊張。"
       },
       {
-        "q": "What did Mom say they must do about the party?",
-        "opts": [
-          "Tell Grandma early",
-          "Keep it a secret",
-          "Cancel the party",
-          "Invite only adults"
-        ],
+        "q": "What was Jason's first job at the shelter?",
+        "opts": ["Walking the dogs", "Cleaning the cages", "Feeding the kittens", "Talking to visitors"],
+        "a": 2,
+        "ex": "文中提到「Their first job was to feed the kittens」，他們的第一個工作是餵小貓。"
+      },
+      {
+        "q": "Why did the small kitten hide under a blanket?",
+        "opts": ["It was angry", "It was shy", "It was hungry", "It was sleepy"],
         "a": 1,
-        "ex": "Mom 說「But we must keep it a secret!」，表示必須保密。"
+        "ex": "文中提到「One small kitten was so shy that it hid under a blanket」，因為牠很害羞怕生。"
       },
       {
-        "q": "What was Grandma's favorite cake flavor?",
-        "opts": [
-          "Vanilla",
-          "Strawberry",
-          "Chocolate",
-          "Lemon"
-        ],
+        "q": "Why was Max more nervous than the other dogs, according to Mr. Chen?",
+        "opts": ["He did not like Lily", "He was the youngest dog", "He used to live on the street", "He was afraid of kittens"],
         "a": 2,
-        "ex": "文中提到 Dad ordered a chocolate cake，那是 Grandma's favorite flavor。"
+        "ex": "文中提到「Max used to live on the street, so he was more nervous than the other dogs」。"
       },
       {
-        "q": "What did Mom tell Grandma on the phone?",
-        "opts": [
-          "To come at six o'clock for a quiet dinner",
-          "To bring a cake",
-          "To stay home all day",
-          "To invite the relatives herself"
-        ],
-        "a": 0,
-        "ex": "Mom 在電話中說「Can you come to our house at six o'clock tomorrow? We will have a quiet dinner together.」"
-      },
-      {
-        "q": "How did Grandma react when she opened the door?",
-        "opts": [
-          "She was angry",
-          "She was confused and left",
-          "She was very surprised",
-          "She did not notice anything"
-        ],
+        "q": "How did Lily feel at the end of the day?",
+        "opts": ["Tired and angry", "Bored and sleepy", "Grateful and proud", "Confused and worried"],
         "a": 2,
-        "ex": "文中提到 Grandma was so surprised that she almost dropped her bag，顯示她非常驚訝。"
+        "ex": "文中提到 Lily felt grateful 並說「I have never felt so proud of myself」，表示她感到感激又自豪。"
       }
     ],
     "grammar": [
       {
-        "q": "We ___ throw a surprise party for Grandma next Saturday.",
-        "opts": [
-          "are going to",
-          "must",
-          "have",
-          "did"
-        ],
+        "q": "Jason thought feeding kittens would be ___ than cleaning cages, but he was wrong.",
+        "opts": ["easy", "easier", "easiest", "more easy"],
+        "a": 1,
+        "ex": "比較兩者用比較級，easy 字尾加 -er 變成 easier，後接 than，故選 easier。"
+      },
+      {
+        "q": "\"Max is ___ than all the other dogs here,\" Jason laughed.",
+        "opts": ["loud", "louder", "loudest", "more loud"],
+        "a": 1,
+        "ex": "與其他狗比較用比較級 louder than，loud 為單音節形容詞字尾直接加 -er。"
+      },
+      {
+        "q": "The ___ animal to handle at the shelter was Max.",
+        "opts": ["difficult", "more difficult", "most difficult", "difficultest"],
+        "a": 2,
+        "ex": "與全部動物比較（三者以上）要用最高級 the most difficult，difficult 為多音節形容詞前面加 the most。"
+      },
+      {
+        "q": "Max ___ live on the street before he came to the shelter.",
+        "opts": ["uses to", "used to", "is used to", "use to"],
+        "a": 1,
+        "ex": "used to + 動詞原形表示過去的習慣或狀態，現在已不是如此，故選 used to。"
+      },
+      {
+        "q": "Caring for animals takes ___ patience than they expected.",
+        "opts": ["more", "most", "much", "many"],
         "a": 0,
-        "ex": "be going to 用來表示事先安排好的未來計畫，故選 are going to。"
-      },
-      {
-        "q": "We ___ keep it a secret, or Grandma will find out!",
-        "opts": [
-          "can",
-          "must",
-          "may",
-          "could"
-        ],
-        "a": 1,
-        "ex": "must 表示「必須」，強調說話者認為非常重要的義務。"
-      },
-      {
-        "q": "Dad said, \"We ___ finish everything before she comes home.\"",
-        "opts": [
-          "have to",
-          "is",
-          "will to",
-          "must to"
-        ],
-        "a": 0,
-        "ex": "have to 表示客觀上必須做的事，後面直接加動詞原形，故選 have to（must to / will to 為錯誤用法）。"
-      },
-      {
-        "q": "Mom said, \"We ___ have a quiet dinner together tomorrow.\"",
-        "opts": [
-          "was",
-          "will",
-          "must to",
-          "has"
-        ],
-        "a": 1,
-        "ex": "will 可用來表示當下所做的承諾或未來的預測，故選 will。"
-      },
-      {
-        "q": "Grandma ___ to leave early tomorrow because of a doctor's appointment.",
-        "opts": [
-          "have",
-          "has",
-          "must",
-          "will"
-        ],
-        "a": 1,
-        "ex": "主詞 Grandma 為第三人稱單數，have to 要變成 has to，故選 has。"
+        "ex": "patience 為不可數名詞，比較級用 more...than，故選 more。"
       }
     ],
     "vocab": [
       {
-        "q": "\"Surprise\" most likely means ___.",
-        "opts": [
-          "something expected",
-          "something unexpected and sudden",
-          "something boring",
-          "something sad"
-        ],
+        "q": "If you \"volunteer,\" you ___.",
+        "opts": ["get paid a lot of money", "offer to help without being paid", "refuse to do something", "ask someone else to do work"],
         "a": 1,
-        "ex": "surprise 指「出乎意料、令人驚訝的事」。"
+        "ex": "volunteer 意為「自願、當志工」，指不求報酬主動幫忙。"
       },
       {
-        "q": "If you \"decorate\" a room, you ___.",
-        "opts": [
-          "clean it completely",
-          "make it look nicer with decorations",
-          "lock the door",
-          "turn off the lights"
-        ],
-        "a": 1,
-        "ex": "decorate 意為「裝飾」，使空間看起來更漂亮。"
+        "q": "A \"shelter\" for animals is a place that ___.",
+        "opts": ["sells pets", "trains dogs for races", "takes care of lost or hurt animals", "only keeps wild animals"],
+        "a": 2,
+        "ex": "shelter 指「收容所」，照顧走失或受傷的動物。"
       },
       {
-        "q": "A \"secret\" is something that ___.",
-        "opts": [
-          "everyone already knows",
-          "is not told to other people",
-          "is written in a book",
-          "happens every day"
-        ],
+        "q": "If someone is \"nervous,\" they feel ___.",
+        "opts": ["calm and relaxed", "worried or a little scared", "extremely happy", "very sleepy"],
         "a": 1,
-        "ex": "secret 指「不讓其他人知道的事」，即秘密。"
+        "ex": "nervous 意為「緊張的」，指感到擔心或有點害怕。"
       },
       {
-        "q": "Your \"relatives\" are ___.",
-        "opts": [
-          "your classmates",
-          "your family members",
-          "your neighbors",
-          "your teachers"
-        ],
+        "q": "A \"gentle\" person treats others ___.",
+        "opts": ["roughly and carelessly", "softly and kindly", "loudly and angrily", "quickly and carelessly"],
         "a": 1,
-        "ex": "relative 意為「親戚」，指有血緣或婚姻關係的家人。"
+        "ex": "gentle 意為「溫和的」，對待他人輕柔和善。"
       },
       {
-        "q": "If Tom feels \"proud\" after the party, he feels ___.",
-        "opts": [
-          "embarrassed",
-          "satisfied and pleased with what he did",
-          "tired and sleepy",
-          "worried about something"
-        ],
+        "q": "If you feel \"grateful,\" you ___.",
+        "opts": ["want to complain", "feel thankful for something", "feel bored", "feel jealous of someone"],
         "a": 1,
-        "ex": "proud 意為「感到自豪、滿意」，通常因自己做了值得驕傲的事而產生。"
+        "ex": "grateful 意為「感激的」，表示對某事心懷感謝。"
       }
     ]
   }
