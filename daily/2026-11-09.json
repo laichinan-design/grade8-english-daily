@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-09",
+  "title": "Mia Gets Lost at the Train Station",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "Last Saturday, Mia and her mom went to the train station to visit her aunt in Taichung. The station was very crowded, and people were rushing in every direction. While her mom was buying tickets, Mia walked over to look at a big map on the wall. When she turned around a few minutes later, her mom was gone.\nMia felt confused and scared. The station was too big for her to find her way alone. A loud announcement came on over the speaker, but it was so noisy that she could not understand a single word. She stood near the map and tried to stay calm, just like her mom had taught her.\nA kind station worker who was wearing a blue uniform noticed Mia standing alone. 'Are you lost, little girl?' he asked gently. Mia nodded and explained that she could not find her mother. The worker, whose name tag said Mr. Lin, walked Mia to the information desk and made an announcement over the speaker.\nA few minutes later, Mia's mom came running, out of breath. 'I was so worried that I couldn't think straight!' she said, hugging Mia tightly. Mia promised that she would never wander off again. Before they left, Mia thanked Mr. Lin, who smiled and said, 'That's exactly what a good traveler does — stay calm and ask for help.'",
+  "vocab": [
+    { "w": "crowded", "pos": "adj.", "d": "擁擠的", "example": "The train station was crowded on Saturday afternoon." },
+    { "w": "rush", "pos": "v.", "d": "匆忙、急著行動", "example": "People were rushing in every direction inside the station." },
+    { "w": "confused", "pos": "adj.", "d": "困惑的", "example": "Mia felt confused when she could not find her mom." },
+    { "w": "scared", "pos": "adj.", "d": "害怕的", "example": "She felt scared because she was lost in a big station." },
+    { "w": "announcement", "pos": "n.", "d": "廣播、公告", "example": "A loud announcement came on over the speaker." },
+    { "w": "noisy", "pos": "adj.", "d": "吵鬧的", "example": "The station was so noisy that she could not hear clearly." },
+    { "w": "calm", "pos": "adj./v.", "d": "冷靜的；使冷靜", "example": "Mia tried to stay calm near the map." },
+    { "w": "uniform", "pos": "n.", "d": "制服", "example": "The station worker was wearing a blue uniform." },
+    { "w": "gently", "pos": "adv.", "d": "溫柔地", "example": "The worker asked gently if she was lost." },
+    { "w": "explain", "pos": "v.", "d": "解釋", "example": "Mia explained that she could not find her mother." },
+    { "w": "information desk", "pos": "n.", "d": "服務台", "example": "The worker walked Mia to the information desk." },
+    { "w": "out of breath", "pos": "phr.", "d": "喘不過氣", "example": "Mia's mom came running, out of breath." },
+    { "w": "worried", "pos": "adj.", "d": "擔心的", "example": "I was so worried that I couldn't think straight, her mom said." },
+    { "w": "promise", "pos": "v.", "d": "承諾、保證", "example": "Mia promised that she would never wander off again." },
+    { "w": "traveler", "pos": "n.", "d": "旅行者", "example": "A good traveler stays calm and asks for help." }
+  ],
+  "grammar": [
+    "關係代詞 who / whose（修飾人的關係子句）：who 代替「人」作主詞，whose 代替「人的所有格」，用來補充說明前面提到的人。例：A kind station worker who was wearing a blue uniform noticed Mia. / The worker, whose name tag said Mr. Lin, walked Mia to the information desk.",
+    "too + 形容詞 + to + 動詞原形：表示「太...而不能...」，後面的動作因為程度太過而無法完成。例：The station was too big for her to find her way alone.",
+    "so + 形容詞 + that + 子句：表示「如此...以致於...」，強調程度深到造成某個結果。例：It was so noisy that she could not understand a single word. / I was so worried that I couldn't think straight."
+  ],
+  "sections": {
+    "reading": [
+      {
+        "q": "Why did Mia and her mom go to the train station?",
+        "opts": ["To buy a new map", "To visit her aunt in Taichung", "To work at the information desk", "To take photos of trains"],
+        "a": 1,
+        "ex": "文中提到 Mia and her mom went to the train station to visit her aunt in Taichung，她們是去搭車拜訪阿姨。"
+      },
+      {
+        "q": "What was Mia doing when she got separated from her mom?",
+        "opts": ["Buying a train ticket", "Looking at a map on the wall", "Talking to Mr. Lin", "Making an announcement"],
+        "a": 1,
+        "ex": "文中提到 Mia walked over to look at a big map on the wall，她當時正在看牆上的地圖。"
+      },
+      {
+        "q": "Why couldn't Mia understand the announcement?",
+        "opts": ["It was in a different language", "It was too noisy to hear clearly", "She was too far from the speaker", "She was not listening at all"],
+        "a": 1,
+        "ex": "文中提到 it was so noisy that she could not understand a single word，因為太吵聽不清楚。"
+      },
+      {
+        "q": "How did Mr. Lin help Mia?",
+        "opts": ["He gave her money for a new ticket", "He walked her to the information desk and made an announcement", "He called the police right away", "He told her to wait outside alone"],
+        "a": 1,
+        "ex": "文中提到 the worker walked Mia to the information desk and made an announcement over the speaker。"
+      },
+      {
+        "q": "What lesson did Mia learn from this experience?",
+        "opts": ["Never go to crowded places", "Stay calm and ask for help when lost", "Always carry a paper map", "Train stations are dangerous places"],
+        "a": 1,
+        "ex": "文中結尾提到 that's exactly what a good traveler does — stay calm and ask for help，即遇到困難要保持冷靜並尋求協助。"
+      }
+    ],
+    "grammar": [
+      {
+        "q": "A kind station worker ___ was wearing a blue uniform noticed Mia.",
+        "opts": ["which", "who", "what", "whose"],
+        "a": 1,
+        "ex": "worker 是「人」，作關係子句的主詞，故用關係代詞 who。"
+      },
+      {
+        "q": "The station was ___ big for her to find her way alone.",
+        "opts": ["so", "too", "very", "such"],
+        "a": 1,
+        "ex": "too + 形容詞 + to + 動詞原形，表示「太...而不能...」，故選 too。"
+      },
+      {
+        "q": "It was ___ noisy that she could not understand a single word.",
+        "opts": ["too", "very", "so", "such"],
+        "a": 2,
+        "ex": "so + 形容詞 + that + 子句，表示「如此...以致於...」，故選 so。"
+      },
+      {
+        "q": "\"I was ___ worried that I couldn't think straight,\" Mia's mom said.",
+        "opts": ["too", "so", "such", "very a"],
+        "a": 1,
+        "ex": "後面接 that 子句表示結果，須用 so + 形容詞 + that，故選 so。"
+      },
+      {
+        "q": "Mr. Lin, ___ name tag said Mr. Lin, helped Mia find her mom.",
+        "opts": ["who", "which", "whose", "that"],
+        "a": 2,
+        "ex": "表示「他的」名牌，為所有格關係代詞，故選 whose。"
+      }
+    ],
+    "vocab": [
+      {
+        "q": "If a place is \"crowded,\" it ___.",
+        "opts": ["is empty and quiet", "has too many people in it", "is very clean and tidy", "is far away from the city"],
+        "a": 1,
+        "ex": "crowded 意為「擁擠的」，指某處有很多人。"
+      },
+      {
+        "q": "If you feel \"confused,\" you ___.",
+        "opts": ["understand everything clearly", "do not understand what is happening", "feel very happy and excited", "feel sleepy and tired"],
+        "a": 1,
+        "ex": "confused 意為「困惑的」，指不了解正在發生的事。"
+      },
+      {
+        "q": "An \"announcement\" is ___.",
+        "opts": ["a kind of train ticket", "a public message told to many people", "a type of map", "a place to buy food"],
+        "a": 1,
+        "ex": "announcement 意為「廣播、公告」，指向大眾傳達的訊息。"
+      },
+      {
+        "q": "If someone is \"out of breath,\" they ___.",
+        "opts": ["are breathing normally and calmly", "have stopped talking forever", "are tired and breathing hard after running", "are fast asleep"],
+        "a": 2,
+        "ex": "out of breath 意為「喘不過氣」，指因跑步等而呼吸急促。"
+      },
+      {
+        "q": "If you \"promise\" to do something, you ___.",
+        "opts": ["refuse to do it at all", "firmly say that you will do it", "forget about it completely", "ask someone else to do it"],
+        "a": 1,
+        "ex": "promise 意為「承諾」，指堅定地表示會做某事。"
+      }
+    ]
+  }
+}
