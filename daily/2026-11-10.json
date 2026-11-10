@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-10",
+  "title": "Amy Joins the School Talent Show",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "Amy has always loved singing, but she had never performed in front of a big audience before. This year, her school decided to hold a talent show, and Amy was invited to join. She felt excited and nervous at the same time.\nAmy has practiced every day since the sign-up sheet was posted two weeks ago. It takes her about one hour every evening to practice a new song with her guitar teacher, Mr. Huang. \"You have improved a lot,\" Mr. Huang told her last Friday. \"I'm proud of how hard you have worked.\"\nOn the day of the show, the gym was decorated with colorful balloons and bright lights. The stage was set up by student volunteers, and a long list of performers was posted near the door. Amy's name was called third, right after a dance group and a magic show.\nWhen Amy walked onto the stage, her hands were shaking a little. But as soon as the music started, she forgot about her nervousness and focused on the song. The audience was moved by her clear voice, and loud applause filled the gym when she finished.\nAfter the show, Amy's parents were waiting for her outside the gym. \"We are so proud of you,\" her mom said, giving her a big hug. Amy smiled and said, \"It took a lot of practice, but it was worth every minute.\" That night, she posted a photo of herself on stage and wrote, \"Dreams really can come true if you keep trying.\"",
+  "vocab": [
+    {"w": "audience", "pos": "n.", "d": "觀眾", "example": "The audience was moved by her clear voice."},
+    {"w": "perform", "pos": "v.", "d": "表演", "example": "Amy had never performed in front of a big audience before."},
+    {"w": "nervous", "pos": "adj.", "d": "緊張的", "example": "She felt excited and nervous at the same time."},
+    {"w": "practice", "pos": "v./n.", "d": "練習", "example": "Amy has practiced every day since the sign-up sheet was posted."},
+    {"w": "improve", "pos": "v.", "d": "進步、改善", "example": "You have improved a lot, Mr. Huang told her."},
+    {"w": "decorate", "pos": "v.", "d": "裝飾", "example": "The gym was decorated with colorful balloons and bright lights."},
+    {"w": "volunteer", "pos": "n.", "d": "志工", "example": "The stage was set up by student volunteers."},
+    {"w": "shake", "pos": "v.", "d": "顫抖", "example": "Her hands were shaking a little."},
+    {"w": "focus on", "pos": "phr.", "d": "專注於", "example": "She focused on the song as soon as the music started."},
+    {"w": "applause", "pos": "n.", "d": "掌聲", "example": "Loud applause filled the gym when she finished."},
+    {"w": "proud", "pos": "adj.", "d": "驕傲的", "example": "We are so proud of you, her mom said."},
+    {"w": "worth", "pos": "adj.", "d": "值得的", "example": "It was worth every minute."}
+  ],
+  "grammar": [
+    "被動語態 (be + 過去分詞)：當動作的承受者作主詞時，用 be + 過去分詞表示「被...」。例：The stage was set up by student volunteers. / The gym was decorated with colorful balloons.",
+    "現在完成時 + since/for：have/has + 過去分詞，表示動作從過去持續到現在；since + 時間點，for + 一段時間。例：Amy has practiced every day since the sign-up sheet was posted.",
+    "It takes + 人 + 時間 + to V：表示「某人做某事需要花費...時間」。例：It takes her about one hour every evening to practice a new song. / It took a lot of practice, but it was worth every minute."
+  ],
+  "sections": {
+    "reading": [
+      {"q": "Why did Amy feel excited and nervous at the same time?", "opts": ["She had never performed in front of a big audience before", "She did not like singing at all", "She forgot the words to her song", "Her guitar teacher was sick"], "a": 0, "ex": "文中提到 Amy had never performed in front of a big audience before，這是她第一次在大型觀眾前表演，所以既興奮又緊張。"},
+      {"q": "How long has Amy practiced before the talent show?", "opts": ["Only one hour on the day of the show", "Every day since the sign-up sheet was posted two weeks ago", "Only on weekends", "She didn't practice at all"], "a": 1, "ex": "文中提到 Amy has practiced every day since the sign-up sheet was posted two weeks ago，她從兩週前報名表貼出後就每天練習。"},
+      {"q": "Who set up the stage for the talent show?", "opts": ["Amy's parents", "Mr. Huang", "Student volunteers", "The audience"], "a": 2, "ex": "文中提到 the stage was set up by student volunteers，舞台是由學生志工搭建的。"},
+      {"q": "What happened to Amy once the music started?", "opts": ["She ran off the stage", "She forgot her nervousness and focused on the song", "She stopped singing", "She asked for help from Mr. Huang"], "a": 1, "ex": "文中提到 as soon as the music started, she forgot about her nervousness and focused on the song。"},
+      {"q": "What did Amy write after the show?", "opts": ["She would never perform again", "Dreams really can come true if you keep trying", "She was too tired to post anything", "The show was a waste of time"], "a": 1, "ex": "文中結尾提到 Dreams really can come true if you keep trying，表示只要堅持努力，夢想就能實現。"}
+    ],
+    "grammar": [
+      {"q": "The stage ___ by student volunteers before the show.", "opts": ["set up", "was set up", "is setting up", "sets up"], "a": 1, "ex": "舞台是被搭建的（被動），故用 be + 過去分詞 was set up。"},
+      {"q": "Amy ___ every day since the sign-up sheet was posted.", "opts": ["practices", "practiced", "has practiced", "is practicing"], "a": 2, "ex": "搭配 since + 時間點，須用現在完成時 has practiced，表示持續到現在的動作。"},
+      {"q": "It ___ her about one hour every evening to practice a new song.", "opts": ["takes", "take", "taking", "took to"], "a": 0, "ex": "It takes + 人 + 時間 + to V 為固定句型，主詞 It 為第三人稱單數，故用 takes。"},
+      {"q": "The gym ___ with colorful balloons and bright lights.", "opts": ["decorates", "decorated", "was decorated", "decorating"], "a": 2, "ex": "體育館是被裝飾的（被動），故用 be + 過去分詞 was decorated。"},
+      {"q": "Amy has practiced hard ___ the sign-up sheet was posted two weeks ago.", "opts": ["for", "since", "during", "by"], "a": 1, "ex": "since 後接過去某個時間點（the sign-up sheet was posted），表示動作從那時持續至今。"}
+    ],
+    "vocab": [
+      {"q": "If you \"perform\" on stage, you ___.", "opts": ["watch other people sing or dance", "show a skill, such as singing or dancing, in front of others", "clean the stage after a show", "sell tickets at the door"], "a": 1, "ex": "perform 意為「表演」，指在他人面前展現才藝，如唱歌或跳舞。"},
+      {"q": "If someone feels \"nervous,\" they ___.", "opts": ["feel calm and relaxed", "feel worried or a little afraid", "feel extremely happy", "feel sleepy"], "a": 1, "ex": "nervous 意為「緊張的」，指感到擔心或有點害怕。"},
+      {"q": "\"Applause\" means ___.", "opts": ["loud clapping to show you like something", "a type of musical instrument", "a ticket for a show", "a kind of stage decoration"], "a": 0, "ex": "applause 意為「掌聲」，指表示喜歡或讚賞而發出的拍手聲。"},
+      {"q": "If you \"focus on\" something, you ___.", "opts": ["ignore it completely", "give it your full attention", "forget about it", "talk about something else"], "a": 1, "ex": "focus on 意為「專注於」，指將注意力完全放在某事上。"},
+      {"q": "If something is \"worth\" the effort, it means ___.", "opts": ["it is a waste of time", "it is valuable enough to deserve the effort", "it is too difficult to do", "it is boring"], "a": 1, "ex": "worth 意為「值得的」，指某事有足夠的價值值得付出努力。"}
+    ]
+  }
+}
