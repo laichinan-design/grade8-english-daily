@@ -1,0 +1,265 @@
+{
+  "date": "2026-11-12",
+  "title": "Ben Calls to Book a Table for Dinner",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "Ben's family wanted to celebrate his sister's graduation, so his father asked him to call a new Italian restaurant downtown and make a reservation. Ben had never called a restaurant before, so he felt a little nervous.\n\"Good evening, Luigi's Kitchen. How can I help you?\" a friendly voice answered.\n\"Hi, I'd like to book a table for five people this Saturday evening, please,\" Ben said politely.\n\"Of course. Could you tell me what time you would prefer?\" the waiter asked.\nBen checked with his father and answered, \"Around seven o'clock, if that's possible.\"\n\"Let me check... Yes, we have a table available at seven. May I have your name and phone number?\" the waiter asked.\nAfter Ben gave the information, the waiter said, \"Great! We'll reserve a table near the window for you. Please arrive ten minutes early, since the restaurant gets busy on weekends.\"\nBen thanked him and hung up the phone, feeling proud of himself. He told his father that everything was arranged and that the restaurant was large enough to hold their whole family comfortably.\nOn Saturday, the family arrived exactly on time. The waiter recognized Ben's name immediately and led them to their reserved table. His sister was surprised and asked how he had managed to plan everything so smoothly.\n\"It wasn't hard,\" Ben smiled. \"I just asked politely and listened carefully to what the waiter told me to do.\"\nThat evening, the family enjoyed a wonderful dinner together, and Ben realized that making a simple phone call could make such a big difference.",
+  "vocab": [
+    {
+      "w": "celebrate",
+      "pos": "v.",
+      "d": "慶祝",
+      "example": "Ben's family wanted to celebrate his sister's graduation."
+    },
+    {
+      "w": "reservation",
+      "pos": "n.",
+      "d": "預約",
+      "example": "His father asked him to make a reservation."
+    },
+    {
+      "w": "nervous",
+      "pos": "adj.",
+      "d": "緊張的",
+      "example": "Ben had never called a restaurant before, so he felt a little nervous."
+    },
+    {
+      "w": "politely",
+      "pos": "adv.",
+      "d": "禮貌地",
+      "example": "\"I'd like to book a table for five people,\" Ben said politely."
+    },
+    {
+      "w": "prefer",
+      "pos": "v.",
+      "d": "偏好、比較喜歡",
+      "example": "Could you tell me what time you would prefer?"
+    },
+    {
+      "w": "available",
+      "pos": "adj.",
+      "d": "可用的、有空的",
+      "example": "We have a table available at seven."
+    },
+    {
+      "w": "reserve",
+      "pos": "v.",
+      "d": "預留",
+      "example": "We'll reserve a table near the window for you."
+    },
+    {
+      "w": "arrive",
+      "pos": "v.",
+      "d": "抵達",
+      "example": "Please arrive ten minutes early."
+    },
+    {
+      "w": "arrange",
+      "pos": "v.",
+      "d": "安排",
+      "example": "He told his father that everything was arranged."
+    },
+    {
+      "w": "recognize",
+      "pos": "v.",
+      "d": "認出",
+      "example": "The waiter recognized Ben's name immediately."
+    },
+    {
+      "w": "smoothly",
+      "pos": "adv.",
+      "d": "順利地",
+      "example": "She asked how he had managed to plan everything so smoothly."
+    },
+    {
+      "w": "realize",
+      "pos": "v.",
+      "d": "意識到、了解到",
+      "example": "Ben realized that making a simple phone call could make such a big difference."
+    },
+    {
+      "w": "enough",
+      "pos": "adv./adj.",
+      "d": "足夠的",
+      "example": "The restaurant was large enough to hold their whole family comfortably."
+    }
+  ],
+  "grammar": [
+    "間接問句 (Embedded Questions)：當疑問句放入另一個句子中作受詞時，語序要改成「主詞+動詞」的正常敘述句語序，不能用疑問句語序，也不加 do/does/did。例：Could you tell me what time you would prefer?（不是 what time would you prefer）/ She asked how he had managed to plan everything so smoothly.",
+    "ask/tell + 受詞 + to V（受詞補語用法）：ask/tell 後面先接「人」，再接 to + 動詞原形，表示「要求/告訴某人做某事」。例：His father asked him to call a new Italian restaurant. / The waiter told Ben to arrive ten minutes early.",
+    "形容詞/副詞 + enough (+ to V)：enough 要放在形容詞或副詞「之後」，表示「足夠...（可以...）」。例：The restaurant was large enough to hold their whole family comfortably."
+  ],
+  "sections": {
+    "reading": [
+      {
+        "q": "Why did Ben call the restaurant?",
+        "opts": [
+          "To order food for delivery",
+          "To make a reservation for his sister's graduation dinner",
+          "To complain about bad service",
+          "To ask for a job"
+        ],
+        "a": 1,
+        "ex": "文中提到爸爸要 Ben 打電話去一家新的義大利餐廳預約，為了慶祝姊姊畢業。"
+      },
+      {
+        "q": "What time did the family want the table?",
+        "opts": [
+          "Six o'clock",
+          "Seven o'clock",
+          "Eight o'clock",
+          "Nine o'clock"
+        ],
+        "a": 1,
+        "ex": "Ben 回答服務生「Around seven o'clock」，所以是七點。"
+      },
+      {
+        "q": "Why did the waiter tell Ben to arrive ten minutes early?",
+        "opts": [
+          "Because the restaurant was closing early",
+          "Because the restaurant gets busy on weekends",
+          "Because the kitchen was still cleaning",
+          "Because Ben's family was very late"
+        ],
+        "a": 1,
+        "ex": "服務生說 the restaurant gets busy on weekends，所以請他們提早十分鐘到。"
+      },
+      {
+        "q": "How did Ben's sister react when they arrived at the restaurant?",
+        "opts": [
+          "She was angry that Ben made a mistake",
+          "She was surprised and asked how he planned it so smoothly",
+          "She didn't notice anything special",
+          "She wanted to leave immediately"
+        ],
+        "a": 1,
+        "ex": "文中提到姊姊很驚訝，問他是怎麼把一切安排得那麼順利的。"
+      },
+      {
+        "q": "What did Ben realize at the end of the story?",
+        "opts": [
+          "Phone calls are too difficult for teenagers",
+          "Restaurants never have tables available",
+          "A simple phone call could make a big difference",
+          "His father should have made the call instead"
+        ],
+        "a": 2,
+        "ex": "文末提到 Ben realized that making a simple phone call could make such a big difference。"
+      }
+    ],
+    "grammar": [
+      {
+        "q": "Could you tell me what time ___?",
+        "opts": [
+          "would you prefer",
+          "you would prefer",
+          "did you prefer",
+          "you prefer did"
+        ],
+        "a": 1,
+        "ex": "間接問句要用「主詞+動詞」的正常語序，故選 you would prefer，不能用疑問句語序 would you prefer。"
+      },
+      {
+        "q": "She asked how he ___ to plan everything so smoothly.",
+        "opts": [
+          "manage",
+          "managing",
+          "had managed",
+          "did he manage"
+        ],
+        "a": 2,
+        "ex": "間接問句中動詞要用正常敘述句語序與適當時態，文中用過去完成式 had managed。"
+      },
+      {
+        "q": "His father asked him ___ the restaurant.",
+        "opts": [
+          "call",
+          "calling",
+          "to call",
+          "called"
+        ],
+        "a": 2,
+        "ex": "ask + 受詞 + to V，表示「要求某人做某事」，故選 to call。"
+      },
+      {
+        "q": "The waiter told Ben ___ ten minutes early.",
+        "opts": [
+          "arrive",
+          "arriving",
+          "to arrive",
+          "arrived"
+        ],
+        "a": 2,
+        "ex": "tell + 受詞 + to V，表示「告訴某人做某事」，故選 to arrive。"
+      },
+      {
+        "q": "The restaurant was large ___ hold their whole family comfortably.",
+        "opts": [
+          "enough to",
+          "to enough",
+          "so enough",
+          "enough that"
+        ],
+        "a": 0,
+        "ex": "形容詞 + enough + to V，表示「足夠...可以...」，故選 enough to。"
+      }
+    ],
+    "vocab": [
+      {
+        "q": "If you feel \"nervous,\" you feel ___.",
+        "opts": [
+          "calm and relaxed",
+          "worried or uneasy about something",
+          "extremely happy",
+          "bored"
+        ],
+        "a": 1,
+        "ex": "nervous 意為「緊張的」，指對某事感到擔心或不安。"
+      },
+      {
+        "q": "If a table is \"available,\" it means ___.",
+        "opts": [
+          "it is already being used",
+          "it is broken",
+          "it can be used because no one has booked it yet",
+          "it has been removed"
+        ],
+        "a": 2,
+        "ex": "available 意為「可用的、有空的」，指還沒被預訂、可以使用。"
+      },
+      {
+        "q": "\"Reserve\" means to ___.",
+        "opts": [
+          "cancel a plan",
+          "keep something for later use",
+          "throw something away",
+          "forget about something"
+        ],
+        "a": 1,
+        "ex": "reserve 意為「預留」，指先保留某物以供之後使用。"
+      },
+      {
+        "q": "If someone \"recognizes\" you, they ___.",
+        "opts": [
+          "have never seen you before",
+          "know who you are because they have seen you before",
+          "ignore you completely",
+          "ask you for your name"
+        ],
+        "a": 1,
+        "ex": "recognize 意為「認出」，指因為先前見過而知道這是誰。"
+      },
+      {
+        "q": "\"Arrange\" means to ___.",
+        "opts": [
+          "plan or organize something carefully",
+          "destroy something",
+          "argue with someone",
+          "forget to do something"
+        ],
+        "a": 0,
+        "ex": "arrange 意為「安排」，指仔細規劃或組織某事。"
+      }
+    ]
+  }
+}
