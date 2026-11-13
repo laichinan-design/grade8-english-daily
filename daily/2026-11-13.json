@@ -1,0 +1,259 @@
+{
+  "date": "2026-11-13",
+  "title": "Lucy Teaches Grandma to Video Call",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "Lucy's grandmother, who lives in a small town, missed her family very much because they lived far away. One day, Lucy decided to teach her grandmother how to use a smartphone to make video calls. At first, Grandma was confused and said she wasn't used to touching a screen. \"I used to write letters instead,\" she laughed. Lucy patiently showed her step by step. She explained that it would take only a few minutes to learn, and that video calls were much faster than letters. Lucy opened the app, which had a simple design, and tapped the green button to start a call with her uncle, who was studying abroad. When her uncle's face appeared on the screen, Grandma was so excited that she almost dropped the phone! \"I can really see you!\" she said happily. They talked for almost an hour, sharing news about the weather, the garden, and even the neighbor's noisy dog. After the call ended, Grandma told Lucy that she was getting used to the new technology already. \"Maybe I'll even learn to send photos next,\" she said with a smile. Lucy felt proud that she had helped her grandmother connect with family members who lived so far away. From then on, Grandma video-called her children and grandchildren every weekend, and she never felt lonely again.",
+  "vocab": [
+    {
+      "w": "confused",
+      "pos": "adj.",
+      "d": "困惑的",
+      "example": "At first, Grandma was confused and said she wasn't used to touching a screen."
+    },
+    {
+      "w": "patiently",
+      "pos": "adv.",
+      "d": "有耐心地",
+      "example": "Lucy patiently showed her step by step."
+    },
+    {
+      "w": "explain",
+      "pos": "v.",
+      "d": "解釋",
+      "example": "She explained that it would take only a few minutes to learn."
+    },
+    {
+      "w": "instead",
+      "pos": "adv.",
+      "d": "取而代之、反而",
+      "example": "I used to write letters instead."
+    },
+    {
+      "w": "design",
+      "pos": "n.",
+      "d": "設計",
+      "example": "Lucy opened the app, which had a simple design."
+    },
+    {
+      "w": "abroad",
+      "pos": "adv.",
+      "d": "在國外",
+      "example": "She started a call with her uncle, who was studying abroad."
+    },
+    {
+      "w": "appear",
+      "pos": "v.",
+      "d": "出現",
+      "example": "When her uncle's face appeared on the screen, Grandma was so excited."
+    },
+    {
+      "w": "excited",
+      "pos": "adj.",
+      "d": "興奮的",
+      "example": "Grandma was so excited that she almost dropped the phone!"
+    },
+    {
+      "w": "share",
+      "pos": "v.",
+      "d": "分享",
+      "example": "They talked for almost an hour, sharing news about the weather."
+    },
+    {
+      "w": "technology",
+      "pos": "n.",
+      "d": "科技",
+      "example": "Grandma told Lucy that she was getting used to the new technology already."
+    },
+    {
+      "w": "connect",
+      "pos": "v.",
+      "d": "連接、聯繫",
+      "example": "Lucy felt proud that she had helped her grandmother connect with family members."
+    },
+    {
+      "w": "lonely",
+      "pos": "adj.",
+      "d": "孤單的",
+      "example": "She never felt lonely again."
+    }
+  ],
+  "grammar": [
+    "used to + 原形動詞 (過去的習慣) vs. be/get used to + V-ing（習慣於）：used to + 原形動詞表示「過去常常做、但現在已不再如此」的習慣；be/get used to + V-ing（或名詞）表示「習慣於...」。例：I used to write letters instead.（過去習慣寫信）/ Grandma was getting used to the new technology.（逐漸習慣新科技）",
+    "關係代詞 who / which 引導形容詞子句：who 代替「人」，which 代替「事物」，用來修飾前面的名詞並補充說明。例：Lucy's grandmother, who lives in a small town, missed her family. / Lucy opened the app, which had a simple design.",
+    "It takes + (某人) + 時間 + to V：表示「做某事需要花...時間」。例：It would take only a few minutes to learn."
+  ],
+  "sections": {
+    "reading": [
+      {
+        "q": "Why did Lucy's grandmother miss her family?",
+        "opts": [
+          "They lived far away",
+          "They never called her",
+          "They forgot her birthday",
+          "They moved to her town"
+        ],
+        "a": 0,
+        "ex": "文中說奶奶住在小鎮，因為家人住得很遠，所以她很想念他們。"
+      },
+      {
+        "q": "What did Grandma say she used to do instead of making video calls?",
+        "opts": [
+          "Visit in person every day",
+          "Write letters",
+          "Send emails",
+          "Call on a landline phone"
+        ],
+        "a": 1,
+        "ex": "奶奶說「I used to write letters instead」，表示過去習慣寫信聯絡。"
+      },
+      {
+        "q": "Who did Lucy call first to show Grandma how video calls work?",
+        "opts": [
+          "Her mother",
+          "Her uncle, who was studying abroad",
+          "Her neighbor",
+          "Her teacher"
+        ],
+        "a": 1,
+        "ex": "文中提到 Lucy 打給在國外讀書的舅舅/叔叔，讓奶奶看看視訊通話怎麼運作。"
+      },
+      {
+        "q": "How did Grandma react when the video call first connected?",
+        "opts": [
+          "She was bored and looked away",
+          "She was so excited that she almost dropped the phone",
+          "She hung up immediately",
+          "She didn't notice anything special"
+        ],
+        "a": 1,
+        "ex": "文中提到奶奶看到螢幕上出現姪子的臉時非常興奮，差點把手機弄掉。"
+      },
+      {
+        "q": "What does Grandma plan to learn next, according to the passage?",
+        "opts": [
+          "How to play video games",
+          "How to send photos",
+          "How to write computer code",
+          "How to cook new dishes"
+        ],
+        "a": 1,
+        "ex": "奶奶說「Maybe I'll even learn to send photos next」，表示她接下來也許會學傳照片。"
+      }
+    ],
+    "grammar": [
+      {
+        "q": "Grandma said she wasn't ___ touching a screen.",
+        "opts": [
+          "used to",
+          "use to",
+          "used for",
+          "using for"
+        ],
+        "a": 0,
+        "ex": "be used to + V-ing 表示「習慣於」做某事，故選 used to。"
+      },
+      {
+        "q": "I ___ write letters instead, but now I make video calls.",
+        "opts": [
+          "use to",
+          "used to",
+          "am used to",
+          "was using"
+        ],
+        "a": 1,
+        "ex": "used to + 原形動詞表示過去的習慣，現在已不再如此，故選 used to。"
+      },
+      {
+        "q": "Lucy's grandmother, ___ lives in a small town, missed her family.",
+        "opts": [
+          "which",
+          "who",
+          "whose",
+          "where"
+        ],
+        "a": 1,
+        "ex": "who 是代替「人」的關係代詞，用來引導形容詞子句修飾 grandmother。"
+      },
+      {
+        "q": "Lucy opened the app, ___ had a simple design.",
+        "opts": [
+          "who",
+          "whom",
+          "which",
+          "where"
+        ],
+        "a": 2,
+        "ex": "which 是代替「事物」的關係代詞，用來引導形容詞子句修飾 app。"
+      },
+      {
+        "q": "It would take only a few minutes ___ how to make a video call.",
+        "opts": [
+          "learn",
+          "learning",
+          "to learn",
+          "learned"
+        ],
+        "a": 2,
+        "ex": "It takes + 時間 + to V 表示「做某事需要花...時間」，故選 to learn。"
+      }
+    ],
+    "vocab": [
+      {
+        "q": "If you feel \"confused,\" you ___.",
+        "opts": [
+          "understand everything clearly",
+          "feel calm and relaxed",
+          "don't understand something and feel puzzled",
+          "feel very proud of yourself"
+        ],
+        "a": 2,
+        "ex": "confused 意為「困惑的」，指不明白某事而感到疑惑。"
+      },
+      {
+        "q": "\"Patiently\" means doing something ___.",
+        "opts": [
+          "in an angry and impatient way",
+          "calmly, without rushing or complaining",
+          "very quickly without thinking",
+          "secretly, without anyone noticing"
+        ],
+        "a": 1,
+        "ex": "patiently 意為「有耐心地」，指不急躁、不抱怨地做某事。"
+      },
+      {
+        "q": "\"Abroad\" means ___.",
+        "opts": [
+          "in your own hometown",
+          "in a foreign country",
+          "at school",
+          "underground"
+        ],
+        "a": 1,
+        "ex": "abroad 意為「在國外」。"
+      },
+      {
+        "q": "If something \"appears,\" it ___.",
+        "opts": [
+          "disappears completely",
+          "becomes invisible",
+          "starts to be seen",
+          "gets destroyed"
+        ],
+        "a": 2,
+        "ex": "appear 意為「出現」，指開始被看見。"
+      },
+      {
+        "q": "If you feel \"lonely,\" you feel ___.",
+        "opts": [
+          "happy and surrounded by friends",
+          "sad because you are alone",
+          "excited about a party",
+          "proud of an achievement"
+        ],
+        "a": 1,
+        "ex": "lonely 意為「孤單的」，指因獨自一人而感到難過。"
+      }
+    ]
+  }
+}
