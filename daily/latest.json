@@ -1,258 +1,276 @@
 {
-  "date": "2026-11-13",
-  "title": "Lucy Teaches Grandma to Video Call",
+  "date": "2026-11-16",
+  "title": "Ken's First Visit to the Dentist",
   "level": "國中二~三年級 (Grade 8-9)",
   "note": "",
-  "passage": "Lucy's grandmother, who lives in a small town, missed her family very much because they lived far away. One day, Lucy decided to teach her grandmother how to use a smartphone to make video calls. At first, Grandma was confused and said she wasn't used to touching a screen. \"I used to write letters instead,\" she laughed. Lucy patiently showed her step by step. She explained that it would take only a few minutes to learn, and that video calls were much faster than letters. Lucy opened the app, which had a simple design, and tapped the green button to start a call with her uncle, who was studying abroad. When her uncle's face appeared on the screen, Grandma was so excited that she almost dropped the phone! \"I can really see you!\" she said happily. They talked for almost an hour, sharing news about the weather, the garden, and even the neighbor's noisy dog. After the call ended, Grandma told Lucy that she was getting used to the new technology already. \"Maybe I'll even learn to send photos next,\" she said with a smile. Lucy felt proud that she had helped her grandmother connect with family members who lived so far away. From then on, Grandma video-called her children and grandchildren every weekend, and she never felt lonely again.",
+  "passage": "Ken used to be afraid of the dentist. Every time his mother made an appointment, he felt nervous and tried to find an excuse to stay home. \"If you skip your check-up, your teeth will get worse,\" his mother said kindly. \"A small cavity is much easier to fix than a big one.\"\nOn Monday afternoon, Ken finally went to the clinic with his mother. The receptionist smiled and said, \"Please wait here. The dentist will call your name soon.\" Ken looked around the waiting room. It was quieter than he had expected, and the walls were painted with cheerful cartoons.\nWhen Dr. Lin examined his teeth, she moved slowly and explained every step. \"This will only take a few minutes, and it won't hurt,\" she said. \"If you brush twice a day and floss every night, your teeth will stay healthy.\" Ken nodded and tried to relax.\nAfter the check-up, Dr. Lin smiled. \"Good news — no cavities today! Your teeth are healthier than last year.\" Ken felt proud of himself. On the way home, he told his mother, \"I used to hate coming here, but it wasn't so bad after all. Next time, I won't be so nervous.\"\nThat night, Ken brushed his teeth carefully before bed. He realized that a little bit of courage could make a difficult task much easier than he had imagined.",
   "vocab": [
     {
-      "w": "confused",
-      "pos": "adj.",
-      "d": "困惑的",
-      "example": "At first, Grandma was confused and said she wasn't used to touching a screen."
+      "w": "appointment",
+      "pos": "n.",
+      "d": "預約",
+      "example": "I have a dentist appointment on Friday."
     },
     {
-      "w": "patiently",
-      "pos": "adv.",
-      "d": "有耐心地",
-      "example": "Lucy patiently showed her step by step."
+      "w": "nervous",
+      "pos": "adj.",
+      "d": "緊張的",
+      "example": "She felt nervous before the speech contest."
+    },
+    {
+      "w": "excuse",
+      "pos": "n.",
+      "d": "藉口",
+      "example": "He made an excuse for being late."
+    },
+    {
+      "w": "cavity",
+      "pos": "n.",
+      "d": "蛀牙",
+      "example": "The dentist found a small cavity in his tooth."
+    },
+    {
+      "w": "receptionist",
+      "pos": "n.",
+      "d": "接待員",
+      "example": "The receptionist answered the phone politely."
+    },
+    {
+      "w": "waiting room",
+      "pos": "n. phrase",
+      "d": "候診室",
+      "example": "We sat in the waiting room for ten minutes."
+    },
+    {
+      "w": "examine",
+      "pos": "v.",
+      "d": "檢查",
+      "example": "The doctor examined her throat carefully."
     },
     {
       "w": "explain",
       "pos": "v.",
       "d": "解釋",
-      "example": "She explained that it would take only a few minutes to learn."
+      "example": "The teacher explained the new grammar rule."
     },
     {
-      "w": "instead",
-      "pos": "adv.",
-      "d": "取而代之、反而",
-      "example": "I used to write letters instead."
-    },
-    {
-      "w": "design",
-      "pos": "n.",
-      "d": "設計",
-      "example": "Lucy opened the app, which had a simple design."
-    },
-    {
-      "w": "abroad",
-      "pos": "adv.",
-      "d": "在國外",
-      "example": "She started a call with her uncle, who was studying abroad."
-    },
-    {
-      "w": "appear",
+      "w": "floss",
       "pos": "v.",
-      "d": "出現",
-      "example": "When her uncle's face appeared on the screen, Grandma was so excited."
+      "d": "用牙線清潔",
+      "example": "You should floss your teeth every night."
     },
     {
-      "w": "excited",
+      "w": "healthy",
       "pos": "adj.",
-      "d": "興奮的",
-      "example": "Grandma was so excited that she almost dropped the phone!"
+      "d": "健康的",
+      "example": "Eating vegetables keeps you healthy."
     },
     {
-      "w": "share",
+      "w": "relax",
       "pos": "v.",
-      "d": "分享",
-      "example": "They talked for almost an hour, sharing news about the weather."
+      "d": "放鬆",
+      "example": "Take a deep breath and relax."
     },
     {
-      "w": "technology",
-      "pos": "n.",
-      "d": "科技",
-      "example": "Grandma told Lucy that she was getting used to the new technology already."
-    },
-    {
-      "w": "connect",
-      "pos": "v.",
-      "d": "連接、聯繫",
-      "example": "Lucy felt proud that she had helped her grandmother connect with family members."
-    },
-    {
-      "w": "lonely",
+      "w": "proud",
       "pos": "adj.",
-      "d": "孤單的",
-      "example": "She never felt lonely again."
+      "d": "驕傲的，自豪的",
+      "example": "He felt proud of his good grades."
+    },
+    {
+      "w": "courage",
+      "pos": "n.",
+      "d": "勇氣",
+      "example": "It took a lot of courage to speak up."
+    },
+    {
+      "w": "imagine",
+      "pos": "v.",
+      "d": "想像",
+      "example": "I can't imagine living without my phone."
+    },
+    {
+      "w": "check-up",
+      "pos": "n.",
+      "d": "健康檢查",
+      "example": "She goes for a dental check-up twice a year."
     }
   ],
   "grammar": [
-    "used to + 原形動詞 (過去的習慣) vs. be/get used to + V-ing（習慣於）：used to + 原形動詞表示「過去常常做、但現在已不再如此」的習慣；be/get used to + V-ing（或名詞）表示「習慣於...」。例：I used to write letters instead.（過去習慣寫信）/ Grandma was getting used to the new technology.（逐漸習慣新科技）",
-    "關係代詞 who / which 引導形容詞子句：who 代替「人」，which 代替「事物」，用來修飾前面的名詞並補充說明。例：Lucy's grandmother, who lives in a small town, missed her family. / Lucy opened the app, which had a simple design.",
-    "It takes + (某人) + 時間 + to V：表示「做某事需要花...時間」。例：It would take only a few minutes to learn."
+    "used to + 動詞原形：表示過去的習慣或狀態，現在已經不再如此。例：Ken used to be afraid of the dentist, but now he isn't.",
+    "第一類條件句（If + 現在簡單式, ... will + 動詞原形）：表示「如果...就會...」，說明真實可能發生的未來結果。例：If you brush twice a day, your teeth will stay healthy.",
+    "比較級（形容詞 + er / more + 形容詞 + than）：用來比較兩者之間的差異程度。例：Your teeth are healthier than last year. / A small cavity is much easier to fix than a big one."
   ],
   "sections": {
     "reading": [
       {
-        "q": "Why did Lucy's grandmother miss her family?",
+        "q": "Why did Ken use to feel nervous about going to the dentist?",
         "opts": [
-          "They lived far away",
-          "They never called her",
-          "They forgot her birthday",
-          "They moved to her town"
-        ],
-        "a": 0,
-        "ex": "文中說奶奶住在小鎮，因為家人住得很遠，所以她很想念他們。"
-      },
-      {
-        "q": "What did Grandma say she used to do instead of making video calls?",
-        "opts": [
-          "Visit in person every day",
-          "Write letters",
-          "Send emails",
-          "Call on a landline phone"
+          "He didn't like the receptionist.",
+          "He was afraid of the dentist.",
+          "He didn't like the color of the walls.",
+          "He had too much homework."
         ],
         "a": 1,
-        "ex": "奶奶說「I used to write letters instead」，表示過去習慣寫信聯絡。"
+        "ex": "文中提到 \"Ken used to be afraid of the dentist\"，他過去很怕看牙醫，所以一聽到要預約就緊張，想找藉口不去。"
       },
       {
-        "q": "Who did Lucy call first to show Grandma how video calls work?",
+        "q": "What did Ken's mother say would happen if he skipped his check-up?",
         "opts": [
-          "Her mother",
-          "Her uncle, who was studying abroad",
-          "Her neighbor",
-          "Her teacher"
+          "He would get a prize.",
+          "His teeth would get worse.",
+          "He would miss school.",
+          "He would need surgery."
         ],
         "a": 1,
-        "ex": "文中提到 Lucy 打給在國外讀書的舅舅/叔叔，讓奶奶看看視訊通話怎麼運作。"
+        "ex": "媽媽說「If you skip your check-up, your teeth will get worse.」意思是如果不去檢查，牙齒狀況會惡化。"
       },
       {
-        "q": "How did Grandma react when the video call first connected?",
+        "q": "How did Ken feel about the waiting room?",
         "opts": [
-          "She was bored and looked away",
-          "She was so excited that she almost dropped the phone",
-          "She hung up immediately",
-          "She didn't notice anything special"
+          "It was noisier than he expected.",
+          "It was quieter than he expected.",
+          "It was emptier than usual.",
+          "It was more crowded than usual."
         ],
         "a": 1,
-        "ex": "文中提到奶奶看到螢幕上出現姪子的臉時非常興奮，差點把手機弄掉。"
+        "ex": "文中寫道 \"It was quieter than he had expected\"，候診室比他原本想的安靜許多。"
       },
       {
-        "q": "What does Grandma plan to learn next, according to the passage?",
+        "q": "What was the result of Ken's dental check-up?",
         "opts": [
-          "How to play video games",
-          "How to send photos",
-          "How to write computer code",
-          "How to cook new dishes"
+          "He needed to come back the next day.",
+          "He had two cavities.",
+          "He had no cavities.",
+          "He needed a new toothbrush."
+        ],
+        "a": 2,
+        "ex": "醫生說「Good news — no cavities today!」表示這次檢查沒有發現蛀牙。"
+      },
+      {
+        "q": "What did Ken realize at the end of the story?",
+        "opts": [
+          "Dentists are always scary.",
+          "A little courage can make a hard task easier.",
+          "Brushing teeth is not important.",
+          "His mother was wrong."
         ],
         "a": 1,
-        "ex": "奶奶說「Maybe I'll even learn to send photos next」，表示她接下來也許會學傳照片。"
+        "ex": "最後一段提到他明白「a little bit of courage could make a difficult task much easier than he had imagined」，一點點勇氣就能讓困難的事變得容易許多。"
       }
     ],
     "grammar": [
       {
-        "q": "Grandma said she wasn't ___ touching a screen.",
+        "q": "Choose the correct sentence using \"used to\".",
         "opts": [
-          "used to",
-          "use to",
-          "used for",
-          "using for"
-        ],
-        "a": 0,
-        "ex": "be used to + V-ing 表示「習慣於」做某事，故選 used to。"
-      },
-      {
-        "q": "I ___ write letters instead, but now I make video calls.",
-        "opts": [
-          "use to",
-          "used to",
-          "am used to",
-          "was using"
-        ],
-        "a": 1,
-        "ex": "used to + 原形動詞表示過去的習慣，現在已不再如此，故選 used to。"
-      },
-      {
-        "q": "Lucy's grandmother, ___ lives in a small town, missed her family.",
-        "opts": [
-          "which",
-          "who",
-          "whose",
-          "where"
-        ],
-        "a": 1,
-        "ex": "who 是代替「人」的關係代詞，用來引導形容詞子句修飾 grandmother。"
-      },
-      {
-        "q": "Lucy opened the app, ___ had a simple design.",
-        "opts": [
-          "who",
-          "whom",
-          "which",
-          "where"
+          "Ken use to be afraid of the dentist.",
+          "Ken used to being afraid of the dentist.",
+          "Ken used to be afraid of the dentist.",
+          "Ken is used to be afraid of the dentist."
         ],
         "a": 2,
-        "ex": "which 是代替「事物」的關係代詞，用來引導形容詞子句修飾 app。"
+        "ex": "「used to + 動詞原形」表示過去的習慣，動詞要用原形 be，故選 C。"
       },
       {
-        "q": "It would take only a few minutes ___ how to make a video call.",
+        "q": "If you brush twice a day, your teeth ___ healthy.",
         "opts": [
-          "learn",
-          "learning",
-          "to learn",
-          "learned"
+          "stay",
+          "stayed",
+          "will stay",
+          "staying"
         ],
         "a": 2,
-        "ex": "It takes + 時間 + to V 表示「做某事需要花...時間」，故選 to learn。"
+        "ex": "第一類條件句結構為「If + 現在簡單式, 主句 will + 動詞原形」，故選 will stay。"
+      },
+      {
+        "q": "Choose the correct comparative sentence.",
+        "opts": [
+          "Your teeth are health than last year.",
+          "Your teeth are healthier than last year.",
+          "Your teeth are more healthy than last year.",
+          "Your teeth are healthiest than last year."
+        ],
+        "a": 1,
+        "ex": "形容詞 healthy 以 y 結尾，比較級要去 y 加 ier，變成 healthier，故選 B。"
+      },
+      {
+        "q": "She ___ be nervous, but now she feels confident.",
+        "opts": [
+          "is used to",
+          "used to",
+          "use for",
+          "is use to"
+        ],
+        "a": 1,
+        "ex": "「used to + 動詞原形」表示過去的習慣或狀態，現在已經不再如此，故選 used to。"
+      },
+      {
+        "q": "If it rains tomorrow, we ___ the picnic.",
+        "opts": [
+          "cancel",
+          "canceled",
+          "will cancel",
+          "are cancel"
+        ],
+        "a": 2,
+        "ex": "第一類條件句中 If 子句用現在簡單式(rains)，主句要用 will + 動詞原形，故選 will cancel。"
       }
     ],
     "vocab": [
       {
-        "q": "If you feel \"confused,\" you ___.",
+        "q": "He felt ___ before his first dentist appointment.",
         "opts": [
-          "understand everything clearly",
-          "feel calm and relaxed",
-          "don't understand something and feel puzzled",
-          "feel very proud of yourself"
-        ],
-        "a": 2,
-        "ex": "confused 意為「困惑的」，指不明白某事而感到疑惑。"
-      },
-      {
-        "q": "\"Patiently\" means doing something ___.",
-        "opts": [
-          "in an angry and impatient way",
-          "calmly, without rushing or complaining",
-          "very quickly without thinking",
-          "secretly, without anyone noticing"
+          "proud",
+          "nervous",
+          "healthy",
+          "calm"
         ],
         "a": 1,
-        "ex": "patiently 意為「有耐心地」，指不急躁、不抱怨地做某事。"
+        "ex": "nervous 意思是「緊張的」，符合句意：他在第一次看牙醫前感到緊張。"
       },
       {
-        "q": "\"Abroad\" means ___.",
+        "q": "What does \"cavity\" mean?",
         "opts": [
-          "in your own hometown",
-          "in a foreign country",
-          "at school",
-          "underground"
+          "健康檢查",
+          "蛀牙",
+          "候診室",
+          "接待員"
         ],
         "a": 1,
-        "ex": "abroad 意為「在國外」。"
+        "ex": "cavity 指「蛀牙」，是牙齒因細菌侵蝕而形成的洞。"
       },
       {
-        "q": "If something \"appears,\" it ___.",
+        "q": "The dentist will ___ your teeth carefully before giving advice.",
         "opts": [
-          "disappears completely",
-          "becomes invisible",
-          "starts to be seen",
-          "gets destroyed"
-        ],
-        "a": 2,
-        "ex": "appear 意為「出現」，指開始被看見。"
-      },
-      {
-        "q": "If you feel \"lonely,\" you feel ___.",
-        "opts": [
-          "happy and surrounded by friends",
-          "sad because you are alone",
-          "excited about a party",
-          "proud of an achievement"
+          "explain",
+          "examine",
+          "imagine",
+          "relax"
         ],
         "a": 1,
-        "ex": "lonely 意為「孤單的」，指因獨自一人而感到難過。"
+        "ex": "examine 意思是「檢查」，符合句意：牙醫會仔細檢查你的牙齒再給建議。"
+      },
+      {
+        "q": "Which word means \"勇氣\"?",
+        "opts": [
+          "courage",
+          "excuse",
+          "check-up",
+          "receptionist"
+        ],
+        "a": 0,
+        "ex": "courage 意思是「勇氣」。"
+      },
+      {
+        "q": "You should ___ your teeth every night to keep them clean.",
+        "opts": [
+          "floss",
+          "imagine",
+          "explain",
+          "relax"
+        ],
+        "a": 0,
+        "ex": "floss 作動詞指「用牙線清潔牙齒」。"
       }
     ]
   }
