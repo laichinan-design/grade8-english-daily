@@ -1,277 +1,51 @@
 {
-  "date": "2026-11-16",
-  "title": "Ken's First Visit to the Dentist",
+  "date": "2026-11-17",
+  "title": "A Class Trip to the Science Museum",
   "level": "國中二~三年級 (Grade 8-9)",
   "note": "",
-  "passage": "Ken used to be afraid of the dentist. Every time his mother made an appointment, he felt nervous and tried to find an excuse to stay home. \"If you skip your check-up, your teeth will get worse,\" his mother said kindly. \"A small cavity is much easier to fix than a big one.\"\nOn Monday afternoon, Ken finally went to the clinic with his mother. The receptionist smiled and said, \"Please wait here. The dentist will call your name soon.\" Ken looked around the waiting room. It was quieter than he had expected, and the walls were painted with cheerful cartoons.\nWhen Dr. Lin examined his teeth, she moved slowly and explained every step. \"This will only take a few minutes, and it won't hurt,\" she said. \"If you brush twice a day and floss every night, your teeth will stay healthy.\" Ken nodded and tried to relax.\nAfter the check-up, Dr. Lin smiled. \"Good news — no cavities today! Your teeth are healthier than last year.\" Ken felt proud of himself. On the way home, he told his mother, \"I used to hate coming here, but it wasn't so bad after all. Next time, I won't be so nervous.\"\nThat night, Ken brushed his teeth carefully before bed. He realized that a little bit of courage could make a difficult task much easier than he had imagined.",
+  "passage": "Last Friday, Mia's class visited the city science museum. Everyone was excited because they had been waiting for this trip for weeks. At the entrance, a friendly guide who worked at the museum welcomed them with a big smile. \"Follow me,\" she said. \"There is so much to see that we should start right away.\"\n\nThe first exhibit was a huge dinosaur skeleton. \"These bones were discovered in the desert over fifty years ago,\" the guide explained. Mia stared at the giant skull and felt amazed. Next, they walked into a dark room which was filled with stars and planets. A boy named Tom, who loves astronomy, asked many curious questions about the moon.\n\nIn another hall, old scientific instruments were displayed behind glass. \"This machine was invented in the nineteenth century,\" the guide said, pointing at a strange metal device. The exhibit was so interesting that nobody wanted to leave. Mia took notes carefully because her teacher had asked the class to write a report afterward.\n\nNear the end of the trip, the students visited a small theater where a short film about ancient civilizations was shown. The crowd grew quiet as the lights dimmed. Mia whispered to her friend, \"This is the best field trip ever!\"\n\nBefore leaving, the guide gave each student a map of the museum and said, \"Come back anytime — there is always something new to discover.\" On the bus ride home, Mia already knew what her report would be about: the dinosaur that was found so many years ago but still amazes people today.",
   "vocab": [
-    {
-      "w": "appointment",
-      "pos": "n.",
-      "d": "預約",
-      "example": "I have a dentist appointment on Friday."
-    },
-    {
-      "w": "nervous",
-      "pos": "adj.",
-      "d": "緊張的",
-      "example": "She felt nervous before the speech contest."
-    },
-    {
-      "w": "excuse",
-      "pos": "n.",
-      "d": "藉口",
-      "example": "He made an excuse for being late."
-    },
-    {
-      "w": "cavity",
-      "pos": "n.",
-      "d": "蛀牙",
-      "example": "The dentist found a small cavity in his tooth."
-    },
-    {
-      "w": "receptionist",
-      "pos": "n.",
-      "d": "接待員",
-      "example": "The receptionist answered the phone politely."
-    },
-    {
-      "w": "waiting room",
-      "pos": "n. phrase",
-      "d": "候診室",
-      "example": "We sat in the waiting room for ten minutes."
-    },
-    {
-      "w": "examine",
-      "pos": "v.",
-      "d": "檢查",
-      "example": "The doctor examined her throat carefully."
-    },
-    {
-      "w": "explain",
-      "pos": "v.",
-      "d": "解釋",
-      "example": "The teacher explained the new grammar rule."
-    },
-    {
-      "w": "floss",
-      "pos": "v.",
-      "d": "用牙線清潔",
-      "example": "You should floss your teeth every night."
-    },
-    {
-      "w": "healthy",
-      "pos": "adj.",
-      "d": "健康的",
-      "example": "Eating vegetables keeps you healthy."
-    },
-    {
-      "w": "relax",
-      "pos": "v.",
-      "d": "放鬆",
-      "example": "Take a deep breath and relax."
-    },
-    {
-      "w": "proud",
-      "pos": "adj.",
-      "d": "驕傲的，自豪的",
-      "example": "He felt proud of his good grades."
-    },
-    {
-      "w": "courage",
-      "pos": "n.",
-      "d": "勇氣",
-      "example": "It took a lot of courage to speak up."
-    },
-    {
-      "w": "imagine",
-      "pos": "v.",
-      "d": "想像",
-      "example": "I can't imagine living without my phone."
-    },
-    {
-      "w": "check-up",
-      "pos": "n.",
-      "d": "健康檢查",
-      "example": "She goes for a dental check-up twice a year."
-    }
+    {"w": "museum", "pos": "n.", "d": "博物館", "example": "We visited a science museum last weekend."},
+    {"w": "exhibit", "pos": "n.", "d": "展覽品", "example": "The dinosaur exhibit was very popular."},
+    {"w": "guide", "pos": "n.", "d": "導覽員", "example": "The guide explained the history of the painting."},
+    {"w": "entrance", "pos": "n.", "d": "入口", "example": "We met our teacher at the entrance."},
+    {"w": "discover", "pos": "v.", "d": "發現", "example": "Scientists discovered a new type of fish."},
+    {"w": "amazed", "pos": "adj.", "d": "感到驚訝的", "example": "She was amazed by the huge skeleton."},
+    {"w": "astronomy", "pos": "n.", "d": "天文學", "example": "Tom is very interested in astronomy."},
+    {"w": "curious", "pos": "adj.", "d": "好奇的", "example": "The students were curious about the stars."},
+    {"w": "instrument", "pos": "n.", "d": "器具，儀器", "example": "This instrument was used to measure temperature."},
+    {"w": "invent", "pos": "v.", "d": "發明", "example": "Who invented the telephone?"},
+    {"w": "century", "pos": "n.", "d": "世紀", "example": "This machine is from the nineteenth century."},
+    {"w": "ancient", "pos": "adj.", "d": "古代的", "example": "We watched a film about ancient civilizations."},
+    {"w": "crowd", "pos": "n.", "d": "群眾", "example": "The crowd grew quiet when the film started."},
+    {"w": "map", "pos": "n.", "d": "地圖", "example": "The guide gave us a map of the museum."}
   ],
   "grammar": [
-    "used to + 動詞原形：表示過去的習慣或狀態，現在已經不再如此。例：Ken used to be afraid of the dentist, but now he isn't.",
-    "第一類條件句（If + 現在簡單式, ... will + 動詞原形）：表示「如果...就會...」，說明真實可能發生的未來結果。例：If you brush twice a day, your teeth will stay healthy.",
-    "比較級（形容詞 + er / more + 形容詞 + than）：用來比較兩者之間的差異程度。例：Your teeth are healthier than last year. / A small cavity is much easier to fix than a big one."
+    "關係代名詞（who / which / that）：用來引導形容詞子句，修飾前面的人或事物。例：A guide who worked at the museum welcomed them. / They walked into a dark room which was filled with stars.",
+    "被動語態（be + 過去分詞）：強調動作的承受者，而不是動作的執行者，常用於說明事物的來源或發生過程。例：These bones were discovered in the desert. / This machine was invented in the nineteenth century.",
+    "so + 形容詞 + that + 子句：表示「如此...以致於...」，說明程度造成的結果。例：The exhibit was so interesting that nobody wanted to leave."
   ],
   "sections": {
     "reading": [
-      {
-        "q": "Why did Ken use to feel nervous about going to the dentist?",
-        "opts": [
-          "He didn't like the receptionist.",
-          "He was afraid of the dentist.",
-          "He didn't like the color of the walls.",
-          "He had too much homework."
-        ],
-        "a": 1,
-        "ex": "文中提到 \"Ken used to be afraid of the dentist\"，他過去很怕看牙醫，所以一聽到要預約就緊張，想找藉口不去。"
-      },
-      {
-        "q": "What did Ken's mother say would happen if he skipped his check-up?",
-        "opts": [
-          "He would get a prize.",
-          "His teeth would get worse.",
-          "He would miss school.",
-          "He would need surgery."
-        ],
-        "a": 1,
-        "ex": "媽媽說「If you skip your check-up, your teeth will get worse.」意思是如果不去檢查，牙齒狀況會惡化。"
-      },
-      {
-        "q": "How did Ken feel about the waiting room?",
-        "opts": [
-          "It was noisier than he expected.",
-          "It was quieter than he expected.",
-          "It was emptier than usual.",
-          "It was more crowded than usual."
-        ],
-        "a": 1,
-        "ex": "文中寫道 \"It was quieter than he had expected\"，候診室比他原本想的安靜許多。"
-      },
-      {
-        "q": "What was the result of Ken's dental check-up?",
-        "opts": [
-          "He needed to come back the next day.",
-          "He had two cavities.",
-          "He had no cavities.",
-          "He needed a new toothbrush."
-        ],
-        "a": 2,
-        "ex": "醫生說「Good news — no cavities today!」表示這次檢查沒有發現蛀牙。"
-      },
-      {
-        "q": "What did Ken realize at the end of the story?",
-        "opts": [
-          "Dentists are always scary.",
-          "A little courage can make a hard task easier.",
-          "Brushing teeth is not important.",
-          "His mother was wrong."
-        ],
-        "a": 1,
-        "ex": "最後一段提到他明白「a little bit of courage could make a difficult task much easier than he had imagined」，一點點勇氣就能讓困難的事變得容易許多。"
-      }
+      {"q": "Why were Mia's classmates excited before the trip?", "opts": ["They had never been to school before.", "They had been waiting for the trip for weeks.", "They did not have to write a report.", "The museum was closing soon."], "a": 1, "ex": "文中提到「they had been waiting for this trip for weeks」，表示大家已經期待這次校外教學好幾週了。"},
+      {"q": "What did the guide say about the dinosaur bones?", "opts": ["They were made of plastic.", "They were discovered in the desert over fifty years ago.", "They were found in the mountains last year.", "They were borrowed from another country."], "a": 1, "ex": "導覽員說「These bones were discovered in the desert over fifty years ago」，說明這些骨頭是在沙漠中被發現的。"},
+      {"q": "Why did Tom ask many questions in the dark room?", "opts": ["He was bored.", "He loves astronomy.", "He wanted to leave early.", "He was afraid of the dark."], "a": 1, "ex": "文中提到「A boy named Tom, who loves astronomy, asked many curious questions」，因為湯姆對天文學很感興趣。"},
+      {"q": "What did Mia's teacher ask the class to do?", "opts": ["Draw a picture of the museum.", "Write a report after the trip.", "Bring a map from home.", "Watch a film before the trip."], "a": 1, "ex": "文中提到「her teacher had asked the class to write a report afterward」，老師要求全班寫報告。"},
+      {"q": "What was Mia planning to write her report about?", "opts": ["The film about ancient civilizations.", "The map of the museum.", "The dinosaur that was found many years ago.", "The old scientific instruments."], "a": 2, "ex": "文末提到「Mia already knew what her report would be about: the dinosaur that was found so many years ago」，米亞打算寫關於那隻恐龍的報告。"}
     ],
     "grammar": [
-      {
-        "q": "Choose the correct sentence using \"used to\".",
-        "opts": [
-          "Ken use to be afraid of the dentist.",
-          "Ken used to being afraid of the dentist.",
-          "Ken used to be afraid of the dentist.",
-          "Ken is used to be afraid of the dentist."
-        ],
-        "a": 2,
-        "ex": "「used to + 動詞原形」表示過去的習慣，動詞要用原形 be，故選 C。"
-      },
-      {
-        "q": "If you brush twice a day, your teeth ___ healthy.",
-        "opts": [
-          "stay",
-          "stayed",
-          "will stay",
-          "staying"
-        ],
-        "a": 2,
-        "ex": "第一類條件句結構為「If + 現在簡單式, 主句 will + 動詞原形」，故選 will stay。"
-      },
-      {
-        "q": "Choose the correct comparative sentence.",
-        "opts": [
-          "Your teeth are health than last year.",
-          "Your teeth are healthier than last year.",
-          "Your teeth are more healthy than last year.",
-          "Your teeth are healthiest than last year."
-        ],
-        "a": 1,
-        "ex": "形容詞 healthy 以 y 結尾，比較級要去 y 加 ier，變成 healthier，故選 B。"
-      },
-      {
-        "q": "She ___ be nervous, but now she feels confident.",
-        "opts": [
-          "is used to",
-          "used to",
-          "use for",
-          "is use to"
-        ],
-        "a": 1,
-        "ex": "「used to + 動詞原形」表示過去的習慣或狀態，現在已經不再如此，故選 used to。"
-      },
-      {
-        "q": "If it rains tomorrow, we ___ the picnic.",
-        "opts": [
-          "cancel",
-          "canceled",
-          "will cancel",
-          "are cancel"
-        ],
-        "a": 2,
-        "ex": "第一類條件句中 If 子句用現在簡單式(rains)，主句要用 will + 動詞原形，故選 will cancel。"
-      }
+      {"q": "Choose the sentence with the correct relative pronoun.", "opts": ["The guide who worked at the museum welcomed them.", "The guide which worked at the museum welcomed them.", "The guide whom worked at the museum welcomed them.", "The guide whose worked at the museum welcomed them."], "a": 0, "ex": "導覽員是人，修飾人要用關係代名詞 who，故選 A。"},
+      {"q": "These bones ___ in the desert over fifty years ago.", "opts": ["discover", "discovered", "were discovered", "are discovering"], "a": 2, "ex": "骨頭是「被發現」，要用被動語態 were discovered，故選 C。"},
+      {"q": "Choose the correct sentence using \"which\".", "opts": ["They walked into a room which was filled with stars.", "They walked into a room who was filled with stars.", "They walked into a room what was filled with stars.", "They walked into a room whose was filled with stars."], "a": 0, "ex": "room（房間）是物，修飾事物要用 which，故選 A。"},
+      {"q": "The exhibit was ___ interesting that nobody wanted to leave.", "opts": ["too", "very", "so", "such"], "a": 2, "ex": "「so + 形容詞 + that」表示「如此...以致於...」，故選 so。"},
+      {"q": "This machine ___ in the nineteenth century.", "opts": ["invented", "was invented", "invents", "is inventing"], "a": 1, "ex": "機器是「被發明」的，要用被動語態 was invented，故選 B。"}
     ],
     "vocab": [
-      {
-        "q": "He felt ___ before his first dentist appointment.",
-        "opts": [
-          "proud",
-          "nervous",
-          "healthy",
-          "calm"
-        ],
-        "a": 1,
-        "ex": "nervous 意思是「緊張的」，符合句意：他在第一次看牙醫前感到緊張。"
-      },
-      {
-        "q": "What does \"cavity\" mean?",
-        "opts": [
-          "健康檢查",
-          "蛀牙",
-          "候診室",
-          "接待員"
-        ],
-        "a": 1,
-        "ex": "cavity 指「蛀牙」，是牙齒因細菌侵蝕而形成的洞。"
-      },
-      {
-        "q": "The dentist will ___ your teeth carefully before giving advice.",
-        "opts": [
-          "explain",
-          "examine",
-          "imagine",
-          "relax"
-        ],
-        "a": 1,
-        "ex": "examine 意思是「檢查」，符合句意：牙醫會仔細檢查你的牙齒再給建議。"
-      },
-      {
-        "q": "Which word means \"勇氣\"?",
-        "opts": [
-          "courage",
-          "excuse",
-          "check-up",
-          "receptionist"
-        ],
-        "a": 0,
-        "ex": "courage 意思是「勇氣」。"
-      },
-      {
-        "q": "You should ___ your teeth every night to keep them clean.",
-        "opts": [
-          "floss",
-          "imagine",
-          "explain",
-          "relax"
-        ],
-        "a": 0,
-        "ex": "floss 作動詞指「用牙線清潔牙齒」。"
-      }
+      {"q": "What does \"ancient\" mean?", "opts": ["現代的", "古代的", "未來的", "科學的"], "a": 1, "ex": "ancient 意思是「古代的」。"},
+      {"q": "The students felt ___ when they saw the huge dinosaur skeleton.", "opts": ["amazed", "bored", "angry", "tired"], "a": 0, "ex": "amazed 表示「感到驚訝的」，符合看到巨大恐龍骨骸時的反應。"},
+      {"q": "Which word means \"群眾\"?", "opts": ["guide", "crowd", "century", "entrance"], "a": 1, "ex": "crowd 指「群眾」。"},
+      {"q": "Tom is interested in ___, the study of stars and planets.", "opts": ["astronomy", "history", "geography", "biology"], "a": 0, "ex": "astronomy 指「天文學」，研究星星與行星的學科。"},
+      {"q": "The old scientific ___ were displayed behind glass.", "opts": ["instruments", "maps", "crowds", "entrances"], "a": 0, "ex": "instrument 指「器具、儀器」，此處指科學儀器。"}
     ]
   }
 }

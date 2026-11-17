@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-17",
+  "title": "A Class Trip to the Science Museum",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "Last Friday, Mia's class visited the city science museum. Everyone was excited because they had been waiting for this trip for weeks. At the entrance, a friendly guide who worked at the museum welcomed them with a big smile. \"Follow me,\" she said. \"There is so much to see that we should start right away.\"\n\nThe first exhibit was a huge dinosaur skeleton. \"These bones were discovered in the desert over fifty years ago,\" the guide explained. Mia stared at the giant skull and felt amazed. Next, they walked into a dark room which was filled with stars and planets. A boy named Tom, who loves astronomy, asked many curious questions about the moon.\n\nIn another hall, old scientific instruments were displayed behind glass. \"This machine was invented in the nineteenth century,\" the guide said, pointing at a strange metal device. The exhibit was so interesting that nobody wanted to leave. Mia took notes carefully because her teacher had asked the class to write a report afterward.\n\nNear the end of the trip, the students visited a small theater where a short film about ancient civilizations was shown. The crowd grew quiet as the lights dimmed. Mia whispered to her friend, \"This is the best field trip ever!\"\n\nBefore leaving, the guide gave each student a map of the museum and said, \"Come back anytime — there is always something new to discover.\" On the bus ride home, Mia already knew what her report would be about: the dinosaur that was found so many years ago but still amazes people today.",
+  "vocab": [
+    {"w": "museum", "pos": "n.", "d": "博物館", "example": "We visited a science museum last weekend."},
+    {"w": "exhibit", "pos": "n.", "d": "展覽品", "example": "The dinosaur exhibit was very popular."},
+    {"w": "guide", "pos": "n.", "d": "導覽員", "example": "The guide explained the history of the painting."},
+    {"w": "entrance", "pos": "n.", "d": "入口", "example": "We met our teacher at the entrance."},
+    {"w": "discover", "pos": "v.", "d": "發現", "example": "Scientists discovered a new type of fish."},
+    {"w": "amazed", "pos": "adj.", "d": "感到驚訝的", "example": "She was amazed by the huge skeleton."},
+    {"w": "astronomy", "pos": "n.", "d": "天文學", "example": "Tom is very interested in astronomy."},
+    {"w": "curious", "pos": "adj.", "d": "好奇的", "example": "The students were curious about the stars."},
+    {"w": "instrument", "pos": "n.", "d": "器具，儀器", "example": "This instrument was used to measure temperature."},
+    {"w": "invent", "pos": "v.", "d": "發明", "example": "Who invented the telephone?"},
+    {"w": "century", "pos": "n.", "d": "世紀", "example": "This machine is from the nineteenth century."},
+    {"w": "ancient", "pos": "adj.", "d": "古代的", "example": "We watched a film about ancient civilizations."},
+    {"w": "crowd", "pos": "n.", "d": "群眾", "example": "The crowd grew quiet when the film started."},
+    {"w": "map", "pos": "n.", "d": "地圖", "example": "The guide gave us a map of the museum."}
+  ],
+  "grammar": [
+    "關係代名詞（who / which / that）：用來引導形容詞子句，修飾前面的人或事物。例：A guide who worked at the museum welcomed them. / They walked into a dark room which was filled with stars.",
+    "被動語態（be + 過去分詞）：強調動作的承受者，而不是動作的執行者，常用於說明事物的來源或發生過程。例：These bones were discovered in the desert. / This machine was invented in the nineteenth century.",
+    "so + 形容詞 + that + 子句：表示「如此...以致於...」，說明程度造成的結果。例：The exhibit was so interesting that nobody wanted to leave."
+  ],
+  "sections": {
+    "reading": [
+      {"q": "Why were Mia's classmates excited before the trip?", "opts": ["They had never been to school before.", "They had been waiting for the trip for weeks.", "They did not have to write a report.", "The museum was closing soon."], "a": 1, "ex": "文中提到「they had been waiting for this trip for weeks」，表示大家已經期待這次校外教學好幾週了。"},
+      {"q": "What did the guide say about the dinosaur bones?", "opts": ["They were made of plastic.", "They were discovered in the desert over fifty years ago.", "They were found in the mountains last year.", "They were borrowed from another country."], "a": 1, "ex": "導覽員說「These bones were discovered in the desert over fifty years ago」，說明這些骨頭是在沙漠中被發現的。"},
+      {"q": "Why did Tom ask many questions in the dark room?", "opts": ["He was bored.", "He loves astronomy.", "He wanted to leave early.", "He was afraid of the dark."], "a": 1, "ex": "文中提到「A boy named Tom, who loves astronomy, asked many curious questions」，因為湯姆對天文學很感興趣。"},
+      {"q": "What did Mia's teacher ask the class to do?", "opts": ["Draw a picture of the museum.", "Write a report after the trip.", "Bring a map from home.", "Watch a film before the trip."], "a": 1, "ex": "文中提到「her teacher had asked the class to write a report afterward」，老師要求全班寫報告。"},
+      {"q": "What was Mia planning to write her report about?", "opts": ["The film about ancient civilizations.", "The map of the museum.", "The dinosaur that was found many years ago.", "The old scientific instruments."], "a": 2, "ex": "文末提到「Mia already knew what her report would be about: the dinosaur that was found so many years ago」，米亞打算寫關於那隻恐龍的報告。"}
+    ],
+    "grammar": [
+      {"q": "Choose the sentence with the correct relative pronoun.", "opts": ["The guide who worked at the museum welcomed them.", "The guide which worked at the museum welcomed them.", "The guide whom worked at the museum welcomed them.", "The guide whose worked at the museum welcomed them."], "a": 0, "ex": "導覽員是人，修飾人要用關係代名詞 who，故選 A。"},
+      {"q": "These bones ___ in the desert over fifty years ago.", "opts": ["discover", "discovered", "were discovered", "are discovering"], "a": 2, "ex": "骨頭是「被發現」，要用被動語態 were discovered，故選 C。"},
+      {"q": "Choose the correct sentence using \"which\".", "opts": ["They walked into a room which was filled with stars.", "They walked into a room who was filled with stars.", "They walked into a room what was filled with stars.", "They walked into a room whose was filled with stars."], "a": 0, "ex": "room（房間）是物，修飾事物要用 which，故選 A。"},
+      {"q": "The exhibit was ___ interesting that nobody wanted to leave.", "opts": ["too", "very", "so", "such"], "a": 2, "ex": "「so + 形容詞 + that」表示「如此...以致於...」，故選 so。"},
+      {"q": "This machine ___ in the nineteenth century.", "opts": ["invented", "was invented", "invents", "is inventing"], "a": 1, "ex": "機器是「被發明」的，要用被動語態 was invented，故選 B。"}
+    ],
+    "vocab": [
+      {"q": "What does \"ancient\" mean?", "opts": ["現代的", "古代的", "未來的", "科學的"], "a": 1, "ex": "ancient 意思是「古代的」。"},
+      {"q": "The students felt ___ when they saw the huge dinosaur skeleton.", "opts": ["amazed", "bored", "angry", "tired"], "a": 0, "ex": "amazed 表示「感到驚訝的」，符合看到巨大恐龍骨骸時的反應。"},
+      {"q": "Which word means \"群眾\"?", "opts": ["guide", "crowd", "century", "entrance"], "a": 1, "ex": "crowd 指「群眾」。"},
+      {"q": "Tom is interested in ___, the study of stars and planets.", "opts": ["astronomy", "history", "geography", "biology"], "a": 0, "ex": "astronomy 指「天文學」，研究星星與行星的學科。"},
+      {"q": "The old scientific ___ were displayed behind glass.", "opts": ["instruments", "maps", "crowds", "entrances"], "a": 0, "ex": "instrument 指「器具、儀器」，此處指科學儀器。"}
+    ]
+  }
+}
