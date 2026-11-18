@@ -1,51 +1,50 @@
 {
-  "date": "2026-11-17",
-  "title": "A Class Trip to the Science Museum",
+  "date": "2026-11-18",
+  "title": "A Night at the Night Market",
   "level": "國中二~三年級 (Grade 8-9)",
   "note": "",
-  "passage": "Last Friday, Mia's class visited the city science museum. Everyone was excited because they had been waiting for this trip for weeks. At the entrance, a friendly guide who worked at the museum welcomed them with a big smile. \"Follow me,\" she said. \"There is so much to see that we should start right away.\"\n\nThe first exhibit was a huge dinosaur skeleton. \"These bones were discovered in the desert over fifty years ago,\" the guide explained. Mia stared at the giant skull and felt amazed. Next, they walked into a dark room which was filled with stars and planets. A boy named Tom, who loves astronomy, asked many curious questions about the moon.\n\nIn another hall, old scientific instruments were displayed behind glass. \"This machine was invented in the nineteenth century,\" the guide said, pointing at a strange metal device. The exhibit was so interesting that nobody wanted to leave. Mia took notes carefully because her teacher had asked the class to write a report afterward.\n\nNear the end of the trip, the students visited a small theater where a short film about ancient civilizations was shown. The crowd grew quiet as the lights dimmed. Mia whispered to her friend, \"This is the best field trip ever!\"\n\nBefore leaving, the guide gave each student a map of the museum and said, \"Come back anytime — there is always something new to discover.\" On the bus ride home, Mia already knew what her report would be about: the dinosaur that was found so many years ago but still amazes people today.",
+  "passage": "On Friday evening, Daniel's family decided to visit the night market near their apartment. The street was crowded with people, and the air was filled with the smell of grilled squid and fried chicken. \"I have never seen so many stalls in one place!\" Daniel said excitedly to his sister, Amy.\n\nThey stopped at a stall that sold bubble tea. The owner, a cheerful man, shouted, \"This drink is the most popular one in the whole market!\" Daniel decided to try it because he was curious about the taste. Amy chose a cup of mango shaved ice instead, because she thought it looked more refreshing than bubble tea.\n\nAs they walked further, they noticed a long line in front of a small shop. \"That shop must sell something delicious,\" their mother guessed. They waited patiently, and soon it was their turn. The stew noodles were too hot to eat right away, so everyone had to wait a few minutes before the noodles were cool enough to eat.\n\nNear the end of the market, Daniel spotted a game stall. He wanted to win a stuffed toy for Amy, so he tried throwing rings at the bottles. Unfortunately, he was not skillful enough, and the rings kept missing. His father, who used to play this game when he was young, offered to help. After several tries, he finally won a small bear for Amy.\n\nBefore leaving, they bought a bag of fruit to share at home. \"This has been the best night market trip we have had in months,\" Amy said happily. Daniel agreed that trying new food was always an adventure.",
   "vocab": [
-    {"w": "museum", "pos": "n.", "d": "博物館", "example": "We visited a science museum last weekend."},
-    {"w": "exhibit", "pos": "n.", "d": "展覽品", "example": "The dinosaur exhibit was very popular."},
-    {"w": "guide", "pos": "n.", "d": "導覽員", "example": "The guide explained the history of the painting."},
-    {"w": "entrance", "pos": "n.", "d": "入口", "example": "We met our teacher at the entrance."},
-    {"w": "discover", "pos": "v.", "d": "發現", "example": "Scientists discovered a new type of fish."},
-    {"w": "amazed", "pos": "adj.", "d": "感到驚訝的", "example": "She was amazed by the huge skeleton."},
-    {"w": "astronomy", "pos": "n.", "d": "天文學", "example": "Tom is very interested in astronomy."},
-    {"w": "curious", "pos": "adj.", "d": "好奇的", "example": "The students were curious about the stars."},
-    {"w": "instrument", "pos": "n.", "d": "器具，儀器", "example": "This instrument was used to measure temperature."},
-    {"w": "invent", "pos": "v.", "d": "發明", "example": "Who invented the telephone?"},
-    {"w": "century", "pos": "n.", "d": "世紀", "example": "This machine is from the nineteenth century."},
-    {"w": "ancient", "pos": "adj.", "d": "古代的", "example": "We watched a film about ancient civilizations."},
-    {"w": "crowd", "pos": "n.", "d": "群眾", "example": "The crowd grew quiet when the film started."},
-    {"w": "map", "pos": "n.", "d": "地圖", "example": "The guide gave us a map of the museum."}
+    {"w": "crowded", "pos": "adj.", "d": "擁擠的", "example": "The night market was crowded with people."},
+    {"w": "stall", "pos": "n.", "d": "攤位", "example": "They stopped at a stall that sold bubble tea."},
+    {"w": "owner", "pos": "n.", "d": "老闆，擁有者", "example": "The owner of the stall shouted happily."},
+    {"w": "popular", "pos": "adj.", "d": "受歡迎的", "example": "This drink is the most popular one in the market."},
+    {"w": "refreshing", "pos": "adj.", "d": "清涼提神的", "example": "Mango shaved ice tasted more refreshing than bubble tea."},
+    {"w": "patiently", "pos": "adv.", "d": "耐心地", "example": "They waited patiently in the long line."},
+    {"w": "stew", "pos": "adj./n.", "d": "燉煮的；燉煮的食物", "example": "The stew noodles were too hot to eat right away."},
+    {"w": "skillful", "pos": "adj.", "d": "熟練的", "example": "He was not skillful enough to win the game."},
+    {"w": "unfortunately", "pos": "adv.", "d": "不幸地", "example": "Unfortunately, the rings kept missing the bottles."},
+    {"w": "offer", "pos": "v.", "d": "主動提供", "example": "His father offered to help him win the toy."},
+    {"w": "adventure", "pos": "n.", "d": "冒險", "example": "Trying new food was always an adventure."},
+    {"w": "curious", "pos": "adj.", "d": "好奇的", "example": "Daniel was curious about the taste of bubble tea."},
+    {"w": "spotted", "pos": "v.", "d": "發現，注意到", "example": "Daniel spotted a game stall near the exit."}
   ],
   "grammar": [
-    "關係代名詞（who / which / that）：用來引導形容詞子句，修飾前面的人或事物。例：A guide who worked at the museum welcomed them. / They walked into a dark room which was filled with stars.",
-    "被動語態（be + 過去分詞）：強調動作的承受者，而不是動作的執行者，常用於說明事物的來源或發生過程。例：These bones were discovered in the desert. / This machine was invented in the nineteenth century.",
-    "so + 形容詞 + that + 子句：表示「如此...以致於...」，說明程度造成的結果。例：The exhibit was so interesting that nobody wanted to leave."
+    "現在完成時（have/has + 過去分詞）：表示從過去持續到現在的經驗，或強調剛完成的動作。例：I have never seen so many stalls in one place. / This has been the best night market trip we have had in months.",
+    "比較級與最高級：比較級用於兩者之間的比較，最高級用於三者以上中最突出的一個。例：The shaved ice looked more refreshing than bubble tea.（比較級）/ This drink is the most popular one in the whole market.（最高級）",
+    "too...to / 形容詞 + enough + to：too...to 表示「太...而不能」，enough to 表示「足夠...可以」。例：The noodles were too hot to eat right away. / The noodles were cool enough to eat."
   ],
   "sections": {
     "reading": [
-      {"q": "Why were Mia's classmates excited before the trip?", "opts": ["They had never been to school before.", "They had been waiting for the trip for weeks.", "They did not have to write a report.", "The museum was closing soon."], "a": 1, "ex": "文中提到「they had been waiting for this trip for weeks」，表示大家已經期待這次校外教學好幾週了。"},
-      {"q": "What did the guide say about the dinosaur bones?", "opts": ["They were made of plastic.", "They were discovered in the desert over fifty years ago.", "They were found in the mountains last year.", "They were borrowed from another country."], "a": 1, "ex": "導覽員說「These bones were discovered in the desert over fifty years ago」，說明這些骨頭是在沙漠中被發現的。"},
-      {"q": "Why did Tom ask many questions in the dark room?", "opts": ["He was bored.", "He loves astronomy.", "He wanted to leave early.", "He was afraid of the dark."], "a": 1, "ex": "文中提到「A boy named Tom, who loves astronomy, asked many curious questions」，因為湯姆對天文學很感興趣。"},
-      {"q": "What did Mia's teacher ask the class to do?", "opts": ["Draw a picture of the museum.", "Write a report after the trip.", "Bring a map from home.", "Watch a film before the trip."], "a": 1, "ex": "文中提到「her teacher had asked the class to write a report afterward」，老師要求全班寫報告。"},
-      {"q": "What was Mia planning to write her report about?", "opts": ["The film about ancient civilizations.", "The map of the museum.", "The dinosaur that was found many years ago.", "The old scientific instruments."], "a": 2, "ex": "文末提到「Mia already knew what her report would be about: the dinosaur that was found so many years ago」，米亞打算寫關於那隻恐龍的報告。"}
+      {"q": "Why did Daniel say, \"I have never seen so many stalls in one place\"?", "opts": ["He had visited this market many times before.", "He was surprised by how many stalls were at the market.", "He did not like crowded places.", "He was looking for his sister."], "a": 1, "ex": "Daniel 說這句話是因為他從沒看過這麼多攤位聚在一起，表示他對市場的規模感到驚訝。"},
+      {"q": "What did Amy choose instead of bubble tea, and why?", "opts": ["Grilled squid, because she was hungry.", "Fried chicken, because it smelled good.", "Mango shaved ice, because it looked more refreshing.", "Stew noodles, because her mother suggested it."], "a": 2, "ex": "文中提到 Amy 選了芒果冰，因為她覺得芒果冰看起來比泡泡茶更清涼提神（more refreshing）。"},
+      {"q": "Why did everyone have to wait before eating the stew noodles?", "opts": ["The shop had run out of noodles.", "The noodles were too hot to eat right away.", "The owner was still cooking them.", "They were waiting for a table."], "a": 1, "ex": "文中說「The stew noodles were too hot to eat right away」，所以大家必須等麵稍微降溫才能吃。"},
+      {"q": "Why did Daniel need his father's help at the game stall?", "opts": ["He did not have enough money.", "He was not skillful enough at throwing the rings.", "He was too tired to continue.", "The stall was about to close."], "a": 1, "ex": "文中提到 Daniel「was not skillful enough, and the rings kept missing」，所以爸爸主動幫忙。"},
+      {"q": "How did Amy describe the night market trip at the end of the story?", "opts": ["The most boring trip ever.", "A trip she wanted to forget.", "The best night market trip they had had in months.", "A trip that was too crowded to enjoy."], "a": 2, "ex": "文末 Amy 說「This has been the best night market trip we have had in months」，表示她非常滿意這次的夜市之旅。"}
     ],
     "grammar": [
-      {"q": "Choose the sentence with the correct relative pronoun.", "opts": ["The guide who worked at the museum welcomed them.", "The guide which worked at the museum welcomed them.", "The guide whom worked at the museum welcomed them.", "The guide whose worked at the museum welcomed them."], "a": 0, "ex": "導覽員是人，修飾人要用關係代名詞 who，故選 A。"},
-      {"q": "These bones ___ in the desert over fifty years ago.", "opts": ["discover", "discovered", "were discovered", "are discovering"], "a": 2, "ex": "骨頭是「被發現」，要用被動語態 were discovered，故選 C。"},
-      {"q": "Choose the correct sentence using \"which\".", "opts": ["They walked into a room which was filled with stars.", "They walked into a room who was filled with stars.", "They walked into a room what was filled with stars.", "They walked into a room whose was filled with stars."], "a": 0, "ex": "room（房間）是物，修飾事物要用 which，故選 A。"},
-      {"q": "The exhibit was ___ interesting that nobody wanted to leave.", "opts": ["too", "very", "so", "such"], "a": 2, "ex": "「so + 形容詞 + that」表示「如此...以致於...」，故選 so。"},
-      {"q": "This machine ___ in the nineteenth century.", "opts": ["invented", "was invented", "invents", "is inventing"], "a": 1, "ex": "機器是「被發明」的，要用被動語態 was invented，故選 B。"}
+      {"q": "I have never ___ so many stalls in one place!", "opts": ["see", "saw", "seen", "seeing"], "a": 2, "ex": "現在完成時為 have/has + 過去分詞，see 的過去分詞是 seen，故選 C。"},
+      {"q": "This drink is ___ in the whole market.", "opts": ["more popular", "the most popular one", "most popular", "popular than"], "a": 1, "ex": "最高級須加 the，且後面常加代名詞 one 代替前面提過的名詞，故選 B。"},
+      {"q": "Amy thought the shaved ice looked ___ than bubble tea.", "opts": ["refreshing", "more refreshing", "most refreshing", "as refreshing"], "a": 1, "ex": "兩者比較要用比較級 more refreshing than，故選 B。"},
+      {"q": "The noodles were ___ hot to eat right away.", "opts": ["so", "too", "very", "enough"], "a": 1, "ex": "「too + 形容詞 + to + 動詞」表示「太...而不能...」，故選 too。"},
+      {"q": "The noodles were cool ___ to eat.", "opts": ["too", "so", "enough", "very"], "a": 2, "ex": "「形容詞 + enough + to + 動詞」表示「足夠...可以...」，enough 須放在形容詞之後，故選 C。"}
     ],
     "vocab": [
-      {"q": "What does \"ancient\" mean?", "opts": ["現代的", "古代的", "未來的", "科學的"], "a": 1, "ex": "ancient 意思是「古代的」。"},
-      {"q": "The students felt ___ when they saw the huge dinosaur skeleton.", "opts": ["amazed", "bored", "angry", "tired"], "a": 0, "ex": "amazed 表示「感到驚訝的」，符合看到巨大恐龍骨骸時的反應。"},
-      {"q": "Which word means \"群眾\"?", "opts": ["guide", "crowd", "century", "entrance"], "a": 1, "ex": "crowd 指「群眾」。"},
-      {"q": "Tom is interested in ___, the study of stars and planets.", "opts": ["astronomy", "history", "geography", "biology"], "a": 0, "ex": "astronomy 指「天文學」，研究星星與行星的學科。"},
-      {"q": "The old scientific ___ were displayed behind glass.", "opts": ["instruments", "maps", "crowds", "entrances"], "a": 0, "ex": "instrument 指「器具、儀器」，此處指科學儀器。"}
+      {"q": "What does \"crowded\" mean?", "opts": ["擁擠的", "寬敞的", "安靜的", "乾淨的"], "a": 0, "ex": "crowded 意思是「擁擠的」，形容人多的地方。"},
+      {"q": "Which word means \"攤位\"?", "opts": ["owner", "stall", "adventure", "offer"], "a": 1, "ex": "stall 指市場或夜市裡的「攤位」。"},
+      {"q": "\"Unfortunately\" is closest in meaning to ___.", "opts": ["Luckily", "Sadly", "Quickly", "Finally"], "a": 1, "ex": "unfortunately 表示「不幸地」，語意接近 sadly（令人遺憾地）。"},
+      {"q": "The game required him to be ___, but he was not good enough.", "opts": ["skillful", "curious", "popular", "patient"], "a": 0, "ex": "skillful 表示「熟練的」，符合丟圈圈遊戲需要的技巧。"},
+      {"q": "Which word means \"冒險\"?", "opts": ["adventure", "offer", "owner", "stall"], "a": 0, "ex": "adventure 指「冒險」，文中指嘗試新食物的冒險經歷。"}
     ]
   }
 }
