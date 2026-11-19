@@ -1,0 +1,277 @@
+{
+  "date": "2026-11-19",
+  "title": "Learning to Skateboard at the Park",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "Last Saturday, Jason went to the skate park with his cousin, Eric, who is a skateboard expert. Jason had never tried skateboarding before, so he felt a little nervous. \"Don't worry,\" Eric said. \"Everyone falls at the beginning. You must wear a helmet and knee pads before you start.\" Jason put on his helmet, wrist guards, and knee pads carefully.\nAt first, Jason could not balance on the board at all. He fell down three times and got a small bruise on his arm. Eric was very patient. He said, \"You should bend your knees and look forward, not down at your feet.\" Jason tried again, and this time he moved a little more smoothly than before.\nAfter an hour of practice, Jason could roll across the park without falling. He was more confident than he was in the morning. Eric smiled and said, \"You're getting better every minute! If you keep practicing, you'll be able to do an easy trick next month.\"\nOn the way home, Jason told his mom, \"Skateboarding is harder than I thought, but it's also more fun than I expected! I've never felt so proud of myself.\" His mom laughed and said, \"That's because you didn't give up. Practice makes perfect!\"\nThat night, Jason searched online for tips for beginners and made a plan to practice every weekend. He hoped that one day he could skateboard as well as his cousin Eric.",
+  "vocab": [
+    {
+      "w": "skateboard",
+      "pos": "n.",
+      "d": "滑板",
+      "example": "Eric rides his skateboard to school every day."
+    },
+    {
+      "w": "helmet",
+      "pos": "n.",
+      "d": "安全帽",
+      "example": "You should always wear a helmet when you skateboard."
+    },
+    {
+      "w": "balance",
+      "pos": "v.",
+      "d": "平衡",
+      "example": "It took Jason a while to balance on the board."
+    },
+    {
+      "w": "bruise",
+      "pos": "n.",
+      "d": "擦傷、瘀傷",
+      "example": "She got a bruise on her knee after she fell."
+    },
+    {
+      "w": "patient",
+      "pos": "adj.",
+      "d": "有耐心的",
+      "example": "My teacher is very patient with slow learners."
+    },
+    {
+      "w": "confident",
+      "pos": "adj.",
+      "d": "有自信的",
+      "example": "After weeks of practice, he felt more confident."
+    },
+    {
+      "w": "practice",
+      "pos": "v./n.",
+      "d": "練習",
+      "example": "Practice makes perfect, so don't give up."
+    },
+    {
+      "w": "trick",
+      "pos": "n.",
+      "d": "花招、特技",
+      "example": "Eric can do an amazing trick on his skateboard."
+    },
+    {
+      "w": "beginner",
+      "pos": "n.",
+      "d": "初學者",
+      "example": "This course is designed for beginners."
+    },
+    {
+      "w": "smoothly",
+      "pos": "adv.",
+      "d": "流暢地",
+      "example": "The car moved smoothly along the road."
+    },
+    {
+      "w": "encourage",
+      "pos": "v.",
+      "d": "鼓勵",
+      "example": "Eric encouraged Jason not to give up."
+    },
+    {
+      "w": "improve",
+      "pos": "v.",
+      "d": "進步、改善",
+      "example": "Your English has improved a lot this year."
+    },
+    {
+      "w": "careful",
+      "pos": "adj.",
+      "d": "小心的",
+      "example": "Be careful when you cross the street."
+    },
+    {
+      "w": "proud",
+      "pos": "adj.",
+      "d": "驕傲的、自豪的",
+      "example": "I am proud of your hard work."
+    },
+    {
+      "w": "expect",
+      "pos": "v.",
+      "d": "預期、期望",
+      "example": "The test was easier than I expected."
+    }
+  ],
+  "grammar": [
+    "比較級 (Comparative adjectives)：單音節形容詞加 -er，多音節形容詞用 more + 形容詞，後接 than。例如：harder than I thought、more confident than before。",
+    "should / must 表建議與義務：must 表示「必須」（規定、強制），should 表示「應該」（建議）。例如：You must wear a helmet.（規定） / You should bend your knees.（建議）",
+    "現在完成時表經驗 (Present perfect for experience)：have/has + 過去分詞，強調從過去到現在累積的經驗或感受。例如：I've never felt so proud of myself."
+  ],
+  "sections": {
+    "reading": [
+      {
+        "q": "Who taught Jason how to skateboard?",
+        "opts": [
+          "His mom",
+          "His cousin Eric",
+          "His teacher",
+          "A stranger at the park"
+        ],
+        "a": 1,
+        "ex": "文中提到 Jason 的表哥 Eric 教他滑板（with his cousin, Eric）。"
+      },
+      {
+        "q": "What did Eric tell Jason to wear before skateboarding?",
+        "opts": [
+          "Only a helmet",
+          "A helmet, wrist guards, and knee pads",
+          "Sunglasses",
+          "A raincoat"
+        ],
+        "a": 1,
+        "ex": "Eric 要求 Jason 穿戴安全帽、護腕和護膝（helmet, wrist guards, and knee pads）。"
+      },
+      {
+        "q": "How many times did Jason fall at first?",
+        "opts": [
+          "One time",
+          "Two times",
+          "Three times",
+          "Four times"
+        ],
+        "a": 2,
+        "ex": "文中提到他一開始跌倒了三次（fell down three times）。"
+      },
+      {
+        "q": "What did Jason's mom say when he told her skateboarding was hard?",
+        "opts": [
+          "\"You should quit.\"",
+          "\"That's because you didn't give up. Practice makes perfect!\"",
+          "\"You should buy a new skateboard.\"",
+          "\"I don't think you can do it.\""
+        ],
+        "a": 1,
+        "ex": "媽媽說是因為他沒有放棄，並說「熟能生巧」(Practice makes perfect)。"
+      },
+      {
+        "q": "What did Jason plan to do that night?",
+        "opts": [
+          "Go to bed early",
+          "Search online for tips and plan to practice every weekend",
+          "Call Eric",
+          "Buy new pads"
+        ],
+        "a": 1,
+        "ex": "文中提到他當晚搜尋線上初學者教學，並計畫每週末練習。"
+      }
+    ],
+    "grammar": [
+      {
+        "q": "Choose the correct sentence using the comparative form.",
+        "opts": [
+          "Jason is more confident than he was in the morning.",
+          "Jason is confidenter than he was in the morning.",
+          "Jason is as confident than he was in the morning.",
+          "Jason is most confident than he was in the morning."
+        ],
+        "a": 0,
+        "ex": "confident 是多音節形容詞，比較級須用 more + 形容詞 + than，而非加 -er。"
+      },
+      {
+        "q": "Fill in the blank: \"You ___ wear a helmet when you skateboard. It's the rule.\"",
+        "opts": [
+          "can",
+          "might",
+          "must",
+          "could"
+        ],
+        "a": 2,
+        "ex": "must 表示「必須」，用於強調規定或義務，符合句意「這是規則」。"
+      },
+      {
+        "q": "Fill in the blank: Eric said, \"You ___ bend your knees and look forward.\" (給建議)",
+        "opts": [
+          "should",
+          "mustn't",
+          "can't",
+          "won't"
+        ],
+        "a": 0,
+        "ex": "should 用來表達建議，語氣比 must 委婉。"
+      },
+      {
+        "q": "Choose the correct sentence (present perfect for experience):",
+        "opts": [
+          "I never feel so proud of myself.",
+          "I've never felt so proud of myself.",
+          "I never felt so proud of myself before now.",
+          "I have never feeling so proud of myself."
+        ],
+        "a": 1,
+        "ex": "現在完成時結構為 have/has + 過去分詞；feel 的過去分詞是 felt，故選 I've never felt...。"
+      },
+      {
+        "q": "Choose the correct comparative sentence: \"Skateboarding is ___ I thought.\"",
+        "opts": [
+          "harder than",
+          "more hard than",
+          "as hard than",
+          "hardest than"
+        ],
+        "a": 0,
+        "ex": "hard 是單音節形容詞，比較級為 harder than，而非 more hard than。"
+      }
+    ],
+    "vocab": [
+      {
+        "q": "What does \"bruise\" mean?",
+        "opts": [
+          "微笑",
+          "擦傷、瘀傷",
+          "禮物",
+          "比賽"
+        ],
+        "a": 1,
+        "ex": "bruise 指跌倒或撞到後皮膚上出現的瘀傷。"
+      },
+      {
+        "q": "Choose the word that means \"有耐心的\":",
+        "opts": [
+          "confident",
+          "patient",
+          "careful",
+          "proud"
+        ],
+        "a": 1,
+        "ex": "patient 的意思是「有耐心的」。"
+      },
+      {
+        "q": "Which word best completes: \"Eric can do an amazing ___ on his skateboard.\"",
+        "opts": [
+          "trick",
+          "bruise",
+          "helmet",
+          "beginner"
+        ],
+        "a": 0,
+        "ex": "trick 指花招、特技動作，符合句意「表哥能做出驚人的特技」。"
+      },
+      {
+        "q": "\"Beginner\" is the opposite of which word?",
+        "opts": [
+          "expert",
+          "patient",
+          "careful",
+          "confident"
+        ],
+        "a": 0,
+        "ex": "beginner（初學者）的反義詞是 expert（專家、高手）。"
+      },
+      {
+        "q": "Choose the correct meaning of \"encourage\":",
+        "opts": [
+          "禁止",
+          "鼓勵",
+          "害怕",
+          "忘記"
+        ],
+        "a": 1,
+        "ex": "encourage 的意思是「鼓勵」。"
+      }
+    ]
+  }
+}
