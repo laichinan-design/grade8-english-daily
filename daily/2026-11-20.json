@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-20",
+  "title": "A Trip to the Aquarium",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "On Friday morning, Mr. Chen's class went to the city aquarium for a field trip. Mia and her best friend Leo were very excited because they love sea animals.\n\nWhen they arrived, they walked straight to the shark tank. \"Wow, that shark is bigger than my dad's car!\" Leo said. Mia laughed and said, \"I think the dolphins are more interesting than the sharks. Let's go see the dolphin show next.\"\n\nThe dolphins jumped high and splashed water on the front rows. Everyone got a little wet, but nobody was angry. It was too much fun to be upset.\n\nAfter the show, the class visited the gift shop. Mia wanted to buy a stuffed penguin, but it was too expensive for her to buy. She chose a small shark keychain instead. Leo bought a postcard with a picture of a jellyfish on it.\n\nBy three o'clock, everyone was tired from all the walking. \"I'm too tired to walk anymore,\" said Mia. Their teacher smiled and said, \"Don't worry. The bus is waiting outside. You should rest on the bus.\"\n\nOn the way back to school, Leo looked out the window and said, \"This was the best field trip of the year!\" Mia nodded. \"I agree. The aquarium was more amazing than I expected. I can't wait to tell my parents about the sharks and dolphins!\"\n\nThat night, Mia wrote in her diary, \"Today I learned that sea animals are smarter than I thought. I hope our class can visit the aquarium again next year.\"",
+  "vocab": [
+    {"w": "aquarium", "pos": "n.", "d": "水族館", "example": "We saw hundreds of colorful fish at the aquarium."},
+    {"w": "shark", "pos": "n.", "d": "鯊魚", "example": "The shark swam slowly around its tank."},
+    {"w": "dolphin", "pos": "n.", "d": "海豚", "example": "The dolphin jumped high out of the water during the show."},
+    {"w": "tank", "pos": "n.", "d": "水缸、水槽", "example": "There is a big fish tank in the school office."},
+    {"w": "splash", "pos": "v.", "d": "潑、濺", "example": "The kids splashed water on each other at the beach."},
+    {"w": "amazing", "pos": "adj.", "d": "令人驚奇的", "example": "The fireworks show was truly amazing."},
+    {"w": "expensive", "pos": "adj.", "d": "昂貴的", "example": "That watch is too expensive for me to buy."},
+    {"w": "exhausted", "pos": "adj.", "d": "疲憊不堪的", "example": "After the long trip, everyone felt exhausted."},
+    {"w": "keychain", "pos": "n.", "d": "鑰匙圈", "example": "Mia bought a shark keychain as a souvenir."},
+    {"w": "jellyfish", "pos": "n.", "d": "水母", "example": "A jellyfish does not have any bones."},
+    {"w": "field trip", "pos": "n. phrase", "d": "校外教學", "example": "Our class goes on a field trip every semester."},
+    {"w": "postcard", "pos": "n.", "d": "明信片", "example": "Leo sent a postcard to his grandmother from the aquarium."}
+  ],
+  "grammar": [
+    "比較級 (Comparative Adjectives)：單音節形容詞加 -er + than（big → bigger than）；多音節形容詞用 more + 形容詞 + than（interesting → more interesting than）。例：The shark is bigger than my dad's car. / The aquarium was more amazing than I expected.",
+    "too + 形容詞 + (for + 人) + to V：表示「太...以至於不能...」。若句中有動作的對象，須加 for + 人。例：I'm too tired to walk anymore. / The penguin was too expensive for her to buy.",
+    "should 表建議：should + 原形動詞,表示「應該」，語氣較 must 委婉。例：You should rest on the bus."
+  ],
+  "sections": {
+    "reading": [
+      {"q": "Why were Mia and Leo excited about the field trip?", "opts": ["They love math class", "They love sea animals", "They dislike school", "They wanted to skip class"], "a": 1, "ex": "文中提到 \"Mia and her best friend Leo were very excited because they love sea animals.\"，故選 B。"},
+      {"q": "What did Leo say about the shark?", "opts": ["It was smaller than a car", "It was bigger than his dad's car", "It was friendly", "It was sleeping"], "a": 1, "ex": "Leo 說 \"that shark is bigger than my dad's car!\"，故選 B。"},
+      {"q": "Why did Mia choose the shark keychain instead of the stuffed penguin?", "opts": ["She didn't like penguins", "The penguin was too expensive for her", "The gift shop had no penguins", "Leo told her to"], "a": 1, "ex": "文中提到企鵝玩偶 \"too expensive for her to buy\"，所以她選了鑰匙圈，故選 B。"},
+      {"q": "What did the teacher tell the students to do on the bus?", "opts": ["Sing a song", "Do homework", "Rest", "Take photos"], "a": 2, "ex": "老師說 \"You should rest on the bus.\"，故選 C。"},
+      {"q": "How did Mia feel about the trip, according to her diary?", "opts": ["She was bored", "She learned sea animals are smarter than she thought", "She never wants to go again", "She was scared of the dolphins"], "a": 1, "ex": "日記寫著 \"sea animals are smarter than I thought\"，故選 B。"}
+    ],
+    "grammar": [
+      {"q": "That shark is ___ than my dad's car.", "opts": ["big", "bigger", "biggest", "more big"], "a": 1, "ex": "單音節形容詞 big 的比較級為 bigger，後接 than，故選 B。"},
+      {"q": "I think the dolphins are ___ than the sharks.", "opts": ["interesting", "more interesting", "interestinger", "most interesting"], "a": 1, "ex": "多音節形容詞 interesting 的比較級須用 more + 形容詞 + than，故選 B。"},
+      {"q": "The stuffed penguin was too expensive ___ Mia to buy.", "opts": ["for", "to", "so", "of"], "a": 0, "ex": "too + 形容詞 + for + 人 + to V，表示「對某人來說太...而不能」，故選 A。"},
+      {"q": "\"I'm ___ tired ___ walk anymore,\" said Mia.", "opts": ["too / to", "so / to", "very / to", "too / for"], "a": 0, "ex": "too + 形容詞 + to + 動詞，表示「太...而不能」，故選 A。"},
+      {"q": "Their teacher said, \"You ___ rest on the bus.\"", "opts": ["should", "shoulds", "should to", "are should"], "a": 0, "ex": "should 為助動詞,後面須接動詞原形,故選 A。"}
+    ],
+    "vocab": [
+      {"q": "Which word means \"a place where people can see fish and sea animals\"?", "opts": ["aquarium", "library", "bakery", "gym"], "a": 0, "ex": "aquarium 意為「水族館」，故選 A。"},
+      {"q": "\"The dolphins jumped high and ___ water on the front rows.\"", "opts": ["splash", "splashed", "splashing", "splashes"], "a": 1, "ex": "句子為過去式敘述，dolphins 為複數主詞但動詞用過去式 splashed，故選 B。"},
+      {"q": "Which word best describes something that costs a lot of money?", "opts": ["cheap", "expensive", "free", "small"], "a": 1, "ex": "expensive 意為「昂貴的」，故選 B。"},
+      {"q": "A small sea animal with a soft, round body and no bones is called a ___.", "opts": ["shark", "dolphin", "jellyfish", "keychain"], "a": 2, "ex": "jellyfish 意為「水母」，符合題目描述，故選 C。"},
+      {"q": "A school trip to a place outside the classroom, like a museum or aquarium, is called a ___.", "opts": ["field trip", "gift shop", "tank", "postcard"], "a": 0, "ex": "field trip 意為「校外教學」，故選 A。"}
+    ]
+  }
+}
