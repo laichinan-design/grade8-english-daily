@@ -1,0 +1,265 @@
+{
+  "date": "2026-11-23",
+  "title": "A Saturday at the Animal Shelter",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "Last Saturday, Mia and her brother Jack decided to volunteer at the city animal shelter. Their teacher had told them that the shelter needed more helpers on weekends, so they signed up right away.\n\nWhen they arrived, a staff member named Mr. Chen greeted them warmly. He said that most of the animals were strays that people had found on the street. Some of the dogs looked nervous, but others wagged their tails happily when Mia walked past their cages.\n\nMia's first job was to feed the cats. She had to be gentle so that the shy ones would not run away. Jack's job was harder: he had to walk the dogs on a leash, one by one. The biggest dog, a brown Labrador named Rocky, pulled so hard that Jack almost fell down!\n\nDuring lunch, Mr. Chen told the volunteers that the shelter was looking for people to adopt the animals. He explained that a cat's care is almost as expensive as a dog's, so families should think carefully before adopting.\n\nBy the end of the day, Mia and Jack were exhausted, but they felt proud. Jack said that he wanted to come back every weekend. Mia asked, \"Can we adopt a kitten?\" She wanted to give one of the cats a real home.",
+  "vocab": [
+    {
+      "w": "volunteer",
+      "pos": "v./n.",
+      "d": "當志工；志工",
+      "example": "Many students volunteer at the shelter every weekend."
+    },
+    {
+      "w": "shelter",
+      "pos": "n.",
+      "d": "收容所；庇護所",
+      "example": "The animal shelter takes care of lost and injured pets."
+    },
+    {
+      "w": "stray",
+      "pos": "adj./n.",
+      "d": "走失的；流浪動物",
+      "example": "They found a stray cat sleeping under the bench."
+    },
+    {
+      "w": "greet",
+      "pos": "v.",
+      "d": "問候；迎接",
+      "example": "The staff greeted every visitor with a warm smile."
+    },
+    {
+      "w": "nervous",
+      "pos": "adj.",
+      "d": "緊張的",
+      "example": "The new dog looked nervous in its new cage."
+    },
+    {
+      "w": "wag",
+      "pos": "v.",
+      "d": "(尾巴)搖動",
+      "example": "The puppy wagged its tail when it saw its owner."
+    },
+    {
+      "w": "gentle",
+      "pos": "adj.",
+      "d": "溫和的；輕柔的",
+      "example": "You should be gentle when you hold a kitten."
+    },
+    {
+      "w": "leash",
+      "pos": "n.",
+      "d": "(牽狗的)繩子",
+      "example": "Always keep your dog on a leash in the park."
+    },
+    {
+      "w": "exhausted",
+      "pos": "adj.",
+      "d": "疲憊不堪的",
+      "example": "After the long hike, everyone felt exhausted."
+    },
+    {
+      "w": "adopt",
+      "pos": "v.",
+      "d": "領養",
+      "example": "Our family decided to adopt a rescue dog last year."
+    },
+    {
+      "w": "expensive",
+      "pos": "adj.",
+      "d": "昂貴的",
+      "example": "Taking care of a pet can be more expensive than people expect."
+    },
+    {
+      "w": "proud",
+      "pos": "adj.",
+      "d": "自豪的",
+      "example": "Jack felt proud of himself after helping the animals."
+    },
+    {
+      "w": "kitten",
+      "pos": "n.",
+      "d": "小貓",
+      "example": "The little kitten was too small to eat on its own."
+    }
+  ],
+  "grammar": [
+    "間接引述－直述句 (Reported Speech)：把別人說的話轉成間接句時，若原句是現在簡單式，轉述時動詞要「時態倒退」一個時態(現在→過去)，常用 said/told (sb) that + 子句。例：Mr. Chen said, \"The shelter needs more helpers.\" → Mr. Chen said that the shelter needed more helpers. / Jack said that he wanted to come back every weekend.",
+    "間接疑問句 (Reported Questions)：轉述問句時，語序改為「主詞+動詞」的敘述句語序，助動詞也要時態倒退(can→could, will→would)，句尾不加問號。例：Mia asked, \"Can we adopt a kitten?\" → Mia asked if they could adopt a kitten.",
+    "so that 表「目的」 + as...as 表「同等比較」：so that + 子句表示「為了使...」；as + 形容詞/副詞 + as 表示「跟...一樣」。例：She was gentle so that the shy cats would not run away. / A cat's care is almost as expensive as a dog's."
+  ],
+  "sections": {
+    "reading": [
+      {
+        "q": "Why did Mia and Jack decide to volunteer at the shelter on Saturday?",
+        "opts": [
+          "Their parents made them go",
+          "Their teacher said the shelter needed more weekend helpers",
+          "They wanted to adopt a dog",
+          "They needed to earn money"
+        ],
+        "a": 1,
+        "ex": "文中提到 \"Their teacher had told them that the shelter needed more helpers on weekends, so they signed up right away.\"，故選 B。"
+      },
+      {
+        "q": "What was Mia's first job at the shelter?",
+        "opts": [
+          "Walking the dogs",
+          "Feeding the cats",
+          "Cleaning the cages",
+          "Talking to visitors"
+        ],
+        "a": 1,
+        "ex": "文中寫 \"Mia's first job was to feed the cats.\"，故選 B。"
+      },
+      {
+        "q": "What happened when Jack walked Rocky, the Labrador?",
+        "opts": [
+          "Rocky refused to walk",
+          "Rocky pulled so hard that Jack almost fell down",
+          "Rocky ran away",
+          "Rocky fell asleep"
+        ],
+        "a": 1,
+        "ex": "文中提到 \"The biggest dog... pulled so hard that Jack almost fell down!\"，故選 B。"
+      },
+      {
+        "q": "According to Mr. Chen, why should families think carefully before adopting a cat?",
+        "opts": [
+          "Cats are difficult to train",
+          "A cat's care is almost as expensive as a dog's",
+          "Cats don't get along with other pets",
+          "Cats need a very big house"
+        ],
+        "a": 1,
+        "ex": "文中寫 \"a cat's care is almost as expensive as a dog's, so families should think carefully before adopting.\"，故選 B。"
+      },
+      {
+        "q": "What did Mia ask at the end of the day?",
+        "opts": [
+          "If she could become a shelter worker",
+          "If they could buy a new leash",
+          "If they could adopt a kitten",
+          "If Jack wanted to go home"
+        ],
+        "a": 2,
+        "ex": "文中寫 \"Mia asked, 'Can we adopt a kitten?'\"，故選 C。"
+      }
+    ],
+    "grammar": [
+      {
+        "q": "Mr. Chen said, \"The shelter needs more helpers.\" → Mr. Chen said that the shelter ___ more helpers.",
+        "opts": [
+          "needs",
+          "needed",
+          "need",
+          "is needing"
+        ],
+        "a": 1,
+        "ex": "轉述直述句時，現在簡單式要倒退為過去簡單式，needs → needed，故選 B。"
+      },
+      {
+        "q": "She was very gentle ___ the shy cats would not run away.",
+        "opts": [
+          "because",
+          "so that",
+          "although",
+          "unless"
+        ],
+        "a": 1,
+        "ex": "so that + 子句表示「為了使...」，說明動作的目的，故選 B。"
+      },
+      {
+        "q": "A cat's care is almost ___ expensive as a dog's.",
+        "opts": [
+          "more",
+          "as",
+          "so",
+          "too"
+        ],
+        "a": 1,
+        "ex": "表示「跟...一樣」要用 as + 形容詞 + as 的結構，故選 B。"
+      },
+      {
+        "q": "Choose the sentence with correct reported speech.",
+        "opts": [
+          "Jack said that he wants to come back every weekend.",
+          "Jack said that he wanted to come back every weekend.",
+          "Jack said that he will come back every weekend.",
+          "Jack say that he wanted to come back every weekend."
+        ],
+        "a": 1,
+        "ex": "轉述時主詞動詞 said 用過去式，且 wants→wanted 要時態倒退，故選 B。"
+      },
+      {
+        "q": "Mia asked, \"Can we adopt a kitten?\" → Mia asked if they ___ adopt a kitten.",
+        "opts": [
+          "can",
+          "could",
+          "will",
+          "would"
+        ],
+        "a": 1,
+        "ex": "轉述問句時，助動詞 can 也要時態倒退為 could，故選 B。"
+      }
+    ],
+    "vocab": [
+      {
+        "q": "Choose the word that means \"a dog or cat that has no home and lives on the street.\"",
+        "opts": [
+          "kitten",
+          "stray",
+          "volunteer",
+          "shelter"
+        ],
+        "a": 1,
+        "ex": "stray 指「走失的、無家可歸的(動物)」，故選 B。"
+      },
+      {
+        "q": "Mia wanted to ___ a kitten and give it a real home.",
+        "opts": [
+          "adopt",
+          "greet",
+          "wag",
+          "exhaust"
+        ],
+        "a": 0,
+        "ex": "adopt 意為「領養」，符合句意，故選 A。"
+      },
+      {
+        "q": "Choose the correct meaning of \"exhausted.\"",
+        "opts": [
+          "excited",
+          "very tired",
+          "confused",
+          "proud"
+        ],
+        "a": 1,
+        "ex": "exhausted 意為「疲憊不堪的」，故選 B。"
+      },
+      {
+        "q": "The puppy ___ its tail happily when it saw its owner.",
+        "opts": [
+          "wagged",
+          "greeted",
+          "exhausted",
+          "rescued"
+        ],
+        "a": 0,
+        "ex": "wag 指狗尾巴「搖動」，故選 A。"
+      },
+      {
+        "q": "A place that takes care of homeless animals is called a ___.",
+        "opts": [
+          "leash",
+          "shelter",
+          "kennel club",
+          "volunteer center"
+        ],
+        "a": 1,
+        "ex": "shelter 意為「收容所、庇護所」，故選 B。"
+      }
+    ]
+  }
+}
