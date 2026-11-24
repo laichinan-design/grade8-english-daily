@@ -1,264 +1,264 @@
 {
-  "date": "2026-11-23",
-  "title": "A Saturday at the Animal Shelter",
+  "date": "2026-11-24",
+  "title": "A Family Camping Trip",
   "level": "國中二~三年級 (Grade 8-9)",
   "note": "",
-  "passage": "Last Saturday, Mia and her brother Jack decided to volunteer at the city animal shelter. Their teacher had told them that the shelter needed more helpers on weekends, so they signed up right away.\n\nWhen they arrived, a staff member named Mr. Chen greeted them warmly. He said that most of the animals were strays that people had found on the street. Some of the dogs looked nervous, but others wagged their tails happily when Mia walked past their cages.\n\nMia's first job was to feed the cats. She had to be gentle so that the shy ones would not run away. Jack's job was harder: he had to walk the dogs on a leash, one by one. The biggest dog, a brown Labrador named Rocky, pulled so hard that Jack almost fell down!\n\nDuring lunch, Mr. Chen told the volunteers that the shelter was looking for people to adopt the animals. He explained that a cat's care is almost as expensive as a dog's, so families should think carefully before adopting.\n\nBy the end of the day, Mia and Jack were exhausted, but they felt proud. Jack said that he wanted to come back every weekend. Mia asked, \"Can we adopt a kitten?\" She wanted to give one of the cats a real home.",
+  "passage": "Last weekend, the Wang family planned to go camping at a lake near the mountains. On Friday night, Dad checked the weather forecast and said, \"If it rains tomorrow, we will cancel the trip.\" Luckily, the sky was clear on Saturday morning, so they packed the car and set off early.\n\nWhen they arrived at the campsite, Mom reminded everyone, \"You'd better put on sunscreen before we set up the tent.\" The tent looked complicated, but with everyone's help, it was ready in twenty minutes. Tim, the youngest, wanted to carry the heaviest cooler by himself, but it was too heavy for him to lift. His sister, Amy, who was strong enough to help, carried it together with him.\n\nIn the afternoon, they went hiking along a trail beside the lake. The guide warned that the path was too narrow for two people to walk side by side, so they walked in a single line. They were lucky enough to see a family of ducks swimming near the shore.\n\nAt night, they cooked dinner over a campfire and told stories under the stars. Dad said, \"If we come back next month, we should bring a bigger tent.\" Everyone agreed that camping together was more fun than staying at a hotel.\n\nBefore they left on Sunday, they made sure to put out the fire completely and clean up all their trash. \"If every camper takes care of nature,\" the park ranger told them, \"this lake will stay beautiful for years.\" The Wang family smiled and promised to return soon.",
   "vocab": [
     {
-      "w": "volunteer",
-      "pos": "v./n.",
-      "d": "當志工；志工",
-      "example": "Many students volunteer at the shelter every weekend."
-    },
-    {
-      "w": "shelter",
+      "w": "campsite",
       "pos": "n.",
-      "d": "收容所；庇護所",
-      "example": "The animal shelter takes care of lost and injured pets."
+      "d": "露營地",
+      "example": "They set up their tent at a campsite near the lake."
     },
     {
-      "w": "stray",
-      "pos": "adj./n.",
-      "d": "走失的；流浪動物",
-      "example": "They found a stray cat sleeping under the bench."
-    },
-    {
-      "w": "greet",
-      "pos": "v.",
-      "d": "問候；迎接",
-      "example": "The staff greeted every visitor with a warm smile."
-    },
-    {
-      "w": "nervous",
-      "pos": "adj.",
-      "d": "緊張的",
-      "example": "The new dog looked nervous in its new cage."
-    },
-    {
-      "w": "wag",
-      "pos": "v.",
-      "d": "(尾巴)搖動",
-      "example": "The puppy wagged its tail when it saw its owner."
-    },
-    {
-      "w": "gentle",
-      "pos": "adj.",
-      "d": "溫和的；輕柔的",
-      "example": "You should be gentle when you hold a kitten."
-    },
-    {
-      "w": "leash",
+      "w": "forecast",
       "pos": "n.",
-      "d": "(牽狗的)繩子",
-      "example": "Always keep your dog on a leash in the park."
+      "d": "(天氣)預報",
+      "example": "Dad checked the weather forecast before the trip."
     },
     {
-      "w": "exhausted",
-      "pos": "adj.",
-      "d": "疲憊不堪的",
-      "example": "After the long hike, everyone felt exhausted."
-    },
-    {
-      "w": "adopt",
+      "w": "cancel",
       "pos": "v.",
-      "d": "領養",
-      "example": "Our family decided to adopt a rescue dog last year."
+      "d": "取消",
+      "example": "They had to cancel the trip because of the storm."
     },
     {
-      "w": "expensive",
+      "w": "complicated",
       "pos": "adj.",
-      "d": "昂貴的",
-      "example": "Taking care of a pet can be more expensive than people expect."
+      "d": "複雜的",
+      "example": "Setting up the new tent looked complicated at first."
     },
     {
-      "w": "proud",
-      "pos": "adj.",
-      "d": "自豪的",
-      "example": "Jack felt proud of himself after helping the animals."
-    },
-    {
-      "w": "kitten",
+      "w": "cooler",
       "pos": "n.",
-      "d": "小貓",
-      "example": "The little kitten was too small to eat on its own."
+      "d": "保冷箱",
+      "example": "Tim tried to carry the heavy cooler by himself."
+    },
+    {
+      "w": "narrow",
+      "pos": "adj.",
+      "d": "狹窄的",
+      "example": "The mountain path was too narrow for two people to walk side by side."
+    },
+    {
+      "w": "trail",
+      "pos": "n.",
+      "d": "步道；小徑",
+      "example": "They went hiking along a trail beside the lake."
+    },
+    {
+      "w": "guide",
+      "pos": "n.",
+      "d": "導遊；嚮導",
+      "example": "The guide warned them to stay on the path."
+    },
+    {
+      "w": "shore",
+      "pos": "n.",
+      "d": "岸邊",
+      "example": "A family of ducks was swimming near the shore."
+    },
+    {
+      "w": "campfire",
+      "pos": "n.",
+      "d": "營火",
+      "example": "They cooked dinner over a campfire and told stories."
+    },
+    {
+      "w": "ranger",
+      "pos": "n.",
+      "d": "巡山員；公園管理員",
+      "example": "The park ranger reminded campers to protect nature."
+    },
+    {
+      "w": "promise",
+      "pos": "v.",
+      "d": "承諾",
+      "example": "The Wang family promised to return to the lake soon."
+    },
+    {
+      "w": "completely",
+      "pos": "adv.",
+      "d": "完全地",
+      "example": "They made sure to put out the campfire completely."
     }
   ],
   "grammar": [
-    "間接引述－直述句 (Reported Speech)：把別人說的話轉成間接句時，若原句是現在簡單式，轉述時動詞要「時態倒退」一個時態(現在→過去)，常用 said/told (sb) that + 子句。例：Mr. Chen said, \"The shelter needs more helpers.\" → Mr. Chen said that the shelter needed more helpers. / Jack said that he wanted to come back every weekend.",
-    "間接疑問句 (Reported Questions)：轉述問句時，語序改為「主詞+動詞」的敘述句語序，助動詞也要時態倒退(can→could, will→would)，句尾不加問號。例：Mia asked, \"Can we adopt a kitten?\" → Mia asked if they could adopt a kitten.",
-    "so that 表「目的」 + as...as 表「同等比較」：so that + 子句表示「為了使...」；as + 形容詞/副詞 + as 表示「跟...一樣」。例：She was gentle so that the shy cats would not run away. / A cat's care is almost as expensive as a dog's."
+    "第一條件句 (First Conditional)：If + 主詞 + 現在簡單式, 主詞 + will + 動詞原形，用來描述「未來很可能發生」的真實情況。例：If it rains tomorrow, we will cancel the trip. / If every camper takes care of nature, this lake will stay beautiful.",
+    "too...to 與 enough to：too + 形容詞/副詞 + (for sb) + to V 表示「太...以致不能」；形容詞/副詞 + enough + (for sb) + to V 表示「足夠...可以」。兩者語意剛好相反。例：It was too heavy for him to lift. / She was strong enough to help him.",
+    "had better (+not) + 動詞原形：表示「最好(不要)...」，常用於建議或警告，語氣比 should 更強烈，have/has 可省略為 'd。例：You'd better put on sunscreen before we set up the tent."
   ],
   "sections": {
     "reading": [
       {
-        "q": "Why did Mia and Jack decide to volunteer at the shelter on Saturday?",
+        "q": "Why did Dad say they might cancel the camping trip?",
         "opts": [
-          "Their parents made them go",
-          "Their teacher said the shelter needed more weekend helpers",
-          "They wanted to adopt a dog",
-          "They needed to earn money"
+          "Because the car broke down",
+          "Because it might rain the next day",
+          "Because the campsite was closed",
+          "Because Tim was sick"
         ],
         "a": 1,
-        "ex": "文中提到 \"Their teacher had told them that the shelter needed more helpers on weekends, so they signed up right away.\"，故選 B。"
+        "ex": "文中 Dad 說 \"If it rains tomorrow, we will cancel the trip.\"，表示若下雨就取消，故選 B。"
       },
       {
-        "q": "What was Mia's first job at the shelter?",
+        "q": "What problem did Tim have with the cooler?",
         "opts": [
-          "Walking the dogs",
-          "Feeding the cats",
-          "Cleaning the cages",
-          "Talking to visitors"
+          "It was too heavy for him to lift alone",
+          "It was broken",
+          "He could not find it",
+          "It was too small for the food"
         ],
-        "a": 1,
-        "ex": "文中寫 \"Mia's first job was to feed the cats.\"，故選 B。"
+        "a": 0,
+        "ex": "文中提到 \"it was too heavy for him to lift\"，因此他需要姊姊 Amy 的幫忙，故選 A。"
       },
       {
-        "q": "What happened when Jack walked Rocky, the Labrador?",
+        "q": "Why did the family walk in a single line on the trail?",
         "opts": [
-          "Rocky refused to walk",
-          "Rocky pulled so hard that Jack almost fell down",
-          "Rocky ran away",
-          "Rocky fell asleep"
-        ],
-        "a": 1,
-        "ex": "文中提到 \"The biggest dog... pulled so hard that Jack almost fell down!\"，故選 B。"
-      },
-      {
-        "q": "According to Mr. Chen, why should families think carefully before adopting a cat?",
-        "opts": [
-          "Cats are difficult to train",
-          "A cat's care is almost as expensive as a dog's",
-          "Cats don't get along with other pets",
-          "Cats need a very big house"
-        ],
-        "a": 1,
-        "ex": "文中寫 \"a cat's care is almost as expensive as a dog's, so families should think carefully before adopting.\"，故選 B。"
-      },
-      {
-        "q": "What did Mia ask at the end of the day?",
-        "opts": [
-          "If she could become a shelter worker",
-          "If they could buy a new leash",
-          "If they could adopt a kitten",
-          "If Jack wanted to go home"
+          "Because they wanted to race each other",
+          "Because the guide told a joke",
+          "Because the path was too narrow for two people to walk side by side",
+          "Because it started to rain"
         ],
         "a": 2,
-        "ex": "文中寫 \"Mia asked, 'Can we adopt a kitten?'\"，故選 C。"
+        "ex": "文中寫 \"the path was too narrow for two people to walk side by side, so they walked in a single line.\"，故選 C。"
+      },
+      {
+        "q": "What did Dad suggest for their next camping trip?",
+        "opts": [
+          "Bringing a bigger tent",
+          "Going to a hotel instead",
+          "Inviting more friends",
+          "Staying for a shorter time"
+        ],
+        "a": 0,
+        "ex": "文中 Dad 說 \"If we come back next month, we should bring a bigger tent.\"，故選 A。"
+      },
+      {
+        "q": "What did the family do before leaving the campsite on Sunday?",
+        "opts": [
+          "They left the campfire burning",
+          "They put out the fire completely and cleaned up their trash",
+          "They bought souvenirs from the ranger",
+          "They went swimming one more time"
+        ],
+        "a": 1,
+        "ex": "文中寫 \"they made sure to put out the fire completely and clean up all their trash.\"，故選 B。"
       }
     ],
     "grammar": [
       {
-        "q": "Mr. Chen said, \"The shelter needs more helpers.\" → Mr. Chen said that the shelter ___ more helpers.",
+        "q": "If it ___ tomorrow, we will cancel the trip.",
         "opts": [
-          "needs",
-          "needed",
-          "need",
-          "is needing"
+          "rain",
+          "rains",
+          "rained",
+          "will rain"
         ],
         "a": 1,
-        "ex": "轉述直述句時，現在簡單式要倒退為過去簡單式，needs → needed，故選 B。"
+        "ex": "第一條件句中 if 子句要用現在簡單式，主詞 it 為第三人稱單數，故動詞加 s，選 B。"
       },
       {
-        "q": "She was very gentle ___ the shy cats would not run away.",
+        "q": "If every camper takes care of nature, this lake ___ beautiful for years.",
         "opts": [
-          "because",
-          "so that",
-          "although",
-          "unless"
+          "stay",
+          "stays",
+          "will stay",
+          "stayed"
         ],
-        "a": 1,
-        "ex": "so that + 子句表示「為了使...」，說明動作的目的，故選 B。"
+        "a": 2,
+        "ex": "第一條件句的主要子句要用 will + 動詞原形，表示未來的結果，故選 C。"
       },
       {
-        "q": "A cat's care is almost ___ expensive as a dog's.",
+        "q": "The cooler was ___ heavy for Tim to lift by himself.",
         "opts": [
-          "more",
-          "as",
           "so",
-          "too"
+          "too",
+          "very",
+          "enough"
         ],
         "a": 1,
-        "ex": "表示「跟...一樣」要用 as + 形容詞 + as 的結構，故選 B。"
+        "ex": "too + 形容詞 + for sb + to V 表示「太...以致某人不能」，故選 B。"
       },
       {
-        "q": "Choose the sentence with correct reported speech.",
+        "q": "Amy was strong ___ to help Tim carry the cooler.",
         "opts": [
-          "Jack said that he wants to come back every weekend.",
-          "Jack said that he wanted to come back every weekend.",
-          "Jack said that he will come back every weekend.",
-          "Jack say that he wanted to come back every weekend."
+          "too",
+          "so",
+          "enough",
+          "very"
         ],
-        "a": 1,
-        "ex": "轉述時主詞動詞 said 用過去式，且 wants→wanted 要時態倒退，故選 B。"
+        "a": 2,
+        "ex": "形容詞 + enough + to V 表示「足夠...可以」，enough 要放在形容詞之後，故選 C。"
       },
       {
-        "q": "Mia asked, \"Can we adopt a kitten?\" → Mia asked if they ___ adopt a kitten.",
+        "q": "You ___ put on sunscreen before we set up the tent.",
         "opts": [
-          "can",
-          "could",
-          "will",
-          "would"
+          "had better",
+          "had better to",
+          "better had",
+          "had better not to"
         ],
-        "a": 1,
-        "ex": "轉述問句時，助動詞 can 也要時態倒退為 could，故選 B。"
+        "a": 0,
+        "ex": "had better + 動詞原形表示「最好...」，不可加 to，故選 A。"
       }
     ],
     "vocab": [
       {
-        "q": "Choose the word that means \"a dog or cat that has no home and lives on the street.\"",
+        "q": "Choose the word that means \"a piece of land used for camping.\"",
         "opts": [
-          "kitten",
-          "stray",
-          "volunteer",
-          "shelter"
-        ],
-        "a": 1,
-        "ex": "stray 指「走失的、無家可歸的(動物)」，故選 B。"
-      },
-      {
-        "q": "Mia wanted to ___ a kitten and give it a real home.",
-        "opts": [
-          "adopt",
-          "greet",
-          "wag",
-          "exhaust"
+          "campsite",
+          "shore",
+          "trail",
+          "ranger"
         ],
         "a": 0,
-        "ex": "adopt 意為「領養」，符合句意，故選 A。"
+        "ex": "campsite 意為「露營地」，故選 A。"
       },
       {
-        "q": "Choose the correct meaning of \"exhausted.\"",
+        "q": "A box used to keep food and drinks cold is called a ___.",
         "opts": [
-          "excited",
-          "very tired",
-          "confused",
-          "proud"
-        ],
-        "a": 1,
-        "ex": "exhausted 意為「疲憊不堪的」，故選 B。"
-      },
-      {
-        "q": "The puppy ___ its tail happily when it saw its owner.",
-        "opts": [
-          "wagged",
-          "greeted",
-          "exhausted",
-          "rescued"
+          "cooler",
+          "campfire",
+          "forecast",
+          "guide"
         ],
         "a": 0,
-        "ex": "wag 指狗尾巴「搖動」，故選 A。"
+        "ex": "cooler 指「保冷箱」，用來保持食物飲料冰涼，故選 A。"
       },
       {
-        "q": "A place that takes care of homeless animals is called a ___.",
+        "q": "The mountain path was very ___, so only one person could walk at a time.",
         "opts": [
-          "leash",
-          "shelter",
-          "kennel club",
-          "volunteer center"
+          "narrow",
+          "complicated",
+          "complete",
+          "nervous"
+        ],
+        "a": 0,
+        "ex": "narrow 意為「狹窄的」，符合句意，故選 A。"
+      },
+      {
+        "q": "A person whose job is to protect a park and help visitors is called a ___.",
+        "opts": [
+          "guide",
+          "ranger",
+          "camper",
+          "forecaster"
         ],
         "a": 1,
-        "ex": "shelter 意為「收容所、庇護所」，故選 B。"
+        "ex": "ranger 指「巡山員、公園管理員」，負責保護公園，故選 B。"
+      },
+      {
+        "q": "They sat around the ___ and told stories at night.",
+        "opts": [
+          "campfire",
+          "shore",
+          "trail",
+          "cooler"
+        ],
+        "a": 0,
+        "ex": "campfire 意為「營火」，符合夜晚圍坐講故事的情境，故選 A。"
       }
     ]
   }
