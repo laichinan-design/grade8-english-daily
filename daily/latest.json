@@ -1,265 +1,50 @@
 {
-  "date": "2026-11-24",
-  "title": "A Family Camping Trip",
+  "date": "2026-11-25",
+  "title": "Planning a Surprise Birthday Party",
   "level": "國中二~三年級 (Grade 8-9)",
   "note": "",
-  "passage": "Last weekend, the Wang family planned to go camping at a lake near the mountains. On Friday night, Dad checked the weather forecast and said, \"If it rains tomorrow, we will cancel the trip.\" Luckily, the sky was clear on Saturday morning, so they packed the car and set off early.\n\nWhen they arrived at the campsite, Mom reminded everyone, \"You'd better put on sunscreen before we set up the tent.\" The tent looked complicated, but with everyone's help, it was ready in twenty minutes. Tim, the youngest, wanted to carry the heaviest cooler by himself, but it was too heavy for him to lift. His sister, Amy, who was strong enough to help, carried it together with him.\n\nIn the afternoon, they went hiking along a trail beside the lake. The guide warned that the path was too narrow for two people to walk side by side, so they walked in a single line. They were lucky enough to see a family of ducks swimming near the shore.\n\nAt night, they cooked dinner over a campfire and told stories under the stars. Dad said, \"If we come back next month, we should bring a bigger tent.\" Everyone agreed that camping together was more fun than staying at a hotel.\n\nBefore they left on Sunday, they made sure to put out the fire completely and clean up all their trash. \"If every camper takes care of nature,\" the park ranger told them, \"this lake will stay beautiful for years.\" The Wang family smiled and promised to return soon.",
+  "passage": "Today is Lily's birthday, but she doesn't know that her friends are planning a surprise party for her after school. Mia is in charge of decorations. She bought colorful balloons and a big banner that says \"Happy Birthday, Lily!\" Jack is responsible for the cake. He ordered a chocolate cake with strawberries on top because Lily loves fruit.\n\"We must keep this a secret,\" Mia reminded everyone. \"If Lily finds out, the surprise will be ruined.\" Ben offered to invite their classmates. He sent a message to everyone in the class, but he was careful not to let Lily see it.\nAfter school, all the students waited quietly in the classroom with the lights off. When Lily opened the door, everyone shouted, \"Surprise!\" She was so shocked that she almost dropped her backpack. \"I can't believe you did this for me,\" she said, smiling brightly. They sang the birthday song together and then ate the delicious cake.\nLily received several gifts, including a notebook, a scarf, and a photo album full of memories from their class trips. \"You should open this one first,\" Jack said, handing her a small box. Inside was a bracelet that the whole class had chosen together. Lily was so touched that she almost cried. \"This is the best birthday I have ever had,\" she said. Everyone agreed that the party was a huge success, and they promised to remember this special day forever.",
   "vocab": [
-    {
-      "w": "campsite",
-      "pos": "n.",
-      "d": "露營地",
-      "example": "They set up their tent at a campsite near the lake."
-    },
-    {
-      "w": "forecast",
-      "pos": "n.",
-      "d": "(天氣)預報",
-      "example": "Dad checked the weather forecast before the trip."
-    },
-    {
-      "w": "cancel",
-      "pos": "v.",
-      "d": "取消",
-      "example": "They had to cancel the trip because of the storm."
-    },
-    {
-      "w": "complicated",
-      "pos": "adj.",
-      "d": "複雜的",
-      "example": "Setting up the new tent looked complicated at first."
-    },
-    {
-      "w": "cooler",
-      "pos": "n.",
-      "d": "保冷箱",
-      "example": "Tim tried to carry the heavy cooler by himself."
-    },
-    {
-      "w": "narrow",
-      "pos": "adj.",
-      "d": "狹窄的",
-      "example": "The mountain path was too narrow for two people to walk side by side."
-    },
-    {
-      "w": "trail",
-      "pos": "n.",
-      "d": "步道；小徑",
-      "example": "They went hiking along a trail beside the lake."
-    },
-    {
-      "w": "guide",
-      "pos": "n.",
-      "d": "導遊；嚮導",
-      "example": "The guide warned them to stay on the path."
-    },
-    {
-      "w": "shore",
-      "pos": "n.",
-      "d": "岸邊",
-      "example": "A family of ducks was swimming near the shore."
-    },
-    {
-      "w": "campfire",
-      "pos": "n.",
-      "d": "營火",
-      "example": "They cooked dinner over a campfire and told stories."
-    },
-    {
-      "w": "ranger",
-      "pos": "n.",
-      "d": "巡山員；公園管理員",
-      "example": "The park ranger reminded campers to protect nature."
-    },
-    {
-      "w": "promise",
-      "pos": "v.",
-      "d": "承諾",
-      "example": "The Wang family promised to return to the lake soon."
-    },
-    {
-      "w": "completely",
-      "pos": "adv.",
-      "d": "完全地",
-      "example": "They made sure to put out the campfire completely."
-    }
+    {"w": "surprise", "pos": "n.", "d": "驚喜", "example": "The party was a wonderful surprise for her."},
+    {"w": "decoration", "pos": "n.", "d": "裝飾品", "example": "We hung colorful decorations on the wall."},
+    {"w": "banner", "pos": "n.", "d": "橫幅", "example": "They made a banner that said 'Welcome Home'."},
+    {"w": "secret", "pos": "n.", "d": "秘密", "example": "Can you keep a secret?"},
+    {"w": "ruin", "pos": "v.", "d": "破壞；毀掉", "example": "The rain ruined our picnic plans."},
+    {"w": "invite", "pos": "v.", "d": "邀請", "example": "She invited all her friends to the party."},
+    {"w": "shocked", "pos": "adj.", "d": "震驚的", "example": "He was shocked to see the mess in the kitchen."},
+    {"w": "gift", "pos": "n.", "d": "禮物", "example": "I bought a gift for my mother's birthday."},
+    {"w": "memory", "pos": "n.", "d": "回憶；記憶", "example": "This photo brings back happy memories."},
+    {"w": "bracelet", "pos": "n.", "d": "手鐲；手鍊", "example": "She wore a silver bracelet on her wrist."},
+    {"w": "touched", "pos": "adj.", "d": "感動的", "example": "I was touched by his kind words."},
+    {"w": "success", "pos": "n.", "d": "成功", "example": "The school trip was a great success."},
+    {"w": "promise", "pos": "v.", "d": "承諾；保證", "example": "He promised to call me tonight."}
   ],
   "grammar": [
-    "第一條件句 (First Conditional)：If + 主詞 + 現在簡單式, 主詞 + will + 動詞原形，用來描述「未來很可能發生」的真實情況。例：If it rains tomorrow, we will cancel the trip. / If every camper takes care of nature, this lake will stay beautiful.",
-    "too...to 與 enough to：too + 形容詞/副詞 + (for sb) + to V 表示「太...以致不能」；形容詞/副詞 + enough + (for sb) + to V 表示「足夠...可以」。兩者語意剛好相反。例：It was too heavy for him to lift. / She was strong enough to help him.",
-    "had better (+not) + 動詞原形：表示「最好(不要)...」，常用於建議或警告，語氣比 should 更強烈，have/has 可省略為 'd。例：You'd better put on sunscreen before we set up the tent."
+    "情態助動詞 must / should (Modal Verbs)：must 表示「必須」的強烈義務，如 We must keep this a secret.；should 表示較溫和的「應該」建議，如 You should open this one first.",
+    "so + 形容詞 + that 句型：表示「如此...以致於...」，用來強調程度與結果的關係，如 She was so shocked that she almost dropped her backpack.",
+    "because 引導原因子句：because 用來說明原因，後面接一個完整的句子，如 He ordered a cake because Lily loves fruit.（他訂蛋糕是因為莉莉喜歡水果）。"
   ],
   "sections": {
     "reading": [
-      {
-        "q": "Why did Dad say they might cancel the camping trip?",
-        "opts": [
-          "Because the car broke down",
-          "Because it might rain the next day",
-          "Because the campsite was closed",
-          "Because Tim was sick"
-        ],
-        "a": 1,
-        "ex": "文中 Dad 說 \"If it rains tomorrow, we will cancel the trip.\"，表示若下雨就取消，故選 B。"
-      },
-      {
-        "q": "What problem did Tim have with the cooler?",
-        "opts": [
-          "It was too heavy for him to lift alone",
-          "It was broken",
-          "He could not find it",
-          "It was too small for the food"
-        ],
-        "a": 0,
-        "ex": "文中提到 \"it was too heavy for him to lift\"，因此他需要姊姊 Amy 的幫忙，故選 A。"
-      },
-      {
-        "q": "Why did the family walk in a single line on the trail?",
-        "opts": [
-          "Because they wanted to race each other",
-          "Because the guide told a joke",
-          "Because the path was too narrow for two people to walk side by side",
-          "Because it started to rain"
-        ],
-        "a": 2,
-        "ex": "文中寫 \"the path was too narrow for two people to walk side by side, so they walked in a single line.\"，故選 C。"
-      },
-      {
-        "q": "What did Dad suggest for their next camping trip?",
-        "opts": [
-          "Bringing a bigger tent",
-          "Going to a hotel instead",
-          "Inviting more friends",
-          "Staying for a shorter time"
-        ],
-        "a": 0,
-        "ex": "文中 Dad 說 \"If we come back next month, we should bring a bigger tent.\"，故選 A。"
-      },
-      {
-        "q": "What did the family do before leaving the campsite on Sunday?",
-        "opts": [
-          "They left the campfire burning",
-          "They put out the fire completely and cleaned up their trash",
-          "They bought souvenirs from the ranger",
-          "They went swimming one more time"
-        ],
-        "a": 1,
-        "ex": "文中寫 \"they made sure to put out the fire completely and clean up all their trash.\"，故選 B。"
-      }
+      {"q": "Why did Lily's friends plan a party?", "opts": ["Because it was the last day of school", "Because it was Lily's birthday", "Because they won a contest", "Because it was a holiday"], "a": 1, "ex": "文中開頭提到 \"Today is Lily's birthday\"，因為是莉莉的生日，所以朋友們計劃派對。"},
+      {"q": "What was Jack responsible for?", "opts": ["Decorations", "Invitations", "The cake", "Music"], "a": 2, "ex": "文中提到 \"Jack is responsible for the cake.\"，傑克負責蛋糕。"},
+      {"q": "How did Lily react when she saw the surprise?", "opts": ["She was angry", "She was shocked", "She was bored", "She left the room"], "a": 1, "ex": "文中寫 \"She was so shocked that she almost dropped her backpack.\"，她非常震驚。"},
+      {"q": "What was inside the small box Jack gave Lily?", "opts": ["A notebook", "A scarf", "A bracelet", "A photo album"], "a": 2, "ex": "文中提到 \"Inside was a bracelet that the whole class had chosen together.\"，小盒子裡是手鍊。"},
+      {"q": "How did Lily feel about the bracelet?", "opts": ["She felt bored", "She felt touched", "She felt confused", "She felt disappointed"], "a": 1, "ex": "文中寫 \"Lily was so touched that she almost cried.\"，她感到非常感動。"}
     ],
     "grammar": [
-      {
-        "q": "If it ___ tomorrow, we will cancel the trip.",
-        "opts": [
-          "rain",
-          "rains",
-          "rained",
-          "will rain"
-        ],
-        "a": 1,
-        "ex": "第一條件句中 if 子句要用現在簡單式，主詞 it 為第三人稱單數，故動詞加 s，選 B。"
-      },
-      {
-        "q": "If every camper takes care of nature, this lake ___ beautiful for years.",
-        "opts": [
-          "stay",
-          "stays",
-          "will stay",
-          "stayed"
-        ],
-        "a": 2,
-        "ex": "第一條件句的主要子句要用 will + 動詞原形，表示未來的結果，故選 C。"
-      },
-      {
-        "q": "The cooler was ___ heavy for Tim to lift by himself.",
-        "opts": [
-          "so",
-          "too",
-          "very",
-          "enough"
-        ],
-        "a": 1,
-        "ex": "too + 形容詞 + for sb + to V 表示「太...以致某人不能」，故選 B。"
-      },
-      {
-        "q": "Amy was strong ___ to help Tim carry the cooler.",
-        "opts": [
-          "too",
-          "so",
-          "enough",
-          "very"
-        ],
-        "a": 2,
-        "ex": "形容詞 + enough + to V 表示「足夠...可以」，enough 要放在形容詞之後，故選 C。"
-      },
-      {
-        "q": "You ___ put on sunscreen before we set up the tent.",
-        "opts": [
-          "had better",
-          "had better to",
-          "better had",
-          "had better not to"
-        ],
-        "a": 0,
-        "ex": "had better + 動詞原形表示「最好...」，不可加 to，故選 A。"
-      }
+      {"q": "We ___ keep this a secret, or the surprise will be ruined.", "opts": ["can", "must", "may", "could"], "a": 1, "ex": "must 表示「必須」的強烈義務，故選 B。"},
+      {"q": "You ___ open this one first — I think you'll like it best.", "opts": ["must", "should", "can", "will"], "a": 1, "ex": "should 表示語氣較溫和的「建議」，故選 B。"},
+      {"q": "She was ___ shocked ___ she almost dropped her backpack.", "opts": ["so / that", "too / to", "such / that", "very / that"], "a": 0, "ex": "「so + 形容詞 + that」表示「如此...以致於」，故選 A。"},
+      {"q": "He ordered a chocolate cake ___ Lily loves fruit.", "opts": ["so", "because", "but", "although"], "a": 1, "ex": "because 引導原因子句，說明訂蛋糕的原因，故選 B。"},
+      {"q": "Lily received several gifts, ___ a notebook and a scarf.", "opts": ["include", "including", "included", "to include"], "a": 1, "ex": "including 作為介詞表示「包括」，後面接名詞，故選 B。"}
     ],
     "vocab": [
-      {
-        "q": "Choose the word that means \"a piece of land used for camping.\"",
-        "opts": [
-          "campsite",
-          "shore",
-          "trail",
-          "ranger"
-        ],
-        "a": 0,
-        "ex": "campsite 意為「露營地」，故選 A。"
-      },
-      {
-        "q": "A box used to keep food and drinks cold is called a ___.",
-        "opts": [
-          "cooler",
-          "campfire",
-          "forecast",
-          "guide"
-        ],
-        "a": 0,
-        "ex": "cooler 指「保冷箱」，用來保持食物飲料冰涼，故選 A。"
-      },
-      {
-        "q": "The mountain path was very ___, so only one person could walk at a time.",
-        "opts": [
-          "narrow",
-          "complicated",
-          "complete",
-          "nervous"
-        ],
-        "a": 0,
-        "ex": "narrow 意為「狹窄的」，符合句意，故選 A。"
-      },
-      {
-        "q": "A person whose job is to protect a park and help visitors is called a ___.",
-        "opts": [
-          "guide",
-          "ranger",
-          "camper",
-          "forecaster"
-        ],
-        "a": 1,
-        "ex": "ranger 指「巡山員、公園管理員」，負責保護公園，故選 B。"
-      },
-      {
-        "q": "They sat around the ___ and told stories at night.",
-        "opts": [
-          "campfire",
-          "shore",
-          "trail",
-          "cooler"
-        ],
-        "a": 0,
-        "ex": "campfire 意為「營火」，符合夜晚圍坐講故事的情境，故選 A。"
-      }
+      {"q": "\"secret\" 的中文意思是?", "opts": ["驚喜", "秘密", "裝飾", "承諾"], "a": 1, "ex": "secret 意思是「秘密」，故選 B。"},
+      {"q": "Choose the word that means \"震驚的\":", "opts": ["touched", "shocked", "ruined", "invited"], "a": 1, "ex": "shocked 是「震驚的」的意思，故選 B。"},
+      {"q": "The rain ___ our picnic plans.", "opts": ["invited", "promised", "ruined", "decorated"], "a": 2, "ex": "ruin 意思是「破壞」,符合句意「雨破壞了我們的野餐計畫」，故選 C。"},
+      {"q": "\"memory\" 最接近的意思是:", "opts": ["回憶", "禮物", "手鍊", "成功"], "a": 0, "ex": "memory 意思是「回憶；記憶」，故選 A。"},
+      {"q": "I was deeply ___ by his kind words.", "opts": ["shocked", "touched", "ruined", "invited"], "a": 1, "ex": "touched 意思是「感動的」,符合句意「我被他親切的話深深感動」，故選 B。"}
     ]
   }
 }
