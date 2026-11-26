@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-26",
+  "title": "A Beach Cleanup on Saturday Morning",
+  "level": "國中二~三年級 (Grade 8-9)",
+  "note": "",
+  "passage": "Last Saturday, Ms. Lin organized a beach cleanup for our class, and more than thirty students joined the activity. We met at the school gate at eight in the morning and took a bus to Sunrise Beach.\nWhen we arrived, we noticed a lot of litter near the rocks—plastic bottles, bags, and even old shoes. Our teacher gave everyone a pair of gloves and a big bag. \"We should protect the environment,\" she said. \"The ocean is home to many sea animals.\"\nWe worked in teams of five. By noon, we had collected more than fifteen bags of trash! The beach looked much cleaner than before. Some students found plastic that will take hundreds of years to break down, so we talked about why we must recycle more and use less plastic in our daily lives.\nAfter the cleanup, we ate lunch at a nearby noodle shop. Everyone was exhausted, but we felt proud of what we had done together. My friend Amy said, \"I have never worked so hard in my life, but it was worth it.\"\nOn the bus home, our teacher asked us to write down one thing we learned. I wrote: small actions can make a big difference. I hope more people will volunteer for activities like this in the future, because every piece of litter we pick up helps keep our beautiful island clean.",
+  "vocab": [
+    {"w": "volunteer", "pos": "v./n.", "d": "志工；自願做", "example": "My brother volunteers at the animal shelter every weekend."},
+    {"w": "litter", "pos": "n.", "d": "垃圾；廢棄物", "example": "There was a lot of litter on the beach before we arrived."},
+    {"w": "environment", "pos": "n.", "d": "環境", "example": "We should protect the environment for the future."},
+    {"w": "plastic", "pos": "n./adj.", "d": "塑膠（製）", "example": "Plastic bottles can take hundreds of years to break down."},
+    {"w": "recycle", "pos": "v.", "d": "回收", "example": "We recycle bottles and cans at school."},
+    {"w": "collect", "pos": "v.", "d": "收集", "example": "We collected ten bags of trash in two hours."},
+    {"w": "proud", "pos": "adj.", "d": "感到自豪的", "example": "I feel proud of our team's hard work."},
+    {"w": "protect", "pos": "v.", "d": "保護", "example": "We must protect sea animals from pollution."},
+    {"w": "exhausted", "pos": "adj.", "d": "疲憊不堪的", "example": "We were exhausted but happy after the cleanup."},
+    {"w": "glove", "pos": "n.", "d": "手套", "example": "Everyone wore gloves to pick up the trash safely."},
+    {"w": "organize", "pos": "v.", "d": "組織；籌辦", "example": "Our teacher organized a beach cleanup for Saturday."},
+    {"w": "join", "pos": "v.", "d": "加入；參加", "example": "More than thirty students joined the activity."},
+    {"w": "notice", "pos": "v.", "d": "注意到", "example": "I noticed a turtle near the rocks."},
+    {"w": "nearby", "pos": "adj./adv.", "d": "附近的；在附近", "example": "We ate lunch at a nearby restaurant after the cleanup."}
+  ],
+  "grammar": [
+    "現在完成時 (have/has + 過去分詞)：表示從過去持續到現在、或剛完成的動作，如 \"We have collected more than fifteen bags of trash.\"、\"I have never worked so hard in my life.\"",
+    "形容詞比較級 (-er than / more...than)：用來比較兩者的差異，如 \"The beach looked much cleaner than before.\"",
+    "情態動詞 should / must 表義務或建議：should 表示「應該」(建議)，must 表示「必須」(強烈義務)，如 \"We should protect the environment.\"、\"We must recycle more.\""
+  ],
+  "sections": {
+    "reading": [
+      {"q": "Who organized the beach cleanup?", "opts": ["Amy", "Ms. Lin", "the principal", "Amy's mother"], "a": 1, "ex": "文章提到「Ms. Lin organized a beach cleanup for our class」，表示活動是林老師籌辦的。"},
+      {"q": "How many bags of trash did the students collect by noon?", "opts": ["five", "ten", "more than fifteen", "thirty"], "a": 2, "ex": "文章寫到「we had collected more than fifteen bags of trash」，答案為 C。"},
+      {"q": "What did the students do after the cleanup?", "opts": ["went swimming", "ate lunch at a nearby noodle shop", "went home immediately", "played basketball"], "a": 1, "ex": "文章提到「we ate lunch at a nearby noodle shop」，答案為 B。"},
+      {"q": "According to the passage, why is plastic a problem?", "opts": ["It is too expensive", "It takes hundreds of years to break down", "It smells bad", "It is heavy to carry"], "a": 1, "ex": "文章提到塑膠「will take hundreds of years to break down」，所以答案為 B。"},
+      {"q": "What lesson did the writer learn from the trip?", "opts": ["Cleaning the beach is too tiring to do again", "Small actions can make a big difference", "Only teachers should clean beaches", "Plastic bottles are useless"], "a": 1, "ex": "文章結尾寫到「small actions can make a big difference」，答案為 B。"}
+    ],
+    "grammar": [
+      {"q": "We ____ more than fifteen bags of trash by noon.", "opts": ["collect", "collected", "have collected", "are collecting"], "a": 2, "ex": "表示到中午「已經」完成的動作，須用現在完成時 have + 過去分詞，故選 C。"},
+      {"q": "The beach looked much ____ than before.", "opts": ["clean", "cleaner", "more clean", "cleanest"], "a": 1, "ex": "clean 是單音節形容詞，比較級須加 -er，故為 cleaner than，答案為 B。"},
+      {"q": "I have never ____ so hard in my life.", "opts": ["work", "worked", "working", "works"], "a": 1, "ex": "現在完成時 have + 過去分詞，work 的過去分詞為 worked，故選 B。"},
+      {"q": "We ____ protect the environment.", "opts": ["should", "can", "is", "was"], "a": 0, "ex": "should 表示建議或義務「應該」，句意為「我們應該保護環境」，答案為 A。"},
+      {"q": "We ____ recycle more and use less plastic.", "opts": ["may", "must", "could", "would"], "a": 1, "ex": "must 表示強烈的義務「必須」，語氣比 should 更強烈，答案為 B。"}
+    ],
+    "vocab": [
+      {"q": "There was a lot of ____ on the beach before we arrived.", "opts": ["litter", "gift", "water", "sand"], "a": 0, "ex": "litter 意為「垃圾、廢棄物」，符合句意，答案為 A。"},
+      {"q": "選出與 \"volunteer\" 意思最接近的中文：", "opts": ["志工；自願做", "老師", "經理", "警察"], "a": 0, "ex": "volunteer 作動詞意為「自願做」，作名詞意為「志工」，答案為 A。"},
+      {"q": "Everyone wore ____ to pick up the trash safely.", "opts": ["hats", "gloves", "shoes", "glasses"], "a": 1, "ex": "gloves 意為「手套」，撿垃圾時需要戴手套保護雙手，答案為 B。"},
+      {"q": "選出 \"exhausted\" 的正確中文意思：", "opts": ["興奮的", "疲憊不堪的", "害怕的", "快樂的"], "a": 1, "ex": "exhausted 意為「疲憊不堪的」，答案為 B。"},
+      {"q": "My brother ____ at the animal shelter every weekend.", "opts": ["volunteers", "organizes", "notices", "protects"], "a": 0, "ex": "volunteer 作動詞意為「當志工、自願做」，符合句意，答案為 A。"}
+    ]
+  }
+}
