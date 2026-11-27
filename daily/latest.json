@@ -1,51 +1,259 @@
 {
-  "date": "2026-11-26",
-  "title": "A Beach Cleanup on Saturday Morning",
+  "date": "2026-11-27",
+  "title": "Getting Ready for the School Talent Show",
   "level": "國中二~三年級 (Grade 8-9)",
   "note": "",
-  "passage": "Last Saturday, Ms. Lin organized a beach cleanup for our class, and more than thirty students joined the activity. We met at the school gate at eight in the morning and took a bus to Sunrise Beach.\nWhen we arrived, we noticed a lot of litter near the rocks—plastic bottles, bags, and even old shoes. Our teacher gave everyone a pair of gloves and a big bag. \"We should protect the environment,\" she said. \"The ocean is home to many sea animals.\"\nWe worked in teams of five. By noon, we had collected more than fifteen bags of trash! The beach looked much cleaner than before. Some students found plastic that will take hundreds of years to break down, so we talked about why we must recycle more and use less plastic in our daily lives.\nAfter the cleanup, we ate lunch at a nearby noodle shop. Everyone was exhausted, but we felt proud of what we had done together. My friend Amy said, \"I have never worked so hard in my life, but it was worth it.\"\nOn the bus home, our teacher asked us to write down one thing we learned. I wrote: small actions can make a big difference. I hope more people will volunteer for activities like this in the future, because every piece of litter we pick up helps keep our beautiful island clean.",
+  "passage": "Our school is going to hold a talent show next Friday, and almost every class wants to join. Mr. Wang, our homeroom teacher, told us, \"This is going to be the most exciting event of the semester!\"\nMy best friend, Tina, who plays the guitar really well, decided to sing an English song with two classmates. Not only will they sing, but they will also dance during the chorus. They have had a rehearsal every day after school for two weeks.\nI don't have much talent for singing or dancing, so I offered to help backstage instead. I'm going to be in charge of the lights and the microphone. Our group leader, who is very organized, made a schedule so that nobody would be late.\nYesterday, something funny happened. During rehearsal, the microphone, which was quite old, suddenly stopped working, and Tina had to finish her song without it. Everyone laughed, but she stayed calm and kept singing bravely. \"The show must go on,\" she said with a smile.\nTonight, we are going to have our final rehearsal before the big day. I feel both nervous and excited. I believe that students who work hard together can create something amazing, no matter how small their roles are.\nIf everything goes well tomorrow, our class will probably win first prize. Even if we don't win, I think we will still remember this experience, because preparing for the show has brought our class closer together.",
   "vocab": [
-    {"w": "volunteer", "pos": "v./n.", "d": "志工；自願做", "example": "My brother volunteers at the animal shelter every weekend."},
-    {"w": "litter", "pos": "n.", "d": "垃圾；廢棄物", "example": "There was a lot of litter on the beach before we arrived."},
-    {"w": "environment", "pos": "n.", "d": "環境", "example": "We should protect the environment for the future."},
-    {"w": "plastic", "pos": "n./adj.", "d": "塑膠（製）", "example": "Plastic bottles can take hundreds of years to break down."},
-    {"w": "recycle", "pos": "v.", "d": "回收", "example": "We recycle bottles and cans at school."},
-    {"w": "collect", "pos": "v.", "d": "收集", "example": "We collected ten bags of trash in two hours."},
-    {"w": "proud", "pos": "adj.", "d": "感到自豪的", "example": "I feel proud of our team's hard work."},
-    {"w": "protect", "pos": "v.", "d": "保護", "example": "We must protect sea animals from pollution."},
-    {"w": "exhausted", "pos": "adj.", "d": "疲憊不堪的", "example": "We were exhausted but happy after the cleanup."},
-    {"w": "glove", "pos": "n.", "d": "手套", "example": "Everyone wore gloves to pick up the trash safely."},
-    {"w": "organize", "pos": "v.", "d": "組織；籌辦", "example": "Our teacher organized a beach cleanup for Saturday."},
-    {"w": "join", "pos": "v.", "d": "加入；參加", "example": "More than thirty students joined the activity."},
-    {"w": "notice", "pos": "v.", "d": "注意到", "example": "I noticed a turtle near the rocks."},
-    {"w": "nearby", "pos": "adj./adv.", "d": "附近的；在附近", "example": "We ate lunch at a nearby restaurant after the cleanup."}
+    {
+      "w": "talent",
+      "pos": "n.",
+      "d": "才藝；天賦",
+      "example": "She has a talent for singing."
+    },
+    {
+      "w": "semester",
+      "pos": "n.",
+      "d": "學期",
+      "example": "This is the last month of the semester."
+    },
+    {
+      "w": "chorus",
+      "pos": "n.",
+      "d": "(歌曲的)副歌；合唱",
+      "example": "Everyone sang together during the chorus."
+    },
+    {
+      "w": "backstage",
+      "pos": "adv./n.",
+      "d": "後台",
+      "example": "The dancers waited backstage before the show."
+    },
+    {
+      "w": "in charge of",
+      "pos": "phrase",
+      "d": "負責",
+      "example": "Tom is in charge of the class schedule."
+    },
+    {
+      "w": "organized",
+      "pos": "adj.",
+      "d": "有條理的",
+      "example": "Our teacher is very organized and plans everything early."
+    },
+    {
+      "w": "rehearsal",
+      "pos": "n.",
+      "d": "排練",
+      "example": "We have one more rehearsal before the show."
+    },
+    {
+      "w": "microphone",
+      "pos": "n.",
+      "d": "麥克風",
+      "example": "Please speak closer to the microphone."
+    },
+    {
+      "w": "bravely",
+      "pos": "adv.",
+      "d": "勇敢地",
+      "example": "He bravely finished his speech after he made a mistake."
+    },
+    {
+      "w": "nervous",
+      "pos": "adj.",
+      "d": "緊張的",
+      "example": "I always feel nervous before a big test."
+    },
+    {
+      "w": "no matter",
+      "pos": "phrase",
+      "d": "不論；無論",
+      "example": "No matter how hard it is, we will keep trying."
+    },
+    {
+      "w": "prize",
+      "pos": "n.",
+      "d": "獎品；獎項",
+      "example": "Our class hopes to win first prize."
+    }
   ],
   "grammar": [
-    "現在完成時 (have/has + 過去分詞)：表示從過去持續到現在、或剛完成的動作，如 \"We have collected more than fifteen bags of trash.\"、\"I have never worked so hard in my life.\"",
-    "形容詞比較級 (-er than / more...than)：用來比較兩者的差異，如 \"The beach looked much cleaner than before.\"",
-    "情態動詞 should / must 表義務或建議：should 表示「應該」(建議)，must 表示「必須」(強烈義務)，如 \"We should protect the environment.\"、\"We must recycle more.\""
+    "「be going to」表示事先計畫好的未來動作：be going to + 動詞原形，強調說話前就已經決定好的計畫，be 動詞依主詞變化(am/is/are)。例：We are going to have our final rehearsal tonight. / I'm going to be in charge of the lights.",
+    "關係代名詞 who / which（限定關係子句）：who 引導形容詞子句修飾「人」，在子句中做主詞；which 則用來修飾「事物」。例：My best friend, Tina, who plays the guitar really well, decided to sing. / The microphone, which was quite old, suddenly stopped working.",
+    "not only...but also 句型(對等句型)：連接兩個對等的動作或特質，表示「不僅...而且...」；當 not only 放在句首時，後面的子句需倒裝(助動詞提前)。例：Not only will they sing, but they will also dance during the chorus."
   ],
   "sections": {
     "reading": [
-      {"q": "Who organized the beach cleanup?", "opts": ["Amy", "Ms. Lin", "the principal", "Amy's mother"], "a": 1, "ex": "文章提到「Ms. Lin organized a beach cleanup for our class」，表示活動是林老師籌辦的。"},
-      {"q": "How many bags of trash did the students collect by noon?", "opts": ["five", "ten", "more than fifteen", "thirty"], "a": 2, "ex": "文章寫到「we had collected more than fifteen bags of trash」，答案為 C。"},
-      {"q": "What did the students do after the cleanup?", "opts": ["went swimming", "ate lunch at a nearby noodle shop", "went home immediately", "played basketball"], "a": 1, "ex": "文章提到「we ate lunch at a nearby noodle shop」，答案為 B。"},
-      {"q": "According to the passage, why is plastic a problem?", "opts": ["It is too expensive", "It takes hundreds of years to break down", "It smells bad", "It is heavy to carry"], "a": 1, "ex": "文章提到塑膠「will take hundreds of years to break down」，所以答案為 B。"},
-      {"q": "What lesson did the writer learn from the trip?", "opts": ["Cleaning the beach is too tiring to do again", "Small actions can make a big difference", "Only teachers should clean beaches", "Plastic bottles are useless"], "a": 1, "ex": "文章結尾寫到「small actions can make a big difference」，答案為 B。"}
+      {
+        "q": "What event is the whole school getting ready for?",
+        "opts": [
+          "A sports day",
+          "A talent show",
+          "A field trip",
+          "A science fair"
+        ],
+        "a": 1,
+        "ex": "文中第一句提到「Our school is going to hold a talent show next Friday」，所以是才藝表演。"
+      },
+      {
+        "q": "What job did the narrator choose to do for the show?",
+        "opts": [
+          "Singing with Tina",
+          "Dancing in the chorus",
+          "Helping backstage with lights and the microphone",
+          "Writing the schedule for Mr. Wang"
+        ],
+        "a": 2,
+        "ex": "文中提到「I offered to help backstage instead. I'm going to be in charge of the lights and the microphone.」，答案是負責燈光與麥克風。"
+      },
+      {
+        "q": "What problem happened during rehearsal yesterday?",
+        "opts": [
+          "Tina forgot the lyrics",
+          "The microphone stopped working",
+          "The lights went out",
+          "Mr. Wang canceled the rehearsal"
+        ],
+        "a": 1,
+        "ex": "文中寫到「the microphone...suddenly stopped working」，所以是麥克風故障。"
+      },
+      {
+        "q": "How did Tina react when the microphone broke?",
+        "opts": [
+          "She cried and left the stage",
+          "She stayed calm and kept singing bravely",
+          "She asked to change the song",
+          "She blamed her classmates"
+        ],
+        "a": 1,
+        "ex": "文中提到「she stayed calm and kept singing bravely」，表示她冷靜且勇敢地繼續唱完。"
+      },
+      {
+        "q": "What does the narrator believe about the experience, even if the class doesn't win?",
+        "opts": [
+          "Only winning matters in the end",
+          "Practicing was a waste of time",
+          "They will still remember it because it brought the class closer together",
+          "Next time they should choose a different group leader"
+        ],
+        "a": 2,
+        "ex": "文末提到「we will still remember this experience...because preparing for the show has brought our class closer together」，所以答案是即使沒贏，這段經歷仍有意義。"
+      }
     ],
     "grammar": [
-      {"q": "We ____ more than fifteen bags of trash by noon.", "opts": ["collect", "collected", "have collected", "are collecting"], "a": 2, "ex": "表示到中午「已經」完成的動作，須用現在完成時 have + 過去分詞，故選 C。"},
-      {"q": "The beach looked much ____ than before.", "opts": ["clean", "cleaner", "more clean", "cleanest"], "a": 1, "ex": "clean 是單音節形容詞，比較級須加 -er，故為 cleaner than，答案為 B。"},
-      {"q": "I have never ____ so hard in my life.", "opts": ["work", "worked", "working", "works"], "a": 1, "ex": "現在完成時 have + 過去分詞，work 的過去分詞為 worked，故選 B。"},
-      {"q": "We ____ protect the environment.", "opts": ["should", "can", "is", "was"], "a": 0, "ex": "should 表示建議或義務「應該」，句意為「我們應該保護環境」，答案為 A。"},
-      {"q": "We ____ recycle more and use less plastic.", "opts": ["may", "must", "could", "would"], "a": 1, "ex": "must 表示強烈的義務「必須」，語氣比 should 更強烈，答案為 B。"}
+      {
+        "q": "We ___ have our final rehearsal tonight before the big show. (事先已計畫好)",
+        "opts": [
+          "have",
+          "are going to have",
+          "having",
+          "will having"
+        ],
+        "a": 1,
+        "ex": "表示事先計劃好的未來動作要用 be going to + 動詞原形，故選 are going to have。"
+      },
+      {
+        "q": "Tina, ___ sings and plays the guitar, will perform first.",
+        "opts": [
+          "which",
+          "who",
+          "whom",
+          "whose"
+        ],
+        "a": 1,
+        "ex": "who 用來引導形容詞子句修飾「人」，在子句中做主詞，Tina 是人，故選 who。"
+      },
+      {
+        "q": "Choose the sentence that correctly uses \"not only...but also\".",
+        "opts": [
+          "Not only they will sing, but also they will dance.",
+          "Not only will they sing, but they will also dance.",
+          "Not only sing they will, but also dance.",
+          "Not only they sing, but will also dance."
+        ],
+        "a": 1,
+        "ex": "not only 放在句首時，後面的子句要倒裝，把助動詞(will)移到主詞前面，故選 B：Not only will they sing, but they will also dance。"
+      },
+      {
+        "q": "Choose the correct sentence.",
+        "opts": [
+          "The microphone, who stopped working, was very old.",
+          "The microphone, which stopped working, was very old.",
+          "The microphone, whom stopped working, was very old.",
+          "The microphone, whose stopped working, was very old."
+        ],
+        "a": 1,
+        "ex": "which 用來引導形容詞子句修飾「事物」，microphone 是物品不是人，故選 which 而非 who。"
+      },
+      {
+        "q": "Which sentence best shows a plan that was decided before now, not a sudden decision?",
+        "opts": [
+          "I will help backstage.",
+          "I am going to help backstage.",
+          "I help backstage.",
+          "I helped backstage."
+        ],
+        "a": 1,
+        "ex": "be going to 強調「事先計畫好」的未來動作，比臨時決定的 will 更適合描述提前安排好的計畫，故選 B。"
+      }
     ],
     "vocab": [
-      {"q": "There was a lot of ____ on the beach before we arrived.", "opts": ["litter", "gift", "water", "sand"], "a": 0, "ex": "litter 意為「垃圾、廢棄物」，符合句意，答案為 A。"},
-      {"q": "選出與 \"volunteer\" 意思最接近的中文：", "opts": ["志工；自願做", "老師", "經理", "警察"], "a": 0, "ex": "volunteer 作動詞意為「自願做」，作名詞意為「志工」，答案為 A。"},
-      {"q": "Everyone wore ____ to pick up the trash safely.", "opts": ["hats", "gloves", "shoes", "glasses"], "a": 1, "ex": "gloves 意為「手套」，撿垃圾時需要戴手套保護雙手，答案為 B。"},
-      {"q": "選出 \"exhausted\" 的正確中文意思：", "opts": ["興奮的", "疲憊不堪的", "害怕的", "快樂的"], "a": 1, "ex": "exhausted 意為「疲憊不堪的」，答案為 B。"},
-      {"q": "My brother ____ at the animal shelter every weekend.", "opts": ["volunteers", "organizes", "notices", "protects"], "a": 0, "ex": "volunteer 作動詞意為「當志工、自願做」，符合句意，答案為 A。"}
+      {
+        "q": "Which word means \"負責\"?",
+        "opts": [
+          "rehearsal",
+          "in charge of",
+          "backstage",
+          "nervous"
+        ],
+        "a": 1,
+        "ex": "in charge of 意思是「負責」，例如 in charge of the lights(負責燈光)。"
+      },
+      {
+        "q": "The dancers waited ___ before the show began.",
+        "opts": [
+          "chorus",
+          "backstage",
+          "microphone",
+          "semester"
+        ],
+        "a": 1,
+        "ex": "backstage 意思是「後台」，表演者在後台等待上場，故選 backstage。"
+      },
+      {
+        "q": "She speaks into the ___ so everyone in the hall can hear her.",
+        "opts": [
+          "chorus",
+          "microphone",
+          "talent",
+          "rehearsal"
+        ],
+        "a": 1,
+        "ex": "microphone 是「麥克風」，用來放大聲音讓大家聽到，故選 microphone。"
+      },
+      {
+        "q": "Which word means \"勇敢地\"?",
+        "opts": [
+          "bravely",
+          "nervous",
+          "organized",
+          "semester"
+        ],
+        "a": 0,
+        "ex": "bravely 是副詞，意思是「勇敢地」，故選 bravely。"
+      },
+      {
+        "q": "We have one more ___ before the real performance on Friday.",
+        "opts": [
+          "semester",
+          "rehearsal",
+          "prize",
+          "talent"
+        ],
+        "a": 1,
+        "ex": "rehearsal 意思是「排練」，表演前通常會多次排練，故選 rehearsal。"
+      }
     ]
   }
 }
